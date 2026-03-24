@@ -1,0 +1,6680 @@
+[
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_a6e78bca-0f72-405b-8bda-7c0edc617b4e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_a6e78bca-0f72-405b-8bda-7c0edc617b4e.png",
+    "instruction": "details about dead sea collection salt",
+    "bbox_xywh": [
+      2364.0,
+      444.0,
+      146.0,
+      101.0
+    ],
+    "method": "gating_pass_vote (S=0.98)",
+    "score": {
+      "C_spatial": 0.536213260528056,
+      "avg_conf": 0.4464867217799585,
+      "S": 0.9826999823080145
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_60786716-b5ae-47f4-bd46-c5f9a0e87293.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_60786716-b5ae-47f4-bd46-c5f9a0e87293.png",
+    "instruction": "enter email address",
+    "bbox_xywh": [
+      347.0,
+      888.0,
+      904.0,
+      71.0
+    ],
+    "method": "gating_pass_vote (S=1.50)",
+    "score": {
+      "C_spatial": 0.9152535461745762,
+      "avg_conf": 0.5804705803054864,
+      "S": 1.4957241264800625
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_60786716-b5ae-47f4-bd46-c5f9a0e87293.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_60786716-b5ae-47f4-bd46-c5f9a0e87293.png",
+    "instruction": "create an account",
+    "bbox_xywh": [
+      1305.0,
+      919.0,
+      325.0,
+      79.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.5274220485897511,
+      "avg_conf": 0.4745268680447967,
+      "S": 1.0019489166345479
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_bb6f684d-6060-478d-aceb-d0b77c23a68b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_bb6f684d-6060-478d-aceb-d0b77c23a68b.png",
+    "instruction": "reset the password",
+    "bbox_xywh": [
+      353.0,
+      926.0,
+      343.0,
+      75.0
+    ],
+    "method": "gating_pass_vote (S=1.20)",
+    "score": {
+      "C_spatial": 0.7085145012279829,
+      "avg_conf": 0.49165699145867153,
+      "S": 1.2001714926866545
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_bb6f684d-6060-478d-aceb-d0b77c23a68b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_bb6f684d-6060-478d-aceb-d0b77c23a68b.png",
+    "instruction": "go to onestop market homepage",
+    "bbox_xywh": [
+      11.0,
+      124.0,
+      470.0,
+      109.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.5870924907118311,
+      "avg_conf": 0.41585455432294505,
+      "S": 1.0029470450347762
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_b2d92416-5c93-4a09-8304-44b8d166a7c7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_b2d92416-5c93-4a09-8304-44b8d166a7c7.png",
+    "instruction": "question for remote shopping assistance",
+    "bbox_xywh": [
+      857.0,
+      918.0,
+      83.0,
+      81.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.4790353856373461,
+      "avg_conf": 0.5724779518364608,
+      "S": 1.0515133374738068
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_3acb3026-cbd7-4e41-8fb7-2b8a2e7e4fcb.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_3acb3026-cbd7-4e41-8fb7-2b8a2e7e4fcb.png",
+    "instruction": "view settings of cocowhip light",
+    "bbox_xywh": [
+      2381.0,
+      1052.0,
+      86.0,
+      77.0
+    ],
+    "method": "gating_pass_vote (S=0.85)",
+    "score": {
+      "C_spatial": 0.3187221046164695,
+      "avg_conf": 0.5325328020816608,
+      "S": 0.8512549066981303
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_39126cee-4462-4567-9fa4-5ad1f3589047.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_39126cee-4462-4567-9fa4-5ad1f3589047.png",
+    "instruction": "show reviews",
+    "bbox_xywh": [
+      224.0,
+      837.0,
+      250.0,
+      64.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.5466980908441837,
+      "avg_conf": 0.4506390612720158,
+      "S": 0.9973371521161996
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_0c5f692d-4c32-4533-ac2a-d6f8d7c6d7c1.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_0c5f692d-4c32-4533-ac2a-d6f8d7c6d7c1.png",
+    "instruction": "add the sandals to cart",
+    "bbox_xywh": [
+      1037.0,
+      1005.0,
+      230.0,
+      68.0
+    ],
+    "method": "gating_pass_vote (S=1.29)",
+    "score": {
+      "C_spatial": 0.700806578009051,
+      "avg_conf": 0.5939046798610838,
+      "S": 1.2947112578701347
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_f8c6a82c-5e0e-4067-a560-06e9615e65fe.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_f8c6a82c-5e0e-4067-a560-06e9615e65fe.png",
+    "instruction": "choose size 14",
+    "bbox_xywh": [
+      1506.0,
+      922.0,
+      127.0,
+      62.0
+    ],
+    "method": "gating_pass_vote (S=0.79)",
+    "score": {
+      "C_spatial": 0.2860149988747728,
+      "avg_conf": 0.5021814060178935,
+      "S": 0.7881964048926663
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_f8c6a82c-5e0e-4067-a560-06e9615e65fe.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_f8c6a82c-5e0e-4067-a560-06e9615e65fe.png",
+    "instruction": "adjust the quantity of the first product",
+    "bbox_xywh": [
+      1523.0,
+      1306.0,
+      108.0,
+      105.0
+    ],
+    "method": "gating_pass_vote (S=1.45)",
+    "score": {
+      "C_spatial": 0.8325395184891503,
+      "avg_conf": 0.6185640388007273,
+      "S": 1.4511035572898776
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_96671728-050c-4e62-bdb8-5bd68b603de0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_96671728-050c-4e62-bdb8-5bd68b603de0.png",
+    "instruction": "enter lowest price",
+    "bbox_xywh": [
+      354.0,
+      1127.0,
+      413.0,
+      62.0
+    ],
+    "method": "gating_pass_vote (S=1.31)",
+    "score": {
+      "C_spatial": 0.7811460489845176,
+      "avg_conf": 0.5319750937321506,
+      "S": 1.313121142716668
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_96671728-050c-4e62-bdb8-5bd68b603de0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_96671728-050c-4e62-bdb8-5bd68b603de0.png",
+    "instruction": "enter product name",
+    "bbox_xywh": [
+      354.0,
+      637.0,
+      927.0,
+      63.0
+    ],
+    "method": "gating_pass_vote (S=1.48)",
+    "score": {
+      "C_spatial": 0.9056145851949597,
+      "avg_conf": 0.5765230094946596,
+      "S": 1.4821375946896194
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_70a307b8-62fb-4d66-921a-7c4445af3e65.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_70a307b8-62fb-4d66-921a-7c4445af3e65.png",
+    "instruction": "switch on \"show password\"",
+    "bbox_xywh": [
+      341.0,
+      927.0,
+      275.0,
+      52.0
+    ],
+    "method": "gating_pass_vote (S=1.33)",
+    "score": {
+      "C_spatial": 0.6972798231524323,
+      "avg_conf": 0.6326870509458371,
+      "S": 1.3299668740982695
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_b645cb4e-48f2-4f75-8503-3da18f2e9b79.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_b645cb4e-48f2-4f75-8503-3da18f2e9b79.png",
+    "instruction": "search in the forum",
+    "bbox_xywh": [
+      955.0,
+      11.0,
+      383.0,
+      78.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.57)",
+    "score": {
+      "C_spatial": 0.14967056510374424,
+      "avg_conf": 0.41869406643526563,
+      "S": 0.5683646315390098
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_b645cb4e-48f2-4f75-8503-3da18f2e9b79.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_b645cb4e-48f2-4f75-8503-3da18f2e9b79.png",
+    "instruction": "check my account",
+    "bbox_xywh": [
+      1928.0,
+      11.0,
+      405.0,
+      77.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.4650696049714261,
+      "avg_conf": 0.4250375123511189,
+      "S": 0.890107117322545
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_8be1be42-6037-4cba-a78a-065e7a7d77ae.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_8be1be42-6037-4cba-a78a-065e7a7d77ae.png",
+    "instruction": "check my postbox",
+    "bbox_xywh": [
+      1612.0,
+      16.0,
+      85.0,
+      71.0
+    ],
+    "method": "gating_pass_vote (S=1.01)",
+    "score": {
+      "C_spatial": 0.49463128224551584,
+      "avg_conf": 0.5129399274133073,
+      "S": 1.0075712096588232
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_8be1be42-6037-4cba-a78a-065e7a7d77ae.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_8be1be42-6037-4cba-a78a-065e7a7d77ae.png",
+    "instruction": "submit a new post",
+    "bbox_xywh": [
+      1729.0,
+      18.0,
+      161.0,
+      70.0
+    ],
+    "method": "gating_pass_vote (S=1.01)",
+    "score": {
+      "C_spatial": 0.5592341200658958,
+      "avg_conf": 0.45498081630786613,
+      "S": 1.014214936373762
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_fd8befe1-4e5b-4de2-9978-db25d2be2173.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_fd8befe1-4e5b-4de2-9978-db25d2be2173.png",
+    "instruction": "add comment",
+    "bbox_xywh": [
+      206.0,
+      754.0,
+      1120.0,
+      283.0
+    ],
+    "method": "gating_pass_vote (S=0.96)",
+    "score": {
+      "C_spatial": 0.5090878567910396,
+      "avg_conf": 0.44713851118223674,
+      "S": 0.9562263679732763
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_fd8befe1-4e5b-4de2-9978-db25d2be2173.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_fd8befe1-4e5b-4de2-9978-db25d2be2173.png",
+    "instruction": "back to previous page",
+    "bbox_xywh": [
+      202.0,
+      155.0,
+      66.0,
+      63.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.5321649234986905,
+      "avg_conf": 0.5184705734066732,
+      "S": 1.0506354969053637
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_587b0743-0e7a-4291-811b-4d6fb5510fb3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_587b0743-0e7a-4291-811b-4d6fb5510fb3.png",
+    "instruction": "post the comment",
+    "bbox_xywh": [
+      94.0,
+      1310.0,
+      135.0,
+      86.0
+    ],
+    "method": "gating_pass_vote (S=0.75)",
+    "score": {
+      "C_spatial": 0.29915062702475065,
+      "avg_conf": 0.45395128206230934,
+      "S": 0.75310190908706
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_587b0743-0e7a-4291-811b-4d6fb5510fb3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_587b0743-0e7a-4291-811b-4d6fb5510fb3.png",
+    "instruction": "unsubscribe the book ",
+    "bbox_xywh": [
+      1901.0,
+      495.0,
+      241.0,
+      90.0
+    ],
+    "method": "gating_pass_vote (S=1.04)",
+    "score": {
+      "C_spatial": 0.5866369783141058,
+      "avg_conf": 0.4521203226905641,
+      "S": 1.03875730100467
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_89d60b8b-3f6d-4160-93d4-1791d4899455.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_89d60b8b-3f6d-4160-93d4-1791d4899455.png",
+    "instruction": "unsupport the book",
+    "bbox_xywh": [
+      122.0,
+      351.0,
+      56.0,
+      45.0
+    ],
+    "method": "gating_pass_vote (S=1.14)",
+    "score": {
+      "C_spatial": 0.6628654295959986,
+      "avg_conf": 0.4758193383288725,
+      "S": 1.138684767924871
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_89d60b8b-3f6d-4160-93d4-1791d4899455.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_89d60b8b-3f6d-4160-93d4-1791d4899455.png",
+    "instruction": "check the forums",
+    "bbox_xywh": [
+      304.0,
+      15.0,
+      181.0,
+      82.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.5117544199216411,
+      "avg_conf": 0.41621756254244174,
+      "S": 0.9279719824640829
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_d146e5c3-e1ea-446c-ab84-a348fe07a1b8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_d146e5c3-e1ea-446c-ab84-a348fe07a1b8.png",
+    "instruction": "check details of the first book",
+    "bbox_xywh": [
+      181.0,
+      390.0,
+      1559.0,
+      139.0
+    ],
+    "method": "gating_pass_vote (S=0.68)",
+    "score": {
+      "C_spatial": 0.34740928227189005,
+      "avg_conf": 0.3277248590996901,
+      "S": 0.6751341413715801
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_d146e5c3-e1ea-446c-ab84-a348fe07a1b8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_d146e5c3-e1ea-446c-ab84-a348fe07a1b8.png",
+    "instruction": "check the all comments",
+    "bbox_xywh": [
+      320.0,
+      294.0,
+      198.0,
+      78.0
+    ],
+    "method": "gating_pass_vote (S=0.74)",
+    "score": {
+      "C_spatial": 0.33908451348157526,
+      "avg_conf": 0.4024227499038063,
+      "S": 0.7415072633853815
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_d146e5c3-e1ea-446c-ab84-a348fe07a1b8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_d146e5c3-e1ea-446c-ab84-a348fe07a1b8.png",
+    "instruction": "change the sorting method",
+    "bbox_xywh": [
+      547.0,
+      297.0,
+      163.0,
+      75.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.4888817936907956,
+      "avg_conf": 0.43322195617992143,
+      "S": 0.922103749870717
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_843805d1-f33a-400f-bcdd-901a9ae91329.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_843805d1-f33a-400f-bcdd-901a9ae91329.png",
+    "instruction": "sort based on active",
+    "bbox_xywh": [
+      550.0,
+      529.0,
+      302.0,
+      68.0
+    ],
+    "method": "gating_pass_vote (S=0.90)",
+    "score": {
+      "C_spatial": 0.4356029094752819,
+      "avg_conf": 0.4629158904600575,
+      "S": 0.8985187999353395
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_843805d1-f33a-400f-bcdd-901a9ae91329.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_843805d1-f33a-400f-bcdd-901a9ae91329.png",
+    "instruction": "sort based on most commented",
+    "bbox_xywh": [
+      551.0,
+      756.0,
+      305.0,
+      78.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.608335270120566,
+      "avg_conf": 0.46201746001481925,
+      "S": 1.0703527301353852
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_aa8f1636-1c5c-4a79-b8d9-f92956ba78e9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_aa8f1636-1c5c-4a79-b8d9-f92956ba78e9.png",
+    "instruction": "support the second book",
+    "bbox_xywh": [
+      122.0,
+      591.0,
+      57.0,
+      49.0
+    ],
+    "method": "gating_pass_vote (S=0.84)",
+    "score": {
+      "C_spatial": 0.3352522289575862,
+      "avg_conf": 0.5040644277209768,
+      "S": 0.839316656678563
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_aa8f1636-1c5c-4a79-b8d9-f92956ba78e9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_aa8f1636-1c5c-4a79-b8d9-f92956ba78e9.png",
+    "instruction": "view the information of book lover or not?",
+    "bbox_xywh": [
+      185.0,
+      960.0,
+      785.0,
+      148.0
+    ],
+    "method": "gating_pass_vote (S=1.02)",
+    "score": {
+      "C_spatial": 0.5670100118172045,
+      "avg_conf": 0.4548859700153179,
+      "S": 1.0218959818325224
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_4af68da5-d7bb-4910-b434-1301097cda1f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_4af68da5-d7bb-4910-b434-1301097cda1f.png",
+    "instruction": "subscribe the second book",
+    "bbox_xywh": [
+      2075.0,
+      652.0,
+      239.0,
+      86.0
+    ],
+    "method": "gating_pass_vote (S=0.94)",
+    "score": {
+      "C_spatial": 0.5092364672451144,
+      "avg_conf": 0.42871321475168805,
+      "S": 0.9379496819968025
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_a43882ed-3d5d-40c3-b077-a256acf058ec.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_a43882ed-3d5d-40c3-b077-a256acf058ec.png",
+    "instruction": "view the comments of the first book",
+    "bbox_xywh": [
+      183.0,
+      572.0,
+      187.0,
+      48.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.5765489629192435,
+      "avg_conf": 0.47535911962662836,
+      "S": 1.051908082545872
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_ab471260-bba4-4f1a-a34b-2391c3c88674.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_ab471260-bba4-4f1a-a34b-2391c3c88674.png",
+    "instruction": "replay the comment with 82 upvotes",
+    "bbox_xywh": [
+      382.0,
+      592.0,
+      93.0,
+      53.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.554961057828194,
+      "avg_conf": 0.5114887030095573,
+      "S": 1.0664497608377514
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_ab471260-bba4-4f1a-a34b-2391c3c88674.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_ab471260-bba4-4f1a-a34b-2391c3c88674.png",
+    "instruction": "hide the no.140 comment",
+    "bbox_xywh": [
+      1705.0,
+      1004.0,
+      96.0,
+      44.0
+    ],
+    "method": "gating_pass_vote (S=0.96)",
+    "score": {
+      "C_spatial": 0.4375938287503384,
+      "avg_conf": 0.5272987500084226,
+      "S": 0.964892578758761
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_0481a1db-93fd-4d1e-9146-15526e37eacd.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_0481a1db-93fd-4d1e-9146-15526e37eacd.png",
+    "instruction": "check the profile of user knittedjedi",
+    "bbox_xywh": [
+      46.0,
+      661.0,
+      119.0,
+      59.0
+    ],
+    "method": "gating_pass_vote (S=0.86)",
+    "score": {
+      "C_spatial": 0.44621407397838075,
+      "avg_conf": 0.4095268850761688,
+      "S": 0.8557409590545495
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_5766e094-3b76-4b5f-8399-e47ff5506df2.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_5766e094-3b76-4b5f-8399-e47ff5506df2.png",
+    "instruction": "input the forum name",
+    "bbox_xywh": [
+      97.0,
+      341.0,
+      1236.0,
+      85.0
+    ],
+    "method": "gating_pass_vote (S=1.32)",
+    "score": {
+      "C_spatial": 0.8082632545737498,
+      "avg_conf": 0.5158987611069628,
+      "S": 1.3241620156807126
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_5766e094-3b76-4b5f-8399-e47ff5506df2.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_5766e094-3b76-4b5f-8399-e47ff5506df2.png",
+    "instruction": "input the title",
+    "bbox_xywh": [
+      100.0,
+      501.0,
+      1232.0,
+      82.0
+    ],
+    "method": "gating_pass_vote (S=1.41)",
+    "score": {
+      "C_spatial": 0.8715403631297548,
+      "avg_conf": 0.535301493961996,
+      "S": 1.406841857091751
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_5766e094-3b76-4b5f-8399-e47ff5506df2.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_5766e094-3b76-4b5f-8399-e47ff5506df2.png",
+    "instruction": "view formatting help",
+    "bbox_xywh": [
+      324.0,
+      1351.0,
+      222.0,
+      49.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.3930968866151515,
+      "avg_conf": 0.4965223779167749,
+      "S": 0.8896192645319264
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_f9bf7ee5-1966-4261-bf9e-76202c196a55.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_f9bf7ee5-1966-4261-bf9e-76202c196a55.png",
+    "instruction": "choose tag",
+    "bbox_xywh": [
+      97.0,
+      1004.0,
+      1234.0,
+      129.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.6221480517623389,
+      "avg_conf": 0.43189846697028683,
+      "S": 1.0540465187326258
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_f9bf7ee5-1966-4261-bf9e-76202c196a55.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_f9bf7ee5-1966-4261-bf9e-76202c196a55.png",
+    "instruction": "create the forum",
+    "bbox_xywh": [
+      97.0,
+      1216.0,
+      252.0,
+      85.0
+    ],
+    "method": "gating_pass_vote (S=0.85)",
+    "score": {
+      "C_spatial": 0.394448122599778,
+      "avg_conf": 0.453780435261344,
+      "S": 0.848228557861122
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_f680f8e6-e068-4ca9-9be6-2f78c2899e0a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_f680f8e6-e068-4ca9-9be6-2f78c2899e0a.png",
+    "instruction": "input the body of the submission",
+    "bbox_xywh": [
+      98.0,
+      782.0,
+      1234.0,
+      499.0
+    ],
+    "method": "gating_pass_vote (S=1.48)",
+    "score": {
+      "C_spatial": 0.9556889729166882,
+      "avg_conf": 0.5200398218885656,
+      "S": 1.4757287948052538
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_f680f8e6-e068-4ca9-9be6-2f78c2899e0a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_f680f8e6-e068-4ca9-9be6-2f78c2899e0a.png",
+    "instruction": "upload a image for the submission",
+    "bbox_xywh": [
+      204.0,
+      306.0,
+      129.0,
+      57.0
+    ],
+    "method": "gating_pass_vote (S=0.91)",
+    "score": {
+      "C_spatial": 0.4458759682381279,
+      "avg_conf": 0.4633231057425142,
+      "S": 0.9091990739806421
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_f680f8e6-e068-4ca9-9be6-2f78c2899e0a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_f680f8e6-e068-4ca9-9be6-2f78c2899e0a.png",
+    "instruction": "input an url",
+    "bbox_xywh": [
+      96.0,
+      373.0,
+      1236.0,
+      82.0
+    ],
+    "method": "gating_pass_vote (S=1.35)",
+    "score": {
+      "C_spatial": 0.8317119742951234,
+      "avg_conf": 0.515395567572015,
+      "S": 1.3471075418671385
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_13e31182-318c-43d9-9378-a69da2dc1b01.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_13e31182-318c-43d9-9378-a69da2dc1b01.png",
+    "instruction": "choose the forum of askreddit",
+    "bbox_xywh": [
+      97.0,
+      756.0,
+      356.0,
+      68.0
+    ],
+    "method": "gating_pass_vote (S=0.69)",
+    "score": {
+      "C_spatial": 0.30352835804605277,
+      "avg_conf": 0.38407144027186996,
+      "S": 0.6875997983179227
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_d45c0bb4-1ed8-494e-b099-2063efb1d729.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_d45c0bb4-1ed8-494e-b099-2063efb1d729.png",
+    "instruction": "switch to dark mode",
+    "bbox_xywh": [
+      2177.0,
+      435.0,
+      280.0,
+      89.0
+    ],
+    "method": "gating_pass_vote (S=0.97)",
+    "score": {
+      "C_spatial": 0.4964852111311412,
+      "avg_conf": 0.47700899082165943,
+      "S": 0.9734942019528006
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_d45c0bb4-1ed8-494e-b099-2063efb1d729.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_d45c0bb4-1ed8-494e-b099-2063efb1d729.png",
+    "instruction": "check my profile",
+    "bbox_xywh": [
+      2176.0,
+      114.0,
+      282.0,
+      71.0
+    ],
+    "method": "gating_pass_conf (S=0.65)",
+    "score": {
+      "C_spatial": 0.23831864061510918,
+      "avg_conf": 0.4164640218031583,
+      "S": 0.6547826624182674
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_48f086db-edfd-43d3-95b8-b2eee50367da.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_48f086db-edfd-43d3-95b8-b2eee50367da.png",
+    "instruction": "check the submissions",
+    "bbox_xywh": [
+      269.0,
+      172.0,
+      223.0,
+      75.0
+    ],
+    "method": "gating_pass_vote (S=0.85)",
+    "score": {
+      "C_spatial": 0.43398959272776017,
+      "avg_conf": 0.41905956195900446,
+      "S": 0.8530491546867647
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "instruction": "toggle the open external links in the new tab option",
+    "bbox_xywh": [
+      438.0,
+      829.0,
+      44.0,
+      44.0
+    ],
+    "method": "gating_pass_vote (S=1.12)",
+    "score": {
+      "C_spatial": 0.5753706729965778,
+      "avg_conf": 0.5434200232513674,
+      "S": 1.1187906962479452
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "instruction": "disable show thumbnails option",
+    "bbox_xywh": [
+      435.0,
+      905.0,
+      46.0,
+      45.0
+    ],
+    "method": "gating_pass_vote (S=0.96)",
+    "score": {
+      "C_spatial": 0.4623326133792208,
+      "avg_conf": 0.4974774012405081,
+      "S": 0.9598100146197289
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "instruction": "don't show post previews",
+    "bbox_xywh": [
+      438.0,
+      1131.0,
+      44.0,
+      45.0
+    ],
+    "method": "gating_pass_vote (S=1.12)",
+    "score": {
+      "C_spatial": 0.5518661082250991,
+      "avg_conf": 0.5633505674948827,
+      "S": 1.1152166757199817
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "instruction": "switch the language",
+    "bbox_xywh": [
+      440.0,
+      368.0,
+      402.0,
+      86.0
+    ],
+    "method": "gating_pass_vote (S=1.44)",
+    "score": {
+      "C_spatial": 0.8559430716905593,
+      "avg_conf": 0.5798409071446502,
+      "S": 1.4357839788352096
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "instruction": "change the time zone",
+    "bbox_xywh": [
+      439.0,
+      481.0,
+      563.0,
+      81.0
+    ],
+    "method": "gating_pass_vote (S=1.22)",
+    "score": {
+      "C_spatial": 0.7020357357176416,
+      "avg_conf": 0.5140926661719477,
+      "S": 1.2161284018895893
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_acad6928-ac22-40c7-98df-4e0df7b318bc.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_acad6928-ac22-40c7-98df-4e0df7b318bc.png",
+    "instruction": "close the sign in box",
+    "bbox_xywh": [
+      1794.0,
+      156.0,
+      70.0,
+      68.0
+    ],
+    "method": "gating_pass_vote (S=0.94)",
+    "score": {
+      "C_spatial": 0.38958015773586874,
+      "avg_conf": 0.5533160531640168,
+      "S": 0.9428962108998855
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_516f6429-4157-45f8-93a4-db1d525cedb9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_516f6429-4157-45f8-93a4-db1d525cedb9.png",
+    "instruction": "follow the post",
+    "bbox_xywh": [
+      1351.0,
+      639.0,
+      172.0,
+      93.0
+    ],
+    "method": "gating_pass_vote (S=1.39)",
+    "score": {
+      "C_spatial": 0.8108343632387289,
+      "avg_conf": 0.5840024625474286,
+      "S": 1.3948368257861574
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_516f6429-4157-45f8-93a4-db1d525cedb9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_516f6429-4157-45f8-93a4-db1d525cedb9.png",
+    "instruction": "close the message box",
+    "bbox_xywh": [
+      748.0,
+      851.0,
+      46.0,
+      45.0
+    ],
+    "method": "gating_pass_vote (S=1.19)",
+    "score": {
+      "C_spatial": 0.5899617277246538,
+      "avg_conf": 0.6041321800826696,
+      "S": 1.1940939078073234
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_2f3df3a1-d287-4457-91b3-a672d0f72f84.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_2f3df3a1-d287-4457-91b3-a672d0f72f84.png",
+    "instruction": "share with facebook",
+    "bbox_xywh": [
+      185.0,
+      449.0,
+      63.0,
+      60.0
+    ],
+    "method": "gating_pass_vote (S=1.02)",
+    "score": {
+      "C_spatial": 0.509810303544749,
+      "avg_conf": 0.5127912207033966,
+      "S": 1.0226015242481457
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_2f3df3a1-d287-4457-91b3-a672d0f72f84.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_2f3df3a1-d287-4457-91b3-a672d0f72f84.png",
+    "instruction": "share to twitter/x",
+    "bbox_xywh": [
+      185.0,
+      551.0,
+      63.0,
+      63.0
+    ],
+    "method": "gating_pass_vote (S=1.04)",
+    "score": {
+      "C_spatial": 0.5063071738666772,
+      "avg_conf": 0.537948310799752,
+      "S": 1.0442554846664294
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_659de266-0af1-47bc-a2dc-5edc4dbb29d8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_659de266-0af1-47bc-a2dc-5edc4dbb29d8.png",
+    "instruction": "search in the website",
+    "bbox_xywh": [
+      2429.0,
+      19.0,
+      83.0,
+      74.0
+    ],
+    "method": "gating_pass_vote (S=1.18)",
+    "score": {
+      "C_spatial": 0.6275150071382954,
+      "avg_conf": 0.5572822634375553,
+      "S": 1.1847972705758507
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_6f420f7d-e710-428d-99fa-9606adb5f509.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_6f420f7d-e710-428d-99fa-9606adb5f509.png",
+    "instruction": "open the menu",
+    "bbox_xywh": [
+      12.0,
+      16.0,
+      93.0,
+      77.0
+    ],
+    "method": "gating_pass_vote (S=1.16)",
+    "score": {
+      "C_spatial": 0.6818247432904211,
+      "avg_conf": 0.477772548267463,
+      "S": 1.159597291557884
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_6f420f7d-e710-428d-99fa-9606adb5f509.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_6f420f7d-e710-428d-99fa-9606adb5f509.png",
+    "instruction": "subscribe the website",
+    "bbox_xywh": [
+      1753.0,
+      12.0,
+      472.0,
+      85.0
+    ],
+    "method": "gating_pass_vote (S=1.30)",
+    "score": {
+      "C_spatial": 0.8387707069403649,
+      "avg_conf": 0.46434793200748425,
+      "S": 1.3031186389478493
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_ff1666cb-81cb-4180-94ee-661a111749e4.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_ff1666cb-81cb-4180-94ee-661a111749e4.png",
+    "instruction": "check the letters",
+    "bbox_xywh": [
+      1295.0,
+      509.0,
+      1065.0,
+      120.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.55)",
+    "score": {
+      "C_spatial": 0.2002644434401126,
+      "avg_conf": 0.3524548171740527,
+      "S": 0.5527192606141653
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_ff1666cb-81cb-4180-94ee-661a111749e4.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_ff1666cb-81cb-4180-94ee-661a111749e4.png",
+    "instruction": "check the index",
+    "bbox_xywh": [
+      1292.0,
+      904.0,
+      1071.0,
+      146.0
+    ],
+    "method": "gating_pass_vote (S=0.65)",
+    "score": {
+      "C_spatial": 0.25702523935523125,
+      "avg_conf": 0.38865658134722525,
+      "S": 0.6456818207024565
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_e22bd6de-3985-4ccc-a316-eb383a03475f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_e22bd6de-3985-4ccc-a316-eb383a03475f.png",
+    "instruction": "open the menu",
+    "bbox_xywh": [
+      16.0,
+      21.0,
+      92.0,
+      83.0
+    ],
+    "method": "gating_pass_vote (S=0.82)",
+    "score": {
+      "C_spatial": 0.4102688028931939,
+      "avg_conf": 0.4103433513419478,
+      "S": 0.8206121542351417
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_4e4113f0-12bd-4b49-84c4-88a5bbf7924b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_4e4113f0-12bd-4b49-84c4-88a5bbf7924b.png",
+    "instruction": "check the books on culture",
+    "bbox_xywh": [
+      651.0,
+      112.0,
+      223.0,
+      86.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.560247907908576,
+      "avg_conf": 0.464827742688294,
+      "S": 1.0250756505968701
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_4e4113f0-12bd-4b49-84c4-88a5bbf7924b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_4e4113f0-12bd-4b49-84c4-88a5bbf7924b.png",
+    "instruction": "check the books on true crime",
+    "bbox_xywh": [
+      898.0,
+      112.0,
+      217.0,
+      88.0
+    ],
+    "method": "gating_pass_vote (S=1.10)",
+    "score": {
+      "C_spatial": 0.5897472484973365,
+      "avg_conf": 0.507740206171124,
+      "S": 1.0974874546684605
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_44f9b58e-0964-4a89-bdb0-18e60f6eb07f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_44f9b58e-0964-4a89-bdb0-18e60f6eb07f.png",
+    "instruction": "go to book marks",
+    "bbox_xywh": [
+      1805.0,
+      0.0,
+      246.0,
+      96.0
+    ],
+    "method": "gating_pass_vote (S=1.23)",
+    "score": {
+      "C_spatial": 0.7185436869394557,
+      "avg_conf": 0.5070599602123635,
+      "S": 1.2256036471518192
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_e22bd6de-3985-4ccc-a316-eb383a03475f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_e22bd6de-3985-4ccc-a316-eb383a03475f.png",
+    "instruction": "open the menu",
+    "bbox_xywh": [
+      16.0,
+      21.0,
+      92.0,
+      83.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.48784790370481973,
+      "avg_conf": 0.44149773764350525,
+      "S": 0.929345641348325
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_22f4dba1-1fb0-46f0-b7b5-4dfdf35de24a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_22f4dba1-1fb0-46f0-b7b5-4dfdf35de24a.png",
+    "instruction": "check the books on tv & film",
+    "bbox_xywh": [
+      550.0,
+      94.0,
+      454.0,
+      79.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.5005550511475149,
+      "avg_conf": 0.44711923792492425,
+      "S": 0.9476742890724391
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_28c3aef4-8c82-4746-8cfa-3aa747127c97.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_28c3aef4-8c82-4746-8cfa-3aa747127c97.png",
+    "instruction": "search with the current search query",
+    "bbox_xywh": [
+      435.0,
+      409.0,
+      164.0,
+      82.0
+    ],
+    "method": "gating_pass_vote (S=1.11)",
+    "score": {
+      "C_spatial": 0.629115836828763,
+      "avg_conf": 0.48143919870495966,
+      "S": 1.1105550355337228
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_28c3aef4-8c82-4746-8cfa-3aa747127c97.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_28c3aef4-8c82-4746-8cfa-3aa747127c97.png",
+    "instruction": "check the third result",
+    "bbox_xywh": [
+      193.0,
+      1084.0,
+      2252.0,
+      213.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.41)",
+    "score": {
+      "C_spatial": 0.08023345705767808,
+      "avg_conf": 0.3347368661181955,
+      "S": 0.41497032317587357
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_4bf90a3b-dcde-4d16-ba02-470eb8976199.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_4bf90a3b-dcde-4d16-ba02-470eb8976199.png",
+    "instruction": "check the shown image",
+    "bbox_xywh": [
+      201.0,
+      416.0,
+      1141.0,
+      693.0
+    ],
+    "method": "gating_pass_vote (S=1.46)",
+    "score": {
+      "C_spatial": 0.9565086379242078,
+      "avg_conf": 0.4987505391966781,
+      "S": 1.4552591771208858
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_626e849e-afe2-47c7-8e67-da7331497c25.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_626e849e-afe2-47c7-8e67-da7331497c25.png",
+    "instruction": "log out my account",
+    "bbox_xywh": [
+      2176.0,
+      528.0,
+      284.0,
+      78.0
+    ],
+    "method": "gating_pass_vote (S=0.86)",
+    "score": {
+      "C_spatial": 0.41143535924760855,
+      "avg_conf": 0.44527047522204105,
+      "S": 0.8567058344696497
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_626e849e-afe2-47c7-8e67-da7331497c25.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_626e849e-afe2-47c7-8e67-da7331497c25.png",
+    "instruction": "delete the entered search query",
+    "bbox_xywh": [
+      1262.0,
+      295.0,
+      67.0,
+      83.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.3497176119190169,
+      "avg_conf": 0.5667224591341739,
+      "S": 0.9164400710531908
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_9618f323-7310-4d6e-9c79-a476427ca1ae.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_9618f323-7310-4d6e-9c79-a476427ca1ae.png",
+    "instruction": "filter with featured creteria",
+    "bbox_xywh": [
+      550.0,
+      172.0,
+      224.0,
+      74.0
+    ],
+    "method": "gating_pass_vote (S=0.74)",
+    "score": {
+      "C_spatial": 0.34686503740320684,
+      "avg_conf": 0.39613936653693,
+      "S": 0.7430044039401369
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_9618f323-7310-4d6e-9c79-a476427ca1ae.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_9618f323-7310-4d6e-9c79-a476427ca1ae.png",
+    "instruction": "check the wiki",
+    "bbox_xywh": [
+      490.0,
+      0.0,
+      137.0,
+      111.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.5654682682854839,
+      "avg_conf": 0.48532053728217317,
+      "S": 1.050788805567657
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_9618f323-7310-4d6e-9c79-a476427ca1ae.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_9618f323-7310-4d6e-9c79-a476427ca1ae.png",
+    "instruction": "log in my account",
+    "bbox_xywh": [
+      2114.0,
+      0.0,
+      149.0,
+      112.0
+    ],
+    "method": "gating_pass_vote (S=1.18)",
+    "score": {
+      "C_spatial": 0.653030092910191,
+      "avg_conf": 0.5254740238420272,
+      "S": 1.1785041167522183
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_533f02b1-e687-462f-9d14-5a25f54d9464.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_533f02b1-e687-462f-9d14-5a25f54d9464.png",
+    "instruction": "create a new page",
+    "bbox_xywh": [
+      96.0,
+      372.0,
+      297.0,
+      86.0
+    ],
+    "method": "gating_pass_vote (S=0.99)",
+    "score": {
+      "C_spatial": 0.5244558375285284,
+      "avg_conf": 0.4635047041915786,
+      "S": 0.9879605417201069
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_7fa2512c-eaa9-4195-a8a3-a1ad5d359ff1.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_7fa2512c-eaa9-4195-a8a3-a1ad5d359ff1.png",
+    "instruction": "check the details of the third new",
+    "bbox_xywh": [
+      185.0,
+      831.0,
+      1476.0,
+      226.0
+    ],
+    "method": "gating_pass_vote (S=0.80)",
+    "score": {
+      "C_spatial": 0.4169820559397849,
+      "avg_conf": 0.382583838923249,
+      "S": 0.7995658948630339
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_d9841866-2ee7-4afd-a77a-8c0e52f6691c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_d9841866-2ee7-4afd-a77a-8c0e52f6691c.png",
+    "instruction": "close the ad banner",
+    "bbox_xywh": [
+      1969.0,
+      1259.0,
+      42.0,
+      36.0
+    ],
+    "method": "gating_pass_vote (S=1.19)",
+    "score": {
+      "C_spatial": 0.5445907029031084,
+      "avg_conf": 0.6458143097499827,
+      "S": 1.1904050126530912
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_d9841866-2ee7-4afd-a77a-8c0e52f6691c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_d9841866-2ee7-4afd-a77a-8c0e52f6691c.png",
+    "instruction": "search in the website",
+    "bbox_xywh": [
+      2467.0,
+      838.0,
+      86.0,
+      82.0
+    ],
+    "method": "gating_pass_vote (S=1.08)",
+    "score": {
+      "C_spatial": 0.5329778164837661,
+      "avg_conf": 0.5497178776737559,
+      "S": 1.0826956941575219
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_d9841866-2ee7-4afd-a77a-8c0e52f6691c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_d9841866-2ee7-4afd-a77a-8c0e52f6691c.png",
+    "instruction": "log in by x account",
+    "bbox_xywh": [
+      2118.0,
+      476.0,
+      71.0,
+      59.0
+    ],
+    "method": "gating_pass_vote (S=0.97)",
+    "score": {
+      "C_spatial": 0.4750211398574968,
+      "avg_conf": 0.4952465135893756,
+      "S": 0.9702676534468724
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_d86766a4-4d7f-467a-899e-dcde8472e632.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_d86766a4-4d7f-467a-899e-dcde8472e632.png",
+    "instruction": "share to facebook",
+    "bbox_xywh": [
+      33.0,
+      1083.0,
+      51.0,
+      48.0
+    ],
+    "method": "gating_pass_vote (S=0.80)",
+    "score": {
+      "C_spatial": 0.29055439928257626,
+      "avg_conf": 0.50831129200054,
+      "S": 0.7988656912831162
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_11acd5dc-63ab-415f-823d-10cd68acef01.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_11acd5dc-63ab-415f-823d-10cd68acef01.png",
+    "instruction": "check the weather news",
+    "bbox_xywh": [
+      841.0,
+      307.0,
+      235.0,
+      104.0
+    ],
+    "method": "gating_pass_vote (S=1.12)",
+    "score": {
+      "C_spatial": 0.6135666518122221,
+      "avg_conf": 0.5025932803336456,
+      "S": 1.1161599321458677
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_6df9c1d5-2acf-4f59-94d6-2fd9362dd8af.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_6df9c1d5-2acf-4f59-94d6-2fd9362dd8af.png",
+    "instruction": "follow sadie gurman",
+    "bbox_xywh": [
+      380.0,
+      1262.0,
+      131.0,
+      55.0
+    ],
+    "method": "gating_pass_vote (S=1.23)",
+    "score": {
+      "C_spatial": 0.6863443020098297,
+      "avg_conf": 0.5436593972302323,
+      "S": 1.2300036992400618
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_6df9c1d5-2acf-4f59-94d6-2fd9362dd8af.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_6df9c1d5-2acf-4f59-94d6-2fd9362dd8af.png",
+    "instruction": "search in the website",
+    "bbox_xywh": [
+      2371.0,
+      93.0,
+      93.0,
+      66.0
+    ],
+    "method": "gating_pass_vote (S=1.06)",
+    "score": {
+      "C_spatial": 0.5124277743850059,
+      "avg_conf": 0.5429645654982123,
+      "S": 1.0553923398832181
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_d977cce9-21cf-4eab-8d17-2aa9a616ba2f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_d977cce9-21cf-4eab-8d17-2aa9a616ba2f.png",
+    "instruction": "pause reading the page",
+    "bbox_xywh": [
+      629.0,
+      796.0,
+      105.0,
+      104.0
+    ],
+    "method": "gating_pass_vote (S=1.26)",
+    "score": {
+      "C_spatial": 0.7273248365230299,
+      "avg_conf": 0.5318152223136446,
+      "S": 1.2591400588366746
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_d977cce9-21cf-4eab-8d17-2aa9a616ba2f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_d977cce9-21cf-4eab-8d17-2aa9a616ba2f.png",
+    "instruction": "adjust reading speed",
+    "bbox_xywh": [
+      1499.0,
+      814.0,
+      116.0,
+      68.0
+    ],
+    "method": "gating_pass_vote (S=1.14)",
+    "score": {
+      "C_spatial": 0.6383640321741535,
+      "avg_conf": 0.5056235607520084,
+      "S": 1.143987592926162
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "forum",
+    "img_filename": "web_573eb5de-79cc-411a-a984-d7c28d8e5ce3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_573eb5de-79cc-411a-a984-d7c28d8e5ce3.png",
+    "instruction": "open the menu",
+    "bbox_xywh": [
+      215.0,
+      216.0,
+      79.0,
+      119.0
+    ],
+    "method": "gating_pass_vote (S=1.10)",
+    "score": {
+      "C_spatial": 0.5571964655863942,
+      "avg_conf": 0.5442735098335797,
+      "S": 1.101469975419974
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_573eb5de-79cc-411a-a984-d7c28d8e5ce3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_573eb5de-79cc-411a-a984-d7c28d8e5ce3.png",
+    "instruction": "check sports news",
+    "bbox_xywh": [
+      948.0,
+      215.0,
+      145.0,
+      120.0
+    ],
+    "method": "gating_pass_vote (S=1.24)",
+    "score": {
+      "C_spatial": 0.6601757965080519,
+      "avg_conf": 0.5790398471832852,
+      "S": 1.239215643691337
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_7e3c1de0-602b-48ec-bfb4-1215f33356f3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_7e3c1de0-602b-48ec-bfb4-1215f33356f3.png",
+    "instruction": "share the article",
+    "bbox_xywh": [
+      1437.0,
+      490.0,
+      153.0,
+      67.0
+    ],
+    "method": "gating_pass_vote (S=1.19)",
+    "score": {
+      "C_spatial": 0.6671498851056024,
+      "avg_conf": 0.5276837862367392,
+      "S": 1.1948336713423415
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_1c75d12a-d93d-4cb2-b179-38009584c282.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_1c75d12a-d93d-4cb2-b179-38009584c282.png",
+    "instruction": "check science news",
+    "bbox_xywh": [
+      1541.0,
+      315.0,
+      159.0,
+      122.0
+    ],
+    "method": "gating_pass_vote (S=1.26)",
+    "score": {
+      "C_spatial": 0.7281143095746649,
+      "avg_conf": 0.5296694899067571,
+      "S": 1.257783799481422
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "forum",
+    "img_filename": "web_1c75d12a-d93d-4cb2-b179-38009584c282.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_1c75d12a-d93d-4cb2-b179-38009584c282.png",
+    "instruction": "donate to the website",
+    "bbox_xywh": [
+      2256.0,
+      213.0,
+      194.0,
+      71.0
+    ],
+    "method": "gating_pass_vote (S=1.28)",
+    "score": {
+      "C_spatial": 0.7619513102080623,
+      "avg_conf": 0.5208801692524545,
+      "S": 1.282831479460517
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_20979acb-d8af-4fa2-becf-ed38f73f5fcb.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_20979acb-d8af-4fa2-becf-ed38f73f5fcb.png",
+    "instruction": "click to search the result",
+    "bbox_xywh": [
+      511.0,
+      122.0,
+      82.0,
+      68.0
+    ],
+    "method": "gating_pass_vote (S=0.96)",
+    "score": {
+      "C_spatial": 0.48239035152087945,
+      "avg_conf": 0.4732886275524567,
+      "S": 0.9556789790733362
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_20979acb-d8af-4fa2-becf-ed38f73f5fcb.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_20979acb-d8af-4fa2-becf-ed38f73f5fcb.png",
+    "instruction": "zoom in on the map",
+    "bbox_xywh": [
+      2473.0,
+      127.0,
+      85.0,
+      82.0
+    ],
+    "method": "gating_pass_vote (S=1.01)",
+    "score": {
+      "C_spatial": 0.4915586349548636,
+      "avg_conf": 0.5191358548819867,
+      "S": 1.0106944898368502
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_ea184924-e155-4745-abaa-1f9d0e870c67.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_ea184924-e155-4745-abaa-1f9d0e870c67.png",
+    "instruction": "sign up",
+    "bbox_xywh": [
+      2382.0,
+      21.0,
+      153.0,
+      71.0
+    ],
+    "method": "gating_pass_vote (S=0.98)",
+    "score": {
+      "C_spatial": 0.5425435985075933,
+      "avg_conf": 0.43335087021523405,
+      "S": 0.9758944687228273
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_ea184924-e155-4745-abaa-1f9d0e870c67.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_ea184924-e155-4745-abaa-1f9d0e870c67.png",
+    "instruction": "zoom out",
+    "bbox_xywh": [
+      2478.0,
+      209.0,
+      79.0,
+      74.0
+    ],
+    "method": "gating_pass_vote (S=0.85)",
+    "score": {
+      "C_spatial": 0.3173133374369971,
+      "avg_conf": 0.5375187514786588,
+      "S": 0.8548320889156559
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_f2db3d49-18fb-4517-8de8-bd5d73efecb9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_f2db3d49-18fb-4517-8de8-bd5d73efecb9.png",
+    "instruction": "export the map data",
+    "bbox_xywh": [
+      688.0,
+      23.0,
+      139.0,
+      66.0
+    ],
+    "method": "gating_pass_vote (S=1.13)",
+    "score": {
+      "C_spatial": 0.6798043135827594,
+      "avg_conf": 0.44630602206893644,
+      "S": 1.126110335651696
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_f2db3d49-18fb-4517-8de8-bd5d73efecb9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_f2db3d49-18fb-4517-8de8-bd5d73efecb9.png",
+    "instruction": "locate to my position",
+    "bbox_xywh": [
+      2486.0,
+      288.0,
+      71.0,
+      82.0
+    ],
+    "method": "gating_pass_vote (S=1.01)",
+    "score": {
+      "C_spatial": 0.5165442785213528,
+      "avg_conf": 0.4941155960175062,
+      "S": 1.010659874538859
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_2d6ce349-19b2-438b-bc41-611bb64ee63b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_2d6ce349-19b2-438b-bc41-611bb64ee63b.png",
+    "instruction": "share the map with someone",
+    "bbox_xywh": [
+      2478.0,
+      553.0,
+      79.0,
+      74.0
+    ],
+    "method": "gating_pass_vote (S=0.85)",
+    "score": {
+      "C_spatial": 0.3589497201621059,
+      "avg_conf": 0.4935142352965791,
+      "S": 0.852463955458685
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_21f41383-9618-40bf-92a6-df3f7c1fb251.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_21f41383-9618-40bf-92a6-df3f7c1fb251.png",
+    "instruction": "check the gps traces",
+    "bbox_xywh": [
+      1372.0,
+      32.0,
+      189.0,
+      46.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.5785374861022751,
+      "avg_conf": 0.49159001064756386,
+      "S": 1.0701274967498389
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_21f41383-9618-40bf-92a6-df3f7c1fb251.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_21f41383-9618-40bf-92a6-df3f7c1fb251.png",
+    "instruction": "adjust map layers",
+    "bbox_xywh": [
+      2475.0,
+      387.0,
+      79.0,
+      79.0
+    ],
+    "method": "gating_pass_vote (S=0.87)",
+    "score": {
+      "C_spatial": 0.4035740449509778,
+      "avg_conf": 0.46934753812732954,
+      "S": 0.8729215830783074
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_dbd7514b-9ca3-40cd-b09a-990f7b955da1.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_dbd7514b-9ca3-40cd-b09a-990f7b955da1.png",
+    "instruction": "view the result of erie country",
+    "bbox_xywh": [
+      303.0,
+      756.0,
+      172.0,
+      44.0
+    ],
+    "method": "gating_pass_vote (S=0.61)",
+    "score": {
+      "C_spatial": 0.28322044062364354,
+      "avg_conf": 0.32977213257196236,
+      "S": 0.6129925731956058
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_dbd7514b-9ca3-40cd-b09a-990f7b955da1.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_dbd7514b-9ca3-40cd-b09a-990f7b955da1.png",
+    "instruction": "close the search results",
+    "bbox_xywh": [
+      615.0,
+      234.0,
+      55.0,
+      52.0
+    ],
+    "method": "gating_pass_vote (S=1.20)",
+    "score": {
+      "C_spatial": 0.6189843657964825,
+      "avg_conf": 0.5834936901438902,
+      "S": 1.2024780559403727
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_bbe84736-3a87-4cc1-b9f1-e10144d28f94.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_bbe84736-3a87-4cc1-b9f1-e10144d28f94.png",
+    "instruction": "click the button to navigate to boston",
+    "bbox_xywh": [
+      604.0,
+      127.0,
+      79.0,
+      68.0
+    ],
+    "method": "gating_pass_vote (S=1.08)",
+    "score": {
+      "C_spatial": 0.5678503069373292,
+      "avg_conf": 0.5124530889898551,
+      "S": 1.0803033959271842
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_da9f908d-568d-4d65-8587-47870f78f678.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_da9f908d-568d-4d65-8587-47870f78f678.png",
+    "instruction": "view more option of edit button",
+    "bbox_xywh": [
+      492.0,
+      18.0,
+      55.0,
+      71.0
+    ],
+    "method": "gating_pass_vote (S=0.72)",
+    "score": {
+      "C_spatial": 0.28922437782771954,
+      "avg_conf": 0.4290248269812504,
+      "S": 0.7182492048089699
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_da9f908d-568d-4d65-8587-47870f78f678.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_da9f908d-568d-4d65-8587-47870f78f678.png",
+    "instruction": "need help",
+    "bbox_xywh": [
+      2065.0,
+      23.0,
+      79.0,
+      55.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.5101749506503755,
+      "avg_conf": 0.4927707229888198,
+      "S": 1.0029456736391953
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_7872daa1-5a12-4ada-95cc-0dd9e655fb4f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_7872daa1-5a12-4ada-95cc-0dd9e655fb4f.png",
+    "instruction": "switch map layer to the opnvkarte",
+    "bbox_xywh": [
+      2098.0,
+      499.0,
+      418.0,
+      98.0
+    ],
+    "method": "gating_pass_vote (S=1.04)",
+    "score": {
+      "C_spatial": 0.6044604824312475,
+      "avg_conf": 0.43086896884548204,
+      "S": 1.0353294512767295
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_4b78be88-30cd-401d-8d6d-4ef5a035fbda.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_4b78be88-30cd-401d-8d6d-4ef5a035fbda.png",
+    "instruction": "add a place marker on map",
+    "bbox_xywh": [
+      1921.0,
+      715.0,
+      87.0,
+      90.0
+    ],
+    "method": "gating_pass_vote (S=1.22)",
+    "score": {
+      "C_spatial": 0.6892573586012752,
+      "avg_conf": 0.5311047745428701,
+      "S": 1.2203621331441452
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_4b78be88-30cd-401d-8d6d-4ef5a035fbda.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_4b78be88-30cd-401d-8d6d-4ef5a035fbda.png",
+    "instruction": "check communities",
+    "bbox_xywh": [
+      1650.0,
+      32.0,
+      205.0,
+      52.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.5765657454575474,
+      "avg_conf": 0.4564908068791725,
+      "S": 1.03305655233672
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_352ae757-fdf0-4d02-9167-c24a42629a60.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_352ae757-fdf0-4d02-9167-c24a42629a60.png",
+    "instruction": "choosing the travel mode",
+    "bbox_xywh": [
+      74.0,
+      403.0,
+      579.0,
+      66.0
+    ],
+    "method": "gating_pass_vote (S=1.02)",
+    "score": {
+      "C_spatial": 0.614930662489402,
+      "avg_conf": 0.4018939761219539,
+      "S": 1.016824638611356
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_60700bbc-8e31-46b0-9ef0-826647262c68.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_60700bbc-8e31-46b0-9ef0-826647262c68.png",
+    "instruction": "click the button with \"go\"",
+    "bbox_xywh": [
+      669.0,
+      398.0,
+      82.0,
+      74.0
+    ],
+    "method": "gating_pass_vote (S=0.91)",
+    "score": {
+      "C_spatial": 0.449247735773858,
+      "avg_conf": 0.4589068301179511,
+      "S": 0.9081545658918091
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_60700bbc-8e31-46b0-9ef0-826647262c68.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_60700bbc-8e31-46b0-9ef0-826647262c68.png",
+    "instruction": "reverse directions",
+    "bbox_xywh": [
+      85.0,
+      488.0,
+      290.0,
+      49.0
+    ],
+    "method": "gating_pass_vote (S=0.91)",
+    "score": {
+      "C_spatial": 0.4872266340144102,
+      "avg_conf": 0.42072226467867446,
+      "S": 0.9079488986930846
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_e067ae0f-989b-4e7f-9891-aea5d284a8de.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_e067ae0f-989b-4e7f-9891-aea5d284a8de.png",
+    "instruction": "check the first listed direction",
+    "bbox_xywh": [
+      33.0,
+      805.0,
+      727.0,
+      68.0
+    ],
+    "method": "gating_pass_vote (S=0.81)",
+    "score": {
+      "C_spatial": 0.4442316745653452,
+      "avg_conf": 0.370620477162411,
+      "S": 0.8148521517277562
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_e067ae0f-989b-4e7f-9891-aea5d284a8de.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_e067ae0f-989b-4e7f-9891-aea5d284a8de.png",
+    "instruction": "view my map's history",
+    "bbox_xywh": [
+      604.0,
+      21.0,
+      156.0,
+      79.0
+    ],
+    "method": "gating_pass_vote (S=0.91)",
+    "score": {
+      "C_spatial": 0.5203519934978874,
+      "avg_conf": 0.3912721404300268,
+      "S": 0.9116241339279142
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_fa131c38-3d94-4e5a-ba3a-269724d93a30.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_fa131c38-3d94-4e5a-ba3a-269724d93a30.png",
+    "instruction": "close the location labels on the map",
+    "bbox_xywh": [
+      2292.0,
+      1051.0,
+      36.0,
+      36.0
+    ],
+    "method": "gating_pass_vote (S=1.13)",
+    "score": {
+      "C_spatial": 0.5965847597822698,
+      "avg_conf": 0.5349488680350187,
+      "S": 1.1315336278172885
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_fa131c38-3d94-4e5a-ba3a-269724d93a30.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_fa131c38-3d94-4e5a-ba3a-269724d93a30.png",
+    "instruction": "check the direction of \"slight left onto hancock street\"",
+    "bbox_xywh": [
+      25.0,
+      1048.0,
+      721.0,
+      115.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.47)",
+    "score": {
+      "C_spatial": 0.08031788498343681,
+      "avg_conf": 0.38618723220811585,
+      "S": 0.46650511719155263
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_daa46aa2-e1ee-4391-9c27-578d5ed73cbc.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_daa46aa2-e1ee-4391-9c27-578d5ed73cbc.png",
+    "instruction": "click a button to export licence",
+    "bbox_xywh": [
+      301.0,
+      944.0,
+      164.0,
+      85.0
+    ],
+    "method": "gating_pass_vote (S=0.96)",
+    "score": {
+      "C_spatial": 0.4643699835240048,
+      "avg_conf": 0.49126421009168886,
+      "S": 0.9556341936156937
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_daa46aa2-e1ee-4391-9c27-578d5ed73cbc.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_daa46aa2-e1ee-4391-9c27-578d5ed73cbc.png",
+    "instruction": "change the area bounding numbered \"42.3768\"",
+    "bbox_xywh": [
+      273.0,
+      359.0,
+      216.0,
+      85.0
+    ],
+    "method": "gating_pass_vote (S=0.96)",
+    "score": {
+      "C_spatial": 0.5270391002771541,
+      "avg_conf": 0.4311546663301834,
+      "S": 0.9581937666073375
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_833f9d90-a50c-4f03-9eb6-e740aa811fa0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_833f9d90-a50c-4f03-9eb6-e740aa811fa0.png",
+    "instruction": "Click the button to inspect map features and view details",
+    "bbox_xywh": [
+      2470.0,
+      824.0,
+      90.0,
+      93.0
+    ],
+    "method": "gating_pass_vote (S=0.75)",
+    "score": {
+      "C_spatial": 0.2747028286848922,
+      "avg_conf": 0.4726104472446942,
+      "S": 0.7473132759295864
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_833f9d90-a50c-4f03-9eb6-e740aa811fa0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_833f9d90-a50c-4f03-9eb6-e740aa811fa0.png",
+    "instruction": "goto openstreetmap france",
+    "bbox_xywh": [
+      1984.0,
+      1403.0,
+      287.0,
+      33.0
+    ],
+    "method": "gating_pass_vote (S=0.94)",
+    "score": {
+      "C_spatial": 0.4370334150873036,
+      "avg_conf": 0.5075707273448574,
+      "S": 0.944604142432161
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_2345b5ec-6280-470e-9a6d-92a85d8b8873.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_2345b5ec-6280-470e-9a6d-92a85d8b8873.png",
+    "instruction": "click the \"starbucks\" located in auburn street",
+    "bbox_xywh": [
+      107.0,
+      1053.0,
+      150.0,
+      44.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.5886397866223715,
+      "avg_conf": 0.362506094603437,
+      "S": 0.9511458812258085
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_2345b5ec-6280-470e-9a6d-92a85d8b8873.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_2345b5ec-6280-470e-9a6d-92a85d8b8873.png",
+    "instruction": "view user diaries",
+    "bbox_xywh": [
+      1456.0,
+      26.0,
+      189.0,
+      55.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.5353704100997974,
+      "avg_conf": 0.4665847623847106,
+      "S": 1.001955172484508
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_c1b9d596-c60c-47e2-a863-ef92324405ef.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_c1b9d596-c60c-47e2-a863-ef92324405ef.png",
+    "instruction": "register now",
+    "bbox_xywh": [
+      601.0,
+      381.0,
+      197.0,
+      38.0
+    ],
+    "method": "gating_pass_vote (S=1.22)",
+    "score": {
+      "C_spatial": 0.708150032183603,
+      "avg_conf": 0.516727214674239,
+      "S": 1.224877246857842
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_c1b9d596-c60c-47e2-a863-ef92324405ef.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_c1b9d596-c60c-47e2-a863-ef92324405ef.png",
+    "instruction": "select remember me",
+    "bbox_xywh": [
+      257.0,
+      878.0,
+      44.0,
+      46.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.3513574865576115,
+      "avg_conf": 0.5710988983936268,
+      "S": 0.9224563849512384
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_0558c1f4-c05b-49a8-8479-04b1575779d2.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_0558c1f4-c05b-49a8-8479-04b1575779d2.png",
+    "instruction": "check openstreetmap belglum",
+    "bbox_xywh": [
+      333.0,
+      971.0,
+      366.0,
+      36.0
+    ],
+    "method": "gating_pass_vote (S=1.14)",
+    "score": {
+      "C_spatial": 0.6317864491681877,
+      "avg_conf": 0.51075761743223,
+      "S": 1.1425440666004176
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_c5db0d44-6584-42e2-85c7-e4802276bad0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_c5db0d44-6584-42e2-85c7-e4802276bad0.png",
+    "instruction": "edit note",
+    "bbox_xywh": [
+      30.0,
+      652.0,
+      702.0,
+      566.0
+    ],
+    "method": "gating_pass_vote (S=0.70)",
+    "score": {
+      "C_spatial": 0.32396760842281075,
+      "avg_conf": 0.3801572296329663,
+      "S": 0.704124838055777
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_c5db0d44-6584-42e2-85c7-e4802276bad0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_c5db0d44-6584-42e2-85c7-e4802276bad0.png",
+    "instruction": "add note",
+    "bbox_xywh": [
+      33.0,
+      1247.0,
+      208.0,
+      90.0
+    ],
+    "method": "gating_pass_vote (S=0.88)",
+    "score": {
+      "C_spatial": 0.4554974221330775,
+      "avg_conf": 0.4272739779317629,
+      "S": 0.8827714000648403
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_c5db0d44-6584-42e2-85c7-e4802276bad0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_c5db0d44-6584-42e2-85c7-e4802276bad0.png",
+    "instruction": "Click on the marker already added to the map",
+    "bbox_xywh": [
+      1418.0,
+      553.0,
+      52.0,
+      55.0
+    ],
+    "method": "gating_pass_vote (S=0.97)",
+    "score": {
+      "C_spatial": 0.5016176551921068,
+      "avg_conf": 0.473269835941017,
+      "S": 0.9748874911331238
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_5e5f5a65-435a-424f-baf9-e5bf89b917f6.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_5e5f5a65-435a-424f-baf9-e5bf89b917f6.png",
+    "instruction": "close the note bar",
+    "bbox_xywh": [
+      675.0,
+      220.0,
+      70.0,
+      90.0
+    ],
+    "method": "gating_pass_vote (S=1.16)",
+    "score": {
+      "C_spatial": 0.6039241523121303,
+      "avg_conf": 0.5567119732597889,
+      "S": 1.1606361255719193
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_e0425287-c246-4122-a26e-6e0ca5958d4e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_e0425287-c246-4122-a26e-6e0ca5958d4e.png",
+    "instruction": "select the html as share format",
+    "bbox_xywh": [
+      2328.0,
+      433.0,
+      123.0,
+      71.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.4784092233113015,
+      "avg_conf": 0.4701757629898288,
+      "S": 0.9485849863011303
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_e0425287-c246-4122-a26e-6e0ca5958d4e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_e0425287-c246-4122-a26e-6e0ca5958d4e.png",
+    "instruction": "check geo uri link",
+    "bbox_xywh": [
+      2046.0,
+      704.0,
+      415.0,
+      38.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.56)",
+    "score": {
+      "C_spatial": 0.17830267601384206,
+      "avg_conf": 0.38499334348358094,
+      "S": 0.563296019497423
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_e0425287-c246-4122-a26e-6e0ca5958d4e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_e0425287-c246-4122-a26e-6e0ca5958d4e.png",
+    "instruction": "select image format",
+    "bbox_xywh": [
+      2197.0,
+      960.0,
+      123.0,
+      44.0
+    ],
+    "method": "gating_pass_vote (S=0.83)",
+    "score": {
+      "C_spatial": 0.3543845706046357,
+      "avg_conf": 0.4767993158756549,
+      "S": 0.8311838864802905
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_adbf2de0-3a79-4ffd-b344-b4a068f192ea.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_adbf2de0-3a79-4ffd-b344-b4a068f192ea.png",
+    "instruction": "start mapping",
+    "bbox_xywh": [
+      391.0,
+      772.0,
+      336.0,
+      82.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.4776588086412018,
+      "avg_conf": 0.40763878119315444,
+      "S": 0.8852975898343562
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_40de46fb-69c0-4de1-b4c6-9349c812450e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_40de46fb-69c0-4de1-b4c6-9349c812450e.png",
+    "instruction": "view the english wiki",
+    "bbox_xywh": [
+      885.0,
+      258.0,
+      260.0,
+      93.0
+    ],
+    "method": "gating_pass_vote (S=0.90)",
+    "score": {
+      "C_spatial": 0.43704525188867765,
+      "avg_conf": 0.4628608068480378,
+      "S": 0.8999060587367155
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_40de46fb-69c0-4de1-b4c6-9349c812450e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_40de46fb-69c0-4de1-b4c6-9349c812450e.png",
+    "instruction": "select search langugage",
+    "bbox_xywh": [
+      1497.0,
+      936.0,
+      117.0,
+      82.0
+    ],
+    "method": "gating_pass_vote (S=0.91)",
+    "score": {
+      "C_spatial": 0.4228263910984884,
+      "avg_conf": 0.48899017303355974,
+      "S": 0.9118165641320481
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "instruction": "read wikipedia in my language",
+    "bbox_xywh": [
+      943.0,
+      45.0,
+      672.0,
+      74.0
+    ],
+    "method": "gating_pass_vote (S=0.99)",
+    "score": {
+      "C_spatial": 0.5796454168921382,
+      "avg_conf": 0.4081963693522542,
+      "S": 0.9878417862443925
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "instruction": "download wikipedia app in google play store",
+    "bbox_xywh": [
+      213.0,
+      827.0,
+      268.0,
+      82.0
+    ],
+    "method": "gating_pass_vote (S=1.22)",
+    "score": {
+      "C_spatial": 0.755634637034887,
+      "avg_conf": 0.4657528500803396,
+      "S": 1.2213874871152266
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "instruction": "download in apple app store",
+    "bbox_xywh": [
+      497.0,
+      829.0,
+      238.0,
+      79.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.5907769516246338,
+      "avg_conf": 0.47898926321755636,
+      "S": 1.0697662148421903
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "instruction": "look into wikidata",
+    "bbox_xywh": [
+      2115.0,
+      540.0,
+      137.0,
+      33.0
+    ],
+    "method": "gating_pass_vote (S=0.70)",
+    "score": {
+      "C_spatial": 0.298780948067159,
+      "avg_conf": 0.39861767799517156,
+      "S": 0.6973986260623306
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_467ae916-9a16-4517-85cc-f439c79e8c44.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_467ae916-9a16-4517-85cc-f439c79e8c44.png",
+    "instruction": "support with a donation",
+    "bbox_xywh": [
+      205.0,
+      1340.0,
+      571.0,
+      38.0
+    ],
+    "method": "gating_pass_vote (S=0.81)",
+    "score": {
+      "C_spatial": 0.3538458943690163,
+      "avg_conf": 0.45722985561080515,
+      "S": 0.8110757499798215
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_467ae916-9a16-4517-85cc-f439c79e8c44.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_467ae916-9a16-4517-85cc-f439c79e8c44.png",
+    "instruction": "search result",
+    "bbox_xywh": [
+      1653.0,
+      788.0,
+      126.0,
+      107.0
+    ],
+    "method": "gating_pass_vote (S=0.94)",
+    "score": {
+      "C_spatial": 0.46384264100729533,
+      "avg_conf": 0.4755981165786801,
+      "S": 0.9394407575859755
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_df166734-1f33-4e1d-887f-292ee9c21502.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_df166734-1f33-4e1d-887f-292ee9c21502.png",
+    "instruction": "check wikipedia",
+    "bbox_xywh": [
+      1667.0,
+      1343.0,
+      137.0,
+      36.0
+    ],
+    "method": "gating_pass_vote (S=0.77)",
+    "score": {
+      "C_spatial": 0.346074226473915,
+      "avg_conf": 0.42710622396207576,
+      "S": 0.7731804504359907
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_df166734-1f33-4e1d-887f-292ee9c21502.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_df166734-1f33-4e1d-887f-292ee9c21502.png",
+    "instruction": "goto france wikipedia",
+    "bbox_xywh": [
+      803.0,
+      534.0,
+      150.0,
+      38.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.43)",
+    "score": {
+      "C_spatial": 0.03714733186991871,
+      "avg_conf": 0.38828363116620807,
+      "S": 0.42543096303612676
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_c762cbb8-b6b0-48e3-84ad-5c4090137fa2.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_c762cbb8-b6b0-48e3-84ad-5c4090137fa2.png",
+    "instruction": "check the searching result of machine learning",
+    "bbox_xywh": [
+      831.0,
+      1023.0,
+      787.0,
+      142.0
+    ],
+    "method": "gating_pass_vote (S=0.81)",
+    "score": {
+      "C_spatial": 0.408430980285401,
+      "avg_conf": 0.3976811459549865,
+      "S": 0.8061121262403874
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_7777a073-0358-46a8-babb-60c07c7bb17d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_7777a073-0358-46a8-babb-60c07c7bb17d.png",
+    "instruction": "switch to discussion",
+    "bbox_xywh": [
+      557.0,
+      75.0,
+      202.0,
+      82.0
+    ],
+    "method": "gating_pass_vote (S=1.04)",
+    "score": {
+      "C_spatial": 0.5734785669203321,
+      "avg_conf": 0.4677613172108501,
+      "S": 1.041239884131182
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_7777a073-0358-46a8-babb-60c07c7bb17d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_7777a073-0358-46a8-babb-60c07c7bb17d.png",
+    "instruction": "look into reference [1]",
+    "bbox_xywh": [
+      1041.0,
+      1034.0,
+      38.0,
+      36.0
+    ],
+    "method": "gating_pass_vote (S=1.18)",
+    "score": {
+      "C_spatial": 0.5840558355737759,
+      "avg_conf": 0.5953466533241085,
+      "S": 1.1794024888978845
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_77e68e05-bbe4-4f54-96fa-79f714c17505.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_77e68e05-bbe4-4f54-96fa-79f714c17505.png",
+    "instruction": "check language setting",
+    "bbox_xywh": [
+      350.0,
+      1400.0,
+      49.0,
+      40.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.41754257885528867,
+      "avg_conf": 0.5356748911756339,
+      "S": 0.9532174700309226
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_77e68e05-bbe4-4f54-96fa-79f714c17505.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_77e68e05-bbe4-4f54-96fa-79f714c17505.png",
+    "instruction": "check the hyponyms of deep learning",
+    "bbox_xywh": [
+      552.0,
+      1078.0,
+      229.0,
+      49.0
+    ],
+    "method": "gating_pass_vote (S=0.77)",
+    "score": {
+      "C_spatial": 0.3439340545868707,
+      "avg_conf": 0.42448511667647026,
+      "S": 0.768419171263341
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_6547e373-2b01-422b-a104-988a43742ba8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_6547e373-2b01-422b-a104-988a43742ba8.png",
+    "instruction": "check out the month's challenges",
+    "bbox_xywh": [
+      1806.0,
+      1255.0,
+      626.0,
+      120.0
+    ],
+    "method": "gating_pass_vote (S=0.79)",
+    "score": {
+      "C_spatial": 0.364953645934759,
+      "avg_conf": 0.42467015664324864,
+      "S": 0.7896238025780076
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_6547e373-2b01-422b-a104-988a43742ba8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_6547e373-2b01-422b-a104-988a43742ba8.png",
+    "instruction": "click on the picture of the day",
+    "bbox_xywh": [
+      538.0,
+      745.0,
+      1126.0,
+      634.0
+    ],
+    "method": "gating_pass_vote (S=1.51)",
+    "score": {
+      "C_spatial": 0.965040990422083,
+      "avg_conf": 0.5482085506041063,
+      "S": 1.5132495410261892
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_6547e373-2b01-422b-a104-988a43742ba8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_6547e373-2b01-422b-a104-988a43742ba8.png",
+    "instruction": "swith language of current web page",
+    "bbox_xywh": [
+      46.0,
+      805.0,
+      301.0,
+      44.0
+    ],
+    "method": "gating_pass_vote (S=1.15)",
+    "score": {
+      "C_spatial": 0.6865705116899702,
+      "avg_conf": 0.4671060272348022,
+      "S": 1.1536765389247723
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_e402fd4e-8ee3-4e90-9f08-4e6b8d223022.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_e402fd4e-8ee3-4e90-9f08-4e6b8d223022.png",
+    "instruction": "play the media of the day",
+    "bbox_xywh": [
+      538.0,
+      698.0,
+      1126.0,
+      634.0
+    ],
+    "method": "gating_pass_vote (S=1.19)",
+    "score": {
+      "C_spatial": 0.6568085359838296,
+      "avg_conf": 0.5350685520607914,
+      "S": 1.191877088044621
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_e402fd4e-8ee3-4e90-9f08-4e6b8d223022.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_e402fd4e-8ee3-4e90-9f08-4e6b8d223022.png",
+    "instruction": "copy url link of the media",
+    "bbox_xywh": [
+      1617.0,
+      1359.0,
+      55.0,
+      46.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.3588828884642216,
+      "avg_conf": 0.5262799564518982,
+      "S": 0.8851628449161197
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_e402fd4e-8ee3-4e90-9f08-4e6b8d223022.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_e402fd4e-8ee3-4e90-9f08-4e6b8d223022.png",
+    "instruction": "download current webpage to local as pdf file",
+    "bbox_xywh": [
+      68.0,
+      887.0,
+      249.0,
+      41.0
+    ],
+    "method": "gating_pass_vote (S=1.01)",
+    "score": {
+      "C_spatial": 0.5926712057286262,
+      "avg_conf": 0.41457152076056325,
+      "S": 1.0072427264891894
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_dc5cf80d-74c4-475e-928f-ee6b7ef254a1.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_dc5cf80d-74c4-475e-928f-ee6b7ef254a1.png",
+    "instruction": "open wikispecies",
+    "bbox_xywh": [
+      1585.0,
+      1023.0,
+      180.0,
+      36.0
+    ],
+    "method": "gating_pass_vote (S=0.71)",
+    "score": {
+      "C_spatial": 0.27432200104901894,
+      "avg_conf": 0.43274552232733726,
+      "S": 0.7070675233763561
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_dc5cf80d-74c4-475e-928f-ee6b7ef254a1.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_dc5cf80d-74c4-475e-928f-ee6b7ef254a1.png",
+    "instruction": "open mediawiki",
+    "bbox_xywh": [
+      2113.0,
+      825.0,
+      182.0,
+      39.0
+    ],
+    "method": "gating_pass_vote (S=0.74)",
+    "score": {
+      "C_spatial": 0.34838488366399006,
+      "avg_conf": 0.38877043535704836,
+      "S": 0.7371553190210385
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_6f93090a-81f6-489e-bb35-1a2838b18c01.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_6f93090a-81f6-489e-bb35-1a2838b18c01.png",
+    "instruction": "input word to search in wikidata",
+    "bbox_xywh": [
+      1940.0,
+      116.0,
+      432.0,
+      68.0
+    ],
+    "method": "gating_pass_vote (S=0.88)",
+    "score": {
+      "C_spatial": 0.4746498781191189,
+      "avg_conf": 0.40581053931311584,
+      "S": 0.8804604174322348
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_6f93090a-81f6-489e-bb35-1a2838b18c01.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_6f93090a-81f6-489e-bb35-1a2838b18c01.png",
+    "instruction": "switch language of current page",
+    "bbox_xywh": [
+      1464.0,
+      7.0,
+      178.0,
+      57.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.43362124285527626,
+      "avg_conf": 0.5006342041245504,
+      "S": 0.9342554469798267
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_c95137ce-a84e-4c7c-9845-65157033e501.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_c95137ce-a84e-4c7c-9845-65157033e501.png",
+    "instruction": "open the picture of earth",
+    "bbox_xywh": [
+      1571.0,
+      425.0,
+      423.0,
+      432.0
+    ],
+    "method": "gating_pass_vote (S=1.50)",
+    "score": {
+      "C_spatial": 0.9327223267284058,
+      "avg_conf": 0.5635992675228262,
+      "S": 1.496321594251232
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_c95137ce-a84e-4c7c-9845-65157033e501.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_c95137ce-a84e-4c7c-9845-65157033e501.png",
+    "instruction": "open wikidata article upon earth item",
+    "bbox_xywh": [
+      1743.0,
+      887.0,
+      158.0,
+      41.0
+    ],
+    "method": "gating_pass_vote (S=0.67)",
+    "score": {
+      "C_spatial": 0.2636444840010959,
+      "avg_conf": 0.4018392637405248,
+      "S": 0.6654837477416207
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_7cbc6d11-a481-45ae-a054-d89301abd2d6.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_7cbc6d11-a481-45ae-a054-d89301abd2d6.png",
+    "instruction": "enter username to create wikidate account",
+    "bbox_xywh": [
+      505.0,
+      575.0,
+      716.0,
+      79.0
+    ],
+    "method": "gating_pass_vote (S=1.10)",
+    "score": {
+      "C_spatial": 0.651861233423725,
+      "avg_conf": 0.4444735983823254,
+      "S": 1.0963348318060504
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_7cbc6d11-a481-45ae-a054-d89301abd2d6.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_7cbc6d11-a481-45ae-a054-d89301abd2d6.png",
+    "instruction": "switch page's language into chinese",
+    "bbox_xywh": [
+      2240.0,
+      392.0,
+      74.0,
+      38.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.4893017119951075,
+      "avg_conf": 0.5424086208170686,
+      "S": 1.0317103328121762
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_5a0b5ec0-be59-484d-a291-4965a9de9c76.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_5a0b5ec0-be59-484d-a291-4965a9de9c76.png",
+    "instruction": "refresh captcha picture",
+    "bbox_xywh": [
+      530.0,
+      756.0,
+      669.0,
+      238.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.5302573525109113,
+      "avg_conf": 0.535505573102717,
+      "S": 1.0657629256136283
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_5a0b5ec0-be59-484d-a291-4965a9de9c76.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_5a0b5ec0-be59-484d-a291-4965a9de9c76.png",
+    "instruction": "enter text showing in capcha",
+    "bbox_xywh": [
+      746.0,
+      996.0,
+      235.0,
+      49.0
+    ],
+    "method": "gating_pass_vote (S=1.29)",
+    "score": {
+      "C_spatial": 0.756691023511061,
+      "avg_conf": 0.537629555006771,
+      "S": 1.294320578517832
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_3357799b-92ed-4ce8-8c01-452993f9397b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_3357799b-92ed-4ce8-8c01-452993f9397b.png",
+    "instruction": "open page about arsene wenger",
+    "bbox_xywh": [
+      781.0,
+      1097.0,
+      869.0,
+      148.0
+    ],
+    "method": "gating_pass_vote (S=0.70)",
+    "score": {
+      "C_spatial": 0.3224916238187228,
+      "avg_conf": 0.3734099094820439,
+      "S": 0.6959015333007668
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_2bda50e8-15d0-473a-a8cb-bd0777963756.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_2bda50e8-15d0-473a-a8cb-bd0777963756.png",
+    "instruction": "open talk page",
+    "bbox_xywh": [
+      792.0,
+      346.0,
+      90.0,
+      55.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.4761945347013658,
+      "avg_conf": 0.4748926664978961,
+      "S": 0.9510872011992619
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_2bda50e8-15d0-473a-a8cb-bd0777963756.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_2bda50e8-15d0-473a-a8cb-bd0777963756.png",
+    "instruction": "unflod items about players",
+    "bbox_xywh": [
+      101.0,
+      1220.0,
+      219.0,
+      63.0
+    ],
+    "method": "gating_pass_vote (S=0.65)",
+    "score": {
+      "C_spatial": 0.15811511822044771,
+      "avg_conf": 0.4943518574078499,
+      "S": 0.6524669756282977
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_2bda50e8-15d0-473a-a8cb-bd0777963756.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_2bda50e8-15d0-473a-a8cb-bd0777963756.png",
+    "instruction": "open the logo of arsenal f.c ",
+    "bbox_xywh": [
+      1798.0,
+      747.0,
+      489.0,
+      544.0
+    ],
+    "method": "gating_pass_vote (S=1.25)",
+    "score": {
+      "C_spatial": 0.808485182940476,
+      "avg_conf": 0.4409809886842205,
+      "S": 1.2494661716246964
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_cd72d06c-67ca-4ed8-b550-dcf4b33e5381.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_cd72d06c-67ca-4ed8-b550-dcf4b33e5381.png",
+    "instruction": "add language",
+    "bbox_xywh": [
+      628.0,
+      1124.0,
+      448.0,
+      120.0
+    ],
+    "method": "gating_pass_vote (S=0.85)",
+    "score": {
+      "C_spatial": 0.3748995296910497,
+      "avg_conf": 0.47481714579925255,
+      "S": 0.8497166754903023
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_41a4c02b-d68f-48a0-9ea1-a5a20d2ddf3c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_41a4c02b-d68f-48a0-9ea1-a5a20d2ddf3c.png",
+    "instruction": "show cloth color for current season",
+    "bbox_xywh": [
+      1888.0,
+      1165.0,
+      342.0,
+      93.0
+    ],
+    "method": "gating_pass_vote (S=0.70)",
+    "score": {
+      "C_spatial": 0.31627079848104983,
+      "avg_conf": 0.3825360788630872,
+      "S": 0.698806877344137
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_41a4c02b-d68f-48a0-9ea1-a5a20d2ddf3c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_41a4c02b-d68f-48a0-9ea1-a5a20d2ddf3c.png",
+    "instruction": "open article about mikel arteta",
+    "bbox_xywh": [
+      1863.0,
+      504.0,
+      191.0,
+      49.0
+    ],
+    "method": "gating_pass_vote (S=0.80)",
+    "score": {
+      "C_spatial": 0.38380906213149485,
+      "avg_conf": 0.41918009039366183,
+      "S": 0.8029891525251567
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_41a4c02b-d68f-48a0-9ea1-a5a20d2ddf3c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_41a4c02b-d68f-48a0-9ea1-a5a20d2ddf3c.png",
+    "instruction": "open picture of home colours",
+    "bbox_xywh": [
+      1694.0,
+      753.0,
+      202.0,
+      350.0
+    ],
+    "method": "gating_pass_vote (S=1.08)",
+    "score": {
+      "C_spatial": 0.6432437951757904,
+      "avg_conf": 0.4401573868716821,
+      "S": 1.0834011820474725
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_be6a7bf9-9411-430f-a685-e97c75f44310.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_be6a7bf9-9411-430f-a685-e97c75f44310.png",
+    "instruction": "click a hyperlink in main menu to show helps for how to edit wikipedia page information",
+    "bbox_xywh": [
+      126.0,
+      1034.0,
+      238.0,
+      41.0
+    ],
+    "method": "gating_pass_vote (S=1.02)",
+    "score": {
+      "C_spatial": 0.5480360660993039,
+      "avg_conf": 0.46944057389124055,
+      "S": 1.0174766399905444
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_dfacd48d-d2c2-492f-b94c-41e6a34ea99f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_dfacd48d-d2c2-492f-b94c-41e6a34ea99f.png",
+    "instruction": "show the picture of gloden trophy owned by ansenal",
+    "bbox_xywh": [
+      2011.0,
+      507.0,
+      426.0,
+      566.0
+    ],
+    "method": "gating_pass_vote (S=1.15)",
+    "score": {
+      "C_spatial": 0.6844815811821091,
+      "avg_conf": 0.46832906842202576,
+      "S": 1.1528106496041348
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_dfacd48d-d2c2-492f-b94c-41e6a34ea99f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_dfacd48d-d2c2-492f-b94c-41e6a34ea99f.png",
+    "instruction": "enter the wikipedia page of champions league",
+    "bbox_xywh": [
+      1000.0,
+      1305.0,
+      322.0,
+      46.0
+    ],
+    "method": "gating_pass_vote (S=1.25)",
+    "score": {
+      "C_spatial": 0.6974827105584653,
+      "avg_conf": 0.5481733965618081,
+      "S": 1.2456561071202734
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_c334b955-9eb9-48c2-998b-9f6cb87bbb8f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_c334b955-9eb9-48c2-998b-9f6cb87bbb8f.png",
+    "instruction": "open the picture of cora vitoria diehl",
+    "bbox_xywh": [
+      1074.0,
+      556.0,
+      292.0,
+      407.0
+    ],
+    "method": "gating_pass_vote (S=1.56)",
+    "score": {
+      "C_spatial": 0.9410871828609909,
+      "avg_conf": 0.6155811808910805,
+      "S": 1.5566683637520713
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_c334b955-9eb9-48c2-998b-9f6cb87bbb8f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_c334b955-9eb9-48c2-998b-9f6cb87bbb8f.png",
+    "instruction": "show the image of queen lili's uokalani of hawaii",
+    "bbox_xywh": [
+      2123.0,
+      529.0,
+      306.0,
+      393.0
+    ],
+    "method": "gating_pass_vote (S=1.40)",
+    "score": {
+      "C_spatial": 0.8749504994557089,
+      "avg_conf": 0.5240060695989581,
+      "S": 1.398956569054667
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_b2914206-25b0-46b6-a829-c1208293c3ac.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_b2914206-25b0-46b6-a829-c1208293c3ac.png",
+    "instruction": "go to homepage of wikipedia",
+    "bbox_xywh": [
+      202.0,
+      7.0,
+      470.0,
+      126.0
+    ],
+    "method": "gating_pass_vote (S=0.61)",
+    "score": {
+      "C_spatial": 0.24079725924956968,
+      "avg_conf": 0.3694304681278461,
+      "S": 0.6102277273774157
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_b2914206-25b0-46b6-a829-c1208293c3ac.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_b2914206-25b0-46b6-a829-c1208293c3ac.png",
+    "instruction": "open image of george frideric handel",
+    "bbox_xywh": [
+      131.0,
+      758.0,
+      350.0,
+      355.0
+    ],
+    "method": "gating_pass_vote (S=1.44)",
+    "score": {
+      "C_spatial": 0.9044484579638742,
+      "avg_conf": 0.5386082973164313,
+      "S": 1.4430567552803055
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_22e2b9c7-0140-47aa-8e14-cfd883f3baaf.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_22e2b9c7-0140-47aa-8e14-cfd883f3baaf.png",
+    "instruction": "open 'retrospect and prospect in computer-based translation' paper",
+    "bbox_xywh": [
+      1014.0,
+      480.0,
+      828.0,
+      55.0
+    ],
+    "method": "gating_pass_vote (S=0.61)",
+    "score": {
+      "C_spatial": 0.21338943814602032,
+      "avg_conf": 0.39207899512498695,
+      "S": 0.6054684332710073
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_0092e09d-acc7-4ced-8871-47cb05a0a554.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_0092e09d-acc7-4ced-8871-47cb05a0a554.png",
+    "instruction": "let website remember account information for no logging in the next year",
+    "bbox_xywh": [
+      104.0,
+      796.0,
+      57.0,
+      57.0
+    ],
+    "method": "gating_pass_vote (S=1.38)",
+    "score": {
+      "C_spatial": 0.8081314887525518,
+      "avg_conf": 0.5735631640379382,
+      "S": 1.38169465279049
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_0092e09d-acc7-4ced-8871-47cb05a0a554.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_0092e09d-acc7-4ced-8871-47cb05a0a554.png",
+    "instruction": "enter username",
+    "bbox_xywh": [
+      112.0,
+      515.0,
+      719.0,
+      71.0
+    ],
+    "method": "gating_pass_vote (S=1.32)",
+    "score": {
+      "C_spatial": 0.8277399765408114,
+      "avg_conf": 0.4947210480941877,
+      "S": 1.322461024634999
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_0092e09d-acc7-4ced-8871-47cb05a0a554.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_0092e09d-acc7-4ced-8871-47cb05a0a554.png",
+    "instruction": "log in",
+    "bbox_xywh": [
+      107.0,
+      887.0,
+      729.0,
+      79.0
+    ],
+    "method": "gating_pass_vote (S=1.20)",
+    "score": {
+      "C_spatial": 0.6646235513336454,
+      "avg_conf": 0.5336347318714031,
+      "S": 1.1982582832050483
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_3261789b-bffc-4bfb-94d3-fe2a787e3f3f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_3261789b-bffc-4bfb-94d3-fe2a787e3f3f.png",
+    "instruction": "Click to recover password",
+    "bbox_xywh": [
+      258.0,
+      1078.0,
+      409.0,
+      52.0
+    ],
+    "method": "gating_pass_vote (S=1.06)",
+    "score": {
+      "C_spatial": 0.5918952917257286,
+      "avg_conf": 0.4631496406577194,
+      "S": 1.055044932383448
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_3261789b-bffc-4bfb-94d3-fe2a787e3f3f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_3261789b-bffc-4bfb-94d3-fe2a787e3f3f.png",
+    "instruction": "create account",
+    "bbox_xywh": [
+      1989.0,
+      53.0,
+      257.0,
+      49.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.5658844136643701,
+      "avg_conf": 0.4656668916324249,
+      "S": 1.031551305296795
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_3ff7abbd-cbd0-4396-ae77-94e34376edb5.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_3ff7abbd-cbd0-4396-ae77-94e34376edb5.png",
+    "instruction": "open the page of bougainville island",
+    "bbox_xywh": [
+      1738.0,
+      1135.0,
+      309.0,
+      44.0
+    ],
+    "method": "gating_pass_vote (S=1.04)",
+    "score": {
+      "C_spatial": 0.5378142674032663,
+      "avg_conf": 0.49829872032465233,
+      "S": 1.0361129877279187
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_dd6b5395-a2da-4d88-a971-c2815899f84d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_dd6b5395-a2da-4d88-a971-c2815899f84d.png",
+    "instruction": "return the homepage of mediawiki",
+    "bbox_xywh": [
+      202.0,
+      7.0,
+      486.0,
+      134.0
+    ],
+    "method": "gating_pass_vote (S=0.87)",
+    "score": {
+      "C_spatial": 0.5243565392861907,
+      "avg_conf": 0.34720596029489165,
+      "S": 0.8715624995810825
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_dd6b5395-a2da-4d88-a971-c2815899f84d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_dd6b5395-a2da-4d88-a971-c2815899f84d.png",
+    "instruction": "switch to the discussion page",
+    "bbox_xywh": [
+      309.0,
+      419.0,
+      199.0,
+      46.0
+    ],
+    "method": "gating_pass_vote (S=1.12)",
+    "score": {
+      "C_spatial": 0.6025099949669627,
+      "avg_conf": 0.5200954458438996,
+      "S": 1.122605440810862
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_dd6b5395-a2da-4d88-a971-c2815899f84d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_dd6b5395-a2da-4d88-a971-c2815899f84d.png",
+    "instruction": "open the picture of the wikimedia hackathon 2023",
+    "bbox_xywh": [
+      1636.0,
+      579.0,
+      801.0,
+      208.0
+    ],
+    "method": "gating_pass_vote (S=1.30)",
+    "score": {
+      "C_spatial": 0.850085723653039,
+      "avg_conf": 0.44526575482079994,
+      "S": 1.295351478473839
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_d920add5-4b0d-41a6-8de8-2b2b443e7524.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_d920add5-4b0d-41a6-8de8-2b2b443e7524.png",
+    "instruction": "download all mediawiki last released data",
+    "bbox_xywh": [
+      1134.0,
+      1190.0,
+      839.0,
+      82.0
+    ],
+    "method": "gating_pass_vote (S=0.72)",
+    "score": {
+      "C_spatial": 0.26394927879671143,
+      "avg_conf": 0.45912000233682304,
+      "S": 0.7230692811335344
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_e32af83c-f30c-4104-82b3-d5b9a84ad5ee.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_e32af83c-f30c-4104-82b3-d5b9a84ad5ee.png",
+    "instruction": "click the flag of portugal ",
+    "bbox_xywh": [
+      1688.0,
+      632.0,
+      164.0,
+      62.0
+    ],
+    "method": "gating_pass_vote (S=1.12)",
+    "score": {
+      "C_spatial": 0.6019767201935391,
+      "avg_conf": 0.5132167432066486,
+      "S": 1.1151934634001877
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_e32af83c-f30c-4104-82b3-d5b9a84ad5ee.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_e32af83c-f30c-4104-82b3-d5b9a84ad5ee.png",
+    "instruction": "enter page of norway",
+    "bbox_xywh": [
+      852.0,
+      1081.0,
+      182.0,
+      57.0
+    ],
+    "method": "gating_pass_vote (S=0.73)",
+    "score": {
+      "C_spatial": 0.3087585461047008,
+      "avg_conf": 0.42104241223066147,
+      "S": 0.7298009583353623
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_e32af83c-f30c-4104-82b3-d5b9a84ad5ee.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_e32af83c-f30c-4104-82b3-d5b9a84ad5ee.png",
+    "instruction": "open arsenal f.c. records and player records webpage",
+    "bbox_xywh": [
+      1586.0,
+      193.0,
+      626.0,
+      52.0
+    ],
+    "method": "gating_pass_vote (S=1.08)",
+    "score": {
+      "C_spatial": 0.6394107243595223,
+      "avg_conf": 0.43825755867197685,
+      "S": 1.0776682830314992
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_43eca188-6adf-4bfe-bb49-56dad5717132.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_43eca188-6adf-4bfe-bb49-56dad5717132.png",
+    "instruction": "open keras",
+    "bbox_xywh": [
+      711.0,
+      22.0,
+      119.0,
+      39.0
+    ],
+    "method": "gating_pass_vote (S=0.91)",
+    "score": {
+      "C_spatial": 0.5076408626737322,
+      "avg_conf": 0.4058529273457056,
+      "S": 0.9134937900194378
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_43eca188-6adf-4bfe-bb49-56dad5717132.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_43eca188-6adf-4bfe-bb49-56dad5717132.png",
+    "instruction": "open oracle data mining page",
+    "bbox_xywh": [
+      1618.0,
+      948.0,
+      335.0,
+      42.0
+    ],
+    "method": "gating_pass_vote (S=0.83)",
+    "score": {
+      "C_spatial": 0.38352969266062814,
+      "avg_conf": 0.45012974588712057,
+      "S": 0.8336594385477487
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_14c5f53b-8827-4d97-9adb-b3cbc4d6116a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_14c5f53b-8827-4d97-9adb-b3cbc4d6116a.png",
+    "instruction": "open image of book named machined learning",
+    "bbox_xywh": [
+      1859.0,
+      424.0,
+      509.0,
+      761.0
+    ],
+    "method": "gating_pass_vote (S=1.41)",
+    "score": {
+      "C_spatial": 0.9194554147802829,
+      "avg_conf": 0.4893372872952531,
+      "S": 1.408792702075536
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_14c5f53b-8827-4d97-9adb-b3cbc4d6116a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_14c5f53b-8827-4d97-9adb-b3cbc4d6116a.png",
+    "instruction": "enter page of peer-reviewd scientific journal",
+    "bbox_xywh": [
+      1036.0,
+      341.0,
+      530.0,
+      42.0
+    ],
+    "method": "gating_pass_vote (S=0.79)",
+    "score": {
+      "C_spatial": 0.3779798295224889,
+      "avg_conf": 0.4108662702094503,
+      "S": 0.7888460997319392
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_14c5f53b-8827-4d97-9adb-b3cbc4d6116a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_14c5f53b-8827-4d97-9adb-b3cbc4d6116a.png",
+    "instruction": "hide sidebar",
+    "bbox_xywh": [
+      330.0,
+      131.0,
+      104.0,
+      60.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.533270913829801,
+      "avg_conf": 0.4655866355435199,
+      "S": 0.9988575493733209
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_1d69cea6-1be7-4314-8bf1-5cd8e1939911.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_1d69cea6-1be7-4314-8bf1-5cd8e1939911.png",
+    "instruction": "change page language",
+    "bbox_xywh": [
+      2113.0,
+      29.0,
+      340.0,
+      62.0
+    ],
+    "method": "gating_pass_vote (S=0.73)",
+    "score": {
+      "C_spatial": 0.3133864179606979,
+      "avg_conf": 0.4182247808993147,
+      "S": 0.7316111988600126
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_1d69cea6-1be7-4314-8bf1-5cd8e1939911.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_1d69cea6-1be7-4314-8bf1-5cd8e1939911.png",
+    "instruction": "jump to website of 'induction of decision trees'",
+    "bbox_xywh": [
+      1044.0,
+      1263.0,
+      514.0,
+      39.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.448816389426345,
+      "avg_conf": 0.5841607543191707,
+      "S": 1.0329771437455157
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_1d69cea6-1be7-4314-8bf1-5cd8e1939911.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_1d69cea6-1be7-4314-8bf1-5cd8e1939911.png",
+    "instruction": "switch to talk column",
+    "bbox_xywh": [
+      800.0,
+      141.0,
+      80.0,
+      52.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.479602336141825,
+      "avg_conf": 0.4708003394975988,
+      "S": 0.9504026756394238
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_45f9eb11-1663-440f-9e73-78a34793ac95.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_45f9eb11-1663-440f-9e73-78a34793ac95.png",
+    "instruction": "play the video shown in this page",
+    "bbox_xywh": [
+      1888.0,
+      227.0,
+      556.0,
+      312.0
+    ],
+    "method": "gating_pass_vote (S=1.17)",
+    "score": {
+      "C_spatial": 0.6617563223194157,
+      "avg_conf": 0.5033284450615279,
+      "S": 1.1650847673809435
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_45f9eb11-1663-440f-9e73-78a34793ac95.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_45f9eb11-1663-440f-9e73-78a34793ac95.png",
+    "instruction": "go to page of darpa",
+    "bbox_xywh": [
+      1893.0,
+      549.0,
+      109.0,
+      36.0
+    ],
+    "method": "gating_pass_vote (S=0.72)",
+    "score": {
+      "C_spatial": 0.3445893110392154,
+      "avg_conf": 0.3793091646622606,
+      "S": 0.723898475701476
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_45f9eb11-1663-440f-9e73-78a34793ac95.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_45f9eb11-1663-440f-9e73-78a34793ac95.png",
+    "instruction": "get citation of current webpage",
+    "bbox_xywh": [
+      42.0,
+      1239.0,
+      389.0,
+      127.0
+    ],
+    "method": "gating_pass_vote (S=1.08)",
+    "score": {
+      "C_spatial": 0.6401313144807702,
+      "avg_conf": 0.43738495098756713,
+      "S": 1.0775162654683372
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_df804fb9-f96e-425e-b1a3-fe8f6810a1de.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_df804fb9-f96e-425e-b1a3-fe8f6810a1de.png",
+    "instruction": "delete the 'article' tag for searching",
+    "bbox_xywh": [
+      465.0,
+      663.0,
+      55.0,
+      55.0
+    ],
+    "method": "gating_pass_vote (S=0.84)",
+    "score": {
+      "C_spatial": 0.3706662773654736,
+      "avg_conf": 0.4679951776932456,
+      "S": 0.8386614550587193
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_df804fb9-f96e-425e-b1a3-fe8f6810a1de.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_df804fb9-f96e-425e-b1a3-fe8f6810a1de.png",
+    "instruction": "input keyword in the searchbar",
+    "bbox_xywh": [
+      104.0,
+      463.0,
+      1501.0,
+      70.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.41)",
+    "score": {
+      "C_spatial": 0.09486367562001345,
+      "avg_conf": 0.3112141265149632,
+      "S": 0.4060778021349767
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_147f0485-994a-4176-bd82-88d81ab8607a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_147f0485-994a-4176-bd82-88d81ab8607a.png",
+    "instruction": "select to search in all area",
+    "bbox_xywh": [
+      898.0,
+      756.0,
+      52.0,
+      60.0
+    ],
+    "method": "gating_pass_vote (S=1.10)",
+    "score": {
+      "C_spatial": 0.6099204238312386,
+      "avg_conf": 0.4860120688425265,
+      "S": 1.095932492673765
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_147f0485-994a-4176-bd82-88d81ab8607a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_147f0485-994a-4176-bd82-88d81ab8607a.png",
+    "instruction": "show advanced searching options",
+    "bbox_xywh": [
+      112.0,
+      556.0,
+      1745.0,
+      75.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.46)",
+    "score": {
+      "C_spatial": 0.11762831412894946,
+      "avg_conf": 0.3383795946656341,
+      "S": 0.4560079087945836
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_147f0485-994a-4176-bd82-88d81ab8607a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_147f0485-994a-4176-bd82-88d81ab8607a.png",
+    "instruction": "display the next 20 searching results",
+    "bbox_xywh": [
+      428.0,
+      1234.0,
+      127.0,
+      52.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.46217091339509414,
+      "avg_conf": 0.4674992651326037,
+      "S": 0.9296701785276978
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_78657904-325d-4ee2-b319-36dc1abe7e54.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_78657904-325d-4ee2-b319-36dc1abe7e54.png",
+    "instruction": "open page of gpt-2",
+    "bbox_xywh": [
+      1052.0,
+      1083.0,
+      119.0,
+      34.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.544631885453197,
+      "avg_conf": 0.5005892099623147,
+      "S": 1.0452210954155117
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "tool",
+    "img_filename": "web_78657904-325d-4ee2-b319-36dc1abe7e54.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_78657904-325d-4ee2-b319-36dc1abe7e54.png",
+    "instruction": "show content of reinforcement learning",
+    "bbox_xywh": [
+      2332.0,
+      414.0,
+      93.0,
+      42.0
+    ],
+    "method": "gating_pass_vote (S=0.61)",
+    "score": {
+      "C_spatial": 0.19485998566296206,
+      "avg_conf": 0.4145096639356846,
+      "S": 0.6093696495986467
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "tool",
+    "img_filename": "web_78657904-325d-4ee2-b319-36dc1abe7e54.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_78657904-325d-4ee2-b319-36dc1abe7e54.png",
+    "instruction": "enter page of machine learning translation",
+    "bbox_xywh": [
+      1065.0,
+      943.0,
+      470.0,
+      29.0
+    ],
+    "method": "gating_pass_vote (S=0.88)",
+    "score": {
+      "C_spatial": 0.4581445776183823,
+      "avg_conf": 0.4221885466305891,
+      "S": 0.8803331242489714
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_14087e07-67d9-494e-bdbf-16ed67985a72.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_14087e07-67d9-494e-bdbf-16ed67985a72.png",
+    "instruction": "open home& kitchen part",
+    "bbox_xywh": [
+      1337.0,
+      299.0,
+      270.0,
+      73.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.5652487105751868,
+      "avg_conf": 0.46707048067383355,
+      "S": 1.0323191912490204
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_14087e07-67d9-494e-bdbf-16ed67985a72.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_14087e07-67d9-494e-bdbf-16ed67985a72.png",
+    "instruction": "enter detail page of icecream",
+    "bbox_xywh": [
+      2062.0,
+      964.0,
+      452.0,
+      441.0
+    ],
+    "method": "gating_pass_vote (S=1.17)",
+    "score": {
+      "C_spatial": 0.7313115775572204,
+      "avg_conf": 0.44132659079034975,
+      "S": 1.1726381683475702
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_bd7a1ecb-e3e7-4a79-ba7e-91ae27a861ba.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_bd7a1ecb-e3e7-4a79-ba7e-91ae27a861ba.png",
+    "instruction": "close the pop-up window",
+    "bbox_xywh": [
+      2482.0,
+      255.0,
+      42.0,
+      57.0
+    ],
+    "method": "gating_pass_vote (S=1.04)",
+    "score": {
+      "C_spatial": 0.46048187412071745,
+      "avg_conf": 0.5752064650336162,
+      "S": 1.0356883391543337
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_bd7a1ecb-e3e7-4a79-ba7e-91ae27a861ba.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_bd7a1ecb-e3e7-4a79-ba7e-91ae27a861ba.png",
+    "instruction": "check the detailed information of the first product in the cart",
+    "bbox_xywh": [
+      1914.0,
+      611.0,
+      514.0,
+      86.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.4220269246236516,
+      "avg_conf": 0.5055729147221516,
+      "S": 0.9275998393458031
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_e103f2b7-edaf-4acc-8b85-6cfb0b9c024c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_e103f2b7-edaf-4acc-8b85-6cfb0b9c024c.png",
+    "instruction": "close the alart window",
+    "bbox_xywh": [
+      1750.0,
+      144.0,
+      47.0,
+      47.0
+    ],
+    "method": "gating_pass_vote (S=0.90)",
+    "score": {
+      "C_spatial": 0.34906783197551194,
+      "avg_conf": 0.5555131085671485,
+      "S": 0.9045809405426605
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_e103f2b7-edaf-4acc-8b85-6cfb0b9c024c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_e103f2b7-edaf-4acc-8b85-6cfb0b9c024c.png",
+    "instruction": "confirm leaving the shopping cart",
+    "bbox_xywh": [
+      976.0,
+      354.0,
+      112.0,
+      73.0
+    ],
+    "method": "gating_pass_vote (S=0.98)",
+    "score": {
+      "C_spatial": 0.4696057187782953,
+      "avg_conf": 0.50938498709375,
+      "S": 0.9789907058720453
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_e103f2b7-edaf-4acc-8b85-6cfb0b9c024c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_e103f2b7-edaf-4acc-8b85-6cfb0b9c024c.png",
+    "instruction": "cancel leaving",
+    "bbox_xywh": [
+      794.0,
+      357.0,
+      166.0,
+      60.0
+    ],
+    "method": "gating_pass_vote (S=1.12)",
+    "score": {
+      "C_spatial": 0.6420627580371437,
+      "avg_conf": 0.4731173034096721,
+      "S": 1.115180061446816
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_6e4b8b0d-45fe-4d2a-864a-782e08ae8d21.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_6e4b8b0d-45fe-4d2a-864a-782e08ae8d21.png",
+    "instruction": "remove the first item from the shopping cart",
+    "bbox_xywh": [
+      226.0,
+      954.0,
+      267.0,
+      65.0
+    ],
+    "method": "gating_pass_vote (S=1.19)",
+    "score": {
+      "C_spatial": 0.7142941789078397,
+      "avg_conf": 0.47823538857170333,
+      "S": 1.192529567479543
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_6e4b8b0d-45fe-4d2a-864a-782e08ae8d21.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_6e4b8b0d-45fe-4d2a-864a-782e08ae8d21.png",
+    "instruction": "adjust the quantity of the first item",
+    "bbox_xywh": [
+      1530.0,
+      505.0,
+      120.0,
+      90.0
+    ],
+    "method": "gating_pass_vote (S=1.23)",
+    "score": {
+      "C_spatial": 0.6980010590775804,
+      "avg_conf": 0.5363985068998732,
+      "S": 1.2343995659774536
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_8a36314e-03d8-422d-920b-d3a93c12e6a5.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_8a36314e-03d8-422d-920b-d3a93c12e6a5.png",
+    "instruction": "sign in the website",
+    "bbox_xywh": [
+      2404.0,
+      45.0,
+      114.0,
+      57.0
+    ],
+    "method": "gating_pass_vote (S=1.04)",
+    "score": {
+      "C_spatial": 0.5682904607447561,
+      "avg_conf": 0.47199071873179466,
+      "S": 1.0402811794765507
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_8a36314e-03d8-422d-920b-d3a93c12e6a5.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_8a36314e-03d8-422d-920b-d3a93c12e6a5.png",
+    "instruction": "show more information of the items in cart",
+    "bbox_xywh": [
+      1750.0,
+      632.0,
+      701.0,
+      91.0
+    ],
+    "method": "gating_pass_vote (S=0.88)",
+    "score": {
+      "C_spatial": 0.3744507448335403,
+      "avg_conf": 0.5042639261225393,
+      "S": 0.8787146709560796
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_8a36314e-03d8-422d-920b-d3a93c12e6a5.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_8a36314e-03d8-422d-920b-d3a93c12e6a5.png",
+    "instruction": "view help for email account",
+    "bbox_xywh": [
+      1311.0,
+      556.0,
+      49.0,
+      52.0
+    ],
+    "method": "gating_pass_vote (S=1.02)",
+    "score": {
+      "C_spatial": 0.47721379315141094,
+      "avg_conf": 0.5443908167918556,
+      "S": 1.0216046099432665
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_8998df3c-ece5-4f78-9f34-8b6ef91b1ddb.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_8998df3c-ece5-4f78-9f34-8b6ef91b1ddb.png",
+    "instruction": "add the creole seasoning to favorites",
+    "bbox_xywh": [
+      1153.0,
+      982.0,
+      60.0,
+      47.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.44722168066937584,
+      "avg_conf": 0.5521196530482024,
+      "S": 0.9993413337175783
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_8998df3c-ece5-4f78-9f34-8b6ef91b1ddb.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_8998df3c-ece5-4f78-9f34-8b6ef91b1ddb.png",
+    "instruction": "add the cocowhip light to cart",
+    "bbox_xywh": [
+      1721.0,
+      1003.0,
+      247.0,
+      70.0
+    ],
+    "method": "gating_pass_vote (S=1.30)",
+    "score": {
+      "C_spatial": 0.7381721131500841,
+      "avg_conf": 0.5633958214118372,
+      "S": 1.3015679345619213
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_8998df3c-ece5-4f78-9f34-8b6ef91b1ddb.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_8998df3c-ece5-4f78-9f34-8b6ef91b1ddb.png",
+    "instruction": "remove the first item from the comparison",
+    "bbox_xywh": [
+      1607.0,
+      260.0,
+      42.0,
+      49.0
+    ],
+    "method": "gating_pass_vote (S=0.74)",
+    "score": {
+      "C_spatial": 0.236149587454485,
+      "avg_conf": 0.4990836014824429,
+      "S": 0.7352331889369279
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_98d5a92a-e7d5-4fa6-8c36-83dc78c3fce6.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_98d5a92a-e7d5-4fa6-8c36-83dc78c3fce6.png",
+    "instruction": "forget my password",
+    "bbox_xywh": [
+      597.0,
+      1107.0,
+      338.0,
+      47.0
+    ],
+    "method": "gating_pass_vote (S=1.08)",
+    "score": {
+      "C_spatial": 0.6103263822596071,
+      "avg_conf": 0.4698294647664075,
+      "S": 1.0801558470260146
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_98d5a92a-e7d5-4fa6-8c36-83dc78c3fce6.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_98d5a92a-e7d5-4fa6-8c36-83dc78c3fce6.png",
+    "instruction": "create an account",
+    "bbox_xywh": [
+      1309.0,
+      749.0,
+      356.0,
+      83.0
+    ],
+    "method": "gating_pass_vote (S=0.97)",
+    "score": {
+      "C_spatial": 0.5357925312023063,
+      "avg_conf": 0.43213600806949215,
+      "S": 0.9679285392717984
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_5d555c28-7e2a-4380-ad9e-4eeba9cc2383.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_5d555c28-7e2a-4380-ad9e-4eeba9cc2383.png",
+    "instruction": "input my password",
+    "bbox_xywh": [
+      356.0,
+      852.0,
+      891.0,
+      73.0
+    ],
+    "method": "gating_pass_vote (S=1.06)",
+    "score": {
+      "C_spatial": 0.619653680553987,
+      "avg_conf": 0.4431359412081551,
+      "S": 1.062789621762142
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "instruction": "check the information of the first product",
+    "bbox_xywh": [
+      486.0,
+      429.0,
+      473.0,
+      743.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.5876257557942807,
+      "avg_conf": 0.36001943998967645,
+      "S": 0.9476451957839571
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "instruction": "check the price changes for the first item",
+    "bbox_xywh": [
+      844.0,
+      1309.0,
+      47.0,
+      39.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.45)",
+    "score": {
+      "C_spatial": 0.08216662011407781,
+      "avg_conf": 0.36667201089613594,
+      "S": 0.44883863101021376
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "instruction": "change the sorting method",
+    "bbox_xywh": [
+      2129.0,
+      211.0,
+      291.0,
+      65.0
+    ],
+    "method": "gating_pass_vote (S=1.08)",
+    "score": {
+      "C_spatial": 0.6124199600273201,
+      "avg_conf": 0.46937873254559437,
+      "S": 1.0817986925729146
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "instruction": "switch the product arrangement to a 2*2 grid",
+    "bbox_xywh": [
+      628.0,
+      198.0,
+      91.0,
+      80.0
+    ],
+    "method": "gating_pass_vote (S=1.08)",
+    "score": {
+      "C_spatial": 0.570758069020131,
+      "avg_conf": 0.5125329427063122,
+      "S": 1.0832910117264434
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_2d77202a-c8d6-4908-9def-c4635e5c4d3d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_2d77202a-c8d6-4908-9def-c4635e5c4d3d.png",
+    "instruction": "show next image of this item",
+    "bbox_xywh": [
+      1309.0,
+      1174.0,
+      91.0,
+      156.0
+    ],
+    "method": "gating_pass_vote (S=1.19)",
+    "score": {
+      "C_spatial": 0.6636843533200809,
+      "avg_conf": 0.5224777635530571,
+      "S": 1.186162116873138
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_2d77202a-c8d6-4908-9def-c4635e5c4d3d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_2d77202a-c8d6-4908-9def-c4635e5c4d3d.png",
+    "instruction": "add this item to wish list",
+    "bbox_xywh": [
+      1524.0,
+      1050.0,
+      249.0,
+      52.0
+    ],
+    "method": "gating_pass_vote (S=1.30)",
+    "score": {
+      "C_spatial": 0.7256067651819329,
+      "avg_conf": 0.5734907002053521,
+      "S": 1.2990974653872849
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_8c185a73-f24a-4548-851f-eae8962b2649.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_8c185a73-f24a-4548-851f-eae8962b2649.png",
+    "instruction": "close the image window",
+    "bbox_xywh": [
+      2389.0,
+      9.0,
+      164.0,
+      156.0
+    ],
+    "method": "gating_pass_vote (S=0.91)",
+    "score": {
+      "C_spatial": 0.45256331804040106,
+      "avg_conf": 0.45823798397569787,
+      "S": 0.910801302016099
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_8c185a73-f24a-4548-851f-eae8962b2649.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_8c185a73-f24a-4548-851f-eae8962b2649.png",
+    "instruction": "check the second image",
+    "bbox_xywh": [
+      203.0,
+      1234.0,
+      192.0,
+      197.0
+    ],
+    "method": "gating_pass_vote (S=1.26)",
+    "score": {
+      "C_spatial": 0.7395128063087909,
+      "avg_conf": 0.5199584787481902,
+      "S": 1.2594712850569811
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_2e26b177-1a3c-4e1d-b961-a584add014b7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_2e26b177-1a3c-4e1d-b961-a584add014b7.png",
+    "instruction": "check computers and accessories items ",
+    "bbox_xywh": [
+      839.0,
+      907.0,
+      504.0,
+      80.0
+    ],
+    "method": "gating_pass_vote (S=0.80)",
+    "score": {
+      "C_spatial": 0.3833917074891617,
+      "avg_conf": 0.4122602995408027,
+      "S": 0.7956520070299644
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_2e26b177-1a3c-4e1d-b961-a584add014b7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_2e26b177-1a3c-4e1d-b961-a584add014b7.png",
+    "instruction": "sign in the website",
+    "bbox_xywh": [
+      1244.0,
+      22.0,
+      112.0,
+      47.0
+    ],
+    "method": "gating_pass_vote (S=1.10)",
+    "score": {
+      "C_spatial": 0.5948656838370763,
+      "avg_conf": 0.5036244601645951,
+      "S": 1.0984901440016714
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_889c379a-7f36-4aad-9516-b09773cd6b84.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_889c379a-7f36-4aad-9516-b09773cd6b84.png",
+    "instruction": "search the products about football",
+    "bbox_xywh": [
+      2272.0,
+      151.0,
+      80.0,
+      68.0
+    ],
+    "method": "gating_pass_vote (S=0.79)",
+    "score": {
+      "C_spatial": 0.28625784867889514,
+      "avg_conf": 0.505221008596617,
+      "S": 0.7914788572755121
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_889c379a-7f36-4aad-9516-b09773cd6b84.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_889c379a-7f36-4aad-9516-b09773cd6b84.png",
+    "instruction": "check the information about the first item",
+    "bbox_xywh": [
+      73.0,
+      837.0,
+      379.0,
+      524.0
+    ],
+    "method": "gating_pass_vote (S=1.09)",
+    "score": {
+      "C_spatial": 0.7240804985206151,
+      "avg_conf": 0.364754791153211,
+      "S": 1.088835289673826
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_0437294c-e652-4bc4-acbf-f0c4cf3759ba.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_0437294c-e652-4bc4-acbf-f0c4cf3759ba.png",
+    "instruction": "view the product photo",
+    "bbox_xywh": [
+      239.0,
+      595.0,
+      1007.0,
+      841.0
+    ],
+    "method": "gating_pass_vote (S=1.47)",
+    "score": {
+      "C_spatial": 0.9507681965055746,
+      "avg_conf": 0.5205501846351881,
+      "S": 1.4713183811407626
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_0437294c-e652-4bc4-acbf-f0c4cf3759ba.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_0437294c-e652-4bc4-acbf-f0c4cf3759ba.png",
+    "instruction": "change the purchase quantity of the product",
+    "bbox_xywh": [
+      1524.0,
+      699.0,
+      109.0,
+      114.0
+    ],
+    "method": "gating_pass_vote (S=1.40)",
+    "score": {
+      "C_spatial": 0.8267152594372813,
+      "avg_conf": 0.5689774862158133,
+      "S": 1.3956927456530948
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_0437294c-e652-4bc4-acbf-f0c4cf3759ba.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_0437294c-e652-4bc4-acbf-f0c4cf3759ba.png",
+    "instruction": "add this item to compare",
+    "bbox_xywh": [
+      1784.0,
+      899.0,
+      247.0,
+      52.0
+    ],
+    "method": "gating_pass_vote (S=1.18)",
+    "score": {
+      "C_spatial": 0.680667358171344,
+      "avg_conf": 0.49887075201049447,
+      "S": 1.1795381101818385
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_29f17af5-5e60-41a0-8a0c-36a991a0a19d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_29f17af5-5e60-41a0-8a0c-36a991a0a19d.png",
+    "instruction": "rate this product with four stars",
+    "bbox_xywh": [
+      615.0,
+      395.0,
+      31.0,
+      55.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.45057721127245826,
+      "avg_conf": 0.43736924054641846,
+      "S": 0.8879464518188767
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_29f17af5-5e60-41a0-8a0c-36a991a0a19d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_29f17af5-5e60-41a0-8a0c-36a991a0a19d.png",
+    "instruction": "provide a review for the current product",
+    "bbox_xywh": [
+      369.0,
+      793.0,
+      813.0,
+      190.0
+    ],
+    "method": "gating_pass_vote (S=1.38)",
+    "score": {
+      "C_spatial": 0.8907595248110765,
+      "avg_conf": 0.49216263502972785,
+      "S": 1.3829221598408044
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_29f17af5-5e60-41a0-8a0c-36a991a0a19d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_29f17af5-5e60-41a0-8a0c-36a991a0a19d.png",
+    "instruction": "submit my review",
+    "bbox_xywh": [
+      369.0,
+      1081.0,
+      296.0,
+      70.0
+    ],
+    "method": "gating_pass_vote (S=0.98)",
+    "score": {
+      "C_spatial": 0.4821962544907605,
+      "avg_conf": 0.4958717056862679,
+      "S": 0.9780679601770284
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_c307580d-6e2e-4ffb-bb0d-3e156ec524e3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_c307580d-6e2e-4ffb-bb0d-3e156ec524e3.png",
+    "instruction": "check the privacy and cookie policy",
+    "bbox_xywh": [
+      36.0,
+      1159.0,
+      361.0,
+      47.0
+    ],
+    "method": "gating_pass_vote (S=1.12)",
+    "score": {
+      "C_spatial": 0.6130922951438393,
+      "avg_conf": 0.5113251626501537,
+      "S": 1.1244174577939932
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_c307580d-6e2e-4ffb-bb0d-3e156ec524e3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_c307580d-6e2e-4ffb-bb0d-3e156ec524e3.png",
+    "instruction": "subscribe to feedback on this item",
+    "bbox_xywh": [
+      2295.0,
+      1164.0,
+      213.0,
+      65.0
+    ],
+    "method": "gating_pass_vote (S=1.11)",
+    "score": {
+      "C_spatial": 0.5889416787969538,
+      "avg_conf": 0.5249685768916206,
+      "S": 1.1139102556885745
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_b5c8e65b-1d1e-4fad-8064-a3b7119d1eaa.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_b5c8e65b-1d1e-4fad-8064-a3b7119d1eaa.png",
+    "instruction": "go to the next page",
+    "bbox_xywh": [
+      1288.0,
+      14.0,
+      80.0,
+      73.0
+    ],
+    "method": "gating_pass_vote (S=1.47)",
+    "score": {
+      "C_spatial": 0.8703906328147731,
+      "avg_conf": 0.5949061813997569,
+      "S": 1.46529681421453
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_b5c8e65b-1d1e-4fad-8064-a3b7119d1eaa.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_b5c8e65b-1d1e-4fad-8064-a3b7119d1eaa.png",
+    "instruction": "go to the second page",
+    "bbox_xywh": [
+      1223.0,
+      40.0,
+      23.0,
+      29.0
+    ],
+    "method": "gating_pass_vote (S=1.01)",
+    "score": {
+      "C_spatial": 0.48273786861238027,
+      "avg_conf": 0.5268021143978775,
+      "S": 1.0095399830102578
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_3b0ad239-da6b-4f6f-8f12-f674dc90ff33.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_3b0ad239-da6b-4f6f-8f12-f674dc90ff33.png",
+    "instruction": "view the details of the item",
+    "bbox_xywh": [
+      42.0,
+      1102.0,
+      197.0,
+      70.0
+    ],
+    "method": "gating_pass_vote (S=1.17)",
+    "score": {
+      "C_spatial": 0.6737232255838935,
+      "avg_conf": 0.5001514928724196,
+      "S": 1.1738747184563132
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_0q7ijc.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_0q7ijc.png",
+    "instruction": "View more details about the sword and shield item",
+    "bbox_xywh": [
+      1211.0,
+      685.0,
+      215.0,
+      230.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.5148256886838266,
+      "avg_conf": 0.41637552273477857,
+      "S": 0.9312012114186052
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_0qfaj2.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_0qfaj2.png",
+    "instruction": " check privacy policy",
+    "bbox_xywh": [
+      524.0,
+      1029.0,
+      92.0,
+      18.0
+    ],
+    "method": "gating_pass_vote (S=1.40)",
+    "score": {
+      "C_spatial": 0.755976583868726,
+      "avg_conf": 0.6390689625839063,
+      "S": 1.3950455464526323
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_174lzg.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_174lzg.png",
+    "instruction": "view more details about rental cars",
+    "bbox_xywh": [
+      1162.0,
+      290.0,
+      376.0,
+      158.0
+    ],
+    "method": "gating_pass_vote (S=0.90)",
+    "score": {
+      "C_spatial": 0.40787255910099524,
+      "avg_conf": 0.49616798074593493,
+      "S": 0.9040405398469302
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_1hc78j.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_1hc78j.png",
+    "instruction": "sign up ",
+    "bbox_xywh": [
+      1602.0,
+      10.0,
+      147.0,
+      50.0
+    ],
+    "method": "gating_pass_vote (S=1.09)",
+    "score": {
+      "C_spatial": 0.5915031460461454,
+      "avg_conf": 0.5006055880844432,
+      "S": 1.0921087341305886
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_35ra1b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_35ra1b.png",
+    "instruction": "star the awesome-huggingface project",
+    "bbox_xywh": [
+      1402.0,
+      593.0,
+      59.0,
+      28.0
+    ],
+    "method": "gating_pass_vote (S=0.98)",
+    "score": {
+      "C_spatial": 0.4269393816833829,
+      "avg_conf": 0.5578151034518724,
+      "S": 0.9847544851352552
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_38k1l1.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_38k1l1.png",
+    "instruction": "search in this page",
+    "bbox_xywh": [
+      1702.0,
+      30.0,
+      57.0,
+      51.0
+    ],
+    "method": "gating_pass_vote (S=1.02)",
+    "score": {
+      "C_spatial": 0.4706325990497437,
+      "avg_conf": 0.5542872767839633,
+      "S": 1.024919875833707
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_3dpus9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_3dpus9.png",
+    "instruction": "Switch the language that needs to be translated to Chinese",
+    "bbox_xywh": [
+      449.0,
+      144.0,
+      92.0,
+      28.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.5082910196626853,
+      "avg_conf": 0.5204930877192004,
+      "S": 1.0287841073818857
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_43vc1w.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_43vc1w.png",
+    "instruction": "check the free trial",
+    "bbox_xywh": [
+      355.0,
+      563.0,
+      140.0,
+      50.0
+    ],
+    "method": "gating_pass_vote (S=1.17)",
+    "score": {
+      "C_spatial": 0.6503486081484035,
+      "avg_conf": 0.5148579904459887,
+      "S": 1.1652065985943922
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_50x1xn.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_50x1xn.png",
+    "instruction": "add wikipedia to wishlist",
+    "bbox_xywh": [
+      627.0,
+      644.0,
+      142.0,
+      40.0
+    ],
+    "method": "gating_pass_vote (S=1.10)",
+    "score": {
+      "C_spatial": 0.6018368514301482,
+      "avg_conf": 0.5007814250415544,
+      "S": 1.1026182764717025
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_7bnnwq.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_7bnnwq.png",
+    "instruction": "Click the current date",
+    "bbox_xywh": [
+      1044.0,
+      598.0,
+      245.0,
+      56.0
+    ],
+    "method": "gating_pass_vote (S=1.32)",
+    "score": {
+      "C_spatial": 0.7940509819788116,
+      "avg_conf": 0.5251558623512538,
+      "S": 1.3192068443300653
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_7so32e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_7so32e.png",
+    "instruction": "search in this documentation",
+    "bbox_xywh": [
+      562.0,
+      224.0,
+      799.0,
+      52.0
+    ],
+    "method": "gating_pass_vote (S=0.80)",
+    "score": {
+      "C_spatial": 0.3019119974911783,
+      "avg_conf": 0.49791515819702614,
+      "S": 0.7998271556882044
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_7ywy7e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_7ywy7e.png",
+    "instruction": "switch the payment option to upgrade program",
+    "bbox_xywh": [
+      964.0,
+      473.0,
+      337.0,
+      186.0
+    ],
+    "method": "gating_pass_vote (S=0.76)",
+    "score": {
+      "C_spatial": 0.35011520260692625,
+      "avg_conf": 0.4110169174702378,
+      "S": 0.761132120077164
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_83raem.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_83raem.png",
+    "instruction": "Change the temperature display unit to Celsius",
+    "bbox_xywh": [
+      1460.0,
+      29.0,
+      76.0,
+      33.0
+    ],
+    "method": "gating_pass_vote (S=0.73)",
+    "score": {
+      "C_spatial": 0.24089468274750397,
+      "avg_conf": 0.48909891689680085,
+      "S": 0.7299935996443048
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_8u9hc4.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_8u9hc4.png",
+    "instruction": "view drama books",
+    "bbox_xywh": [
+      450.0,
+      1015.0,
+      150.0,
+      22.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.4854486277269475,
+      "avg_conf": 0.585987113034436,
+      "S": 1.0714357407613835
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_8yff90.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_8yff90.png",
+    "instruction": "Switch the map to 3D display mode",
+    "bbox_xywh": [
+      1724.0,
+      992.0,
+      52.0,
+      47.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.36202418259316366,
+      "avg_conf": 0.5612379526884296,
+      "S": 0.9232621352815933
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_911npk.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_911npk.png",
+    "instruction": "log in",
+    "bbox_xywh": [
+      1712.0,
+      10.0,
+      144.0,
+      40.0
+    ],
+    "method": "gating_pass_vote (S=1.04)",
+    "score": {
+      "C_spatial": 0.5188650654388602,
+      "avg_conf": 0.5232212296490484,
+      "S": 1.0420862950879086
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_92ejhx.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_92ejhx.png",
+    "instruction": "install a steam desktop application",
+    "bbox_xywh": [
+      1187.0,
+      4.0,
+      118.0,
+      30.0
+    ],
+    "method": "gating_pass_vote (S=1.15)",
+    "score": {
+      "C_spatial": 0.6277215724764194,
+      "avg_conf": 0.51779808054802,
+      "S": 1.1455196530244394
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_92nqwh.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_92nqwh.png",
+    "instruction": "Change the webpage language to French",
+    "bbox_xywh": [
+      699.0,
+      665.0,
+      106.0,
+      27.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.44310443422600493,
+      "avg_conf": 0.48647211078051555,
+      "S": 0.9295765450065205
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_a5axk7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_a5axk7.png",
+    "instruction": "check more details about Nintendo Switch 2",
+    "bbox_xywh": [
+      811.0,
+      78.0,
+      300.0,
+      238.0
+    ],
+    "method": "gating_pass_vote (S=1.37)",
+    "score": {
+      "C_spatial": 0.8525951967506566,
+      "avg_conf": 0.5137142119478959,
+      "S": 1.3663094086985526
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_aon6bc.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_aon6bc.png",
+    "instruction": "Adjust the quantity of the product",
+    "bbox_xywh": [
+      1467.0,
+      480.0,
+      211.0,
+      34.0
+    ],
+    "method": "gating_pass_vote (S=1.14)",
+    "score": {
+      "C_spatial": 0.6131428113887082,
+      "avg_conf": 0.5299025618769201,
+      "S": 1.1430453732656283
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_asqyu8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_asqyu8.png",
+    "instruction": "view more information about the airpods item",
+    "bbox_xywh": [
+      900.0,
+      73.0,
+      78.0,
+      38.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.5598217754509985,
+      "avg_conf": 0.5098108105050237,
+      "S": 1.0696325859560223
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_bvupbc.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_bvupbc.png",
+    "instruction": "learn more about earn degree credit",
+    "bbox_xywh": [
+      1219.0,
+      492.0,
+      121.0,
+      34.0
+    ],
+    "method": "gating_pass_vote (S=0.79)",
+    "score": {
+      "C_spatial": 0.2795682496282114,
+      "avg_conf": 0.5153126616098391,
+      "S": 0.7948809112380506
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_c5bdvl.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_c5bdvl.png",
+    "instruction": "Change the payment currency",
+    "bbox_xywh": [
+      953.0,
+      607.0,
+      154.0,
+      36.0
+    ],
+    "method": "gating_pass_vote (S=1.13)",
+    "score": {
+      "C_spatial": 0.6016012481566227,
+      "avg_conf": 0.529383653381591,
+      "S": 1.1309849015382136
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_citsb7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_citsb7.png",
+    "instruction": "Purchase the latest battlegroud season pass",
+    "bbox_xywh": [
+      335.0,
+      452.0,
+      285.0,
+      59.0
+    ],
+    "method": "gating_pass_vote (S=1.04)",
+    "score": {
+      "C_spatial": 0.5563169997939704,
+      "avg_conf": 0.48201979908483394,
+      "S": 1.0383367988788044
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_cmyhc5.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_cmyhc5.png",
+    "instruction": "check the blog",
+    "bbox_xywh": [
+      869.0,
+      9.0,
+      95.0,
+      51.0
+    ],
+    "method": "gating_pass_vote (S=0.94)",
+    "score": {
+      "C_spatial": 0.46381752479072336,
+      "avg_conf": 0.47741836542924754,
+      "S": 0.9412358902199709
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_coivm6.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_coivm6.png",
+    "instruction": "switch off \"keep me logged in\" setting",
+    "bbox_xywh": [
+      784.0,
+      313.0,
+      27.0,
+      24.0
+    ],
+    "method": "gating_pass_vote (S=1.20)",
+    "score": {
+      "C_spatial": 0.6035512185493053,
+      "avg_conf": 0.5966167198025534,
+      "S": 1.2001679383518586
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_d1bbz4.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_d1bbz4.png",
+    "instruction": "choose downloading docker in mac-apple silicon",
+    "bbox_xywh": [
+      653.0,
+      670.0,
+      347.0,
+      49.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.5663083594934376,
+      "avg_conf": 0.43549338892260636,
+      "S": 1.001801748416044
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_dho92e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_dho92e.png",
+    "instruction": "Click to mark Anna's comment as unhelpful",
+    "bbox_xywh": [
+      538.0,
+      604.0,
+      65.0,
+      28.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.39104039552039416,
+      "avg_conf": 0.5280057387909902,
+      "S": 0.9190461343113844
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_dkh41m.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_dkh41m.png",
+    "instruction": "Choose to sort from oldest to newest",
+    "bbox_xywh": [
+      1099.0,
+      587.0,
+      24.0,
+      27.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.39338171646660747,
+      "avg_conf": 0.5405877176066316,
+      "S": 0.9339694340732391
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_e21gwr.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_e21gwr.png",
+    "instruction": "Modify the display font size",
+    "bbox_xywh": [
+      1382.0,
+      79.0,
+      76.0,
+      53.0
+    ],
+    "method": "gating_pass_vote (S=1.12)",
+    "score": {
+      "C_spatial": 0.5273396136171108,
+      "avg_conf": 0.5961285973765739,
+      "S": 1.1234682109936847
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_f4ww24.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_f4ww24.png",
+    "instruction": "Choose to download PyTorch for Mac system",
+    "bbox_xywh": [
+      757.0,
+      555.0,
+      205.0,
+      40.0
+    ],
+    "method": "gating_pass_vote (S=0.73)",
+    "score": {
+      "C_spatial": 0.27708557867647066,
+      "avg_conf": 0.44823769299610566,
+      "S": 0.7253232716725764
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_ftpvmj.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_ftpvmj.png",
+    "instruction": "Upvote Tillman's post",
+    "bbox_xywh": [
+      563.0,
+      786.0,
+      138.0,
+      36.0
+    ],
+    "method": "gating_pass_vote (S=1.08)",
+    "score": {
+      "C_spatial": 0.5133265458688506,
+      "avg_conf": 0.5636113763333259,
+      "S": 1.0769379222021764
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_gflr2y.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_gflr2y.png",
+    "instruction": "View the next page of the browse by category section",
+    "bbox_xywh": [
+      1431.0,
+      893.0,
+      44.0,
+      112.0
+    ],
+    "method": "gating_pass_vote (S=0.76)",
+    "score": {
+      "C_spatial": 0.2741331732191681,
+      "avg_conf": 0.49020238252182663,
+      "S": 0.7643355557409948
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_h5egmj.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_h5egmj.png",
+    "instruction": "adjust the volume of the currently playing video",
+    "bbox_xywh": [
+      216.0,
+      757.0,
+      46.0,
+      40.0
+    ],
+    "method": "gating_pass_vote (S=1.20)",
+    "score": {
+      "C_spatial": 0.608314276547377,
+      "avg_conf": 0.5952481294966898,
+      "S": 1.2035624060440668
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_hmoge1.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_hmoge1.png",
+    "instruction": "check whatsapp business",
+    "bbox_xywh": [
+      1369.0,
+      82.0,
+      250.0,
+      230.0
+    ],
+    "method": "gating_pass_vote (S=1.28)",
+    "score": {
+      "C_spatial": 0.83256691661242,
+      "avg_conf": 0.4434617185718527,
+      "S": 1.2760286351842727
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_hnoy0b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_hnoy0b.png",
+    "instruction": "click to close the privacy information bar",
+    "bbox_xywh": [
+      1858.0,
+      1027.0,
+      60.0,
+      39.0
+    ],
+    "method": "gating_pass_vote (S=1.20)",
+    "score": {
+      "C_spatial": 0.5260555453352921,
+      "avg_conf": 0.6707185958699385,
+      "S": 1.1967741412052306
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_ir7ddl.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_ir7ddl.png",
+    "instruction": "stop seeing the ads",
+    "bbox_xywh": [
+      814.0,
+      118.0,
+      158.0,
+      36.0
+    ],
+    "method": "gating_pass_vote (S=1.20)",
+    "score": {
+      "C_spatial": 0.6697318656270862,
+      "avg_conf": 0.5291014136472697,
+      "S": 1.198833279274356
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_isogec.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_isogec.png",
+    "instruction": "view more replies from user 'offialwildcardadventures' reply",
+    "bbox_xywh": [
+      162.0,
+      828.0,
+      118.0,
+      27.0
+    ],
+    "method": "gating_pass_vote (S=0.76)",
+    "score": {
+      "C_spatial": 0.33173365502796276,
+      "avg_conf": 0.4297279079026472,
+      "S": 0.76146156293061
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_j2wrmj.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_j2wrmj.png",
+    "instruction": "choose the 1Tb storage",
+    "bbox_xywh": [
+      1472.0,
+      723.0,
+      329.0,
+      83.0
+    ],
+    "method": "gating_pass_vote (S=1.32)",
+    "score": {
+      "C_spatial": 0.7940367586248891,
+      "avg_conf": 0.5264824076884219,
+      "S": 1.3205191663133111
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_j3nekk.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_j3nekk.png",
+    "instruction": "view my account profile",
+    "bbox_xywh": [
+      1741.0,
+      8.0,
+      142.0,
+      72.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.4772755842502776,
+      "avg_conf": 0.47093922507800934,
+      "S": 0.948214809328287
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_j7u75j.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_j7u75j.png",
+    "instruction": "Close the pop-up window in the bottom right corner",
+    "bbox_xywh": [
+      1881.0,
+      1052.0,
+      27.0,
+      27.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.4503615276585976,
+      "avg_conf": 0.623798712477974,
+      "S": 1.0741602401365715
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_jn0jbi.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_jn0jbi.png",
+    "instruction": "upvote MagicJoshByGosh's reply",
+    "bbox_xywh": [
+      748.0,
+      681.0,
+      59.0,
+      23.0
+    ],
+    "method": "gating_pass_vote (S=0.91)",
+    "score": {
+      "C_spatial": 0.3852661108273702,
+      "avg_conf": 0.5274173927431479,
+      "S": 0.9126835035705181
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_kj0f2t.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_kj0f2t.png",
+    "instruction": "enter my own password for logging in",
+    "bbox_xywh": [
+      968.0,
+      373.0,
+      246.0,
+      41.0
+    ],
+    "method": "gating_pass_vote (S=1.14)",
+    "score": {
+      "C_spatial": 0.6208513563013486,
+      "avg_conf": 0.5153439588277594,
+      "S": 1.136195315129108
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_m76p3o.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_m76p3o.png",
+    "instruction": "add black myth to my steam cart",
+    "bbox_xywh": [
+      976.0,
+      990.0,
+      109.0,
+      34.0
+    ],
+    "method": "gating_pass_vote (S=1.08)",
+    "score": {
+      "C_spatial": 0.5364582814095473,
+      "avg_conf": 0.5403129791495216,
+      "S": 1.076771260559069
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_mqbuo5.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_mqbuo5.png",
+    "instruction": "view the community of minecraft",
+    "bbox_xywh": [
+      934.0,
+      7.0,
+      139.0,
+      72.0
+    ],
+    "method": "gating_pass_vote (S=1.02)",
+    "score": {
+      "C_spatial": 0.5198772527936429,
+      "avg_conf": 0.496511179651019,
+      "S": 1.016388432444662
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_nnxneu.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_nnxneu.png",
+    "instruction": "view more videos about VALORANT",
+    "bbox_xywh": [
+      439.0,
+      556.0,
+      211.0,
+      348.0
+    ],
+    "method": "gating_pass_vote (S=0.94)",
+    "score": {
+      "C_spatial": 0.5671981124641222,
+      "avg_conf": 0.36994090081396114,
+      "S": 0.9371390132780834
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_nzts74.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_nzts74.png",
+    "instruction": "view more details about ResearchGate",
+    "bbox_xywh": [
+      1244.0,
+      937.0,
+      251.0,
+      79.0
+    ],
+    "method": "gating_pass_vote (S=0.74)",
+    "score": {
+      "C_spatial": 0.33058185920618444,
+      "avg_conf": 0.41242753088163747,
+      "S": 0.7430093900878219
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_oh7753.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_oh7753.png",
+    "instruction": "view classic rock's video",
+    "bbox_xywh": [
+      753.0,
+      943.0,
+      320.0,
+      130.0
+    ],
+    "method": "gating_pass_vote (S=1.18)",
+    "score": {
+      "C_spatial": 0.7106056826079055,
+      "avg_conf": 0.4685610313661334,
+      "S": 1.179166713974039
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_q8t3el.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_q8t3el.png",
+    "instruction": "View the comments on the first article about Musk on the page",
+    "bbox_xywh": [
+      661.0,
+      474.0,
+      65.0,
+      33.0
+    ],
+    "method": "gating_pass_vote (S=1.08)",
+    "score": {
+      "C_spatial": 0.5803953999018999,
+      "avg_conf": 0.501067867688408,
+      "S": 1.081463267590308
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_ql1kqj.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_ql1kqj.png",
+    "instruction": "Play the video explaining the physical characteristics of Mars",
+    "bbox_xywh": [
+      937.0,
+      320.0,
+      246.0,
+      128.0
+    ],
+    "method": "gating_pass_vote (S=0.77)",
+    "score": {
+      "C_spatial": 0.2755709305389689,
+      "avg_conf": 0.4941379383699506,
+      "S": 0.7697088689089195
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_qltu7f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_qltu7f.png",
+    "instruction": "Follow the Twitter account of 'Ask PayPal'",
+    "bbox_xywh": [
+      1481.0,
+      448.0,
+      88.0,
+      35.0
+    ],
+    "method": "gating_pass_vote (S=0.94)",
+    "score": {
+      "C_spatial": 0.4238355375074335,
+      "avg_conf": 0.5158736032761666,
+      "S": 0.9397091407836001
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_r2k5yc.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_r2k5yc.png",
+    "instruction": "Download DuckDuckGo as a Firefox browser extension",
+    "bbox_xywh": [
+      1194.0,
+      225.0,
+      94.0,
+      91.0
+    ],
+    "method": "gating_pass_vote (S=1.14)",
+    "score": {
+      "C_spatial": 0.6167811090823286,
+      "avg_conf": 0.519765046895889,
+      "S": 1.1365461559782175
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_rlhjuk.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_rlhjuk.png",
+    "instruction": "View the weather details for Beijing",
+    "bbox_xywh": [
+      684.0,
+      216.0,
+      174.0,
+      130.0
+    ],
+    "method": "gating_pass_vote (S=1.31)",
+    "score": {
+      "C_spatial": 0.7809312566960216,
+      "avg_conf": 0.5270351193840456,
+      "S": 1.307966376080067
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_s3z321.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_s3z321.png",
+    "instruction": "Copy the HTTP download link for this GitHub project",
+    "bbox_xywh": [
+      1199.0,
+      340.0,
+      42.0,
+      34.0
+    ],
+    "method": "gating_pass_vote (S=0.81)",
+    "score": {
+      "C_spatial": 0.2847090130002948,
+      "avg_conf": 0.5270756964737259,
+      "S": 0.8117847094740207
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_s6sun5.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_s6sun5.png",
+    "instruction": "View my shopping cart",
+    "bbox_xywh": [
+      1752.0,
+      29.0,
+      46.0,
+      33.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.4417240056999872,
+      "avg_conf": 0.5620751360060412,
+      "S": 1.0037991417060284
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_sz54xt.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_sz54xt.png",
+    "instruction": "Reject all privacy terms",
+    "bbox_xywh": [
+      974.0,
+      422.0,
+      146.0,
+      45.0
+    ],
+    "method": "gating_pass_vote (S=1.32)",
+    "score": {
+      "C_spatial": 0.7084949552035964,
+      "avg_conf": 0.6104572938510547,
+      "S": 1.318952249054651
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_tpgtas.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_tpgtas.png",
+    "instruction": "Click to send the verification code to the specified email address",
+    "bbox_xywh": [
+      1072.0,
+      597.0,
+      192.0,
+      60.0
+    ],
+    "method": "gating_pass_vote (S=1.16)",
+    "score": {
+      "C_spatial": 0.6371916460565312,
+      "avg_conf": 0.5239033184575409,
+      "S": 1.161094964514072
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_tpwp1v.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_tpwp1v.png",
+    "instruction": "check shoes under 50 dollars in \"shop deals in fashion\" part",
+    "bbox_xywh": [
+      1526.0,
+      628.0,
+      156.0,
+      140.0
+    ],
+    "method": "gating_pass_vote (S=1.20)",
+    "score": {
+      "C_spatial": 0.7136398327760618,
+      "avg_conf": 0.4822679664329498,
+      "S": 1.1959077992090115
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_ts6lzz.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_ts6lzz.png",
+    "instruction": "check the book named Ms. Rachel",
+    "bbox_xywh": [
+      871.0,
+      579.0,
+      203.0,
+      193.0
+    ],
+    "method": "gating_pass_vote (S=1.15)",
+    "score": {
+      "C_spatial": 0.7191126105441625,
+      "avg_conf": 0.4334188436943847,
+      "S": 1.1525314542385472
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_uilgwu.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_uilgwu.png",
+    "instruction": "Select the time of day for the reserved vehicle to arrive",
+    "bbox_xywh": [
+      589.0,
+      486.0,
+      195.0,
+      55.0
+    ],
+    "method": "gating_pass_vote (S=1.32)",
+    "score": {
+      "C_spatial": 0.7765104964004859,
+      "avg_conf": 0.541663442429869,
+      "S": 1.3181739388303548
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_ujxrkl.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_ujxrkl.png",
+    "instruction": "Replay the current video",
+    "bbox_xywh": [
+      681.0,
+      445.0,
+      117.0,
+      99.0
+    ],
+    "method": "gating_pass_vote (S=1.18)",
+    "score": {
+      "C_spatial": 0.6665460410239733,
+      "avg_conf": 0.5107933362581507,
+      "S": 1.1773393772821241
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_uvhr8l.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_uvhr8l.png",
+    "instruction": "donate to python project",
+    "bbox_xywh": [
+      1026.0,
+      91.0,
+      79.0,
+      39.0
+    ],
+    "method": "gating_pass_vote (S=1.33)",
+    "score": {
+      "C_spatial": 0.7556334255605688,
+      "avg_conf": 0.5717520821417711,
+      "S": 1.3273855077023398
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "web_vlk2rj.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_vlk2rj.png",
+    "instruction": "Check the Mega products in the brand selection",
+    "bbox_xywh": [
+      211.0,
+      668.0,
+      33.0,
+      21.0
+    ],
+    "method": "gating_pass_vote (S=1.21)",
+    "score": {
+      "C_spatial": 0.5861787879948709,
+      "avg_conf": 0.620191052152268,
+      "S": 1.206369840147139
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "web",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "web_y5xkl0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/web_y5xkl0.png",
+    "instruction": "register now for pytorch",
+    "bbox_xywh": [
+      366.0,
+      391.0,
+      156.0,
+      51.0
+    ],
+    "method": "gating_pass_vote (S=1.10)",
+    "score": {
+      "C_spatial": 0.6052249169866546,
+      "avg_conf": 0.4911915993254431,
+      "S": 1.0964165163120976
+    },
+    "correctness": "correct"
+  }
+]

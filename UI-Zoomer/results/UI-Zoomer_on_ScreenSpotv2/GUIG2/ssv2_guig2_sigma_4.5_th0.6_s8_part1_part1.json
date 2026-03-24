@@ -1,0 +1,6680 @@
+[
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "pc_o4nd16.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_o4nd16.png",
+    "instruction": "select all folders",
+    "bbox_xywh": [
+      707.0,
+      644.0,
+      189.0,
+      30.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.4727338159143476,
+      "avg_conf": 0.48076463244293843,
+      "S": 0.953498448357286
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "pc_odcu20.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_odcu20.png",
+    "instruction": "search in this folder",
+    "bbox_xywh": [
+      2207.0,
+      76.0,
+      647.0,
+      46.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.6334319284103455,
+      "avg_conf": 0.4326721288064381,
+      "S": 1.0661040572167835
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "pc_oyo43s.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_oyo43s.png",
+    "instruction": "center the selected text",
+    "bbox_xywh": [
+      927.0,
+      130.0,
+      40.0,
+      32.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.33)",
+    "score": {
+      "C_spatial": 0.0,
+      "avg_conf": 0.33340648386409344,
+      "S": 0.33340648386409344
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "pc_p4xo8z.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_p4xo8z.png",
+    "instruction": "add a new input method",
+    "bbox_xywh": [
+      1132.0,
+      403.0,
+      592.0,
+      54.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.41375188539414626,
+      "avg_conf": 0.6123415478820544,
+      "S": 1.0260934332762006
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "pc_pl3ry1.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_pl3ry1.png",
+    "instruction": "update all available apps",
+    "bbox_xywh": [
+      2632.0,
+      143.0,
+      170.0,
+      59.0
+    ],
+    "method": "gating_pass_vote (S=1.09)",
+    "score": {
+      "C_spatial": 0.5660287406327659,
+      "avg_conf": 0.5194081270858901,
+      "S": 1.085436867718656
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "pc_qao1zc.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_qao1zc.png",
+    "instruction": "open nac client ",
+    "bbox_xywh": [
+      1610.0,
+      800.0,
+      163.0,
+      163.0
+    ],
+    "method": "gating_pass_vote (S=0.83)",
+    "score": {
+      "C_spatial": 0.3969219257990312,
+      "avg_conf": 0.4346488899569409,
+      "S": 0.831570815755972
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "pc_rvnx5q.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_rvnx5q.png",
+    "instruction": "select a new time format",
+    "bbox_xywh": [
+      1137.0,
+      355.0,
+      598.0,
+      58.0
+    ],
+    "method": "gating_pass_vote (S=0.90)",
+    "score": {
+      "C_spatial": 0.40923145674058575,
+      "avg_conf": 0.4907800571272574,
+      "S": 0.9000115138678432
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "pc_st4s1n.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_st4s1n.png",
+    "instruction": "view get more help",
+    "bbox_xywh": [
+      772.0,
+      755.0,
+      305.0,
+      75.0
+    ],
+    "method": "gating_pass_vote (S=0.87)",
+    "score": {
+      "C_spatial": 0.4206107446851241,
+      "avg_conf": 0.4482137129366167,
+      "S": 0.8688244576217408
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "pc_suf989.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_suf989.png",
+    "instruction": "do not save this file",
+    "bbox_xywh": [
+      996.0,
+      755.0,
+      211.0,
+      50.0
+    ],
+    "method": "gating_pass_vote (S=0.79)",
+    "score": {
+      "C_spatial": 0.3224218003710631,
+      "avg_conf": 0.4653419284362132,
+      "S": 0.7877637288072763
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "pc_u77zz1.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_u77zz1.png",
+    "instruction": "open the map app",
+    "bbox_xywh": [
+      553.0,
+      1688.0,
+      88.0,
+      81.0
+    ],
+    "method": "gating_pass_vote (S=1.16)",
+    "score": {
+      "C_spatial": 0.6520858631992131,
+      "avg_conf": 0.5050202744414011,
+      "S": 1.1571061376406142
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "pc_umvv32.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_umvv32.png",
+    "instruction": "switch to NAT network connections",
+    "bbox_xywh": [
+      962.0,
+      740.0,
+      515.0,
+      33.0
+    ],
+    "method": "gating_pass_vote (S=0.70)",
+    "score": {
+      "C_spatial": 0.2271202637085527,
+      "avg_conf": 0.4710233979420151,
+      "S": 0.6981436616505678
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "pc_uuhwlx.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_uuhwlx.png",
+    "instruction": "open the calculator",
+    "bbox_xywh": [
+      1309.0,
+      526.0,
+      114.0,
+      132.0
+    ],
+    "method": "gating_pass_vote (S=0.71)",
+    "score": {
+      "C_spatial": 0.2923734278183233,
+      "avg_conf": 0.41874370232168256,
+      "S": 0.7111171301400059
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "pc_vcud9k.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_vcud9k.png",
+    "instruction": "insert a new slide",
+    "bbox_xywh": [
+      269.0,
+      127.0,
+      113.0,
+      132.0
+    ],
+    "method": "gating_pass_vote (S=0.83)",
+    "score": {
+      "C_spatial": 0.39615153569129047,
+      "avg_conf": 0.43829755572655854,
+      "S": 0.8344490914178491
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "pc_z7ydq8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_z7ydq8.png",
+    "instruction": "view more information about bomber",
+    "bbox_xywh": [
+      1466.0,
+      644.0,
+      147.0,
+      136.0
+    ],
+    "method": "gating_pass_vote (S=0.97)",
+    "score": {
+      "C_spatial": 0.5238231758345212,
+      "avg_conf": 0.44231927289972084,
+      "S": 0.966142448734242
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "pc_zuyj00.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_zuyj00.png",
+    "instruction": "adjust the options of  \"show previous\"",
+    "bbox_xywh": [
+      1744.0,
+      281.0,
+      258.0,
+      53.0
+    ],
+    "method": "gating_pass_vote (S=0.70)",
+    "score": {
+      "C_spatial": 0.2479200860560057,
+      "avg_conf": 0.44806892919548885,
+      "S": 0.6959890152514946
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "pc_aaaaaa.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_aaaaaa.png",
+    "instruction": "enter my full name",
+    "bbox_xywh": [
+      701.0,
+      321.0,
+      417.0,
+      34.0
+    ],
+    "method": "gating_pass_vote (S=1.09)",
+    "score": {
+      "C_spatial": 0.6222619273777917,
+      "avg_conf": 0.46467674107630486,
+      "S": 1.0869386684540965
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_1ca5b944-293a-46a1-af95-eb35bc8a0b2a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1ca5b944-293a-46a1-af95-eb35bc8a0b2a.png",
+    "instruction": "check the weather",
+    "bbox_xywh": [
+      223.0,
+      78.0,
+      601.0,
+      593.0
+    ],
+    "method": "gating_pass_vote (S=1.24)",
+    "score": {
+      "C_spatial": 0.8629088457001174,
+      "avg_conf": 0.37323259368347284,
+      "S": 1.2361414393835903
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_1ca5b944-293a-46a1-af95-eb35bc8a0b2a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1ca5b944-293a-46a1-af95-eb35bc8a0b2a.png",
+    "instruction": "view world clock",
+    "bbox_xywh": [
+      879.0,
+      75.0,
+      599.0,
+      269.0
+    ],
+    "method": "gating_pass_vote (S=1.37)",
+    "score": {
+      "C_spatial": 0.9106932238545893,
+      "avg_conf": 0.4563085296385389,
+      "S": 1.3670017534931282
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_1ca5b944-293a-46a1-af95-eb35bc8a0b2a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1ca5b944-293a-46a1-af95-eb35bc8a0b2a.png",
+    "instruction": "open facetime app",
+    "bbox_xywh": [
+      618.0,
+      808.0,
+      130.0,
+      158.0
+    ],
+    "method": "gating_pass_vote (S=1.17)",
+    "score": {
+      "C_spatial": 0.7148707494531062,
+      "avg_conf": 0.45929824974450506,
+      "S": 1.1741689991976112
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_1ca5b944-293a-46a1-af95-eb35bc8a0b2a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1ca5b944-293a-46a1-af95-eb35bc8a0b2a.png",
+    "instruction": "open the camera",
+    "bbox_xywh": [
+      1936.0,
+      806.0,
+      120.0,
+      166.0
+    ],
+    "method": "gating_pass_vote (S=1.15)",
+    "score": {
+      "C_spatial": 0.6740362338493308,
+      "avg_conf": 0.47609237217462325,
+      "S": 1.150128606023954
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_6949b916-64c8-431f-8842-a29a9a557641.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6949b916-64c8-431f-8842-a29a9a557641.png",
+    "instruction": "view the menu",
+    "bbox_xywh": [
+      40.0,
+      64.0,
+      80.0,
+      66.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.49248526194077885,
+      "avg_conf": 0.5545111581634727,
+      "S": 1.0469964201042516
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_6949b916-64c8-431f-8842-a29a9a557641.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6949b916-64c8-431f-8842-a29a9a557641.png",
+    "instruction": "select source language",
+    "bbox_xywh": [
+      1077.0,
+      78.0,
+      92.0,
+      115.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.6732422706234688,
+      "avg_conf": 0.3758836993820761,
+      "S": 1.0491259700055449
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_6949b916-64c8-431f-8842-a29a9a557641.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6949b916-64c8-431f-8842-a29a9a557641.png",
+    "instruction": "close the translation",
+    "bbox_xywh": [
+      1733.0,
+      230.0,
+      95.0,
+      100.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.442309775654345,
+      "avg_conf": 0.5574125974906612,
+      "S": 0.9997223731450062
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_702eab66-81f1-4aac-a252-37b5f7c3ae68.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_702eab66-81f1-4aac-a252-37b5f7c3ae68.png",
+    "instruction": "translate the input sentence",
+    "bbox_xywh": [
+      1681.0,
+      1407.0,
+      103.0,
+      103.0
+    ],
+    "method": "gating_pass_vote (S=0.96)",
+    "score": {
+      "C_spatial": 0.4581514279210997,
+      "avg_conf": 0.5066724014604619,
+      "S": 0.9648238293815616
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_a1366f87-f1f1-402c-911a-d239eb60eac8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_a1366f87-f1f1-402c-911a-d239eb60eac8.png",
+    "instruction": "add a new file",
+    "bbox_xywh": [
+      29.0,
+      365.0,
+      72.0,
+      77.0
+    ],
+    "method": "gating_pass_vote (S=0.77)",
+    "score": {
+      "C_spatial": 0.3330608027795822,
+      "avg_conf": 0.4397990327038023,
+      "S": 0.7728598354833844
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_a1366f87-f1f1-402c-911a-d239eb60eac8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_a1366f87-f1f1-402c-911a-d239eb60eac8.png",
+    "instruction": "click the search bar",
+    "bbox_xywh": [
+      825.0,
+      72.0,
+      848.0,
+      77.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.6298432832545517,
+      "avg_conf": 0.42103443635619286,
+      "S": 1.0508777196107446
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_a1366f87-f1f1-402c-911a-d239eb60eac8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_a1366f87-f1f1-402c-911a-d239eb60eac8.png",
+    "instruction": "view the settings in this app",
+    "bbox_xywh": [
+      23.0,
+      1507.0,
+      80.0,
+      77.0
+    ],
+    "method": "gating_pass_vote (S=0.81)",
+    "score": {
+      "C_spatial": 0.342319832685961,
+      "avg_conf": 0.4725595501363533,
+      "S": 0.8148793828223143
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_a1366f87-f1f1-402c-911a-d239eb60eac8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_a1366f87-f1f1-402c-911a-d239eb60eac8.png",
+    "instruction": "check shared files",
+    "bbox_xywh": [
+      312.0,
+      198.0,
+      129.0,
+      129.0
+    ],
+    "method": "gating_pass_vote (S=1.14)",
+    "score": {
+      "C_spatial": 0.6952243826181619,
+      "avg_conf": 0.4462142020995411,
+      "S": 1.141438584717703
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_c71efbd9-cd10-4564-949e-50b3b034328a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_c71efbd9-cd10-4564-949e-50b3b034328a.png",
+    "instruction": "add an event",
+    "bbox_xywh": [
+      341.0,
+      70.0,
+      72.0,
+      69.0
+    ],
+    "method": "gating_pass_vote (S=0.83)",
+    "score": {
+      "C_spatial": 0.37652468664170086,
+      "avg_conf": 0.45087252350901774,
+      "S": 0.8273972101507185
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_c71efbd9-cd10-4564-949e-50b3b034328a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_c71efbd9-cd10-4564-949e-50b3b034328a.png",
+    "instruction": "search event",
+    "bbox_xywh": [
+      1873.0,
+      61.0,
+      453.0,
+      80.0
+    ],
+    "method": "gating_pass_vote (S=1.13)",
+    "score": {
+      "C_spatial": 0.6771925761479421,
+      "avg_conf": 0.4510371003613455,
+      "S": 1.1282296765092876
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_c71efbd9-cd10-4564-949e-50b3b034328a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_c71efbd9-cd10-4564-949e-50b3b034328a.png",
+    "instruction": "view as year",
+    "bbox_xywh": [
+      1326.0,
+      67.0,
+      158.0,
+      69.0
+    ],
+    "method": "gating_pass_vote (S=0.96)",
+    "score": {
+      "C_spatial": 0.4847868649652952,
+      "avg_conf": 0.47468524301862425,
+      "S": 0.9594721079839195
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_c71efbd9-cd10-4564-949e-50b3b034328a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_c71efbd9-cd10-4564-949e-50b3b034328a.png",
+    "instruction": "the fifth in this month",
+    "bbox_xywh": [
+      676.0,
+      631.0,
+      337.0,
+      281.0
+    ],
+    "method": "gating_pass_vote (S=0.75)",
+    "score": {
+      "C_spatial": 0.3007330773125768,
+      "avg_conf": 0.4465340005591637,
+      "S": 0.7472670778717405
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_1c1d54b4-5ac1-40cd-9dc6-21a8d3c97d6e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1c1d54b4-5ac1-40cd-9dc6-21a8d3c97d6e.png",
+    "instruction": "click to lock rotation",
+    "bbox_xywh": [
+      1678.0,
+      436.0,
+      140.0,
+      137.0
+    ],
+    "method": "gating_pass_vote (S=0.90)",
+    "score": {
+      "C_spatial": 0.4385807415630934,
+      "avg_conf": 0.4626804077599214,
+      "S": 0.9012611493230148
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_1c1d54b4-5ac1-40cd-9dc6-21a8d3c97d6e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1c1d54b4-5ac1-40cd-9dc6-21a8d3c97d6e.png",
+    "instruction": "close do not disturb",
+    "bbox_xywh": [
+      1675.0,
+      585.0,
+      295.0,
+      143.0
+    ],
+    "method": "gating_pass_vote (S=0.83)",
+    "score": {
+      "C_spatial": 0.3952676371215316,
+      "avg_conf": 0.4390361763992991,
+      "S": 0.8343038135208307
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_1c1d54b4-5ac1-40cd-9dc6-21a8d3c97d6e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1c1d54b4-5ac1-40cd-9dc6-21a8d3c97d6e.png",
+    "instruction": "adjust the voice",
+    "bbox_xywh": [
+      2134.0,
+      439.0,
+      140.0,
+      286.0
+    ],
+    "method": "gating_pass_vote (S=0.82)",
+    "score": {
+      "C_spatial": 0.3670525088592517,
+      "avg_conf": 0.45394990116668166,
+      "S": 0.8210024100259334
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_1c1d54b4-5ac1-40cd-9dc6-21a8d3c97d6e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1c1d54b4-5ac1-40cd-9dc6-21a8d3c97d6e.png",
+    "instruction": "open the timer",
+    "bbox_xywh": [
+      1835.0,
+      1046.0,
+      132.0,
+      135.0
+    ],
+    "method": "gating_pass_vote (S=1.08)",
+    "score": {
+      "C_spatial": 0.5871787213262901,
+      "avg_conf": 0.49628325285491376,
+      "S": 1.083461974181204
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_0570bb62-77b0-4d1d-90f4-5e322c2bca17.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_0570bb62-77b0-4d1d-90f4-5e322c2bca17.png",
+    "instruction": "Check handwriting mode options",
+    "bbox_xywh": [
+      2019.0,
+      55.0,
+      86.0,
+      83.0
+    ],
+    "method": "gating_pass_vote (S=0.63)",
+    "score": {
+      "C_spatial": 0.16711099894897702,
+      "avg_conf": 0.4626512643887786,
+      "S": 0.6297622633377556
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_0570bb62-77b0-4d1d-90f4-5e322c2bca17.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_0570bb62-77b0-4d1d-90f4-5e322c2bca17.png",
+    "instruction": "take a photo",
+    "bbox_xywh": [
+      1315.0,
+      67.0,
+      89.0,
+      69.0
+    ],
+    "method": "gating_pass_vote (S=1.19)",
+    "score": {
+      "C_spatial": 0.6459080943752952,
+      "avg_conf": 0.545463576415293,
+      "S": 1.1913716707905881
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_4b1df148-c6ac-452a-b55d-f8e6c6dee059.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_4b1df148-c6ac-452a-b55d-f8e6c6dee059.png",
+    "instruction": "open the file named \"result\"",
+    "bbox_xywh": [
+      770.0,
+      304.0,
+      192.0,
+      275.0
+    ],
+    "method": "gating_pass_vote (S=1.15)",
+    "score": {
+      "C_spatial": 0.6847988948570058,
+      "avg_conf": 0.46043672974007566,
+      "S": 1.1452356245970816
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_4b1df148-c6ac-452a-b55d-f8e6c6dee059.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_4b1df148-c6ac-452a-b55d-f8e6c6dee059.png",
+    "instruction": "view icloud drive",
+    "bbox_xywh": [
+      3.0,
+      539.0,
+      630.0,
+      86.0
+    ],
+    "method": "gating_pass_vote (S=0.91)",
+    "score": {
+      "C_spatial": 0.47812466911171836,
+      "avg_conf": 0.4328041901547651,
+      "S": 0.9109288592664835
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_4b1df148-c6ac-452a-b55d-f8e6c6dee059.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_4b1df148-c6ac-452a-b55d-f8e6c6dee059.png",
+    "instruction": "add a new file",
+    "bbox_xywh": [
+      1469.0,
+      58.0,
+      83.0,
+      83.0
+    ],
+    "method": "gating_pass_vote (S=0.94)",
+    "score": {
+      "C_spatial": 0.4597957646564891,
+      "avg_conf": 0.483686311856749,
+      "S": 0.9434820765132381
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_a8181231-d30c-4051-9ff2-16808694adbf.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_a8181231-d30c-4051-9ff2-16808694adbf.png",
+    "instruction": "search in this note",
+    "bbox_xywh": [
+      180.0,
+      67.0,
+      77.0,
+      66.0
+    ],
+    "method": "gating_pass_vote (S=1.10)",
+    "score": {
+      "C_spatial": 0.5966650432651412,
+      "avg_conf": 0.503361984443734,
+      "S": 1.1000270277088753
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_a8181231-d30c-4051-9ff2-16808694adbf.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_a8181231-d30c-4051-9ff2-16808694adbf.png",
+    "instruction": "add a new page",
+    "bbox_xywh": [
+      2097.0,
+      58.0,
+      77.0,
+      77.0
+    ],
+    "method": "gating_pass_vote (S=1.08)",
+    "score": {
+      "C_spatial": 0.5399800759137585,
+      "avg_conf": 0.5384682256890401,
+      "S": 1.0784483016027986
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_a8181231-d30c-4051-9ff2-16808694adbf.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_a8181231-d30c-4051-9ff2-16808694adbf.png",
+    "instruction": "get more information",
+    "bbox_xywh": [
+      2274.0,
+      58.0,
+      77.0,
+      77.0
+    ],
+    "method": "gating_pass_vote (S=0.85)",
+    "score": {
+      "C_spatial": 0.3721705259565575,
+      "avg_conf": 0.47591196236473915,
+      "S": 0.8480824883212966
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_5313a7b6-4c3a-442f-a5d3-6d53fc8d3ad9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_5313a7b6-4c3a-442f-a5d3-6d53fc8d3ad9.png",
+    "instruction": "tap the search bar",
+    "bbox_xywh": [
+      822.0,
+      67.0,
+      848.0,
+      92.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.6220893346973467,
+      "avg_conf": 0.40422051996282804,
+      "S": 1.0263098546601748
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_5313a7b6-4c3a-442f-a5d3-6d53fc8d3ad9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_5313a7b6-4c3a-442f-a5d3-6d53fc8d3ad9.png",
+    "instruction": "check the pinned files",
+    "bbox_xywh": [
+      610.0,
+      198.0,
+      132.0,
+      126.0
+    ],
+    "method": "gating_pass_vote (S=1.10)",
+    "score": {
+      "C_spatial": 0.6634944698619475,
+      "avg_conf": 0.4390120210493485,
+      "S": 1.102506490911296
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_5313a7b6-4c3a-442f-a5d3-6d53fc8d3ad9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_5313a7b6-4c3a-442f-a5d3-6d53fc8d3ad9.png",
+    "instruction": "sign in",
+    "bbox_xywh": [
+      2211.0,
+      1462.0,
+      132.0,
+      92.0
+    ],
+    "method": "gating_pass_vote (S=0.84)",
+    "score": {
+      "C_spatial": 0.37267026459162506,
+      "avg_conf": 0.46844793542225394,
+      "S": 0.841118200013879
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_1a514eae-4ee0-4780-a059-c47715828e3b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1a514eae-4ee0-4780-a059-c47715828e3b.png",
+    "instruction": "open flight mode",
+    "bbox_xywh": [
+      137.0,
+      435.0,
+      172.0,
+      172.0
+    ],
+    "method": "gating_pass_vote (S=0.90)",
+    "score": {
+      "C_spatial": 0.5102680920910742,
+      "avg_conf": 0.3892159678160439,
+      "S": 0.8994840599071181
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_1a514eae-4ee0-4780-a059-c47715828e3b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1a514eae-4ee0-4780-a059-c47715828e3b.png",
+    "instruction": "open the calculator app",
+    "bbox_xywh": [
+      602.0,
+      1420.0,
+      221.0,
+      214.0
+    ],
+    "method": "gating_pass_vote (S=1.21)",
+    "score": {
+      "C_spatial": 0.7444191175873939,
+      "avg_conf": 0.470342858680156,
+      "S": 1.21476197626755
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_1a514eae-4ee0-4780-a059-c47715828e3b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1a514eae-4ee0-4780-a059-c47715828e3b.png",
+    "instruction": "open the screen recorder",
+    "bbox_xywh": [
+      606.0,
+      1679.0,
+      216.0,
+      216.0
+    ],
+    "method": "gating_pass_vote (S=1.33)",
+    "score": {
+      "C_spatial": 0.8084046291156639,
+      "avg_conf": 0.5193725772289025,
+      "S": 1.3277772063445665
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_1a514eae-4ee0-4780-a059-c47715828e3b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1a514eae-4ee0-4780-a059-c47715828e3b.png",
+    "instruction": "switch on focus mode",
+    "bbox_xywh": [
+      85.0,
+      1160.0,
+      479.0,
+      223.0
+    ],
+    "method": "gating_pass_vote (S=1.19)",
+    "score": {
+      "C_spatial": 0.7405937111157205,
+      "avg_conf": 0.4526225651749565,
+      "S": 1.193216276290677
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_93dec21b-d612-41df-9f76-933ceadaba66.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_93dec21b-d612-41df-9f76-933ceadaba66.png",
+    "instruction": "launch the photos app",
+    "bbox_xywh": [
+      625.0,
+      227.0,
+      189.0,
+      244.0
+    ],
+    "method": "gating_pass_vote (S=1.17)",
+    "score": {
+      "C_spatial": 0.7069546437114625,
+      "avg_conf": 0.46026751238316155,
+      "S": 1.167222156094624
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_93dec21b-d612-41df-9f76-933ceadaba66.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_93dec21b-d612-41df-9f76-933ceadaba66.png",
+    "instruction": "open the clock",
+    "bbox_xywh": [
+      352.0,
+      517.0,
+      195.0,
+      246.0
+    ],
+    "method": "gating_pass_vote (S=1.32)",
+    "score": {
+      "C_spatial": 0.8017233871871261,
+      "avg_conf": 0.5140370761809762,
+      "S": 1.3157604633681022
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_93dec21b-d612-41df-9f76-933ceadaba66.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_93dec21b-d612-41df-9f76-933ceadaba66.png",
+    "instruction": "open the app store",
+    "bbox_xywh": [
+      352.0,
+      1109.0,
+      195.0,
+      246.0
+    ],
+    "method": "gating_pass_vote (S=1.25)",
+    "score": {
+      "C_spatial": 0.7590494745650948,
+      "avg_conf": 0.49233186393695977,
+      "S": 1.2513813385020545
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_93dec21b-d612-41df-9f76-933ceadaba66.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_93dec21b-d612-41df-9f76-933ceadaba66.png",
+    "instruction": "check iphone settings",
+    "bbox_xywh": [
+      896.0,
+      1399.0,
+      187.0,
+      250.0
+    ],
+    "method": "gating_pass_vote (S=1.26)",
+    "score": {
+      "C_spatial": 0.7626852027439089,
+      "avg_conf": 0.49385537104780286,
+      "S": 1.2565405737917117
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_3925834b-893d-4cdf-b9cf-a602466175f3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_3925834b-893d-4cdf-b9cf-a602466175f3.png",
+    "instruction": "check the new ios 17.2.1",
+    "bbox_xywh": [
+      41.0,
+      897.0,
+      1084.0,
+      141.0
+    ],
+    "method": "gating_pass_vote (S=1.09)",
+    "score": {
+      "C_spatial": 0.497551978859388,
+      "avg_conf": 0.5921771857359047,
+      "S": 1.0897291645952927
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_3925834b-893d-4cdf-b9cf-a602466175f3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_3925834b-893d-4cdf-b9cf-a602466175f3.png",
+    "instruction": "check wlan settings",
+    "bbox_xywh": [
+      49.0,
+      1269.0,
+      1072.0,
+      137.0
+    ],
+    "method": "gating_pass_vote (S=0.76)",
+    "score": {
+      "C_spatial": 0.2381994463347107,
+      "avg_conf": 0.5215451326172236,
+      "S": 0.7597445789519343
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_3925834b-893d-4cdf-b9cf-a602466175f3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_3925834b-893d-4cdf-b9cf-a602466175f3.png",
+    "instruction": "check bluetooth",
+    "bbox_xywh": [
+      45.0,
+      1402.0,
+      1078.0,
+      132.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.51)",
+    "score": {
+      "C_spatial": 0.052601892373919996,
+      "avg_conf": 0.45474357357781287,
+      "S": 0.5073454659517329
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_3925834b-893d-4cdf-b9cf-a602466175f3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_3925834b-893d-4cdf-b9cf-a602466175f3.png",
+    "instruction": "check vpn settings",
+    "bbox_xywh": [
+      47.0,
+      1794.0,
+      1076.0,
+      132.0
+    ],
+    "method": "gating_pass_vote (S=0.67)",
+    "score": {
+      "C_spatial": 0.14104079687840812,
+      "avg_conf": 0.5258017778403211,
+      "S": 0.6668425747187292
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_9b66c296-5f43-4312-b933-4dfabf00247c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_9b66c296-5f43-4312-b933-4dfabf00247c.png",
+    "instruction": "view icloud",
+    "bbox_xywh": [
+      47.0,
+      1444.0,
+      1074.0,
+      134.0
+    ],
+    "method": "gating_pass_vote (S=0.61)",
+    "score": {
+      "C_spatial": 0.20353572583378013,
+      "avg_conf": 0.40648017524699137,
+      "S": 0.6100159010807715
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_9b66c296-5f43-4312-b933-4dfabf00247c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_9b66c296-5f43-4312-b933-4dfabf00247c.png",
+    "instruction": "back to settings",
+    "bbox_xywh": [
+      3.0,
+      155.0,
+      292.0,
+      103.0
+    ],
+    "method": "gating_pass_vote (S=0.63)",
+    "score": {
+      "C_spatial": 0.23044083749997912,
+      "avg_conf": 0.40069690220317,
+      "S": 0.6311377397031491
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_9b66c296-5f43-4312-b933-4dfabf00247c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_9b66c296-5f43-4312-b933-4dfabf00247c.png",
+    "instruction": "view password & security details",
+    "bbox_xywh": [
+      45.0,
+      943.0,
+      1078.0,
+      132.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.3575264260303427,
+      "avg_conf": 0.5621732184398184,
+      "S": 0.9196996444701611
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_5c9fb5f1-7d84-4283-8ba4-7821a9545c95.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_5c9fb5f1-7d84-4283-8ba4-7821a9545c95.png",
+    "instruction": "open the wlan",
+    "bbox_xywh": [
+      915.0,
+      397.0,
+      164.0,
+      99.0
+    ],
+    "method": "gating_pass_vote (S=1.27)",
+    "score": {
+      "C_spatial": 0.7385531775277359,
+      "avg_conf": 0.5339010511936352,
+      "S": 1.272454228721371
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_5c9fb5f1-7d84-4283-8ba4-7821a9545c95.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_5c9fb5f1-7d84-4283-8ba4-7821a9545c95.png",
+    "instruction": "edit the wlan setting",
+    "bbox_xywh": [
+      1016.0,
+      162.0,
+      120.0,
+      88.0
+    ],
+    "method": "gating_pass_vote (S=1.22)",
+    "score": {
+      "C_spatial": 0.6353169003754957,
+      "avg_conf": 0.5825839559676383,
+      "S": 1.217900856343134
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_5c9fb5f1-7d84-4283-8ba4-7821a9545c95.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_5c9fb5f1-7d84-4283-8ba4-7821a9545c95.png",
+    "instruction": "choose the pjlab-guest as network",
+    "bbox_xywh": [
+      45.0,
+      990.0,
+      1078.0,
+      145.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.58)",
+    "score": {
+      "C_spatial": 0.22472058400565995,
+      "avg_conf": 0.35876425527399464,
+      "S": 0.5834848392796546
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_5c9fb5f1-7d84-4283-8ba4-7821a9545c95.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_5c9fb5f1-7d84-4283-8ba4-7821a9545c95.png",
+    "instruction": "view detail information about pjlab-office",
+    "bbox_xywh": [
+      993.0,
+      530.0,
+      92.0,
+      99.0
+    ],
+    "method": "gating_pass_vote (S=1.13)",
+    "score": {
+      "C_spatial": 0.5683679964974753,
+      "avg_conf": 0.5571298928924245,
+      "S": 1.1254978893898997
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_70580ad8-f119-4db6-813b-81f950e0569e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_70580ad8-f119-4db6-813b-81f950e0569e.png",
+    "instruction": "choose the stack mode",
+    "bbox_xywh": [
+      488.0,
+      502.0,
+      193.0,
+      345.0
+    ],
+    "method": "gating_pass_vote (S=1.19)",
+    "score": {
+      "C_spatial": 0.739737773302564,
+      "avg_conf": 0.44719056005948377,
+      "S": 1.1869283333620477
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_70580ad8-f119-4db6-813b-81f950e0569e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_70580ad8-f119-4db6-813b-81f950e0569e.png",
+    "instruction": "check scheduled summary",
+    "bbox_xywh": [
+      47.0,
+      1072.0,
+      1074.0,
+      134.0
+    ],
+    "method": "gating_pass_vote (S=0.72)",
+    "score": {
+      "C_spatial": 0.21919563482788632,
+      "avg_conf": 0.5004292518043565,
+      "S": 0.7196248866322428
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_70580ad8-f119-4db6-813b-81f950e0569e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_70580ad8-f119-4db6-813b-81f950e0569e.png",
+    "instruction": "check announce notifications",
+    "bbox_xywh": [
+      47.0,
+      1637.0,
+      1072.0,
+      128.0
+    ],
+    "method": "gating_pass_vote (S=0.83)",
+    "score": {
+      "C_spatial": 0.3282498855401551,
+      "avg_conf": 0.5007998955431531,
+      "S": 0.8290497810833082
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_8e7e6de4-2eac-400c-b845-291fa80c5c7c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_8e7e6de4-2eac-400c-b845-291fa80c5c7c.png",
+    "instruction": "check airdrop setting",
+    "bbox_xywh": [
+      49.0,
+      748.0,
+      1074.0,
+      130.0
+    ],
+    "method": "gating_pass_vote (S=0.65)",
+    "score": {
+      "C_spatial": 0.14337416722445456,
+      "avg_conf": 0.5021608680362059,
+      "S": 0.6455350352606604
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_8e7e6de4-2eac-400c-b845-291fa80c5c7c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_8e7e6de4-2eac-400c-b845-291fa80c5c7c.png",
+    "instruction": "view carplay settings",
+    "bbox_xywh": [
+      47.0,
+      1143.0,
+      1076.0,
+      130.0
+    ],
+    "method": "gating_pass_vote (S=0.99)",
+    "score": {
+      "C_spatial": 0.4261697999612256,
+      "avg_conf": 0.5602512912849846,
+      "S": 0.9864210912462102
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_8e7e6de4-2eac-400c-b845-291fa80c5c7c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_8e7e6de4-2eac-400c-b845-291fa80c5c7c.png",
+    "instruction": "view iphone storage",
+    "bbox_xywh": [
+      49.0,
+      1515.0,
+      1072.0,
+      126.0
+    ],
+    "method": "gating_pass_vote (S=0.84)",
+    "score": {
+      "C_spatial": 0.4261903386321513,
+      "avg_conf": 0.4176225966280437,
+      "S": 0.843812935260195
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_8e7e6de4-2eac-400c-b845-291fa80c5c7c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_8e7e6de4-2eac-400c-b845-291fa80c5c7c.png",
+    "instruction": "check keyboard settings",
+    "bbox_xywh": [
+      45.0,
+      2011.0,
+      1080.0,
+      132.0
+    ],
+    "method": "gating_pass_vote (S=0.73)",
+    "score": {
+      "C_spatial": 0.21610701421041925,
+      "avg_conf": 0.5170056161323255,
+      "S": 0.7331126303427448
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_db81809e-7672-4329-8453-f622d97fa7ca.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_db81809e-7672-4329-8453-f622d97fa7ca.png",
+    "instruction": "disable the allow siri when locked option",
+    "bbox_xywh": [
+      913.0,
+      717.0,
+      164.0,
+      105.0
+    ],
+    "method": "gating_pass_vote (S=1.04)",
+    "score": {
+      "C_spatial": 0.5630340251242084,
+      "avg_conf": 0.47628504706435665,
+      "S": 1.039319072188565
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_db81809e-7672-4329-8453-f622d97fa7ca.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_db81809e-7672-4329-8453-f622d97fa7ca.png",
+    "instruction": "show suggestions",
+    "bbox_xywh": [
+      45.0,
+      2328.0,
+      1076.0,
+      130.0
+    ],
+    "method": "gating_pass_vote (S=1.18)",
+    "score": {
+      "C_spatial": 0.6616361107599497,
+      "avg_conf": 0.5150157697528209,
+      "S": 1.1766518805127706
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_db81809e-7672-4329-8453-f622d97fa7ca.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_db81809e-7672-4329-8453-f622d97fa7ca.png",
+    "instruction": "view siri & dictation history",
+    "bbox_xywh": [
+      49.0,
+      1757.0,
+      1072.0,
+      132.0
+    ],
+    "method": "gating_pass_vote (S=0.97)",
+    "score": {
+      "C_spatial": 0.38949212034092945,
+      "avg_conf": 0.5845043949597486,
+      "S": 0.973996515300678
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_e3249127-d727-4553-9a2a-db645f430d9b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_e3249127-d727-4553-9a2a-db645f430d9b.png",
+    "instruction": "view battery health & charging settings",
+    "bbox_xywh": [
+      47.0,
+      880.0,
+      1074.0,
+      134.0
+    ],
+    "method": "gating_pass_vote (S=0.68)",
+    "score": {
+      "C_spatial": 0.2800626489648009,
+      "avg_conf": 0.3994595869144308,
+      "S": 0.6795222358792317
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_e3249127-d727-4553-9a2a-db645f430d9b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_e3249127-d727-4553-9a2a-db645f430d9b.png",
+    "instruction": "choose last 10 days data details of battery",
+    "bbox_xywh": [
+      577.0,
+      1149.0,
+      496.0,
+      88.0
+    ],
+    "method": "gating_pass_vote (S=0.88)",
+    "score": {
+      "C_spatial": 0.46240509160991594,
+      "avg_conf": 0.4147382854497935,
+      "S": 0.8771433770597095
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_e3249127-d727-4553-9a2a-db645f430d9b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_e3249127-d727-4553-9a2a-db645f430d9b.png",
+    "instruction": "turn on low power mode",
+    "bbox_xywh": [
+      915.0,
+      527.0,
+      158.0,
+      97.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.5583616015687555,
+      "avg_conf": 0.446345055612666,
+      "S": 1.0047066571814214
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_907cb7d2-9953-476e-b589-5526587c3913.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_907cb7d2-9953-476e-b589-5526587c3913.png",
+    "instruction": "take a photo",
+    "bbox_xywh": [
+      472.0,
+      2072.0,
+      223.0,
+      219.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.600207346153845,
+      "avg_conf": 0.44858548684898986,
+      "S": 1.0487928330028349
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_907cb7d2-9953-476e-b589-5526587c3913.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_907cb7d2-9953-476e-b589-5526587c3913.png",
+    "instruction": "switch to 0.5x",
+    "bbox_xywh": [
+      465.0,
+      1765.0,
+      118.0,
+      109.0
+    ],
+    "method": "gating_pass_vote (S=1.11)",
+    "score": {
+      "C_spatial": 0.6197402806518425,
+      "avg_conf": 0.48802063344105695,
+      "S": 1.1077609140928995
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_907cb7d2-9953-476e-b589-5526587c3913.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_907cb7d2-9953-476e-b589-5526587c3913.png",
+    "instruction": "invert the lens",
+    "bbox_xywh": [
+      965.0,
+      2105.0,
+      145.0,
+      153.0
+    ],
+    "method": "gating_pass_vote (S=0.74)",
+    "score": {
+      "C_spatial": 0.2749865444781614,
+      "avg_conf": 0.4658329669973662,
+      "S": 0.7408195114755276
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_907cb7d2-9953-476e-b589-5526587c3913.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_907cb7d2-9953-476e-b589-5526587c3913.png",
+    "instruction": "switch to portrait mode",
+    "bbox_xywh": [
+      719.0,
+      1939.0,
+      223.0,
+      109.0
+    ],
+    "method": "gating_pass_vote (S=0.98)",
+    "score": {
+      "C_spatial": 0.4365974057166779,
+      "avg_conf": 0.5465740962871185,
+      "S": 0.9831715020037963
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_f1247381-fcf6-440f-8787-19bce69e28de.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f1247381-fcf6-440f-8787-19bce69e28de.png",
+    "instruction": "add an event",
+    "bbox_xywh": [
+      1047.0,
+      172.0,
+      78.0,
+      69.0
+    ],
+    "method": "gating_pass_vote (S=1.04)",
+    "score": {
+      "C_spatial": 0.5403129374755864,
+      "avg_conf": 0.49483483002188133,
+      "S": 1.0351477674974676
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_f1247381-fcf6-440f-8787-19bce69e28de.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f1247381-fcf6-440f-8787-19bce69e28de.png",
+    "instruction": "back to 2023",
+    "bbox_xywh": [
+      11.0,
+      164.0,
+      208.0,
+      82.0
+    ],
+    "method": "gating_pass_vote (S=0.85)",
+    "score": {
+      "C_spatial": 0.41751621238658554,
+      "avg_conf": 0.4296420209817977,
+      "S": 0.8471582333683833
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_f1247381-fcf6-440f-8787-19bce69e28de.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f1247381-fcf6-440f-8787-19bce69e28de.png",
+    "instruction": "search in the calendar",
+    "bbox_xywh": [
+      877.0,
+      168.0,
+      88.0,
+      80.0
+    ],
+    "method": "gating_pass_vote (S=1.20)",
+    "score": {
+      "C_spatial": 0.6734402590152332,
+      "avg_conf": 0.5302155689962188,
+      "S": 1.203655828011452
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_f1247381-fcf6-440f-8787-19bce69e28de.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f1247381-fcf6-440f-8787-19bce69e28de.png",
+    "instruction": "check inbox",
+    "bbox_xywh": [
+      976.0,
+      2316.0,
+      160.0,
+      97.0
+    ],
+    "method": "gating_pass_vote (S=0.99)",
+    "score": {
+      "C_spatial": 0.4865565479450488,
+      "avg_conf": 0.4987356398562142,
+      "S": 0.985292187801263
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_f1247381-fcf6-440f-8787-19bce69e28de.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f1247381-fcf6-440f-8787-19bce69e28de.png",
+    "instruction": "View December 28th",
+    "bbox_xywh": [
+      686.0,
+      1317.0,
+      107.0,
+      76.0
+    ],
+    "method": "gating_pass_vote (S=1.02)",
+    "score": {
+      "C_spatial": 0.5252074937053954,
+      "avg_conf": 0.49037762406601,
+      "S": 1.0155851177714055
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_e9d69310-692c-4a78-8b8d-b961a5cfec70.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_e9d69310-692c-4a78-8b8d-b961a5cfec70.png",
+    "instruction": "cancel the event",
+    "bbox_xywh": [
+      32.0,
+      210.0,
+      189.0,
+      90.0
+    ],
+    "method": "gating_pass_vote (S=1.17)",
+    "score": {
+      "C_spatial": 0.6843892157326694,
+      "avg_conf": 0.48176092205013843,
+      "S": 1.1661501377828078
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_e9d69310-692c-4a78-8b8d-b961a5cfec70.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_e9d69310-692c-4a78-8b8d-b961a5cfec70.png",
+    "instruction": "set the repeat mode",
+    "bbox_xywh": [
+      49.0,
+      1395.0,
+      1072.0,
+      134.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.45292102646160604,
+      "avg_conf": 0.4772330023263683,
+      "S": 0.9301540287879744
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_1f9b6434-df6c-4c95-b325-4f7a4d90d304.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1f9b6434-df6c-4c95-b325-4f7a4d90d304.png",
+    "instruction": "start a timer",
+    "bbox_xywh": [
+      869.0,
+      1175.0,
+      248.0,
+      248.0
+    ],
+    "method": "gating_pass_vote (S=0.97)",
+    "score": {
+      "C_spatial": 0.4323857088306685,
+      "avg_conf": 0.5364757509793588,
+      "S": 0.9688614598100274
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_1f9b6434-df6c-4c95-b325-4f7a4d90d304.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1f9b6434-df6c-4c95-b325-4f7a4d90d304.png",
+    "instruction": "Check alarm sound settings for timer end",
+    "bbox_xywh": [
+      45.0,
+      1523.0,
+      1080.0,
+      158.0
+    ],
+    "method": "gating_pass_vote (S=0.71)",
+    "score": {
+      "C_spatial": 0.24444857243261617,
+      "avg_conf": 0.46740484532434134,
+      "S": 0.7118534177569575
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_1f9b6434-df6c-4c95-b325-4f7a4d90d304.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1f9b6434-df6c-4c95-b325-4f7a4d90d304.png",
+    "instruction": "view alarm",
+    "bbox_xywh": [
+      352.0,
+      2276.0,
+      170.0,
+      177.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.5891208439031266,
+      "avg_conf": 0.4817548678432051,
+      "S": 1.0708757117463317
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_e0fb2f66-6e2c-42d6-8cfd-34e510f1ab2e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_e0fb2f66-6e2c-42d6-8cfd-34e510f1ab2e.png",
+    "instruction": "add funds to apple id",
+    "bbox_xywh": [
+      3.0,
+      1097.0,
+      1162.0,
+      134.0
+    ],
+    "method": "gating_pass_vote (S=0.91)",
+    "score": {
+      "C_spatial": 0.4257756831393178,
+      "avg_conf": 0.4821267847608567,
+      "S": 0.9079024679001745
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_e0fb2f66-6e2c-42d6-8cfd-34e510f1ab2e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_e0fb2f66-6e2c-42d6-8cfd-34e510f1ab2e.png",
+    "instruction": "view notifications",
+    "bbox_xywh": [
+      1.0,
+      1290.0,
+      1164.0,
+      137.0
+    ],
+    "method": "gating_pass_vote (S=0.76)",
+    "score": {
+      "C_spatial": 0.2098556532036273,
+      "avg_conf": 0.5520051479193973,
+      "S": 0.7618608011230246
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_2b707da9-bf86-410d-b886-cba08b6efb35.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_2b707da9-bf86-410d-b886-cba08b6efb35.png",
+    "instruction": "switch on personal hotspot",
+    "bbox_xywh": [
+      667.0,
+      1500.0,
+      313.0,
+      290.0
+    ],
+    "method": "gating_pass_vote (S=1.14)",
+    "score": {
+      "C_spatial": 0.6843626569414614,
+      "avg_conf": 0.45403954195994956,
+      "S": 1.138402198901411
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_2b707da9-bf86-410d-b886-cba08b6efb35.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_2b707da9-bf86-410d-b886-cba08b6efb35.png",
+    "instruction": "view airdrop setting",
+    "bbox_xywh": [
+      224.0,
+      1500.0,
+      250.0,
+      292.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.6067239490495199,
+      "avg_conf": 0.4621692448419448,
+      "S": 1.0688931938914648
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_2b707da9-bf86-410d-b886-cba08b6efb35.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_2b707da9-bf86-410d-b886-cba08b6efb35.png",
+    "instruction": "open airplane mode",
+    "bbox_xywh": [
+      215.0,
+      742.0,
+      267.0,
+      286.0
+    ],
+    "method": "gating_pass_vote (S=1.24)",
+    "score": {
+      "C_spatial": 0.771760176387326,
+      "avg_conf": 0.4672911511629539,
+      "S": 1.23905132755028
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_0affae67-191e-43fa-890d-778555ffbab0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_0affae67-191e-43fa-890d-778555ffbab0.png",
+    "instruction": "check my account",
+    "bbox_xywh": [
+      1001.0,
+      294.0,
+      107.0,
+      101.0
+    ],
+    "method": "gating_pass_vote (S=1.33)",
+    "score": {
+      "C_spatial": 0.7585828459918497,
+      "avg_conf": 0.5715140224043876,
+      "S": 1.3300968683962373
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_0affae67-191e-43fa-890d-778555ffbab0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_0affae67-191e-43fa-890d-778555ffbab0.png",
+    "instruction": "tap the search bar",
+    "bbox_xywh": [
+      55.0,
+      433.0,
+      1053.0,
+      105.0
+    ],
+    "method": "gating_pass_vote (S=1.06)",
+    "score": {
+      "C_spatial": 0.6233268843041114,
+      "avg_conf": 0.4317374006474996,
+      "S": 1.055064284951611
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_0affae67-191e-43fa-890d-778555ffbab0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_0affae67-191e-43fa-890d-778555ffbab0.png",
+    "instruction": "cancel the ads",
+    "bbox_xywh": [
+      1020.0,
+      630.0,
+      78.0,
+      84.0
+    ],
+    "method": "gating_pass_vote (S=1.13)",
+    "score": {
+      "C_spatial": 0.5265281115069758,
+      "avg_conf": 0.6054539079574828,
+      "S": 1.1319820194644585
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_0affae67-191e-43fa-890d-778555ffbab0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_0affae67-191e-43fa-890d-778555ffbab0.png",
+    "instruction": "tap \"try it free\"",
+    "bbox_xywh": [
+      257.0,
+      1540.0,
+      660.0,
+      109.0
+    ],
+    "method": "gating_pass_vote (S=0.99)",
+    "score": {
+      "C_spatial": 0.47996267269997234,
+      "avg_conf": 0.5115551076711179,
+      "S": 0.9915177803710902
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_0affae67-191e-43fa-890d-778555ffbab0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_0affae67-191e-43fa-890d-778555ffbab0.png",
+    "instruction": "view library",
+    "bbox_xywh": [
+      648.0,
+      2286.0,
+      160.0,
+      151.0
+    ],
+    "method": "gating_pass_vote (S=0.94)",
+    "score": {
+      "C_spatial": 0.4883226438624222,
+      "avg_conf": 0.4510977550707018,
+      "S": 0.939420398933124
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_5fb77d07-dd26-4a0c-959b-7c74fd49d22f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_5fb77d07-dd26-4a0c-959b-7c74fd49d22f.png",
+    "instruction": "cancel subscription",
+    "bbox_xywh": [
+      1016.0,
+      1112.0,
+      120.0,
+      113.0
+    ],
+    "method": "gating_pass_vote (S=0.99)",
+    "score": {
+      "C_spatial": 0.44136225354308956,
+      "avg_conf": 0.5452102567281911,
+      "S": 0.9865725102712807
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_8da8fbf4-c2b0-495f-88d3-9eb682c15ce7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_8da8fbf4-c2b0-495f-88d3-9eb682c15ce7.png",
+    "instruction": "shuffle the music list",
+    "bbox_xywh": [
+      612.0,
+      1336.0,
+      498.0,
+      147.0
+    ],
+    "method": "gating_pass_vote (S=1.20)",
+    "score": {
+      "C_spatial": 0.697287967320009,
+      "avg_conf": 0.5052580617408399,
+      "S": 1.2025460290608487
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_8da8fbf4-c2b0-495f-88d3-9eb682c15ce7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_8da8fbf4-c2b0-495f-88d3-9eb682c15ce7.png",
+    "instruction": "view more information",
+    "bbox_xywh": [
+      1035.0,
+      164.0,
+      86.0,
+      86.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.44641253400267594,
+      "avg_conf": 0.4841612492328561,
+      "S": 0.9305737832355321
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_8da8fbf4-c2b0-495f-88d3-9eb682c15ce7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_8da8fbf4-c2b0-495f-88d3-9eb682c15ce7.png",
+    "instruction": "back to previous page",
+    "bbox_xywh": [
+      20.0,
+      162.0,
+      90.0,
+      88.0
+    ],
+    "method": "gating_pass_vote (S=0.90)",
+    "score": {
+      "C_spatial": 0.4684269437912002,
+      "avg_conf": 0.42805654256233894,
+      "S": 0.8964834863535391
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_8da8fbf4-c2b0-495f-88d3-9eb682c15ce7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_8da8fbf4-c2b0-495f-88d3-9eb682c15ce7.png",
+    "instruction": "view more information about classical christmas",
+    "bbox_xywh": [
+      976.0,
+      1591.0,
+      147.0,
+      74.0
+    ],
+    "method": "gating_pass_vote (S=0.98)",
+    "score": {
+      "C_spatial": 0.46043761687885854,
+      "avg_conf": 0.5220227915138945,
+      "S": 0.9824604083927531
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_207efb5f-dce5-4c70-8c06-b16f2267c09e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_207efb5f-dce5-4c70-8c06-b16f2267c09e.png",
+    "instruction": "view bach station",
+    "bbox_xywh": [
+      55.0,
+      382.0,
+      515.0,
+      645.0
+    ],
+    "method": "gating_pass_vote (S=1.33)",
+    "score": {
+      "C_spatial": 0.8808668221511426,
+      "avg_conf": 0.45043056080731725,
+      "S": 1.3312973829584598
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_207efb5f-dce5-4c70-8c06-b16f2267c09e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_207efb5f-dce5-4c70-8c06-b16f2267c09e.png",
+    "instruction": "tap the button with \"listen now\"",
+    "bbox_xywh": [
+      51.0,
+      2284.0,
+      193.0,
+      153.0
+    ],
+    "method": "gating_pass_vote (S=0.77)",
+    "score": {
+      "C_spatial": 0.35916208182921083,
+      "avg_conf": 0.40906151209084607,
+      "S": 0.7682235939200569
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_efa861a6-0810-4c8a-9bca-4f481641d03d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_efa861a6-0810-4c8a-9bca-4f481641d03d.png",
+    "instruction": "view ore details",
+    "bbox_xywh": [
+      1039.0,
+      166.0,
+      82.0,
+      84.0
+    ],
+    "method": "gating_pass_vote (S=1.01)",
+    "score": {
+      "C_spatial": 0.44509124333705896,
+      "avg_conf": 0.5631154816884133,
+      "S": 1.0082067250254723
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_efa861a6-0810-4c8a-9bca-4f481641d03d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_efa861a6-0810-4c8a-9bca-4f481641d03d.png",
+    "instruction": "add or scan accessory",
+    "bbox_xywh": [
+      47.0,
+      1685.0,
+      464.0,
+      406.0
+    ],
+    "method": "gating_pass_vote (S=1.40)",
+    "score": {
+      "C_spatial": 0.9006104369665974,
+      "avg_conf": 0.5002771623858235,
+      "S": 1.400887599352421
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_7d7609e2-696b-449e-a230-792dce8dd134.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_7d7609e2-696b-449e-a230-792dce8dd134.png",
+    "instruction": "open nlp folder",
+    "bbox_xywh": [
+      451.0,
+      643.0,
+      263.0,
+      286.0
+    ],
+    "method": "gating_pass_vote (S=1.23)",
+    "score": {
+      "C_spatial": 0.7499001340675548,
+      "avg_conf": 0.4783120822856453,
+      "S": 1.2282122163532
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_7d7609e2-696b-449e-a230-792dce8dd134.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_7d7609e2-696b-449e-a230-792dce8dd134.png",
+    "instruction": "back to browse page",
+    "bbox_xywh": [
+      13.0,
+      168.0,
+      254.0,
+      78.0
+    ],
+    "method": "gating_pass_vote (S=0.68)",
+    "score": {
+      "C_spatial": 0.2688392676072104,
+      "avg_conf": 0.40979141120027635,
+      "S": 0.6786306788074867
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_7d7609e2-696b-449e-a230-792dce8dd134.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_7d7609e2-696b-449e-a230-792dce8dd134.png",
+    "instruction": "view shared",
+    "bbox_xywh": [
+      503.0,
+      2286.0,
+      164.0,
+      149.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.4562990521520103,
+      "avg_conf": 0.42885548701824006,
+      "S": 0.8851545391702503
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_c1f1188d-1bd3-4ce6-8e3f-96628d07b0b9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_c1f1188d-1bd3-4ce6-8e3f-96628d07b0b9.png",
+    "instruction": "login with wechat",
+    "bbox_xywh": [
+      89.0,
+      1198.0,
+      988.0,
+      132.0
+    ],
+    "method": "gating_pass_vote (S=1.47)",
+    "score": {
+      "C_spatial": 0.8720505962948978,
+      "avg_conf": 0.5975645808962323,
+      "S": 1.46961517719113
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_c1f1188d-1bd3-4ce6-8e3f-96628d07b0b9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_c1f1188d-1bd3-4ce6-8e3f-96628d07b0b9.png",
+    "instruction": "view settings",
+    "bbox_xywh": [
+      53.0,
+      141.0,
+      103.0,
+      88.0
+    ],
+    "method": "gating_pass_vote (S=1.35)",
+    "score": {
+      "C_spatial": 0.7909597183861353,
+      "avg_conf": 0.5592437434613162,
+      "S": 1.3502034618474514
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_c1f1188d-1bd3-4ce6-8e3f-96628d07b0b9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_c1f1188d-1bd3-4ce6-8e3f-96628d07b0b9.png",
+    "instruction": "login with email",
+    "bbox_xywh": [
+      919.0,
+      1486.0,
+      162.0,
+      221.0
+    ],
+    "method": "gating_pass_vote (S=0.77)",
+    "score": {
+      "C_spatial": 0.3321117409905273,
+      "avg_conf": 0.4387654183539896,
+      "S": 0.770877159344517
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_fbadc3d2-cde6-43f5-a33c-a648a9299963.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_fbadc3d2-cde6-43f5-a33c-a648a9299963.png",
+    "instruction": "all clear the calculator",
+    "bbox_xywh": [
+      47.0,
+      958.0,
+      235.0,
+      237.0
+    ],
+    "method": "gating_pass_vote (S=1.20)",
+    "score": {
+      "C_spatial": 0.776830153652506,
+      "avg_conf": 0.4268905238544408,
+      "S": 1.2037206775069467
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_fbadc3d2-cde6-43f5-a33c-a648a9299963.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_fbadc3d2-cde6-43f5-a33c-a648a9299963.png",
+    "instruction": "Tap the plus sign in the calculator",
+    "bbox_xywh": [
+      879.0,
+      1797.0,
+      240.0,
+      235.0
+    ],
+    "method": "gating_pass_vote (S=0.98)",
+    "score": {
+      "C_spatial": 0.4969955758110313,
+      "avg_conf": 0.48525920430835506,
+      "S": 0.9822547801193864
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png",
+    "instruction": "click the search bar",
+    "bbox_xywh": [
+      314.0,
+      160.0,
+      712.0,
+      95.0
+    ],
+    "method": "gating_pass_vote (S=1.23)",
+    "score": {
+      "C_spatial": 0.7127239006149698,
+      "avg_conf": 0.5186752721861863,
+      "S": 1.2313991728011562
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png",
+    "instruction": "tap the scan icon",
+    "bbox_xywh": [
+      55.0,
+      286.0,
+      181.0,
+      227.0
+    ],
+    "method": "gating_pass_vote (S=1.13)",
+    "score": {
+      "C_spatial": 0.6834101773117648,
+      "avg_conf": 0.45156822075763137,
+      "S": 1.1349783980693962
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png",
+    "instruction": "open pay/collect",
+    "bbox_xywh": [
+      314.0,
+      284.0,
+      246.0,
+      231.0
+    ],
+    "method": "gating_pass_vote (S=0.83)",
+    "score": {
+      "C_spatial": 0.42952301386893926,
+      "avg_conf": 0.4015968222541197,
+      "S": 0.831119836123059
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png",
+    "instruction": "view the air & rail",
+    "bbox_xywh": [
+      484.0,
+      1013.0,
+      206.0,
+      183.0
+    ],
+    "method": "gating_pass_vote (S=0.99)",
+    "score": {
+      "C_spatial": 0.5433738283621398,
+      "avg_conf": 0.4474892071329732,
+      "S": 0.9908630354951129
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png",
+    "instruction": "check messages",
+    "bbox_xywh": [
+      736.0,
+      2282.0,
+      187.0,
+      151.0
+    ],
+    "method": "gating_pass_vote (S=0.85)",
+    "score": {
+      "C_spatial": 0.43033893548830743,
+      "avg_conf": 0.42414452639967404,
+      "S": 0.8544834618879815
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_d8a4069b-ec35-4a62-a3cd-5b5e7d95b50c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_d8a4069b-ec35-4a62-a3cd-5b5e7d95b50c.png",
+    "instruction": "click try it now",
+    "bbox_xywh": [
+      833.0,
+      803.0,
+      254.0,
+      101.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.5906786083089576,
+      "avg_conf": 0.46121387901180705,
+      "S": 1.0518924873207647
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_d8a4069b-ec35-4a62-a3cd-5b5e7d95b50c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_d8a4069b-ec35-4a62-a3cd-5b5e7d95b50c.png",
+    "instruction": "search in this calendar",
+    "bbox_xywh": [
+      1045.0,
+      187.0,
+      78.0,
+      90.0
+    ],
+    "method": "gating_pass_vote (S=1.25)",
+    "score": {
+      "C_spatial": 0.6896635254485327,
+      "avg_conf": 0.5595380206064083,
+      "S": 1.249201546054941
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_d8a4069b-ec35-4a62-a3cd-5b5e7d95b50c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_d8a4069b-ec35-4a62-a3cd-5b5e7d95b50c.png",
+    "instruction": "add a new one",
+    "bbox_xywh": [
+      972.0,
+      2036.0,
+      153.0,
+      160.0
+    ],
+    "method": "gating_pass_vote (S=1.13)",
+    "score": {
+      "C_spatial": 0.6158830294661061,
+      "avg_conf": 0.5135183759193995,
+      "S": 1.1294014053855057
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_d8a4069b-ec35-4a62-a3cd-5b5e7d95b50c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_d8a4069b-ec35-4a62-a3cd-5b5e7d95b50c.png",
+    "instruction": "view docs",
+    "bbox_xywh": [
+      427.0,
+      2261.0,
+      128.0,
+      139.0
+    ],
+    "method": "gating_pass_vote (S=0.87)",
+    "score": {
+      "C_spatial": 0.4069713309075073,
+      "avg_conf": 0.4644559219720922,
+      "S": 0.8714272528795994
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png",
+    "instruction": "save current settings",
+    "bbox_xywh": [
+      995.0,
+      210.0,
+      141.0,
+      92.0
+    ],
+    "method": "gating_pass_vote (S=1.36)",
+    "score": {
+      "C_spatial": 0.768296643777008,
+      "avg_conf": 0.589808823109956,
+      "S": 1.3581054668869639
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png",
+    "instruction": "add title",
+    "bbox_xywh": [
+      51.0,
+      359.0,
+      1078.0,
+      116.0
+    ],
+    "method": "gating_pass_vote (S=0.70)",
+    "score": {
+      "C_spatial": 0.3506733189400656,
+      "avg_conf": 0.3513002256040748,
+      "S": 0.7019735445441404
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png",
+    "instruction": "add guests",
+    "bbox_xywh": [
+      47.0,
+      586.0,
+      1088.0,
+      122.0
+    ],
+    "method": "gating_pass_vote (S=0.91)",
+    "score": {
+      "C_spatial": 0.5407110415960791,
+      "avg_conf": 0.37348344069309947,
+      "S": 0.9141944822891785
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png",
+    "instruction": "set no repeats",
+    "bbox_xywh": [
+      43.0,
+      1250.0,
+      1105.0,
+      120.0
+    ],
+    "method": "gating_pass_vote (S=0.68)",
+    "score": {
+      "C_spatial": 0.23243435445336336,
+      "avg_conf": 0.4509584368746059,
+      "S": 0.6833927913279693
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png",
+    "instruction": "add description",
+    "bbox_xywh": [
+      30.0,
+      2143.0,
+      1114.0,
+      116.0
+    ],
+    "method": "gating_pass_vote (S=0.76)",
+    "score": {
+      "C_spatial": 0.32365913988589473,
+      "avg_conf": 0.4349716665683291,
+      "S": 0.7586308064542238
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png",
+    "instruction": "favorite the music",
+    "bbox_xywh": [
+      970.0,
+      1397.0,
+      111.0,
+      122.0
+    ],
+    "method": "gating_pass_vote (S=1.01)",
+    "score": {
+      "C_spatial": 0.5142448971156779,
+      "avg_conf": 0.49327396029183646,
+      "S": 1.0075188574075145
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png",
+    "instruction": "view comments",
+    "bbox_xywh": [
+      747.0,
+      1866.0,
+      137.0,
+      137.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.5982598374232891,
+      "avg_conf": 0.47158970465079364,
+      "S": 1.0698495420740828
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png",
+    "instruction": "play the music",
+    "bbox_xywh": [
+      484.0,
+      2108.0,
+      198.0,
+      193.0
+    ],
+    "method": "gating_pass_vote (S=0.88)",
+    "score": {
+      "C_spatial": 0.4381527347172586,
+      "avg_conf": 0.4416215651954545,
+      "S": 0.879774299912713
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png",
+    "instruction": "play next song",
+    "bbox_xywh": [
+      780.0,
+      2150.0,
+      101.0,
+      109.0
+    ],
+    "method": "gating_pass_vote (S=0.85)",
+    "score": {
+      "C_spatial": 0.39261476072415435,
+      "avg_conf": 0.45707523132732003,
+      "S": 0.8496899920514744
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png",
+    "instruction": "play previous song",
+    "bbox_xywh": [
+      289.0,
+      2145.0,
+      99.0,
+      116.0
+    ],
+    "method": "gating_pass_vote (S=1.12)",
+    "score": {
+      "C_spatial": 0.5937004495367723,
+      "avg_conf": 0.5241054315972202,
+      "S": 1.1178058811339926
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_9bd1779a-91ee-4a59-8904-3850434b1421.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_9bd1779a-91ee-4a59-8904-3850434b1421.png",
+    "instruction": "view more information",
+    "bbox_xywh": [
+      858.0,
+      147.0,
+      111.0,
+      116.0
+    ],
+    "method": "gating_pass_vote (S=1.27)",
+    "score": {
+      "C_spatial": 0.733988659835156,
+      "avg_conf": 0.5368889481567767,
+      "S": 1.2708776079919328
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_9bd1779a-91ee-4a59-8904-3850434b1421.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_9bd1779a-91ee-4a59-8904-3850434b1421.png",
+    "instruction": "back to filters",
+    "bbox_xywh": [
+      5.0,
+      160.0,
+      246.0,
+      97.0
+    ],
+    "method": "gating_pass_vote (S=0.84)",
+    "score": {
+      "C_spatial": 0.4193119504709054,
+      "avg_conf": 0.4199809332726613,
+      "S": 0.8392928837435667
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_9bd1779a-91ee-4a59-8904-3850434b1421.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_9bd1779a-91ee-4a59-8904-3850434b1421.png",
+    "instruction": "write a new message",
+    "bbox_xywh": [
+      1022.0,
+      145.0,
+      118.0,
+      118.0
+    ],
+    "method": "gating_pass_vote (S=1.25)",
+    "score": {
+      "C_spatial": 0.6827009935388889,
+      "avg_conf": 0.5632708325049118,
+      "S": 1.2459718260438009
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_9bd1779a-91ee-4a59-8904-3850434b1421.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_9bd1779a-91ee-4a59-8904-3850434b1421.png",
+    "instruction": "tap the search bar",
+    "bbox_xywh": [
+      47.0,
+      433.0,
+      1072.0,
+      111.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.505508714143972,
+      "avg_conf": 0.42740415409356586,
+      "S": 0.9329128682375378
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_8d5dea76-69b8-4076-82ef-38b2fb8a1b30.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_8d5dea76-69b8-4076-82ef-38b2fb8a1b30.png",
+    "instruction": "set focus time to 60 mins",
+    "bbox_xywh": [
+      308.0,
+      1713.0,
+      216.0,
+      212.0
+    ],
+    "method": "gating_pass_vote (S=1.22)",
+    "score": {
+      "C_spatial": 0.7523407706986486,
+      "avg_conf": 0.46686407241511046,
+      "S": 1.219204843113759
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_8d5dea76-69b8-4076-82ef-38b2fb8a1b30.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_8d5dea76-69b8-4076-82ef-38b2fb8a1b30.png",
+    "instruction": "turn on focus mode",
+    "bbox_xywh": [
+      80.0,
+      2123.0,
+      927.0,
+      179.0
+    ],
+    "method": "gating_pass_vote (S=0.71)",
+    "score": {
+      "C_spatial": 0.33774878111911283,
+      "avg_conf": 0.3761371734254981,
+      "S": 0.7138859545446109
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_8d5dea76-69b8-4076-82ef-38b2fb8a1b30.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_8d5dea76-69b8-4076-82ef-38b2fb8a1b30.png",
+    "instruction": "customize focus time",
+    "bbox_xywh": [
+      796.0,
+      1704.0,
+      244.0,
+      224.0
+    ],
+    "method": "gating_pass_vote (S=1.18)",
+    "score": {
+      "C_spatial": 0.7004593852808031,
+      "avg_conf": 0.48040377595965095,
+      "S": 1.180863161240454
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_b012267b-fcd6-4d0c-991a-f2a4afd0a2ff.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_b012267b-fcd6-4d0c-991a-f2a4afd0a2ff.png",
+    "instruction": "check tuesday data details",
+    "bbox_xywh": [
+      194.0,
+      883.0,
+      102.0,
+      447.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.525683127058725,
+      "avg_conf": 0.426467532984263,
+      "S": 0.952150660042988
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_b012267b-fcd6-4d0c-991a-f2a4afd0a2ff.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_b012267b-fcd6-4d0c-991a-f2a4afd0a2ff.png",
+    "instruction": "display data by week",
+    "bbox_xywh": [
+      524.0,
+      386.0,
+      500.0,
+      175.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.4808513276477489,
+      "avg_conf": 0.40835721095039235,
+      "S": 0.8892085385981412
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_b012267b-fcd6-4d0c-991a-f2a4afd0a2ff.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_b012267b-fcd6-4d0c-991a-f2a4afd0a2ff.png",
+    "instruction": "switch to focus mode",
+    "bbox_xywh": [
+      503.0,
+      240.0,
+      513.0,
+      142.0
+    ],
+    "method": "gating_pass_vote (S=1.10)",
+    "score": {
+      "C_spatial": 0.6597347318891938,
+      "avg_conf": 0.44063530003490836,
+      "S": 1.1003700319241023
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_faa33d8c-ff72-4c74-98df-cb46cc0516aa.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_faa33d8c-ff72-4c74-98df-cb46cc0516aa.png",
+    "instruction": "open system apps settings",
+    "bbox_xywh": [
+      48.0,
+      488.0,
+      1013.0,
+      114.0
+    ],
+    "method": "gating_pass_vote (S=0.77)",
+    "score": {
+      "C_spatial": 0.2840439460158422,
+      "avg_conf": 0.48511095669028925,
+      "S": 0.7691549027061315
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_faa33d8c-ff72-4c74-98df-cb46cc0516aa.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_faa33d8c-ff72-4c74-98df-cb46cc0516aa.png",
+    "instruction": "manage home screen shortcuts",
+    "bbox_xywh": [
+      68.0,
+      818.0,
+      952.0,
+      187.0
+    ],
+    "method": "gating_pass_vote (S=0.60)",
+    "score": {
+      "C_spatial": 0.1643008580302195,
+      "avg_conf": 0.43998927708734914,
+      "S": 0.6042901351175687
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_faa33d8c-ff72-4c74-98df-cb46cc0516aa.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_faa33d8c-ff72-4c74-98df-cb46cc0516aa.png",
+    "instruction": "back to previous page",
+    "bbox_xywh": [
+      32.0,
+      138.0,
+      167.0,
+      110.0
+    ],
+    "method": "gating_pass_vote (S=1.20)",
+    "score": {
+      "C_spatial": 0.6512756216360897,
+      "avg_conf": 0.5471689650236241,
+      "S": 1.1984445866597138
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_db3c83d0-b179-4661-88d4-baf938bcf477.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_db3c83d0-b179-4661-88d4-baf938bcf477.png",
+    "instruction": "turn off wlan",
+    "bbox_xywh": [
+      829.0,
+      472.0,
+      191.0,
+      122.0
+    ],
+    "method": "gating_pass_vote (S=1.14)",
+    "score": {
+      "C_spatial": 0.6381788720696913,
+      "avg_conf": 0.5031661261895148,
+      "S": 1.141344998259206
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_db3c83d0-b179-4661-88d4-baf938bcf477.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_db3c83d0-b179-4661-88d4-baf938bcf477.png",
+    "instruction": "scan qr code",
+    "bbox_xywh": [
+      922.0,
+      114.0,
+      106.0,
+      114.0
+    ],
+    "method": "gating_pass_vote (S=1.25)",
+    "score": {
+      "C_spatial": 0.6905250941470741,
+      "avg_conf": 0.5565183150868631,
+      "S": 1.247043409233937
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_06d5a5b9-8dda-439a-84a5-7af28ab2dab8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_06d5a5b9-8dda-439a-84a5-7af28ab2dab8.png",
+    "instruction": "turn on earpiece mode",
+    "bbox_xywh": [
+      796.0,
+      529.0,
+      216.0,
+      122.0
+    ],
+    "method": "gating_pass_vote (S=1.19)",
+    "score": {
+      "C_spatial": 0.6984313984212991,
+      "avg_conf": 0.4882717306109161,
+      "S": 1.1867031290322152
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_06d5a5b9-8dda-439a-84a5-7af28ab2dab8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_06d5a5b9-8dda-439a-84a5-7af28ab2dab8.png",
+    "instruction": "turn off mute ringer when recording",
+    "bbox_xywh": [
+      825.0,
+      1094.0,
+      195.0,
+      142.0
+    ],
+    "method": "gating_pass_vote (S=1.08)",
+    "score": {
+      "C_spatial": 0.5747531682289396,
+      "avg_conf": 0.5037401926575008,
+      "S": 1.0784933608864404
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_06d5a5b9-8dda-439a-84a5-7af28ab2dab8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_06d5a5b9-8dda-439a-84a5-7af28ab2dab8.png",
+    "instruction": "change recording format",
+    "bbox_xywh": [
+      56.0,
+      1460.0,
+      1009.0,
+      155.0
+    ],
+    "method": "gating_pass_vote (S=0.76)",
+    "score": {
+      "C_spatial": 0.3179867238070494,
+      "avg_conf": 0.445638181576687,
+      "S": 0.7636249053837364
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_5c883ab7-6769-436e-a677-96b0f5a4c950.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_5c883ab7-6769-436e-a677-96b0f5a4c950.png",
+    "instruction": "open a photo",
+    "bbox_xywh": [
+      36.0,
+      256.0,
+      1021.0,
+      1839.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.59)",
+    "score": {
+      "C_spatial": 0.17260423508051156,
+      "avg_conf": 0.4207910387784452,
+      "S": 0.5933952738589567
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_c346d616-ffcb-4638-a049-2fc45d665e91.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_c346d616-ffcb-4638-a049-2fc45d665e91.png",
+    "instruction": "add new event on calendar",
+    "bbox_xywh": [
+      861.0,
+      1993.0,
+      203.0,
+      167.0
+    ],
+    "method": "gating_pass_vote (S=0.98)",
+    "score": {
+      "C_spatial": 0.4951667581230709,
+      "avg_conf": 0.4828204245703818,
+      "S": 0.9779871826934528
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_c346d616-ffcb-4638-a049-2fc45d665e91.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_c346d616-ffcb-4638-a049-2fc45d665e91.png",
+    "instruction": "open documents",
+    "bbox_xywh": [
+      577.0,
+      2201.0,
+      114.0,
+      142.0
+    ],
+    "method": "gating_pass_vote (S=0.79)",
+    "score": {
+      "C_spatial": 0.3603350482625829,
+      "avg_conf": 0.4311633409850227,
+      "S": 0.7914983892476055
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_c346d616-ffcb-4638-a049-2fc45d665e91.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_c346d616-ffcb-4638-a049-2fc45d665e91.png",
+    "instruction": "switch to monday schedule",
+    "bbox_xywh": [
+      442.0,
+      382.0,
+      134.0,
+      167.0
+    ],
+    "method": "gating_pass_vote (S=0.75)",
+    "score": {
+      "C_spatial": 0.34330851300665904,
+      "avg_conf": 0.4078361104882159,
+      "S": 0.7511446234948749
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_d7f5d515-e2c4-453e-9b5b-d97e3ecd5307.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_d7f5d515-e2c4-453e-9b5b-d97e3ecd5307.png",
+    "instruction": "search",
+    "bbox_xywh": [
+      829.0,
+      122.0,
+      134.0,
+      98.0
+    ],
+    "method": "gating_pass_vote (S=1.11)",
+    "score": {
+      "C_spatial": 0.6062943704192973,
+      "avg_conf": 0.5008575779474479,
+      "S": 1.1071519483667451
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_d7f5d515-e2c4-453e-9b5b-d97e3ecd5307.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_d7f5d515-e2c4-453e-9b5b-d97e3ecd5307.png",
+    "instruction": "display external contacts",
+    "bbox_xywh": [
+      0.0,
+      761.0,
+      1065.0,
+      114.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.3974218423958926,
+      "avg_conf": 0.5361790969473257,
+      "S": 0.9336009393432183
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_550b9efc-c475-4188-82b6-47f7ca1a56f7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_550b9efc-c475-4188-82b6-47f7ca1a56f7.png",
+    "instruction": "search recodings",
+    "bbox_xywh": [
+      44.0,
+      415.0,
+      972.0,
+      146.0
+    ],
+    "method": "gating_pass_vote (S=0.82)",
+    "score": {
+      "C_spatial": 0.46996943559834425,
+      "avg_conf": 0.3538753674583935,
+      "S": 0.8238448030567378
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_550b9efc-c475-4188-82b6-47f7ca1a56f7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_550b9efc-c475-4188-82b6-47f7ca1a56f7.png",
+    "instruction": "open settings",
+    "bbox_xywh": [
+      918.0,
+      118.0,
+      110.0,
+      118.0
+    ],
+    "method": "gating_pass_vote (S=1.36)",
+    "score": {
+      "C_spatial": 0.762751169538717,
+      "avg_conf": 0.5942833346623652,
+      "S": 1.3570345042010823
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_550b9efc-c475-4188-82b6-47f7ca1a56f7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_550b9efc-c475-4188-82b6-47f7ca1a56f7.png",
+    "instruction": "start a new recording",
+    "bbox_xywh": [
+      385.0,
+      2054.0,
+      321.0,
+      273.0
+    ],
+    "method": "gating_pass_vote (S=1.19)",
+    "score": {
+      "C_spatial": 0.6554471579176909,
+      "avg_conf": 0.5390344187158569,
+      "S": 1.1944815766335477
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_c28ad441-0524-4e7b-ab97-4005072b53a3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_c28ad441-0524-4e7b-ab97-4005072b53a3.png",
+    "instruction": "tap to receive file as a new phone",
+    "bbox_xywh": [
+      60.0,
+      1778.0,
+      476.0,
+      529.0
+    ],
+    "method": "gating_pass_vote (S=1.46)",
+    "score": {
+      "C_spatial": 0.9411223537943731,
+      "avg_conf": 0.5215089691496717,
+      "S": 1.4626313229440449
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_c28ad441-0524-4e7b-ab97-4005072b53a3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_c28ad441-0524-4e7b-ab97-4005072b53a3.png",
+    "instruction": "send files as a old phone",
+    "bbox_xywh": [
+      544.0,
+      1774.0,
+      456.0,
+      541.0
+    ],
+    "method": "gating_pass_vote (S=1.38)",
+    "score": {
+      "C_spatial": 0.8186131289147865,
+      "avg_conf": 0.5575954199982167,
+      "S": 1.3762085489130031
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_ef01fd08-a7fd-42a3-b1aa-fe22b3f79730.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_ef01fd08-a7fd-42a3-b1aa-fe22b3f79730.png",
+    "instruction": "agree this privacy policy",
+    "bbox_xywh": [
+      548.0,
+      2075.0,
+      476.0,
+      212.0
+    ],
+    "method": "gating_pass_vote (S=0.97)",
+    "score": {
+      "C_spatial": 0.49234845214349426,
+      "avg_conf": 0.4783254937503134,
+      "S": 0.9706739458938076
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_ef01fd08-a7fd-42a3-b1aa-fe22b3f79730.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_ef01fd08-a7fd-42a3-b1aa-fe22b3f79730.png",
+    "instruction": "disagree the agreement",
+    "bbox_xywh": [
+      88.0,
+      2103.0,
+      460.0,
+      207.0
+    ],
+    "method": "gating_pass_vote (S=0.87)",
+    "score": {
+      "C_spatial": 0.4502191201769911,
+      "avg_conf": 0.41827915582981257,
+      "S": 0.8684982760068036
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_ef01fd08-a7fd-42a3-b1aa-fe22b3f79730.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_ef01fd08-a7fd-42a3-b1aa-fe22b3f79730.png",
+    "instruction": "display user agreement details",
+    "bbox_xywh": [
+      564.0,
+      1900.0,
+      342.0,
+      106.0
+    ],
+    "method": "gating_pass_vote (S=1.36)",
+    "score": {
+      "C_spatial": 0.7573571678013843,
+      "avg_conf": 0.5985499353400568,
+      "S": 1.3559071031414411
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_aae20de3-7aab-4bcc-8d83-f187fe3a2e76.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_aae20de3-7aab-4bcc-8d83-f187fe3a2e76.png",
+    "instruction": "view help",
+    "bbox_xywh": [
+      97.0,
+      1391.0,
+      891.0,
+      342.0
+    ],
+    "method": "gating_pass_vote (S=1.29)",
+    "score": {
+      "C_spatial": 0.7012882108306686,
+      "avg_conf": 0.5865962720601726,
+      "S": 1.2878844828908411
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_aae20de3-7aab-4bcc-8d83-f187fe3a2e76.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_aae20de3-7aab-4bcc-8d83-f187fe3a2e76.png",
+    "instruction": "open phone's screen",
+    "bbox_xywh": [
+      560.0,
+      651.0,
+      411.0,
+      195.0
+    ],
+    "method": "gating_pass_vote (S=1.14)",
+    "score": {
+      "C_spatial": 0.686050441194758,
+      "avg_conf": 0.45499875992751593,
+      "S": 1.141049201122274
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_aae20de3-7aab-4bcc-8d83-f187fe3a2e76.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_aae20de3-7aab-4bcc-8d83-f187fe3a2e76.png",
+    "instruction": "close current page",
+    "bbox_xywh": [
+      36.0,
+      118.0,
+      138.0,
+      106.0
+    ],
+    "method": "gating_pass_vote (S=1.21)",
+    "score": {
+      "C_spatial": 0.6656947810036826,
+      "avg_conf": 0.5394978424578544,
+      "S": 1.2051926234615369
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_7bbecc1d-4220-4287-8ec7-14f9eec203e2.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_7bbecc1d-4220-4287-8ec7-14f9eec203e2.png",
+    "instruction": "sort by size",
+    "bbox_xywh": [
+      532.0,
+      525.0,
+      504.0,
+      118.0
+    ],
+    "method": "gating_pass_vote (S=0.66)",
+    "score": {
+      "C_spatial": 0.23156771239608437,
+      "avg_conf": 0.4324239449719829,
+      "S": 0.6639916573680673
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_7bbecc1d-4220-4287-8ec7-14f9eec203e2.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_7bbecc1d-4220-4287-8ec7-14f9eec203e2.png",
+    "instruction": "sort by file's types",
+    "bbox_xywh": [
+      548.0,
+      834.0,
+      472.0,
+      106.0
+    ],
+    "method": "gating_pass_vote (S=0.60)",
+    "score": {
+      "C_spatial": 0.2225192474212569,
+      "avg_conf": 0.37905475839425207,
+      "S": 0.601574005815509
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_dc3bbcd3-d7bb-4ce2-be50-eb6f564d2ddc.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_dc3bbcd3-d7bb-4ce2-be50-eb6f564d2ddc.png",
+    "instruction": "display recent opened files",
+    "bbox_xywh": [
+      48.0,
+      236.0,
+      334.0,
+      175.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.5990575293908961,
+      "avg_conf": 0.4027083408310268,
+      "S": 1.0017658702219228
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_dc3bbcd3-d7bb-4ce2-be50-eb6f564d2ddc.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_dc3bbcd3-d7bb-4ce2-be50-eb6f564d2ddc.png",
+    "instruction": "open the folder named \"dcim\"",
+    "bbox_xywh": [
+      792.0,
+      1798.0,
+      220.0,
+      358.0
+    ],
+    "method": "gating_pass_vote (S=1.31)",
+    "score": {
+      "C_spatial": 0.7738731310348531,
+      "avg_conf": 0.53512534881144,
+      "S": 1.3089984798462933
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_dc3bbcd3-d7bb-4ce2-be50-eb6f564d2ddc.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_dc3bbcd3-d7bb-4ce2-be50-eb6f564d2ddc.png",
+    "instruction": "search in this page",
+    "bbox_xywh": [
+      625.0,
+      89.0,
+      122.0,
+      130.0
+    ],
+    "method": "gating_pass_vote (S=1.18)",
+    "score": {
+      "C_spatial": 0.6611127289171621,
+      "avg_conf": 0.5185876168656672,
+      "S": 1.1797003457828295
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_74f38270-ccc5-423e-813e-b7f1ac6ff665.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_74f38270-ccc5-423e-813e-b7f1ac6ff665.png",
+    "instruction": "display all videos",
+    "bbox_xywh": [
+      540.0,
+      561.0,
+      252.0,
+      289.0
+    ],
+    "method": "gating_pass_vote (S=1.23)",
+    "score": {
+      "C_spatial": 0.7956101428937494,
+      "avg_conf": 0.43728700034105844,
+      "S": 1.232897143234808
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_74f38270-ccc5-423e-813e-b7f1ac6ff665.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_74f38270-ccc5-423e-813e-b7f1ac6ff665.png",
+    "instruction": "show all documents",
+    "bbox_xywh": [
+      23.0,
+      565.0,
+      252.0,
+      273.0
+    ],
+    "method": "gating_pass_vote (S=0.96)",
+    "score": {
+      "C_spatial": 0.5792935187813885,
+      "avg_conf": 0.37770627069331864,
+      "S": 0.9569997894747071
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_275415f1-ade1-4210-9e92-8f998a671c96.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_275415f1-ade1-4210-9e92-8f998a671c96.png",
+    "instruction": "show more file types",
+    "bbox_xywh": [
+      813.0,
+      447.0,
+      203.0,
+      89.0
+    ],
+    "method": "gating_pass_vote (S=0.87)",
+    "score": {
+      "C_spatial": 0.4322305105524607,
+      "avg_conf": 0.43372328327758725,
+      "S": 0.8659537938300479
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_275415f1-ade1-4210-9e92-8f998a671c96.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_275415f1-ade1-4210-9e92-8f998a671c96.png",
+    "instruction": "create a new folder",
+    "bbox_xywh": [
+      723.0,
+      1013.0,
+      106.0,
+      89.0
+    ],
+    "method": "gating_pass_vote (S=1.16)",
+    "score": {
+      "C_spatial": 0.6102992982226075,
+      "avg_conf": 0.5460286416190674,
+      "S": 1.1563279398416748
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_275415f1-ade1-4210-9e92-8f998a671c96.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_275415f1-ade1-4210-9e92-8f998a671c96.png",
+    "instruction": "display recent opened files",
+    "bbox_xywh": [
+      60.0,
+      220.0,
+      313.0,
+      171.0
+    ],
+    "method": "gating_pass_vote (S=0.91)",
+    "score": {
+      "C_spatial": 0.5298664542716552,
+      "avg_conf": 0.38150628815658916,
+      "S": 0.9113727424282444
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_1c87bbf1-afc8-4fe3-aaf0-d3bacc52a2bf.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1c87bbf1-afc8-4fe3-aaf0-d3bacc52a2bf.png",
+    "instruction": "Stop the countdown",
+    "bbox_xywh": [
+      223.0,
+      2038.0,
+      220.0,
+      207.0
+    ],
+    "method": "gating_pass_vote (S=0.94)",
+    "score": {
+      "C_spatial": 0.4487178462193992,
+      "avg_conf": 0.49357149765599784,
+      "S": 0.942289343875397
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_1c87bbf1-afc8-4fe3-aaf0-d3bacc52a2bf.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1c87bbf1-afc8-4fe3-aaf0-d3bacc52a2bf.png",
+    "instruction": "start the stopwatch",
+    "bbox_xywh": [
+      605.0,
+      2034.0,
+      277.0,
+      191.0
+    ],
+    "method": "gating_pass_vote (S=1.19)",
+    "score": {
+      "C_spatial": 0.6932023520286205,
+      "avg_conf": 0.49773356450453893,
+      "S": 1.1909359165331594
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_4fafbd92-0af2-4b02-9cf8-952227fd9993.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_4fafbd92-0af2-4b02-9cf8-952227fd9993.png",
+    "instruction": "Turn on the alarm for 3:15",
+    "bbox_xywh": [
+      796.0,
+      1017.0,
+      220.0,
+      155.0
+    ],
+    "method": "gating_pass_vote (S=1.01)",
+    "score": {
+      "C_spatial": 0.533422110164207,
+      "avg_conf": 0.4741278456850452,
+      "S": 1.0075499558492522
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_4fafbd92-0af2-4b02-9cf8-952227fd9993.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_4fafbd92-0af2-4b02-9cf8-952227fd9993.png",
+    "instruction": "turn off the opened clock at 6",
+    "bbox_xywh": [
+      837.0,
+      2042.0,
+      175.0,
+      114.0
+    ],
+    "method": "gating_pass_vote (S=0.99)",
+    "score": {
+      "C_spatial": 0.508028323396117,
+      "avg_conf": 0.48673916483744256,
+      "S": 0.9947674882335595
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_4fafbd92-0af2-4b02-9cf8-952227fd9993.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_4fafbd92-0af2-4b02-9cf8-952227fd9993.png",
+    "instruction": "show details of 7:30 clock alarm",
+    "bbox_xywh": [
+      23.0,
+      561.0,
+      1057.0,
+      334.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.33692986718171836,
+      "avg_conf": 0.5949459422299974,
+      "S": 0.9318758094117158
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_2b80c9bf-0040-492e-8dca-d81cc9042b5a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_2b80c9bf-0040-492e-8dca-d81cc9042b5a.png",
+    "instruction": "set reminder for created task",
+    "bbox_xywh": [
+      97.0,
+      1228.0,
+      435.0,
+      106.0
+    ],
+    "method": "gating_pass_vote (S=0.88)",
+    "score": {
+      "C_spatial": 0.41339767901595226,
+      "avg_conf": 0.4667230397965368,
+      "S": 0.8801207188124891
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_2b80c9bf-0040-492e-8dca-d81cc9042b5a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_2b80c9bf-0040-492e-8dca-d81cc9042b5a.png",
+    "instruction": "tap done to set this subtask",
+    "bbox_xywh": [
+      800.0,
+      1261.0,
+      203.0,
+      65.0
+    ],
+    "method": "gating_pass_vote (S=1.19)",
+    "score": {
+      "C_spatial": 0.6444385996907664,
+      "avg_conf": 0.5496702142429355,
+      "S": 1.194108813933702
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_2b80c9bf-0040-492e-8dca-d81cc9042b5a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_2b80c9bf-0040-492e-8dca-d81cc9042b5a.png",
+    "instruction": "fold input method",
+    "bbox_xywh": [
+      894.0,
+      1554.0,
+      155.0,
+      98.0
+    ],
+    "method": "gating_pass_vote (S=1.09)",
+    "score": {
+      "C_spatial": 0.5414362260717208,
+      "avg_conf": 0.5523334606218411,
+      "S": 1.093769686693562
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_caaf7ec0-c1ee-4edc-8b42-37bfa11c4dd3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_caaf7ec0-c1ee-4edc-8b42-37bfa11c4dd3.png",
+    "instruction": "create new task",
+    "bbox_xywh": [
+      788.0,
+      2046.0,
+      232.0,
+      224.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.5604322772710854,
+      "avg_conf": 0.46649934519525554,
+      "S": 1.026931622466341
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_caaf7ec0-c1ee-4edc-8b42-37bfa11c4dd3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_caaf7ec0-c1ee-4edc-8b42-37bfa11c4dd3.png",
+    "instruction": "open settings",
+    "bbox_xywh": [
+      918.0,
+      102.0,
+      118.0,
+      134.0
+    ],
+    "method": "gating_pass_vote (S=1.30)",
+    "score": {
+      "C_spatial": 0.7274436158930341,
+      "avg_conf": 0.5770644005617888,
+      "S": 1.3045080164548228
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_caaf7ec0-c1ee-4edc-8b42-37bfa11c4dd3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_caaf7ec0-c1ee-4edc-8b42-37bfa11c4dd3.png",
+    "instruction": "open notes",
+    "bbox_xywh": [
+      44.0,
+      260.0,
+      325.0,
+      146.0
+    ],
+    "method": "gating_pass_vote (S=1.01)",
+    "score": {
+      "C_spatial": 0.6312427825975997,
+      "avg_conf": 0.3799099080391585,
+      "S": 1.011152690636758
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_2a2da2de-b63c-46e0-88cf-f88ef8aec6e0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_2a2da2de-b63c-46e0-88cf-f88ef8aec6e0.png",
+    "instruction": "set font size to small",
+    "bbox_xywh": [
+      442.0,
+      1269.0,
+      565.0,
+      175.0
+    ],
+    "method": "gating_pass_vote (S=0.74)",
+    "score": {
+      "C_spatial": 0.328113947101568,
+      "avg_conf": 0.4141432778889411,
+      "S": 0.7422572249905091
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_2a2da2de-b63c-46e0-88cf-f88ef8aec6e0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_2a2da2de-b63c-46e0-88cf-f88ef8aec6e0.png",
+    "instruction": "use huge font size",
+    "bbox_xywh": [
+      418.0,
+      1786.0,
+      594.0,
+      171.0
+    ],
+    "method": "gating_pass_vote (S=0.72)",
+    "score": {
+      "C_spatial": 0.2936110858468193,
+      "avg_conf": 0.42301057456210334,
+      "S": 0.7166216604089226
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_165687dd-c6c2-4f44-a84d-3e9a2af95ffe.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_165687dd-c6c2-4f44-a84d-3e9a2af95ffe.png",
+    "instruction": "display calendar in week view",
+    "bbox_xywh": [
+      328.0,
+      240.0,
+      167.0,
+      163.0
+    ],
+    "method": "gating_pass_vote (S=0.86)",
+    "score": {
+      "C_spatial": 0.4859378661258185,
+      "avg_conf": 0.3767477309822015,
+      "S": 0.8626855971080201
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_165687dd-c6c2-4f44-a84d-3e9a2af95ffe.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_165687dd-c6c2-4f44-a84d-3e9a2af95ffe.png",
+    "instruction": "display calendar by days",
+    "bbox_xywh": [
+      589.0,
+      240.0,
+      163.0,
+      159.0
+    ],
+    "method": "gating_pass_vote (S=0.82)",
+    "score": {
+      "C_spatial": 0.39755087607215717,
+      "avg_conf": 0.42035825646629904,
+      "S": 0.8179091325384562
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_414acb14-025e-462a-9d1c-6410df04db7f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_414acb14-025e-462a-9d1c-6410df04db7f.png",
+    "instruction": "display 15-day weather forecast",
+    "bbox_xywh": [
+      64.0,
+      2184.0,
+      968.0,
+      179.0
+    ],
+    "method": "gating_pass_vote (S=0.75)",
+    "score": {
+      "C_spatial": 0.3672970788747354,
+      "avg_conf": 0.38754589023126185,
+      "S": 0.7548429691059972
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_414acb14-025e-462a-9d1c-6410df04db7f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_414acb14-025e-462a-9d1c-6410df04db7f.png",
+    "instruction": "open options",
+    "bbox_xywh": [
+      926.0,
+      114.0,
+      118.0,
+      126.0
+    ],
+    "method": "gating_pass_vote (S=1.01)",
+    "score": {
+      "C_spatial": 0.4743371032889955,
+      "avg_conf": 0.5370228838814439,
+      "S": 1.0113599871704393
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_414acb14-025e-462a-9d1c-6410df04db7f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_414acb14-025e-462a-9d1c-6410df04db7f.png",
+    "instruction": "add new city",
+    "bbox_xywh": [
+      27.0,
+      102.0,
+      126.0,
+      151.0
+    ],
+    "method": "gating_pass_vote (S=1.13)",
+    "score": {
+      "C_spatial": 0.6125784330085644,
+      "avg_conf": 0.5196368020057981,
+      "S": 1.1322152350143626
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_d17dfa46-fc13-4f38-9261-3f9f7171067b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_d17dfa46-fc13-4f38-9261-3f9f7171067b.png",
+    "instruction": "turn on airplane mode",
+    "bbox_xywh": [
+      800.0,
+      447.0,
+      228.0,
+      126.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.5395057007508725,
+      "avg_conf": 0.45678950045079386,
+      "S": 0.9962952012016664
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_d17dfa46-fc13-4f38-9261-3f9f7171067b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_d17dfa46-fc13-4f38-9261-3f9f7171067b.png",
+    "instruction": "turn off nfc",
+    "bbox_xywh": [
+      776.0,
+      1111.0,
+      260.0,
+      122.0
+    ],
+    "method": "gating_pass_vote (S=1.21)",
+    "score": {
+      "C_spatial": 0.665280256332521,
+      "avg_conf": 0.5441344246573643,
+      "S": 1.2094146809898851
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_d17dfa46-fc13-4f38-9261-3f9f7171067b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_d17dfa46-fc13-4f38-9261-3f9f7171067b.png",
+    "instruction": "set default wallent",
+    "bbox_xywh": [
+      36.0,
+      1302.0,
+      1009.0,
+      216.0
+    ],
+    "method": "gating_pass_vote (S=0.71)",
+    "score": {
+      "C_spatial": 0.205849946679365,
+      "avg_conf": 0.4994966482745291,
+      "S": 0.7053465949538941
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_0dcb6532-d25e-4bb0-8746-ccdbec623bce.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_0dcb6532-d25e-4bb0-8746-ccdbec623bce.png",
+    "instruction": "scan qr code",
+    "bbox_xywh": [
+      931.0,
+      130.0,
+      110.0,
+      98.0
+    ],
+    "method": "gating_pass_vote (S=1.20)",
+    "score": {
+      "C_spatial": 0.6360530053517236,
+      "avg_conf": 0.5642513981277669,
+      "S": 1.2003044034794905
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_0dcb6532-d25e-4bb0-8746-ccdbec623bce.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_0dcb6532-d25e-4bb0-8746-ccdbec623bce.png",
+    "instruction": "sign out",
+    "bbox_xywh": [
+      48.0,
+      2087.0,
+      976.0,
+      191.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.4715892817643318,
+      "avg_conf": 0.4567860532999458,
+      "S": 0.9283753350642776
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_6e08b93a-9271-40ac-9dd0-f1f95f8d8675.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6e08b93a-9271-40ac-9dd0-f1f95f8d8675.png",
+    "instruction": "switch on auto-rotate screen",
+    "bbox_xywh": [
+      808.0,
+      1611.0,
+      203.0,
+      94.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.5470421825812857,
+      "avg_conf": 0.48656176440792354,
+      "S": 1.033603946989209
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_6e08b93a-9271-40ac-9dd0-f1f95f8d8675.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6e08b93a-9271-40ac-9dd0-f1f95f8d8675.png",
+    "instruction": "view control center and status bar",
+    "bbox_xywh": [
+      64.0,
+      1977.0,
+      838.0,
+      122.0
+    ],
+    "method": "gating_pass_vote (S=1.02)",
+    "score": {
+      "C_spatial": 0.5555882094987502,
+      "avg_conf": 0.46532718341692364,
+      "S": 1.0209153929156738
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_6e08b93a-9271-40ac-9dd0-f1f95f8d8675.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6e08b93a-9271-40ac-9dd0-f1f95f8d8675.png",
+    "instruction": "check fonts settings",
+    "bbox_xywh": [
+      27.0,
+      919.0,
+      1045.0,
+      264.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.35974653492767644,
+      "avg_conf": 0.5291933171038397,
+      "S": 0.8889398520315162
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_d52263df-908a-4f53-93de-b51d691ad995.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_d52263df-908a-4f53-93de-b51d691ad995.png",
+    "instruction": "use dark mode display",
+    "bbox_xywh": [
+      540.0,
+      533.0,
+      500.0,
+      793.0
+    ],
+    "method": "gating_pass_vote (S=1.47)",
+    "score": {
+      "C_spatial": 0.9229639657834643,
+      "avg_conf": 0.5465867248630212,
+      "S": 1.4695506906464855
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_d52263df-908a-4f53-93de-b51d691ad995.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_d52263df-908a-4f53-93de-b51d691ad995.png",
+    "instruction": "change dark mode options",
+    "bbox_xywh": [
+      19.0,
+      1517.0,
+      1009.0,
+      195.0
+    ],
+    "method": "gating_pass_vote (S=0.78)",
+    "score": {
+      "C_spatial": 0.21676159237441261,
+      "avg_conf": 0.5675447977627247,
+      "S": 0.7843063901371373
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_d52263df-908a-4f53-93de-b51d691ad995.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_d52263df-908a-4f53-93de-b51d691ad995.png",
+    "instruction": "return upper page",
+    "bbox_xywh": [
+      36.0,
+      77.0,
+      155.0,
+      151.0
+    ],
+    "method": "gating_pass_vote (S=1.16)",
+    "score": {
+      "C_spatial": 0.6424982280419089,
+      "avg_conf": 0.522226178239995,
+      "S": 1.1647244062819038
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_3607031a-15bb-48cd-a2e6-84a7ce433173.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_3607031a-15bb-48cd-a2e6-84a7ce433173.png",
+    "instruction": "view display options",
+    "bbox_xywh": [
+      40.0,
+      1192.0,
+      1009.0,
+      167.0
+    ],
+    "method": "gating_pass_vote (S=0.86)",
+    "score": {
+      "C_spatial": 0.31043363509806016,
+      "avg_conf": 0.5543281544541905,
+      "S": 0.8647617895522506
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_3607031a-15bb-48cd-a2e6-84a7ce433173.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_3607031a-15bb-48cd-a2e6-84a7ce433173.png",
+    "instruction": "open vpn options",
+    "bbox_xywh": [
+      40.0,
+      183.0,
+      1013.0,
+      224.0
+    ],
+    "method": "gating_pass_vote (S=1.12)",
+    "score": {
+      "C_spatial": 0.535143025767538,
+      "avg_conf": 0.5799572863797324,
+      "S": 1.1151003121472705
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_f61ea850-a79c-41b8-891f-8c55326e1530.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f61ea850-a79c-41b8-891f-8c55326e1530.png",
+    "instruction": "set date and time",
+    "bbox_xywh": [
+      27.0,
+      541.0,
+      1041.0,
+      183.0
+    ],
+    "method": "gating_pass_vote (S=0.70)",
+    "score": {
+      "C_spatial": 0.2458257607584879,
+      "avg_conf": 0.4555967787130314,
+      "S": 0.7014225394715192
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_f61ea850-a79c-41b8-891f-8c55326e1530.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f61ea850-a79c-41b8-891f-8c55326e1530.png",
+    "instruction": "view quick control ball",
+    "bbox_xywh": [
+      60.0,
+      1452.0,
+      988.0,
+      171.0
+    ],
+    "method": "gating_pass_vote (S=0.71)",
+    "score": {
+      "C_spatial": 0.2222033604978171,
+      "avg_conf": 0.48772234863616304,
+      "S": 0.7099257091339801
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_04545977-3f36-4a33-a787-72ec8a9dd4f2.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_04545977-3f36-4a33-a787-72ec8a9dd4f2.png",
+    "instruction": "check battery options",
+    "bbox_xywh": [
+      894.0,
+      106.0,
+      155.0,
+      142.0
+    ],
+    "method": "gating_pass_vote (S=1.25)",
+    "score": {
+      "C_spatial": 0.705217655463707,
+      "avg_conf": 0.5474932985721415,
+      "S": 1.2527109540358485
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_04545977-3f36-4a33-a787-72ec8a9dd4f2.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_04545977-3f36-4a33-a787-72ec8a9dd4f2.png",
+    "instruction": "change battery setting for better performance",
+    "bbox_xywh": [
+      686.0,
+      842.0,
+      374.0,
+      212.0
+    ],
+    "method": "gating_pass_conf (S=0.63)",
+    "score": {
+      "C_spatial": 0.20194654989187585,
+      "avg_conf": 0.423562803336926,
+      "S": 0.6255093532288019
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_04545977-3f36-4a33-a787-72ec8a9dd4f2.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_04545977-3f36-4a33-a787-72ec8a9dd4f2.png",
+    "instruction": "open ultra battery saver",
+    "bbox_xywh": [
+      804.0,
+      1131.0,
+      224.0,
+      146.0
+    ],
+    "method": "gating_pass_vote (S=1.11)",
+    "score": {
+      "C_spatial": 0.5995070005481706,
+      "avg_conf": 0.5143913053343354,
+      "S": 1.113898305882506
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_3b5ab7d3-8e84-4be1-83ba-801882db294b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_3b5ab7d3-8e84-4be1-83ba-801882db294b.png",
+    "instruction": "clear the result",
+    "bbox_xywh": [
+      80.0,
+      1102.0,
+      191.0,
+      199.0
+    ],
+    "method": "gating_pass_vote (S=0.86)",
+    "score": {
+      "C_spatial": 0.4269724699260764,
+      "avg_conf": 0.4325490612718453,
+      "S": 0.8595215311979216
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_3b5ab7d3-8e84-4be1-83ba-801882db294b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_3b5ab7d3-8e84-4be1-83ba-801882db294b.png",
+    "instruction": "enter 5",
+    "bbox_xywh": [
+      292.0,
+      1591.0,
+      232.0,
+      212.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.4079904257287201,
+      "avg_conf": 0.4800552917764713,
+      "S": 0.8880457175051915
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_3b5ab7d3-8e84-4be1-83ba-801882db294b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_3b5ab7d3-8e84-4be1-83ba-801882db294b.png",
+    "instruction": "Tap the division sign in the calculator",
+    "bbox_xywh": [
+      780.0,
+      1102.0,
+      240.0,
+      220.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.477247807653753,
+      "avg_conf": 0.4414428051551471,
+      "S": 0.9186906128089001
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_4c2df330-55c0-4272-80c0-6e2cf8f96903.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_4c2df330-55c0-4272-80c0-6e2cf8f96903.png",
+    "instruction": "click \"done\"",
+    "bbox_xywh": [
+      255.0,
+      1896.0,
+      582.0,
+      220.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.5173285042887747,
+      "avg_conf": 0.5171865810244796,
+      "S": 1.0345150853132543
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_cebc7e07-8ab3-4232-acdd-aa2884af2e66.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_cebc7e07-8ab3-4232-acdd-aa2884af2e66.png",
+    "instruction": "open gmail",
+    "bbox_xywh": [
+      15.0,
+      476.0,
+      183.0,
+      142.0
+    ],
+    "method": "gating_pass_vote (S=0.96)",
+    "score": {
+      "C_spatial": 0.5354760841268927,
+      "avg_conf": 0.4227049973546558,
+      "S": 0.9581810814815486
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_cebc7e07-8ab3-4232-acdd-aa2884af2e66.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_cebc7e07-8ab3-4232-acdd-aa2884af2e66.png",
+    "instruction": "add new email account",
+    "bbox_xywh": [
+      15.0,
+      647.0,
+      167.0,
+      155.0
+    ],
+    "method": "gating_pass_vote (S=0.82)",
+    "score": {
+      "C_spatial": 0.38289005301976164,
+      "avg_conf": 0.4415005638436624,
+      "S": 0.8243906168634241
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_569a4f5a-01f0-4386-89ba-768e1f88d38e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_569a4f5a-01f0-4386-89ba-768e1f88d38e.png",
+    "instruction": "check week summary",
+    "bbox_xywh": [
+      11.0,
+      1351.0,
+      1045.0,
+      163.0
+    ],
+    "method": "gating_pass_vote (S=0.62)",
+    "score": {
+      "C_spatial": 0.19183075442779726,
+      "avg_conf": 0.4294528327664641,
+      "S": 0.6212835871942614
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_569a4f5a-01f0-4386-89ba-768e1f88d38e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_569a4f5a-01f0-4386-89ba-768e1f88d38e.png",
+    "instruction": "display wearing device",
+    "bbox_xywh": [
+      577.0,
+      2180.0,
+      207.0,
+      183.0
+    ],
+    "method": "gating_pass_vote (S=0.91)",
+    "score": {
+      "C_spatial": 0.44227858640658546,
+      "avg_conf": 0.4698381883069757,
+      "S": 0.9121167747135612
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_9aa2c4bf-aa52-43ed-ac30-f22798c14668.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_9aa2c4bf-aa52-43ed-ac30-f22798c14668.png",
+    "instruction": "open instagram",
+    "bbox_xywh": [
+      27.0,
+      891.0,
+      264.0,
+      277.0
+    ],
+    "method": "gating_pass_vote (S=1.19)",
+    "score": {
+      "C_spatial": 0.7312519103830725,
+      "avg_conf": 0.45763093372192143,
+      "S": 1.188882844104994
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_9aa2c4bf-aa52-43ed-ac30-f22798c14668.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_9aa2c4bf-aa52-43ed-ac30-f22798c14668.png",
+    "instruction": "open github app",
+    "bbox_xywh": [
+      808.0,
+      586.0,
+      232.0,
+      248.0
+    ],
+    "method": "gating_pass_vote (S=1.17)",
+    "score": {
+      "C_spatial": 0.7019234897848239,
+      "avg_conf": 0.46719090941373614,
+      "S": 1.16911439919856
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_9aa2c4bf-aa52-43ed-ac30-f22798c14668.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_9aa2c4bf-aa52-43ed-ac30-f22798c14668.png",
+    "instruction": "open message app",
+    "bbox_xywh": [
+      40.0,
+      1200.0,
+      252.0,
+      313.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.542868680340388,
+      "avg_conf": 0.4572248238354714,
+      "S": 1.0000935041758594
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_88c8a639-8051-4241-943c-41104b363caa.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_88c8a639-8051-4241-943c-41104b363caa.png",
+    "instruction": "start outdoor running",
+    "bbox_xywh": [
+      3.0,
+      346.0,
+      529.0,
+      362.0
+    ],
+    "method": "gating_pass_vote (S=0.88)",
+    "score": {
+      "C_spatial": 0.4155814424229979,
+      "avg_conf": 0.46522062310358403,
+      "S": 0.8808020655265819
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_88c8a639-8051-4241-943c-41104b363caa.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_88c8a639-8051-4241-943c-41104b363caa.png",
+    "instruction": "record outdoor cycle",
+    "bbox_xywh": [
+      3.0,
+      736.0,
+      517.0,
+      395.0
+    ],
+    "method": "gating_pass_vote (S=0.87)",
+    "score": {
+      "C_spatial": 0.4812125722242206,
+      "avg_conf": 0.3853097192447149,
+      "S": 0.8665222914689354
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_88c8a639-8051-4241-943c-41104b363caa.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_88c8a639-8051-4241-943c-41104b363caa.png",
+    "instruction": "start threadmill recordding",
+    "bbox_xywh": [
+      532.0,
+      740.0,
+      521.0,
+      399.0
+    ],
+    "method": "gating_pass_vote (S=1.01)",
+    "score": {
+      "C_spatial": 0.5140323456075612,
+      "avg_conf": 0.4981724236614116,
+      "S": 1.0122047692689728
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_df5320bc-03e4-4e4e-bcc2-67cfd9b344ec.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_df5320bc-03e4-4e4e-bcc2-67cfd9b344ec.png",
+    "instruction": "show week steps recordings",
+    "bbox_xywh": [
+      402.0,
+      260.0,
+      256.0,
+      203.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.5268553064823628,
+      "avg_conf": 0.5013903429205522,
+      "S": 1.028245649402915
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_df5320bc-03e4-4e4e-bcc2-67cfd9b344ec.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_df5320bc-03e4-4e4e-bcc2-67cfd9b344ec.png",
+    "instruction": "show steps recording by month",
+    "bbox_xywh": [
+      699.0,
+      256.0,
+      301.0,
+      195.0
+    ],
+    "method": "gating_pass_vote (S=0.64)",
+    "score": {
+      "C_spatial": 0.22442215386206738,
+      "avg_conf": 0.420366189465985,
+      "S": 0.6447883433280523
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_df5320bc-03e4-4e4e-bcc2-67cfd9b344ec.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_df5320bc-03e4-4e4e-bcc2-67cfd9b344ec.png",
+    "instruction": "return to upper page",
+    "bbox_xywh": [
+      19.0,
+      106.0,
+      167.0,
+      110.0
+    ],
+    "method": "gating_pass_vote (S=0.91)",
+    "score": {
+      "C_spatial": 0.4351721373899572,
+      "avg_conf": 0.4742267593579075,
+      "S": 0.9093988967478647
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_e277f0fc-fe73-4304-9d8e-2bc4613e1986.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_e277f0fc-fe73-4304-9d8e-2bc4613e1986.png",
+    "instruction": "check sleeping time",
+    "bbox_xywh": [
+      40.0,
+      232.0,
+      484.0,
+      590.0
+    ],
+    "method": "gating_pass_vote (S=0.97)",
+    "score": {
+      "C_spatial": 0.6106538952568611,
+      "avg_conf": 0.3584825799473095,
+      "S": 0.9691364752041706
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_e277f0fc-fe73-4304-9d8e-2bc4613e1986.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_e277f0fc-fe73-4304-9d8e-2bc4613e1986.png",
+    "instruction": "Monitor calorie expenditure",
+    "bbox_xywh": [
+      512.0,
+      797.0,
+      529.0,
+      594.0
+    ],
+    "method": "gating_pass_vote (S=0.66)",
+    "score": {
+      "C_spatial": 0.2785459454332691,
+      "avg_conf": 0.37999218023486653,
+      "S": 0.6585381256681356
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_e277f0fc-fe73-4304-9d8e-2bc4613e1986.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_e277f0fc-fe73-4304-9d8e-2bc4613e1986.png",
+    "instruction": "switch to workout page",
+    "bbox_xywh": [
+      312.0,
+      2188.0,
+      199.0,
+      155.0
+    ],
+    "method": "gating_pass_vote (S=1.06)",
+    "score": {
+      "C_spatial": 0.5835558602674433,
+      "avg_conf": 0.4744747403150581,
+      "S": 1.0580306005825015
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_f515dd3d-41eb-4fe9-b74a-ac66e60a8b75.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f515dd3d-41eb-4fe9-b74a-ac66e60a8b75.png",
+    "instruction": "tap continue button",
+    "bbox_xywh": [
+      548.0,
+      2091.0,
+      435.0,
+      171.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.5304772670994676,
+      "avg_conf": 0.4952015035743398,
+      "S": 1.0256787706738075
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_f515dd3d-41eb-4fe9-b74a-ac66e60a8b75.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f515dd3d-41eb-4fe9-b74a-ac66e60a8b75.png",
+    "instruction": "cancel",
+    "bbox_xywh": [
+      113.0,
+      2066.0,
+      427.0,
+      183.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.5028753401794378,
+      "avg_conf": 0.4282721740593894,
+      "S": 0.9311475142388272
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_63949247-1001-4d4e-9f49-81c85f7308e8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_63949247-1001-4d4e-9f49-81c85f7308e8.png",
+    "instruction": "click power on",
+    "bbox_xywh": [
+      3.0,
+      1029.0,
+      675.0,
+      305.0
+    ],
+    "method": "gating_pass_vote (S=1.29)",
+    "score": {
+      "C_spatial": 0.7229593731664016,
+      "avg_conf": 0.5648207250853216,
+      "S": 1.2877800982517231
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_63949247-1001-4d4e-9f49-81c85f7308e8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_63949247-1001-4d4e-9f49-81c85f7308e8.png",
+    "instruction": "change mode",
+    "bbox_xywh": [
+      699.0,
+      1033.0,
+      338.0,
+      313.0
+    ],
+    "method": "gating_pass_vote (S=1.19)",
+    "score": {
+      "C_spatial": 0.6273999134969138,
+      "avg_conf": 0.5599631171800438,
+      "S": 1.1873630306769576
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_63949247-1001-4d4e-9f49-81c85f7308e8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_63949247-1001-4d4e-9f49-81c85f7308e8.png",
+    "instruction": "raise air conditioner temperature",
+    "bbox_xywh": [
+      735.0,
+      1713.0,
+      334.0,
+      301.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.3999804138630768,
+      "avg_conf": 0.4875023860598797,
+      "S": 0.8874827999229565
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_6bbaccfd-a0c4-49d3-a68d-050210ff5a6e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6bbaccfd-a0c4-49d3-a68d-050210ff5a6e.png",
+    "instruction": "check battery usage",
+    "bbox_xywh": [
+      15.0,
+      923.0,
+      1058.0,
+      179.0
+    ],
+    "method": "gating_pass_vote (S=0.78)",
+    "score": {
+      "C_spatial": 0.27358793866931563,
+      "avg_conf": 0.5023170642732301,
+      "S": 0.7759050029425457
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_6bbaccfd-a0c4-49d3-a68d-050210ff5a6e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6bbaccfd-a0c4-49d3-a68d-050210ff5a6e.png",
+    "instruction": "set fingerprints, face data and screen lock options",
+    "bbox_xywh": [
+      19.0,
+      358.0,
+      1037.0,
+      216.0
+    ],
+    "method": "gating_pass_vote (S=0.63)",
+    "score": {
+      "C_spatial": 0.1472917640092859,
+      "avg_conf": 0.4795433628298638,
+      "S": 0.6268351268391497
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_6bbaccfd-a0c4-49d3-a68d-050210ff5a6e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6bbaccfd-a0c4-49d3-a68d-050210ff5a6e.png",
+    "instruction": "set mi ai voice assistant",
+    "bbox_xywh": [
+      23.0,
+      1550.0,
+      1041.0,
+      167.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.50)",
+    "score": {
+      "C_spatial": 0.09019752470661647,
+      "avg_conf": 0.40855982208080277,
+      "S": 0.49875734678741923
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_182c66dd-3836-4bce-909f-166abd570fde.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_182c66dd-3836-4bce-909f-166abd570fde.png",
+    "instruction": "open user profile",
+    "bbox_xywh": [
+      44.0,
+      622.0,
+      997.0,
+      236.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.5933794025996072,
+      "avg_conf": 0.4757256116276152,
+      "S": 1.0691050142272225
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_182c66dd-3836-4bce-909f-166abd570fde.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_182c66dd-3836-4bce-909f-166abd570fde.png",
+    "instruction": "search setttings",
+    "bbox_xywh": [
+      44.0,
+      423.0,
+      997.0,
+      151.0
+    ],
+    "method": "gating_pass_vote (S=0.69)",
+    "score": {
+      "C_spatial": 0.3237799607106471,
+      "avg_conf": 0.3614454329698314,
+      "S": 0.6852253936804784
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_182c66dd-3836-4bce-909f-166abd570fde.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_182c66dd-3836-4bce-909f-166abd570fde.png",
+    "instruction": "turn off bluetooth",
+    "bbox_xywh": [
+      36.0,
+      1652.0,
+      1021.0,
+      118.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.51)",
+    "score": {
+      "C_spatial": 0.061121199541522835,
+      "avg_conf": 0.44626738067759675,
+      "S": 0.5073885802191196
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_6a0ba48e-0ed8-44ba-a40b-adbbdba2dee4.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6a0ba48e-0ed8-44ba-a40b-adbbdba2dee4.png",
+    "instruction": "display unread massages",
+    "bbox_xywh": [
+      381.0,
+      264.0,
+      240.0,
+      126.0
+    ],
+    "method": "gating_pass_vote (S=1.13)",
+    "score": {
+      "C_spatial": 0.6611002216680377,
+      "avg_conf": 0.47007693885676316,
+      "S": 1.1311771605248009
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_6a0ba48e-0ed8-44ba-a40b-adbbdba2dee4.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6a0ba48e-0ed8-44ba-a40b-adbbdba2dee4.png",
+    "instruction": "display flagged massages",
+    "bbox_xywh": [
+      621.0,
+      252.0,
+      289.0,
+      134.0
+    ],
+    "method": "gating_pass_vote (S=0.83)",
+    "score": {
+      "C_spatial": 0.42578766283177627,
+      "avg_conf": 0.39943045835871677,
+      "S": 0.825218121190493
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_6a0ba48e-0ed8-44ba-a40b-adbbdba2dee4.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6a0ba48e-0ed8-44ba-a40b-adbbdba2dee4.png",
+    "instruction": "tap to search messages",
+    "bbox_xywh": [
+      837.0,
+      126.0,
+      102.0,
+      102.0
+    ],
+    "method": "gating_pass_vote (S=1.27)",
+    "score": {
+      "C_spatial": 0.72136277407733,
+      "avg_conf": 0.5439860060263134,
+      "S": 1.2653487801036434
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_ee2362d3-17a7-479e-9f99-fd8378aae866.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_ee2362d3-17a7-479e-9f99-fd8378aae866.png",
+    "instruction": "turn off wifi",
+    "bbox_xywh": [
+      68.0,
+      423.0,
+      460.0,
+      285.0
+    ],
+    "method": "gating_pass_vote (S=1.12)",
+    "score": {
+      "C_spatial": 0.6921814576947477,
+      "avg_conf": 0.4284425276200643,
+      "S": 1.120623985314812
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "android",
+    "img_filename": "mobile_ee2362d3-17a7-479e-9f99-fd8378aae866.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_ee2362d3-17a7-479e-9f99-fd8378aae866.png",
+    "instruction": "change phone settings ",
+    "bbox_xywh": [
+      796.0,
+      285.0,
+      94.0,
+      114.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.46561656463530504,
+      "avg_conf": 0.4880825155859223,
+      "S": 0.9536990802212273
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_f53240ec-a09f-4857-9ca1-db5fb79455c3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f53240ec-a09f-4857-9ca1-db5fb79455c3.png",
+    "instruction": "open calculator",
+    "bbox_xywh": [
+      540.0,
+      1017.0,
+      256.0,
+      285.0
+    ],
+    "method": "gating_pass_vote (S=1.27)",
+    "score": {
+      "C_spatial": 0.745834096716011,
+      "avg_conf": 0.526438855523505,
+      "S": 1.272272952239516
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_f53240ec-a09f-4857-9ca1-db5fb79455c3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f53240ec-a09f-4857-9ca1-db5fb79455c3.png",
+    "instruction": "open settings",
+    "bbox_xywh": [
+      796.0,
+      1302.0,
+      268.0,
+      317.0
+    ],
+    "method": "gating_pass_vote (S=1.02)",
+    "score": {
+      "C_spatial": 0.5381122075693824,
+      "avg_conf": 0.47698541153470636,
+      "S": 1.0150976191040888
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "android",
+    "img_filename": "mobile_f53240ec-a09f-4857-9ca1-db5fb79455c3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f53240ec-a09f-4857-9ca1-db5fb79455c3.png",
+    "instruction": "open notes",
+    "bbox_xywh": [
+      792.0,
+      1623.0,
+      268.0,
+      268.0
+    ],
+    "method": "gating_pass_vote (S=1.10)",
+    "score": {
+      "C_spatial": 0.6360187688893683,
+      "avg_conf": 0.4630411849814984,
+      "S": 1.0990599538708667
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_b9537ded-e771-43c7-bab4-1db747625d87.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_b9537ded-e771-43c7-bab4-1db747625d87.png",
+    "instruction": "open automation",
+    "bbox_xywh": [
+      33.0,
+      340.0,
+      571.0,
+      93.0
+    ],
+    "method": "gating_pass_vote (S=0.78)",
+    "score": {
+      "C_spatial": 0.39514397787128186,
+      "avg_conf": 0.3886226017146429,
+      "S": 0.7837665795859248
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_49f35b0d-59ea-46f9-b215-0e0e70d06a9a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_49f35b0d-59ea-46f9-b215-0e0e70d06a9a.png",
+    "instruction": "add a room",
+    "bbox_xywh": [
+      1739.0,
+      231.0,
+      503.0,
+      89.0
+    ],
+    "method": "gating_pass_vote (S=0.83)",
+    "score": {
+      "C_spatial": 0.4293612730320124,
+      "avg_conf": 0.39568613390571744,
+      "S": 0.8250474069377298
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_4e17db8b-85df-4278-ba0a-9f03e5ca85da.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_4e17db8b-85df-4278-ba0a-9f03e5ca85da.png",
+    "instruction": "turn on the dark appearance dims wallpaper",
+    "bbox_xywh": [
+      2088.0,
+      961.0,
+      118.0,
+      74.0
+    ],
+    "method": "gating_pass_vote (S=1.13)",
+    "score": {
+      "C_spatial": 0.6174851684141911,
+      "avg_conf": 0.5127758222798683,
+      "S": 1.1302609906940595
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_6ded1777-d4c3-485f-b28a-7754e0e9c024.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6ded1777-d4c3-485f-b28a-7754e0e9c024.png",
+    "instruction": "open only draw with apple pencil mode",
+    "bbox_xywh": [
+      2123.0,
+      1083.0,
+      107.0,
+      66.0
+    ],
+    "method": "gating_pass_vote (S=1.06)",
+    "score": {
+      "C_spatial": 0.5590567125284396,
+      "avg_conf": 0.4995053448168377,
+      "S": 1.0585620573452772
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_6ded1777-d4c3-485f-b28a-7754e0e9c024.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6ded1777-d4c3-485f-b28a-7754e0e9c024.png",
+    "instruction": "switch to show link attributes",
+    "bbox_xywh": [
+      930.0,
+      798.0,
+      1331.0,
+      87.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.46)",
+    "score": {
+      "C_spatial": 0.08201129883993082,
+      "avg_conf": 0.3823093166016451,
+      "S": 0.4643206154415759
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_124e877d-d29c-45e4-bdc2-cbc729c702c9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_124e877d-d29c-45e4-bdc2-cbc729c702c9.png",
+    "instruction": "open memo app",
+    "bbox_xywh": [
+      798.0,
+      1436.0,
+      146.0,
+      148.0
+    ],
+    "method": "gating_pass_vote (S=0.70)",
+    "score": {
+      "C_spatial": 0.25391157274044945,
+      "avg_conf": 0.44829406918939235,
+      "S": 0.7022056419298418
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_f859f69e-20c1-4630-9435-e959c43590d5.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f859f69e-20c1-4630-9435-e959c43590d5.png",
+    "instruction": "add a new tab",
+    "bbox_xywh": [
+      497.0,
+      54.0,
+      74.0,
+      70.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.4521560179433089,
+      "avg_conf": 0.49321187492217844,
+      "S": 0.9453678928654874
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_f859f69e-20c1-4630-9435-e959c43590d5.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f859f69e-20c1-4630-9435-e959c43590d5.png",
+    "instruction": "refresh the page",
+    "bbox_xywh": [
+      233.0,
+      138.0,
+      95.0,
+      93.0
+    ],
+    "method": "gating_pass_vote (S=1.18)",
+    "score": {
+      "C_spatial": 0.6510598877743626,
+      "avg_conf": 0.5311302400895755,
+      "S": 1.1821901278639382
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_f859f69e-20c1-4630-9435-e959c43590d5.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f859f69e-20c1-4630-9435-e959c43590d5.png",
+    "instruction": "go to user account page",
+    "bbox_xywh": [
+      2246.0,
+      260.0,
+      97.0,
+      85.0
+    ],
+    "method": "gating_pass_vote (S=1.29)",
+    "score": {
+      "C_spatial": 0.6956299350216055,
+      "avg_conf": 0.5902797666223127,
+      "S": 1.2859097016439183
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_41aa1b5c-01f3-455d-807e-9c90c705dd1f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_41aa1b5c-01f3-455d-807e-9c90c705dd1f.png",
+    "instruction": "clear browsing data",
+    "bbox_xywh": [
+      1603.0,
+      1060.0,
+      685.0,
+      99.0
+    ],
+    "method": "gating_pass_vote (S=0.77)",
+    "score": {
+      "C_spatial": 0.36918499343460304,
+      "avg_conf": 0.3968629167759784,
+      "S": 0.7660479102105815
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_41aa1b5c-01f3-455d-807e-9c90c705dd1f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_41aa1b5c-01f3-455d-807e-9c90c705dd1f.png",
+    "instruction": "open downloads page",
+    "bbox_xywh": [
+      1987.0,
+      293.0,
+      142.0,
+      171.0
+    ],
+    "method": "gating_pass_vote (S=1.02)",
+    "score": {
+      "C_spatial": 0.5439449236608104,
+      "avg_conf": 0.48101231896852903,
+      "S": 1.0249572426293394
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_95b2eec8-7804-474f-bf47-7c13a7a02595.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_95b2eec8-7804-474f-bf47-7c13a7a02595.png",
+    "instruction": "open a new private window",
+    "bbox_xywh": [
+      974.0,
+      54.0,
+      163.0,
+      87.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.5275313735298826,
+      "avg_conf": 0.4740302813211362,
+      "S": 1.001561654851019
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_663faca5-79a3-48f6-b64c-9f7989292d17.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_663faca5-79a3-48f6-b64c-9f7989292d17.png",
+    "instruction": "explore the new menu",
+    "bbox_xywh": [
+      639.0,
+      609.0,
+      1079.0,
+      194.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.49)",
+    "score": {
+      "C_spatial": 0.1171574194142787,
+      "avg_conf": 0.36790214345712163,
+      "S": 0.48505956287140034
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_9d30c621-fe06-4f6a-86e7-6664cc3bb566.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_9d30c621-fe06-4f6a-86e7-6664cc3bb566.png",
+    "instruction": "check device location",
+    "bbox_xywh": [
+      227.0,
+      1421.0,
+      132.0,
+      99.0
+    ],
+    "method": "gating_pass_vote (S=0.86)",
+    "score": {
+      "C_spatial": 0.42165091935811694,
+      "avg_conf": 0.43605453130597344,
+      "S": 0.8577054506640904
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_d3771dd7-e526-4b87-8971-247ca5582e85.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_d3771dd7-e526-4b87-8971-247ca5582e85.png",
+    "instruction": "stop sharing my location",
+    "bbox_xywh": [
+      543.0,
+      652.0,
+      113.0,
+      72.0
+    ],
+    "method": "gating_pass_vote (S=1.39)",
+    "score": {
+      "C_spatial": 0.8258481958339112,
+      "avg_conf": 0.5620827492082199,
+      "S": 1.387930945042131
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_f5b4ae93-55f8-4f0c-9c9e-dda8685c37b5.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f5b4ae93-55f8-4f0c-9c9e-dda8685c37b5.png",
+    "instruction": "create a new workbook for total a list",
+    "bbox_xywh": [
+      1318.0,
+      180.0,
+      410.0,
+      320.0
+    ],
+    "method": "gating_pass_vote (S=1.33)",
+    "score": {
+      "C_spatial": 0.8698434484482139,
+      "avg_conf": 0.45846605974500915,
+      "S": 1.328309508193223
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_63cdee53-9026-46c9-9b69-639452091dcc.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_63cdee53-9026-46c9-9b69-639452091dcc.png",
+    "instruction": "add storage account",
+    "bbox_xywh": [
+      132.0,
+      541.0,
+      615.0,
+      89.0
+    ],
+    "method": "gating_pass_vote (S=0.76)",
+    "score": {
+      "C_spatial": 0.3390141279147694,
+      "avg_conf": 0.42281512415287037,
+      "S": 0.7618292520676397
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_63cdee53-9026-46c9-9b69-639452091dcc.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_63cdee53-9026-46c9-9b69-639452091dcc.png",
+    "instruction": "go to user account page",
+    "bbox_xywh": [
+      14.0,
+      74.0,
+      99.0,
+      99.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.48507940806287747,
+      "avg_conf": 0.436299925841727,
+      "S": 0.9213793339046045
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_043c3a5e-c12c-4991-bb7f-676c617b2f9b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_043c3a5e-c12c-4991-bb7f-676c617b2f9b.png",
+    "instruction": "open the entertainment menu",
+    "bbox_xywh": [
+      1215.0,
+      336.0,
+      312.0,
+      353.0
+    ],
+    "method": "gating_pass_vote (S=1.39)",
+    "score": {
+      "C_spatial": 0.8825480345266331,
+      "avg_conf": 0.5029441783622973,
+      "S": 1.3854922128889304
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_3d3cacff-2019-4577-9395-21b45a0c548b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_3d3cacff-2019-4577-9395-21b45a0c548b.png",
+    "instruction": "remove maps from the desktop",
+    "bbox_xywh": [
+      932.0,
+      780.0,
+      54.0,
+      58.0
+    ],
+    "method": "gating_pass_vote (S=0.84)",
+    "score": {
+      "C_spatial": 0.43824447252091964,
+      "avg_conf": 0.39877617259482856,
+      "S": 0.8370206451157483
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_6778b255-174f-401e-ab98-b5bbe554a141.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6778b255-174f-401e-ab98-b5bbe554a141.png",
+    "instruction": "add a new app to the desktop",
+    "bbox_xywh": [
+      27.0,
+      27.0,
+      128.0,
+      62.0
+    ],
+    "method": "gating_pass_vote (S=0.81)",
+    "score": {
+      "C_spatial": 0.4156049977368777,
+      "avg_conf": 0.3908932194815171,
+      "S": 0.8064982172183948
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_6778b255-174f-401e-ab98-b5bbe554a141.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6778b255-174f-401e-ab98-b5bbe554a141.png",
+    "instruction": "remove chrome from the desktop",
+    "bbox_xywh": [
+      928.0,
+      866.0,
+      58.0,
+      56.0
+    ],
+    "method": "gating_pass_vote (S=1.19)",
+    "score": {
+      "C_spatial": 0.7155722475045997,
+      "avg_conf": 0.4782380411184958,
+      "S": 1.1938102886230955
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_e3f2b3d7-4c56-44ba-af3f-ae885a3e0dbb.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_e3f2b3d7-4c56-44ba-af3f-ae885a3e0dbb.png",
+    "instruction": "disable icloud photos",
+    "bbox_xywh": [
+      2084.0,
+      543.0,
+      171.0,
+      85.0
+    ],
+    "method": "gating_pass_vote (S=1.14)",
+    "score": {
+      "C_spatial": 0.6285644410696536,
+      "avg_conf": 0.5087192929914206,
+      "S": 1.1372837340610742
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_08782c89-65da-43ca-8eb6-8ca71e9f8ea7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_08782c89-65da-43ca-8eb6-8ca71e9f8ea7.png",
+    "instruction": "remove the camera from the included controls",
+    "bbox_xywh": [
+      935.0,
+      943.0,
+      91.0,
+      85.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.4156110261188573,
+      "avg_conf": 0.5087846513219965,
+      "S": 0.9243956774408537
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_08782c89-65da-43ca-8eb6-8ca71e9f8ea7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_08782c89-65da-43ca-8eb6-8ca71e9f8ea7.png",
+    "instruction": "add alarm to the included controls",
+    "bbox_xywh": [
+      947.0,
+      1496.0,
+      74.0,
+      82.0
+    ],
+    "method": "gating_pass_vote (S=1.11)",
+    "score": {
+      "C_spatial": 0.5513523872937952,
+      "avg_conf": 0.5548328318743236,
+      "S": 1.1061852191681187
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_c784c6c1-0203-4193-8131-f34cef16d400.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_c784c6c1-0203-4193-8131-f34cef16d400.png",
+    "instruction": "adjust display & brightness setting",
+    "bbox_xywh": [
+      52.0,
+      794.0,
+      1067.0,
+      135.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.57)",
+    "score": {
+      "C_spatial": 0.15019523621542974,
+      "avg_conf": 0.4170796976571177,
+      "S": 0.5672749338725475
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_1152be83-7090-45b9-9465-e5acc02d867d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1152be83-7090-45b9-9465-e5acc02d867d.png",
+    "instruction": "switch to dark appearance theme",
+    "bbox_xywh": [
+      669.0,
+      467.0,
+      243.0,
+      572.0
+    ],
+    "method": "gating_pass_vote (S=0.67)",
+    "score": {
+      "C_spatial": 0.24159087950979988,
+      "avg_conf": 0.4270391397475226,
+      "S": 0.6686300192573225
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_1152be83-7090-45b9-9465-e5acc02d867d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_1152be83-7090-45b9-9465-e5acc02d867d.png",
+    "instruction": "adjust the brightness in the bar",
+    "bbox_xywh": [
+      46.0,
+      1774.0,
+      1076.0,
+      126.0
+    ],
+    "method": "gating_pass_vote (S=1.08)",
+    "score": {
+      "C_spatial": 0.5793323714880149,
+      "avg_conf": 0.4966433110375946,
+      "S": 1.0759756825256095
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_d8a299f2-f432-4bef-abc4-5a005cf4c40f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_d8a299f2-f432-4bef-abc4-5a005cf4c40f.png",
+    "instruction": "manage the password for aliyunidaas.com",
+    "bbox_xywh": [
+      46.0,
+      1112.0,
+      1079.0,
+      177.0
+    ],
+    "method": "gating_pass_vote (S=0.82)",
+    "score": {
+      "C_spatial": 0.28255320011334584,
+      "avg_conf": 0.5392842709912896,
+      "S": 0.8218374711046355
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_45d2f820-fe5f-4e31-9554-34156e66179c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_45d2f820-fe5f-4e31-9554-34156e66179c.png",
+    "instruction": "modify the notification permission for google maps",
+    "bbox_xywh": [
+      46.0,
+      1450.0,
+      1079.0,
+      171.0
+    ],
+    "method": "gating_pass_vote (S=0.73)",
+    "score": {
+      "C_spatial": 0.20140470272487215,
+      "avg_conf": 0.5333503049526008,
+      "S": 0.7347550076774729
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_f45826c5-d796-46cf-b0c3-c4095206735c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f45826c5-d796-46cf-b0c3-c4095206735c.png",
+    "instruction": "allow google maps to send notifications",
+    "bbox_xywh": [
+      912.0,
+      390.0,
+      174.0,
+      105.0
+    ],
+    "method": "gating_pass_vote (S=1.13)",
+    "score": {
+      "C_spatial": 0.6651151330430455,
+      "avg_conf": 0.4631136382291635,
+      "S": 1.128228771272209
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_a2719c16-da39-48ea-8c1c-1239414f0778.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_a2719c16-da39-48ea-8c1c-1239414f0778.png",
+    "instruction": "disable automatic app updates",
+    "bbox_xywh": [
+      918.0,
+      1627.0,
+      159.0,
+      111.0
+    ],
+    "method": "gating_pass_vote (S=1.25)",
+    "score": {
+      "C_spatial": 0.7125990907160052,
+      "avg_conf": 0.5342654564468708,
+      "S": 1.246864547162876
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_63adf499-326a-44b4-8b3f-0ecd1935745e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_63adf499-326a-44b4-8b3f-0ecd1935745e.png",
+    "instruction": "check health details",
+    "bbox_xywh": [
+      49.0,
+      908.0,
+      1073.0,
+      129.0
+    ],
+    "method": "gating_pass_vote (S=0.68)",
+    "score": {
+      "C_spatial": 0.3170285523056971,
+      "avg_conf": 0.36737818088652613,
+      "S": 0.6844067331922232
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_18b2ff57-9a0c-48e6-a754-de728b5a0479.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_18b2ff57-9a0c-48e6-a754-de728b5a0479.png",
+    "instruction": "add a new place to favourities",
+    "bbox_xywh": [
+      85.0,
+      1891.0,
+      201.0,
+      279.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.5135185644902777,
+      "avg_conf": 0.43527702356151393,
+      "S": 0.9487955880517915
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_18b2ff57-9a0c-48e6-a754-de728b5a0479.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_18b2ff57-9a0c-48e6-a754-de728b5a0479.png",
+    "instruction": "search for a place or address",
+    "bbox_xywh": [
+      43.0,
+      1600.0,
+      941.0,
+      126.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.6366137385819836,
+      "avg_conf": 0.4347272904866797,
+      "S": 1.0713410290686634
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_acb1d28f-ddf9-4098-b749-51bf6600705b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_acb1d28f-ddf9-4098-b749-51bf6600705b.png",
+    "instruction": "switch the map style to satellite",
+    "bbox_xywh": [
+      609.0,
+      1888.0,
+      512.0,
+      366.0
+    ],
+    "method": "gating_pass_vote (S=1.45)",
+    "score": {
+      "C_spatial": 0.92354375538405,
+      "avg_conf": 0.5312016722486564,
+      "S": 1.4547454276327065
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_105a4c27-8695-4555-9121-0dd7cacb5ec2.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_105a4c27-8695-4555-9121-0dd7cacb5ec2.png",
+    "instruction": "tap to continue",
+    "bbox_xywh": [
+      67.0,
+      2110.0,
+      1034.0,
+      162.0
+    ],
+    "method": "gating_pass_vote (S=0.98)",
+    "score": {
+      "C_spatial": 0.44118753007373723,
+      "avg_conf": 0.5355998214199287,
+      "S": 0.9767873514936659
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_2e804aba-afb6-48a0-ad55-2f242652eb33.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_2e804aba-afb6-48a0-ad55-2f242652eb33.png",
+    "instruction": "close the notification box",
+    "bbox_xywh": [
+      978.0,
+      2050.0,
+      120.0,
+      123.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.4818885371316613,
+      "avg_conf": 0.5668205924363013,
+      "S": 1.0487091295679627
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_d97a442a-6912-4a26-9387-fe5dee9b3d0a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_d97a442a-6912-4a26-9387-fe5dee9b3d0a.png",
+    "instruction": "choose watercolor brush style",
+    "bbox_xywh": [
+      408.0,
+      2208.0,
+      102.0,
+      222.0
+    ],
+    "method": "gating_pass_vote (S=0.60)",
+    "score": {
+      "C_spatial": 0.17844496042237984,
+      "avg_conf": 0.42566510474400476,
+      "S": 0.6041100651663847
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_d97a442a-6912-4a26-9387-fe5dee9b3d0a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_d97a442a-6912-4a26-9387-fe5dee9b3d0a.png",
+    "instruction": "adjust the color",
+    "bbox_xywh": [
+      885.0,
+      2262.0,
+      135.0,
+      129.0
+    ],
+    "method": "gating_pass_vote (S=1.08)",
+    "score": {
+      "C_spatial": 0.5838755612502845,
+      "avg_conf": 0.4911983876250609,
+      "S": 1.0750739488753454
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_7e2e6586-4c35-414e-8608-863b7ceba272.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_7e2e6586-4c35-414e-8608-863b7ceba272.png",
+    "instruction": "insert from link",
+    "bbox_xywh": [
+      393.0,
+      1768.0,
+      752.0,
+      132.0
+    ],
+    "method": "gating_pass_vote (S=0.77)",
+    "score": {
+      "C_spatial": 0.3808129874382896,
+      "avg_conf": 0.38958119373028405,
+      "S": 0.7703941811685737
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_d3865883-8214-4bff-9834-13987580abe8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_d3865883-8214-4bff-9834-13987580abe8.png",
+    "instruction": "add a circle",
+    "bbox_xywh": [
+      771.0,
+      956.0,
+      321.0,
+      261.0
+    ],
+    "method": "gating_pass_vote (S=1.33)",
+    "score": {
+      "C_spatial": 0.7955317742877109,
+      "avg_conf": 0.538865899244559,
+      "S": 1.33439767353227
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_8c25fc62-ca0e-4280-ae68-9146b66089b2.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_8c25fc62-ca0e-4280-ae68-9146b66089b2.png",
+    "instruction": "learn more about privacy",
+    "bbox_xywh": [
+      420.0,
+      1732.0,
+      330.0,
+      135.0
+    ],
+    "method": "gating_pass_vote (S=1.10)",
+    "score": {
+      "C_spatial": 0.5829702469431799,
+      "avg_conf": 0.5162102906075198,
+      "S": 1.0991805375506996
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_6cc4e2c1-b5bd-4347-bee4-63a1217d052c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6cc4e2c1-b5bd-4347-bee4-63a1217d052c.png",
+    "instruction": "input through voice recognition",
+    "bbox_xywh": [
+      996.0,
+      428.0,
+      120.0,
+      132.0
+    ],
+    "method": "gating_pass_vote (S=1.21)",
+    "score": {
+      "C_spatial": 0.6330013430997294,
+      "avg_conf": 0.5790918869945106,
+      "S": 1.21209323009424
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_6cc4e2c1-b5bd-4347-bee4-63a1217d052c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6cc4e2c1-b5bd-4347-bee4-63a1217d052c.png",
+    "instruction": "check coverage",
+    "bbox_xywh": [
+      40.0,
+      1906.0,
+      1091.0,
+      207.0
+    ],
+    "method": "gating_pass_vote (S=0.64)",
+    "score": {
+      "C_spatial": 0.24549065890450944,
+      "avg_conf": 0.395558130691014,
+      "S": 0.6410487895955235
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_4e55ce53-bc82-44c3-a81a-8282f55ec4c9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_4e55ce53-bc82-44c3-a81a-8282f55ec4c9.png",
+    "instruction": "close the recommended box",
+    "bbox_xywh": [
+      993.0,
+      497.0,
+      132.0,
+      132.0
+    ],
+    "method": "gating_pass_vote (S=1.16)",
+    "score": {
+      "C_spatial": 0.5765316090600228,
+      "avg_conf": 0.5805297242279766,
+      "S": 1.1570613332879993
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_4e55ce53-bc82-44c3-a81a-8282f55ec4c9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_4e55ce53-bc82-44c3-a81a-8282f55ec4c9.png",
+    "instruction": "check the information about airtag",
+    "bbox_xywh": [
+      411.0,
+      1948.0,
+      351.0,
+      282.0
+    ],
+    "method": "gating_pass_vote (S=1.28)",
+    "score": {
+      "C_spatial": 0.8227305334041881,
+      "avg_conf": 0.4560780412142233,
+      "S": 1.2788085746184115
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_f6f4bdd0-01eb-41a4-b696-42fcc45097b6.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f6f4bdd0-01eb-41a4-b696-42fcc45097b6.png",
+    "instruction": "show the location list",
+    "bbox_xywh": [
+      213.0,
+      2092.0,
+      905.0,
+      132.0
+    ],
+    "method": "gating_pass_vote (S=1.23)",
+    "score": {
+      "C_spatial": 0.7032375245320294,
+      "avg_conf": 0.5249087285838445,
+      "S": 1.2281462531158738
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_f6f4bdd0-01eb-41a4-b696-42fcc45097b6.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_f6f4bdd0-01eb-41a4-b696-42fcc45097b6.png",
+    "instruction": "choose the place called \"香港广场\"",
+    "bbox_xywh": [
+      870.0,
+      857.0,
+      255.0,
+      198.0
+    ],
+    "method": "gating_pass_vote (S=0.83)",
+    "score": {
+      "C_spatial": 0.39672442117195883,
+      "avg_conf": 0.4295144714125964,
+      "S": 0.8262388925845552
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_73a629d6-0fe4-4663-a727-d3b78ec52175.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_73a629d6-0fe4-4663-a727-d3b78ec52175.png",
+    "instruction": "search destinations",
+    "bbox_xywh": [
+      52.0,
+      345.0,
+      1064.0,
+      174.0
+    ],
+    "method": "gating_pass_vote (S=0.84)",
+    "score": {
+      "C_spatial": 0.46474046751164844,
+      "avg_conf": 0.37752997693736234,
+      "S": 0.8422704444490108
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_c81bb812-68b7-4557-95bb-1260f3b787f1.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_c81bb812-68b7-4557-95bb-1260f3b787f1.png",
+    "instruction": "add a new waypoint",
+    "bbox_xywh": [
+      999.0,
+      291.0,
+      138.0,
+      135.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.5062737240766221,
+      "avg_conf": 0.49604858035655375,
+      "S": 1.002322304433176
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_c81bb812-68b7-4557-95bb-1260f3b787f1.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_c81bb812-68b7-4557-95bb-1260f3b787f1.png",
+    "instruction": "input the destination",
+    "bbox_xywh": [
+      168.0,
+      375.0,
+      833.0,
+      102.0
+    ],
+    "method": "gating_pass_vote (S=1.13)",
+    "score": {
+      "C_spatial": 0.6935534902058348,
+      "avg_conf": 0.4386754715956667,
+      "S": 1.1322289618015016
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_c9c47c96-1b18-45dd-8e88-f0b48c54617d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_c9c47c96-1b18-45dd-8e88-f0b48c54617d.png",
+    "instruction": "check the wallet",
+    "bbox_xywh": [
+      417.0,
+      497.0,
+      336.0,
+      258.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.6108585562577356,
+      "avg_conf": 0.4553063204723821,
+      "S": 1.0661648767301177
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_12280689-e3e1-4a36-ba3c-709acb969b32.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_12280689-e3e1-4a36-ba3c-709acb969b32.png",
+    "instruction": "continue with apple",
+    "bbox_xywh": [
+      67.0,
+      1747.0,
+      1031.0,
+      144.0
+    ],
+    "method": "gating_pass_vote (S=1.30)",
+    "score": {
+      "C_spatial": 0.7926531874304488,
+      "avg_conf": 0.5028974381376368,
+      "S": 1.2955506255680855
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_a2cdff8e-fd92-46fb-8d83-228f2116c087.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_a2cdff8e-fd92-46fb-8d83-228f2116c087.png",
+    "instruction": "apply the smooth filter",
+    "bbox_xywh": [
+      450.0,
+      1975.0,
+      207.0,
+      297.0
+    ],
+    "method": "gating_pass_vote (S=1.12)",
+    "score": {
+      "C_spatial": 0.6343391260039987,
+      "avg_conf": 0.48649109908665955,
+      "S": 1.1208302250906583
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_a2cdff8e-fd92-46fb-8d83-228f2116c087.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_a2cdff8e-fd92-46fb-8d83-228f2116c087.png",
+    "instruction": "open additional options",
+    "bbox_xywh": [
+      1028.0,
+      87.0,
+      111.0,
+      126.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.4740550401411355,
+      "avg_conf": 0.5734316239360454,
+      "S": 1.047486664077181
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_641346f3-50a8-4235-8a74-e0c9ee49136f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_641346f3-50a8-4235-8a74-e0c9ee49136f.png",
+    "instruction": "crop the photo",
+    "bbox_xywh": [
+      58.0,
+      1112.0,
+      213.0,
+      213.0
+    ],
+    "method": "gating_pass_vote (S=1.15)",
+    "score": {
+      "C_spatial": 0.6734514261942535,
+      "avg_conf": 0.4759737587490717,
+      "S": 1.1494251849433252
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "text",
+    "data_source": "ios",
+    "img_filename": "mobile_641346f3-50a8-4235-8a74-e0c9ee49136f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_641346f3-50a8-4235-8a74-e0c9ee49136f.png",
+    "instruction": "open a brush",
+    "bbox_xywh": [
+      345.0,
+      1372.0,
+      204.0,
+      240.0
+    ],
+    "method": "gating_pass_vote (S=1.14)",
+    "score": {
+      "C_spatial": 0.6345554494536313,
+      "avg_conf": 0.5077687593792155,
+      "S": 1.142324208832847
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "mobile",
+    "data_type": "icon",
+    "data_source": "ios",
+    "img_filename": "mobile_6126718c-82ef-4406-8d00-3d4bf7a414c4.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/mobile_6126718c-82ef-4406-8d00-3d4bf7a414c4.png",
+    "instruction": "view personal information",
+    "bbox_xywh": [
+      981.0,
+      255.0,
+      177.0,
+      180.0
+    ],
+    "method": "gating_pass_vote (S=1.20)",
+    "score": {
+      "C_spatial": 0.6697077712844245,
+      "avg_conf": 0.529837164157668,
+      "S": 1.1995449354420926
+    },
+    "correctness": "correct"
+  }
+]

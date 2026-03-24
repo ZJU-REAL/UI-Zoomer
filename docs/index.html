@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding">
+  <meta property="og:title" content="UI-Zoomer" />
+  <meta property="og:description" content="Uncertainty-Driven Adaptive Zoom-In for GUI Grounding" />
+  <meta property="og:url" content="https://example.com/UI-Zoomer/" />
+  <meta property="og:image" content="static/images/intro.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta name="twitter:title" content="UI-Zoomer">
+  <meta name="twitter:description" content="Uncertainty-Driven Adaptive Zoom-In for GUI Grounding">
+  <meta name="twitter:image" content="static/images/intro.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="keywords" content="GUI Agents, GUI Grounding, Test-time Scaling">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+  <!-- <link rel="icon" type="image/png" href="static/images/logo.png"> -->
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+  <script>
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']]
+      }
+    };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+
+<body>
+  <nav class="navbar" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="mainNav">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div id="mainNav" class="navbar-menu">
+      <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+        <a class="navbar-item" href="https://github.com/ZJU-REAL" target="_blank">
+          <span class="icon">
+            <i class="fab fa-github"></i>
+          </span>
+        </a>
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">More Research</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="https://zju-real.github.io/SpatialLadder" target="_blank">SpatialLadder</a>
+            <a class="navbar-item" href="https://zju-real.github.io/VerifyBench/" target="_blank">VerifyBench</a>
+            <a class="navbar-item" href="https://zju-real.github.io/InftyThink/" target="_blank">InftyThink</a>
+            <a class="navbar-item" href="https://zju-real.github.io/GUI-G2" target="_blank">GUI-G2</a>
+            <a class="navbar-item" href="https://zju-real.github.io/SVGenius/" target="_blank">SVGenius</a>
+            <a class="navbar-item" href="https://zju-real.github.io/SBT/" target="_blank">SBT</a>
+            <a class="navbar-item" href="https://zju-real.github.io/CoT-Bridge/" target="_blank">CoT-Bridge</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding</h1>
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">Fei Tang<sup>1,*</sup>,</span>
+              <span class="author-block">Bofan Chen<sup>1,*</sup>,</span>
+              <span class="author-block">Zhengxi Lu<sup>1</sup>,</span>
+              <span class="author-block">Tongbo Chen<sup>1</sup>,</span>
+              <br>
+              <span class="author-block">Songqin Nong<sup>2</sup>,</span>
+              <span class="author-block">Tao Jiang<sup>2</sup>,</span>
+              <span class="author-block">Wenhao Xu<sup>2</sup>,</span>
+              <span class="author-block">Weiming Lu<sup>1</sup>,</span>
+              <span class="author-block">Jun Xiao<sup>1</sup>,</span>
+              <span class="author-block">Yueting Zhuang<sup>1</sup>,</span>
+              <span class="author-block">Yongliang Shen<sup>1,&dagger;</sup></span>
+            </div>
+            <div class="is-size-5 publication-authors">
+              <span class="author-block"><sup>1</sup>Zhejiang University</span>
+              <span class="author-block"><sup>2</sup>Ant Group</span>
+              <span class="eql-cntrb"><small><br><sup>*</sup>Equal contributions, <sup>&dagger;</sup>Corresponding authors</small></span>
+            </div>
+            <div class="publication-links">
+              <span class="link-block">
+                <a href="" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon"><i class="ai ai-arxiv"></i></span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://github.com/ZJU-REAL/UI-Zoomer" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon"><i class="fab fa-github"></i></span>
+                  <span>GitHub</span>
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3 has-text-centered">Abstract</h2>
+          <div class="content has-text-justified">
+            <p>
+
+              GUI grounding, which localizes interface elements from screenshots given natural language queries, remains challenging for small icons and dense layouts. Test-time zoom-in methods improve localization by cropping and re-running inference at higher resolution, but apply cropping uniformly across all instances with fixed crop sizes, ignoring whether the model is actually uncertain on each case. We propose <b>UI-Zoomer</b>, a training-free adaptive zoom-in framework that treats both the trigger and scale of zoom-in as a prediction uncertainty quantification problem. A confidence-aware gate fuses spatial consensus among stochastic candidates with token-level generation confidence to selectively trigger zoom-in only when localization is uncertain. When triggered, an uncertainty-driven crop sizing module decomposes prediction variance into inter-sample positional spread and intra-sample box extent, deriving a per-instance crop radius via the law of total variance. Extensive experiments on ScreenSpot-Pro, UI-Vision, and ScreenSpot-v2 demonstrate consistent improvements over strong baselines across multiple model architectures, achieving gains of up to +13.4%, +10.3%, and +4.2% respectively, with no additional training required.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3">Introduction</h2>
+      
+      <div class="mb-6">
+        <div class="media-frame">
+          <img src="static/images/intro.png" alt="Introduction figure for UI-Zoomer" class="intro-image">
+        </div>
+      </div>
+      
+      <div class="content has-text-justified">
+        <p>
+          Grounding natural language instructions to interface elements is a fundamental capability for autonomous GUI agents. Despite significant progress through supervised fine-tuning and reinforcement learning, models still fail systematically on small icons and dense layouts in complex interfaces.
+        </p>
+        <p>
+          A natural remedy is test-time zoom-in scaling: crop a region of the screenshot and re-run the model at higher effective resolution. While this paradigm has shown clear promise for fine-grained GUI localization, a more fundamental question remains unaddressed: which instances actually need zoom-in, and how much should we zoom?
+        </p>
+        <p>
+          Existing zoom-in methods share two fundamental limitations. First, they apply cropping indiscriminately and trigger zoom-in without regard to model uncertainty. Second, all existing methods fix the crop window to a predetermined ratio, leaving the crop either too broad or too narrow.
+        </p>
+        <p>
+          To address these issues, we propose <b>UI-Zoomer</b>, a training-free adaptive zoom-in framework for GUI grounding. It uses a reliability gate to avoid unnecessary zoom and an adaptive crop module based on prediction variance, achieving stronger robustness with low time costs.
+        </p>
+        <p>
+          Extensive experiments on three GUI grounding benchmarks demonstrate that UI-Zoomer consistently improves over strong baselines, with significant gains on icon targets and dense interfaces.
+        </p>
+      </div>
+    </div>
+</section>
+
+  <section class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3">Method</h2>
+    <div class="content has-text-justified">
+      <p>
+        <b>UI-Zoomer</b> is a training-free adaptive zoom-in framework for GUI grounding.
+        Given a GUI screenshot <b>I</b> and a natural-language instruction <b>q</b>, the goal is to predict
+        a click location in normalized image coordinates. Each localization hypothesis is represented as
+        an axis-aligned bounding box <b>[x1, y1, x2, y2]</b>, and the final click is defined as the center of the box.
+      </p>
+      <p>
+        UI-Zoomer proceeds in three stages:
+        <b>(1) global multi-sampling</b>, <b>(2) reliability gating</b>, and
+        <b>(3) uncertainty-driven adaptive crop and zoom</b>.
+        The key idea is simple: <b>zoom only when uncertain, and zoom by how much predictions disagree</b>.
+      </p>
+    </div>
+
+    <div class="columns is-variable is-5 method-grid">
+      <div class="column">
+        <div class="simple-card">
+            <h3 class="title is-5">Global Multi-Sampling</h3>
+            <p>
+            UI-Zoomer samples <b>N = 8</b> candidate boxes from the full screenshot with stochastic decoding at
+            <b>T = 0.9</b>. Each valid prediction is paired with a token-level confidence score derived from
+            generation probabilities.
+            </p>
+        </div>
+    </div>
+
+        <div class="column">
+        <div class="simple-card">
+            <h3 class="title is-5">Reliability Gating</h3>
+            <p>
+            UI-Zoomer decides whether zoom-in is needed by combining <b>spatial consensus</b> across sampled boxes
+            with <b>average token confidence</b>. If the gating score is high, the result is returned directly through
+            <b>consensus voting</b>.
+            </p>
+        </div>
+        </div>
+
+        <div class="column">
+        <div class="simple-card">
+            <h3 class="title is-5">Adaptive Crop and Zoom</h3>
+            <p>
+            For uncertain cases, UI-Zoomer filters outliers and estimates an adaptive crop window using
+            <b>variance decomposition</b>. It then performs one deterministic zoom-in pass and maps the refined
+            prediction back to the original image.
+            </p>
+        </div>
+        </div>
+    </div>
+
+    <div class="content has-text-justified">
+      <p>
+        This design avoids unnecessary refinement on easy instances while allocating higher effective resolution
+        to ambiguous ones. Compared with fixed-ratio zoom-in strategies, UI-Zoomer adapts both the
+        <b>trigger</b> and the <b>crop scale</b> on a per-instance basis, making it more robust on
+        dense layouts, small icons, and high-resolution professional interfaces.
+      </p>
+    </div>
+    <div class="media-frame">
+      <img src="static/images/method.png" alt="Overview of UI-Zoomer">
+    </div>
+
+    
+  
+</section>
+<section class="section is-light detailed-pipeline-section">
+  <div class="container is-max-desktop">
+    <h3 class="title is-4 subsection-title">Detailed Pipeline</h3>
+    <div class="content has-text-justified">
+      <p>
+        At a finer level, UI-Zoomer first draws multiple stochastic predictions from the full screenshot.
+        It then computes a reliability score by combining mean pairwise IoU among sampled boxes with
+        average token confidence. Reliable cases are handled directly by voting, while uncertain cases
+        are routed to adaptive refinement.
+      </p>
+      <p>
+        For uncertain cases, UI-Zoomer keeps the most spatially consistent candidates, estimates
+        the target uncertainty through <b>inter-sample variance</b> and <b>intra-sample variance</b>,
+        and converts this uncertainty into an adaptive square crop. A single deterministic re-inference
+        pass is then performed on the cropped image, and the refined box is mapped back to global coordinates.
+      </p>
+    </div>
+
+
+    <div class="columns is-variable is-5 method-grid">
+      <div class="column">
+        <div class="simple-card">
+          <h3 class="title is-5">Spatial Consensus</h3>
+          <p>
+            Cross-sample agreement is measured by the mean pairwise IoU of sampled boxes.
+            High agreement indicates that the model is already confident about the target location.
+          </p>
+        </div>
+      </div>
+
+      <div class="column">
+        <div class="simple-card">
+          <h3 class="title is-5">Confidence-Aware Gating</h3>
+          <p>
+            The gating score combines <b>spatial consensus</b> and <b>average token confidence</b>.
+            This allows UI-Zoomer to distinguish reliable predictions from ambiguous ones before deciding whether to zoom.
+          </p>
+        </div>
+      </div>
+
+      <div class="column">
+        <div class="simple-card">
+          <h3 class="title is-5">Var-Decomposed Crop</h3>
+          <p>
+            Crop size is determined from both positional disagreement across samples and the predicted spatial extent
+            of each box. This makes the zoom-in region adaptive, rather than relying on a fixed crop ratio.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+  <section class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3">Main Results</h2>
+    <div class="content has-text-justified">
+      <p>
+        <b>UI-Zoomer</b> consistently improves strong GUI grounding backbones across three challenging benchmarks:
+        <b>ScreenSpot-Pro</b>, <b>ScreenSpot-v2</b>, and <b>UI-Vision</b>.
+        The method achieves average gains of up to <b>+13.4</b>, <b>+4.2</b>, and <b>+10.3</b> points on these benchmarks,
+        respectively. These results show that uncertainty-driven adaptive zoom-in is effective across both
+        general-purpose and GUI-specialized vision-language models.
+      </p>
+    </div>
+
+    <div class="content has-text-justified">
+      <h3 class="title is-4">ScreenSpot-Pro</h3>
+    </div>
+
+    <div class="table-container media-frame">
+      <table class="table is-fullwidth is-striped is-hoverable">
+        <thead>
+          <tr>
+            <th>Model</th>
+            <th>Text</th>
+            <th>Icon</th>
+            <th>Avg</th>
+            <th class="zoom-col">+ UI-Zoomer (Text)</th>
+            <th class="zoom-col">+ UI-Zoomer (Icon)</th>
+            <th class="zoom-col">+ UI-Zoomer (Avg)</th>
+            <th class="zooml-col">Gain</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Qwen2.5-VL-7B</td>
+            <td>40.6</td>
+            <td>6.6</td>
+            <td>27.6</td>
+            <td class="zoom-col"><b>54.0</b></td>
+            <td class="zoom-col"><b>19.9</b></td>
+            <td class="zoom-col"><b>41.0</b></td>
+            <td class="zooml-col"><b>+13.4</b></td>
+          </tr>
+          <tr>
+            <td>GUI-G²-7B</td>
+            <td>64.1</td>
+            <td>23.3</td>
+            <td>48.7</td>
+            <td class="zoom-col"><b>76.7</b></td>
+            <td class="zoom-col"><b>36.8</b></td>
+            <td class="zoom-col"><b>61.4</b></td>
+            <td class="zooml-col"><b>+12.7</b></td>
+          </tr>
+          <tr>
+            <td>UI-Venus-7B</td>
+            <td>66.7</td>
+            <td>22.9</td>
+            <td>50.0</td>
+            <td class="zoom-col"><b>78.1</b></td>
+            <td class="zoom-col"><b>35.4</b></td>
+            <td class="zoom-col"><b>61.8</b></td>
+            <td class="zooml-col"><b>+11.8</b></td>
+          </tr>
+          <tr>
+            <td>UI-Venus-72B</td>
+            <td>74.0</td>
+            <td>35.3</td>
+            <td>59.2</td>
+            <td class="zoom-col"><b>81.3</b></td>
+            <td class="zoom-col"><b>46.0</b></td>
+            <td class="zoom-col"><b>67.8</b></td>
+            <td class="zooml-col"><b>+8.6</b></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <br>
+    <div class="content has-text-justified">
+      <h3 class="title is-4">ScreenSpot-v2</h3>
+    </div>
+
+    <div class="table-container media-frame">
+      <table class="table is-fullwidth is-striped is-hoverable">
+        <thead>
+          <tr>
+            <th>Model</th>
+            <th>Overall Text</th>
+            <th>Overall Icon</th>
+            <th>Overall Avg</th>
+            <th class="zoom-col">+ UI-Zoomer (Text)</th>
+            <th class="zoom-col">+ UI-Zoomer (Icon)</th>
+            <th class="zoom-col">+ UI-Zoomer (Avg)</th>
+            <th class="zooml-col">Gain</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>UI-Venus-7B</td>
+            <td>97.4</td>
+            <td>89.7</td>
+            <td>94.0</td>
+            <td class="zoom-col"><b>97.8</b></td>
+            <td class="zoom-col"><b>91.2</b></td>
+            <td class="zoom-col"><b>94.9</b></td>
+            <td class="zooml-col"><b>+0.9</b></td>
+          </tr>
+          <tr>
+            <td>Qwen2.5-VL-7B</td>
+            <td>92.3</td>
+            <td>80.5</td>
+            <td>87.2</td>
+            <td class="zoom-col"><b>95.7</b></td>
+            <td class="zoom-col"><b>85.9</b></td>
+            <td class="zoom-col"><b>91.4</b></td>
+            <td class="zooml-col"><b>+4.2</b></td>
+          </tr>
+          <tr>
+            <td>GUI-G²-7B</td>
+            <td>97.1</td>
+            <td>89.2</td>
+            <td>93.6</td>
+            <td class="zoom-col">96.5</td>
+            <td class="zoom-col"><b>90.3</b></td>
+            <td class="zoom-col"><b>93.8</b></td>
+            <td class="zooml-col"><b>+0.2</b></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+
+    <br>
+    <div class="content has-text-justified">
+      <h3 class="title is-4">UI-Vision</h3>
+    </div>
+
+    <div class="table-container media-frame">
+      <table class="table is-fullwidth is-striped is-hoverable">
+        <thead>
+          <tr>
+            <th>Model</th>
+            <th>Overall Text</th>
+            <th>Overall Icon</th>
+            <th>Overall Avg</th>
+            <th class="zoom-col">+ UI-Zoomer (Text)</th>
+            <th class="zoom-col">+ UI-Zoomer (Icon)</th>
+            <th class="zoom-col">+ UI-Zoomer (Avg)</th>
+            <th class="zooml-col">Gain</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Qwen2.5-VL-7B</td>
+            <td>38.2</td>
+            <td>7.9</td>
+            <td>13.3</td>
+            <td class="zoom-col"><b>57.0</b></td>
+            <td class="zoom-col"><b>16.3</b></td>
+            <td class="zoom-col"><b>23.6</b></td>
+            <td class="zooml-col"><b>+10.3</b></td>
+          </tr>
+          <tr>
+            <td>GUI-G²-7B</td>
+            <td>59.5</td>
+            <td>17.1</td>
+            <td>24.7</td>
+            <td class="zoom-col"><b>69.3</b></td>
+            <td class="zoom-col"><b>25.0</b></td>
+            <td class="zoom-col"><b>32.9</b></td>
+            <td class="zooml-col"><b>+8.2</b></td>
+          </tr>
+          <tr>
+            <td>UI-Venus-7B</td>
+            <td>60.6</td>
+            <td>16.5</td>
+            <td>24.4</td>
+            <td class="zoom-col"><b>72.7</b></td>
+            <td class="zoom-col"><b>25.2</b></td>
+            <td class="zoom-col"><b>33.7</b></td>
+            <td class="zooml-col"><b>+9.3</b></td>
+          </tr>
+          <tr>
+            <td>UI-Venus-72B</td>
+            <td>64.3</td>
+            <td>23.6</td>
+            <td>30.9</td>
+            <td class="zoom-col"><b>77.6</b></td>
+            <td class="zoom-col"><b>32.3</b></td>
+            <td class="zoom-col"><b>40.4</b></td>
+            <td class="zooml-col"><b>+9.5</b></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+  </div>
+</section>
+
+  <section class="section is-light">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3">Analysis</h2>
+
+    <div class="analysis-carousel">
+      <div class="analysis-controls">
+        <button class="analysis-nav" data-direction="prev" aria-label="Previous analysis slide">&#8249;</button>
+        <button class="analysis-nav" data-direction="next" aria-label="Next analysis slide">&#8250;</button>
+      </div>
+
+      <div class="analysis-track">
+        <article class="analysis-slide">
+          <div class="columns is-vcentered is-variable is-6">
+            <div class="column is-7-desktop">
+              <div class="media-frame">
+                <img src="static/images/analysis1.png" alt="Gating Threshold">
+              </div>
+            </div>
+            <div class="column is-5-desktop">
+              <div class="content has-text-justified">
+                <h3 class="title is-5">Gating Threshold</h3>
+                <p>
+                  We ablate the confidence-based threshold <b>&tau;</b> on <b>ScreenSpot-v2</b> with fixed
+                  <b>&sigma; = 4.5</b> to study the trade-off between direct prediction and adaptive cropping.
+                </p>
+                <p>
+                  Moderate thresholds work best: low <b>&tau;</b> reduces UI-Zoomer to the baseline, while high
+                  <b>&tau;</b> crops too many samples and hurts both cost and accuracy.
+                </p>
+                <p>
+                  The gating mechanism balances efficiency and performance, with especially strong gains on
+                  <b>Desktop</b> and <b>Web</b>, where layouts are denser and targets are smaller.
+                </p>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <article class="analysis-slide">
+          <div class="columns is-vcentered is-variable is-6">
+            <div class="column is-7-desktop">
+              <div class="media-frame">
+                <img src="static/images/analysis2.png" alt="Gating Signal Reliability">
+              </div>
+            </div>
+            <div class="column is-5-desktop">
+              <div class="content has-text-justified">
+                <h3 class="title is-5">Gating Signal Reliability</h3>
+                <p>
+                  We bin <b>ScreenSpot-Pro</b> samples by <b>C<sub>spatial</sub></b> and <b>avg_conf</b> to test whether
+                  the two gating signals reflect prediction confidence.
+                </p>
+                <p>
+                  Both signals show a clear positive correlation with accuracy, indicating that they are effective
+                  proxies for localization reliability.
+                </p>
+                <p>
+                  They are also complementary: <b>C<sub>spatial</sub></b> is more spread out, while <b>avg_conf</b> is more
+                  concentrated, so combining them yields a more discriminative gating score.
+                </p>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <article class="analysis-slide">
+          <div class="columns is-vcentered is-variable is-6">
+            <div class="column is-7-desktop">
+              <div class="media-frame">
+                <img src="static/images/analysis3.png" alt="Sampling Number and Temperature">
+              </div>
+            </div>
+            <div class="column is-5-desktop">
+              <div class="content has-text-justified">
+                <h3 class="title is-5">Sampling Number &amp; Temperature</h3>
+                <p>
+                  We ablate the sampling temperature <b>T</b> and rollout number <b>N</b> on <b>ScreenSpot-Pro</b>
+                  to study how candidate diversity affects UI-Zoomer.
+                </p>
+                <p>
+                  Higher temperature improves performance, with the best accuracy achieved at <b>T = 0.9</b>,
+                  showing that diverse candidates better support consensus-based crop estimation.
+                </p>
+                <p>
+                  We also find that <b>N = 8</b> gives the best accuracy-efficiency trade-off; more candidates add
+                  redundancy and noise rather than improving the crop.
+                </p>
+              </div>
+            </div>
+          </div>
+        </article>
+      </div>
+
+      <div class="analysis-dots">
+        <button class="analysis-dot is-active" data-slide="0" aria-label="Go to analysis slide 1"></button>
+        <button class="analysis-dot" data-slide="1" aria-label="Go to analysis slide 2"></button>
+        <button class="analysis-dot" data-slide="2" aria-label="Go to analysis slide 3"></button>
+      </div>
+    </div>
+  </div>
+</section>
+
+  <section class="section" id="bibtex">
+    <div class="container is-max-desktop content">
+      <h2 class="title is-3">BibTeX</h2>
+      <pre><code>to be added after publication
+</code></pre>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content has-text-centered">
+            <p>
+              This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a> which was adopted from the <a href="https://nerfies.github.io/" target="_blank">Nerfies</a> project page. You are free to borrow the source code of this website, we just ask that you link back to this page in the footer. <br> This website is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    $(document).ready(function() {
+      $(".navbar-burger").click(function() {
+        const target = $(this).data("target");
+        $(".navbar-burger").toggleClass("is-active");
+        $("#" + target).toggleClass("is-active");
+      });
+      const track = $(".analysis-track");
+      const dots = $(".analysis-dot");
+      const navs = $(".analysis-nav");
+      let currentSlide = 0;
+      const slideCount = dots.length;
+
+      function goToSlide(index) {
+        currentSlide = (index + slideCount) % slideCount;
+        const slideWidth = $(".analysis-carousel").width();
+        track.css("transform", "translateX(-" + (slideWidth * currentSlide) + "px)");
+        dots.removeClass("is-active");
+        dots.eq(currentSlide).addClass("is-active");
+      }
+
+      dots.click(function() {
+        goToSlide($(this).data("slide"));
+      });
+
+      navs.click(function() {
+        const direction = $(this).data("direction");
+        goToSlide(currentSlide + (direction === "next" ? 1 : -1));
+      });
+
+      setInterval(function() {
+        goToSlide((currentSlide + 1) % slideCount);
+      }, 5000);
+
+      $(window).on("resize", function() {
+        goToSlide(currentSlide);
+      });
+    });
+  </script>
+</body>
+
+</html>

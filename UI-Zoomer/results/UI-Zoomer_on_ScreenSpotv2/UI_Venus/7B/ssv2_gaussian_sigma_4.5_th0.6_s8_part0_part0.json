@@ -1,0 +1,6680 @@
+[
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_ede36f9b-1154-4f76-b7f8-c15d7d3f9b6e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_ede36f9b-1154-4f76-b7f8-c15d7d3f9b6e.png",
+    "instruction": "close this window",
+    "bbox_xywh": [
+      910.0,
+      78.0,
+      44.0,
+      34.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.4585249718502942,
+      "avg_conf": 0.5882105263793189,
+      "S": 1.046735498229613
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_5e09e8e9-7ef6-44be-ad54-aeaeac151897.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_5e09e8e9-7ef6-44be-ad54-aeaeac151897.png",
+    "instruction": "minimize this window",
+    "bbox_xywh": [
+      835.0,
+      0.0,
+      36.0,
+      30.0
+    ],
+    "method": "gating_pass_vote (S=0.80)",
+    "score": {
+      "C_spatial": 0.298366826067062,
+      "avg_conf": 0.5028289870799052,
+      "S": 0.8011958131469672
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_2c6dc6ea-fd6f-4cbb-9954-2d6a68610a48.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_2c6dc6ea-fd6f-4cbb-9954-2d6a68610a48.png",
+    "instruction": "view solitaire daily challenges",
+    "bbox_xywh": [
+      1477.0,
+      450.0,
+      184.0,
+      230.0
+    ],
+    "method": "gating_pass_vote (S=1.20)",
+    "score": {
+      "C_spatial": 0.7507713222714948,
+      "avg_conf": 0.4465573940829516,
+      "S": 1.1973287163544464
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_b072d03a-51cb-4dd6-bdeb-152d3fd44e6b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_b072d03a-51cb-4dd6-bdeb-152d3fd44e6b.png",
+    "instruction": "open the Microsoft store",
+    "bbox_xywh": [
+      176.0,
+      202.0,
+      99.0,
+      101.0
+    ],
+    "method": "gating_pass_vote (S=1.29)",
+    "score": {
+      "C_spatial": 0.8121543734705833,
+      "avg_conf": 0.47553750800748223,
+      "S": 1.2876918814780656
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_ac2d2c5e-fe5a-4233-95b4-2de18ef76a9e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_ac2d2c5e-fe5a-4233-95b4-2de18ef76a9e.png",
+    "instruction": "adjust the style",
+    "bbox_xywh": [
+      635.0,
+      360.0,
+      42.0,
+      63.0
+    ],
+    "method": "gating_pass_vote (S=0.75)",
+    "score": {
+      "C_spatial": 0.3163662732653945,
+      "avg_conf": 0.4362414318434517,
+      "S": 0.7526077051088462
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_f0122b91-3f8b-4510-9a6e-f0239d84b94e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_f0122b91-3f8b-4510-9a6e-f0239d84b94e.png",
+    "instruction": "minimize calculator",
+    "bbox_xywh": [
+      697.0,
+      63.0,
+      34.0,
+      32.0
+    ],
+    "method": "gating_pass_vote (S=1.15)",
+    "score": {
+      "C_spatial": 0.5549666521829596,
+      "avg_conf": 0.5916866967167476,
+      "S": 1.146653348899707
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_354a6cb2-3fe0-4cea-950c-d7f8e01fdf45.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_354a6cb2-3fe0-4cea-950c-d7f8e01fdf45.png",
+    "instruction": "open the download page",
+    "bbox_xywh": [
+      843.0,
+      7.0,
+      48.0,
+      39.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.44707645809325836,
+      "avg_conf": 0.4842228025540922,
+      "S": 0.9312992606473506
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_d6b09201-c944-4ad9-a0a2-ff78e8f056ce.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_d6b09201-c944-4ad9-a0a2-ff78e8f056ce.png",
+    "instruction": "open the help menu",
+    "bbox_xywh": [
+      1.0,
+      434.0,
+      67.0,
+      66.0
+    ],
+    "method": "gating_pass_vote (S=0.79)",
+    "score": {
+      "C_spatial": 0.3847034388343727,
+      "avg_conf": 0.4069690106806826,
+      "S": 0.7916724495150553
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_db6b6fa2-11cc-4b06-88cb-22c180f07a3b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_db6b6fa2-11cc-4b06-88cb-22c180f07a3b.png",
+    "instruction": "save the file",
+    "bbox_xywh": [
+      9.0,
+      0.0,
+      35.0,
+      31.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.49911465233067653,
+      "avg_conf": 0.42316758941560595,
+      "S": 0.9222822417462825
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_6dfa677c-7772-46fb-8c83-14a33b0806b4.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_6dfa677c-7772-46fb-8c83-14a33b0806b4.png",
+    "instruction": "search for software ",
+    "bbox_xywh": [
+      316.0,
+      0.0,
+      601.0,
+      38.0
+    ],
+    "method": "gating_pass_vote (S=0.94)",
+    "score": {
+      "C_spatial": 0.5727381561634564,
+      "avg_conf": 0.363362496093069,
+      "S": 0.9361006522565254
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_bc9ed2f6-79c1-4a35-bcb5-4760bf4ed57d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_bc9ed2f6-79c1-4a35-bcb5-4760bf4ed57d.png",
+    "instruction": "add this page to favourites",
+    "bbox_xywh": [
+      880.0,
+      6.0,
+      36.0,
+      31.0
+    ],
+    "method": "gating_pass_vote (S=0.81)",
+    "score": {
+      "C_spatial": 0.36787840660542787,
+      "avg_conf": 0.4465169422216325,
+      "S": 0.8143953488270603
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_2c56f301-8e71-4498-8e52-44b37ac1a298.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_2c56f301-8e71-4498-8e52-44b37ac1a298.png",
+    "instruction": "choose language for windows",
+    "bbox_xywh": [
+      458.0,
+      133.0,
+      452.0,
+      36.0
+    ],
+    "method": "gating_pass_vote (S=1.09)",
+    "score": {
+      "C_spatial": 0.6592783942463872,
+      "avg_conf": 0.4322846256146107,
+      "S": 1.091563019860998
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_e618dc7e-8ffb-4a37-a317-9d3908c38395.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_e618dc7e-8ffb-4a37-a317-9d3908c38395.png",
+    "instruction": "input method toolbar",
+    "bbox_xywh": [
+      883.0,
+      496.0,
+      62.0,
+      44.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.4623337124277908,
+      "avg_conf": 0.570526827921653,
+      "S": 1.0328605403494437
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_54779155-8627-4cac-8ea6-98277cfe0647.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_54779155-8627-4cac-8ea6-98277cfe0647.png",
+    "instruction": "access the personal account interface",
+    "bbox_xywh": [
+      778.0,
+      4.0,
+      38.0,
+      41.0
+    ],
+    "method": "gating_pass_vote (S=1.10)",
+    "score": {
+      "C_spatial": 0.5911400832252276,
+      "avg_conf": 0.5105975760856641,
+      "S": 1.1017376593108916
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_ad16765f-de52-4903-b406-fb5213b94db9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_ad16765f-de52-4903-b406-fb5213b94db9.png",
+    "instruction": "network and internet settings",
+    "bbox_xywh": [
+      924.0,
+      496.0,
+      33.0,
+      44.0
+    ],
+    "method": "gating_pass_vote (S=0.75)",
+    "score": {
+      "C_spatial": 0.22482520351697338,
+      "avg_conf": 0.5275297543149216,
+      "S": 0.7523549578318949
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_1ebb6beb-3187-45a6-a5a6-e50aa9a327e5.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_1ebb6beb-3187-45a6-a5a6-e50aa9a327e5.png",
+    "instruction": "open a new tab",
+    "bbox_xywh": [
+      813.0,
+      0.0,
+      34.0,
+      32.0
+    ],
+    "method": "gating_pass_vote (S=0.75)",
+    "score": {
+      "C_spatial": 0.28817920590866414,
+      "avg_conf": 0.4580881123382323,
+      "S": 0.7462673182468964
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_221d3c5a-0a1b-456e-9676-7b5ff95cc1b1.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_221d3c5a-0a1b-456e-9676-7b5ff95cc1b1.png",
+    "instruction": "click the file processing menu",
+    "bbox_xywh": [
+      10.0,
+      84.0,
+      50.0,
+      39.0
+    ],
+    "method": "gating_pass_vote (S=1.02)",
+    "score": {
+      "C_spatial": 0.5390591386279832,
+      "avg_conf": 0.4819161392971468,
+      "S": 1.02097527792513
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_a8b0f843-7aaf-4369-ac2b-a121f1ccb024.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_a8b0f843-7aaf-4369-ac2b-a121f1ccb024.png",
+    "instruction": "open settings",
+    "bbox_xywh": [
+      1.0,
+      30.0,
+      41.0,
+      39.0
+    ],
+    "method": "gating_pass_vote (S=1.09)",
+    "score": {
+      "C_spatial": 0.591165483070107,
+      "avg_conf": 0.4957036659193207,
+      "S": 1.0868691489894275
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_7f0b3e40-e5f5-462b-96c3-e8a97a3a504b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_7f0b3e40-e5f5-462b-96c3-e8a97a3a504b.png",
+    "instruction": "open the music library",
+    "bbox_xywh": [
+      2.0,
+      48.0,
+      319.0,
+      40.0
+    ],
+    "method": "gating_pass_vote (S=0.73)",
+    "score": {
+      "C_spatial": 0.34678329403888436,
+      "avg_conf": 0.3835638651828537,
+      "S": 0.7303471592217381
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_8f88d498-d49a-4ab5-8aa6-aafa1428c3b7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_8f88d498-d49a-4ab5-8aa6-aafa1428c3b7.png",
+    "instruction": "copy the file",
+    "bbox_xywh": [
+      177.0,
+      69.0,
+      282.0,
+      28.0
+    ],
+    "method": "gating_pass_vote (S=0.64)",
+    "score": {
+      "C_spatial": 0.22925640936513925,
+      "avg_conf": 0.41099523125690324,
+      "S": 0.6402516406220424
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_870d6da1-bc85-4e74-a1bd-ef6f975c2146.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_870d6da1-bc85-4e74-a1bd-ef6f975c2146.png",
+    "instruction": "check the date and time menu",
+    "bbox_xywh": [
+      855.0,
+      495.0,
+      76.0,
+      45.0
+    ],
+    "method": "gating_pass_vote (S=0.72)",
+    "score": {
+      "C_spatial": 0.28936177838390764,
+      "avg_conf": 0.4297373602334407,
+      "S": 0.7190991386173484
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_45c2712a-337d-4b6b-a47b-37ca4d5bdddd.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_45c2712a-337d-4b6b-a47b-37ca4d5bdddd.png",
+    "instruction": "open the sleep mode",
+    "bbox_xywh": [
+      0.0,
+      354.0,
+      260.0,
+      42.0
+    ],
+    "method": "gating_pass_vote (S=0.77)",
+    "score": {
+      "C_spatial": 0.3765787488231563,
+      "avg_conf": 0.3958096876978685,
+      "S": 0.7723884365210247
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_133ac2cd-3eb3-4d45-be35-255a83831f97.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_133ac2cd-3eb3-4d45-be35-255a83831f97.png",
+    "instruction": "search for local files",
+    "bbox_xywh": [
+      607.0,
+      8.0,
+      349.0,
+      36.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.49)",
+    "score": {
+      "C_spatial": 0.09040734673233035,
+      "avg_conf": 0.39829219342762523,
+      "S": 0.4886995401599556
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_bd6711e1-ddc1-4873-8cf1-19654285f4ea.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_bd6711e1-ddc1-4873-8cf1-19654285f4ea.png",
+    "instruction": "view the personal account",
+    "bbox_xywh": [
+      0.0,
+      0.0,
+      40.0,
+      32.0
+    ],
+    "method": "gating_pass_vote (S=0.83)",
+    "score": {
+      "C_spatial": 0.4648911261953237,
+      "avg_conf": 0.3686982331184133,
+      "S": 0.833589359313737
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_83462e63-b0cd-4921-9d19-8a534ed445c7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_83462e63-b0cd-4921-9d19-8a534ed445c7.png",
+    "instruction": "click the \"settings and more\" button",
+    "bbox_xywh": [
+      916.0,
+      13.0,
+      44.0,
+      39.0
+    ],
+    "method": "gating_pass_vote (S=0.78)",
+    "score": {
+      "C_spatial": 0.35271611102218076,
+      "avg_conf": 0.42923121039940654,
+      "S": 0.7819473214215873
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_2b40c066-2f8f-4389-8df8-e70e8dfc1309.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_2b40c066-2f8f-4389-8df8-e70e8dfc1309.png",
+    "instruction": "full-screen display",
+    "bbox_xywh": [
+      894.0,
+      0.0,
+      66.0,
+      64.0
+    ],
+    "method": "gating_pass_vote (S=1.12)",
+    "score": {
+      "C_spatial": 0.6258015487193054,
+      "avg_conf": 0.49447000768657046,
+      "S": 1.1202715564058758
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_1f371830-d909-41ac-a340-921a594f05b0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_1f371830-d909-41ac-a340-921a594f05b0.png",
+    "instruction": "undo",
+    "bbox_xywh": [
+      2.0,
+      0.0,
+      32.0,
+      30.0
+    ],
+    "method": "gating_pass_vote (S=0.84)",
+    "score": {
+      "C_spatial": 0.4285640630497024,
+      "avg_conf": 0.41406280968370435,
+      "S": 0.8426268727334068
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_14fd6f5f-37d5-4b22-953e-626e11044f3e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_14fd6f5f-37d5-4b22-953e-626e11044f3e.png",
+    "instruction": "Add a new shortcut to the toolbar",
+    "bbox_xywh": [
+      918.0,
+      336.0,
+      41.0,
+      46.0
+    ],
+    "method": "gating_pass_vote (S=1.08)",
+    "score": {
+      "C_spatial": 0.547757270430624,
+      "avg_conf": 0.5324468483987842,
+      "S": 1.0802041188294083
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_8834317b-7d08-40f1-9036-40743aba5d70.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_8834317b-7d08-40f1-9036-40743aba5d70.png",
+    "instruction": "open local disk E",
+    "bbox_xywh": [
+      204.0,
+      205.0,
+      86.0,
+      84.0
+    ],
+    "method": "gating_pass_vote (S=0.82)",
+    "score": {
+      "C_spatial": 0.4213523603380303,
+      "avg_conf": 0.39401815890763925,
+      "S": 0.8153705192456695
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_fa28755f-aee4-48f3-a484-02e670a6ff8f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_fa28755f-aee4-48f3-a484-02e670a6ff8f.png",
+    "instruction": "create a new file",
+    "bbox_xywh": [
+      537.0,
+      127.0,
+      279.0,
+      25.0
+    ],
+    "method": "gating_pass_conf (S=0.61)",
+    "score": {
+      "C_spatial": 0.17808041189571516,
+      "avg_conf": 0.4364432499180715,
+      "S": 0.6145236618137866
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_712496c8-6588-4b57-a89d-b17eaecc761b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_712496c8-6588-4b57-a89d-b17eaecc761b.png",
+    "instruction": "open player settings",
+    "bbox_xywh": [
+      6.0,
+      470.0,
+      104.0,
+      41.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.5655534323492493,
+      "avg_conf": 0.5030193016414182,
+      "S": 1.0685727339906674
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_b1f1df2a-6c3d-40f9-ac70-dea7925c85dc.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_b1f1df2a-6c3d-40f9-ac70-dea7925c85dc.png",
+    "instruction": "set up onedrive",
+    "bbox_xywh": [
+      296.0,
+      157.0,
+      124.0,
+      37.0
+    ],
+    "method": "gating_pass_vote (S=1.09)",
+    "score": {
+      "C_spatial": 0.6291606218555597,
+      "avg_conf": 0.46403552057481845,
+      "S": 1.093196142430378
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_61beef4d-1a93-47b3-8aff-ba0f7774cb43.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_61beef4d-1a93-47b3-8aff-ba0f7774cb43.png",
+    "instruction": "fill in red",
+    "bbox_xywh": [
+      605.0,
+      261.0,
+      17.0,
+      17.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.40555716415269616,
+      "avg_conf": 0.510069662616077,
+      "S": 0.9156268267687732
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_73f3744f-675f-44e3-8c55-ef34bdce0da9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_73f3744f-675f-44e3-8c55-ef34bdce0da9.png",
+    "instruction": "open map",
+    "bbox_xywh": [
+      420.0,
+      121.0,
+      305.0,
+      273.0
+    ],
+    "method": "gating_pass_vote (S=0.86)",
+    "score": {
+      "C_spatial": 0.3616105033985776,
+      "avg_conf": 0.49705888887500105,
+      "S": 0.8586693922735786
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_488287f0-9da5-4c6a-b236-109d3df56137.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_488287f0-9da5-4c6a-b236-109d3df56137.png",
+    "instruction": "maximize window",
+    "bbox_xywh": [
+      875.0,
+      253.0,
+      41.0,
+      33.0
+    ],
+    "method": "gating_pass_vote (S=0.84)",
+    "score": {
+      "C_spatial": 0.3177848073856078,
+      "avg_conf": 0.5224891410495006,
+      "S": 0.8402739484351085
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_eb0b756c-e471-40eb-bfaa-06b432094ac6.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_eb0b756c-e471-40eb-bfaa-06b432094ac6.png",
+    "instruction": "open account protection",
+    "bbox_xywh": [
+      0.0,
+      105.0,
+      317.0,
+      40.0
+    ],
+    "method": "gating_pass_vote (S=0.64)",
+    "score": {
+      "C_spatial": 0.24756689358901945,
+      "avg_conf": 0.3928395263249314,
+      "S": 0.6404064199139509
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_dd51aeab-7e2c-40aa-82e6-0f870e49e6ba.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_dd51aeab-7e2c-40aa-82e6-0f870e49e6ba.png",
+    "instruction": "add equation ",
+    "bbox_xywh": [
+      605.0,
+      15.0,
+      61.0,
+      93.0
+    ],
+    "method": "gating_pass_vote (S=0.99)",
+    "score": {
+      "C_spatial": 0.5276546953900639,
+      "avg_conf": 0.4624143154464201,
+      "S": 0.990069010836484
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_41efdca0-442c-471e-8188-45457f9287c3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_41efdca0-442c-471e-8188-45457f9287c3.png",
+    "instruction": "minimize the window",
+    "bbox_xywh": [
+      601.0,
+      19.0,
+      37.0,
+      34.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.4255009869620249,
+      "avg_conf": 0.5040136191064736,
+      "S": 0.9295146060684985
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_8ce8a3b6-c2a9-4b69-986e-34b7d96e27ef.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_8ce8a3b6-c2a9-4b69-986e-34b7d96e27ef.png",
+    "instruction": "view the devices",
+    "bbox_xywh": [
+      213.0,
+      63.0,
+      266.0,
+      69.0
+    ],
+    "method": "gating_pass_vote (S=0.70)",
+    "score": {
+      "C_spatial": 0.31167546372608884,
+      "avg_conf": 0.38707292598568377,
+      "S": 0.6987483897117726
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_80ab83db-da70-4a1d-b10e-a438a59b2197.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_80ab83db-da70-4a1d-b10e-a438a59b2197.png",
+    "instruction": "Adjust screen timeout",
+    "bbox_xywh": [
+      299.0,
+      175.0,
+      182.0,
+      34.0
+    ],
+    "method": "gating_pass_vote (S=1.22)",
+    "score": {
+      "C_spatial": 0.7223914324759028,
+      "avg_conf": 0.4944032943078345,
+      "S": 1.2167947267837373
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_0c634288-11b9-498f-8fb6-582e26ea17c9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_0c634288-11b9-498f-8fb6-582e26ea17c9.png",
+    "instruction": "start playback",
+    "bbox_xywh": [
+      165.0,
+      467.0,
+      53.0,
+      52.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.5258266952617102,
+      "avg_conf": 0.5013314859964114,
+      "S": 1.0271581812581216
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_dfd488a9-d3c6-4e00-844a-6d56834a367e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_dfd488a9-d3c6-4e00-844a-6d56834a367e.png",
+    "instruction": "set the screenshot option",
+    "bbox_xywh": [
+      145.0,
+      12.0,
+      64.0,
+      90.0
+    ],
+    "method": "gating_pass_vote (S=0.73)",
+    "score": {
+      "C_spatial": 0.35514597154081357,
+      "avg_conf": 0.37630722511745057,
+      "S": 0.7314531966582641
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_17bc1fc0-a71c-453d-a431-5ebcddeff38f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_17bc1fc0-a71c-453d-a431-5ebcddeff38f.png",
+    "instruction": "add the subtitle",
+    "bbox_xywh": [
+      560.0,
+      603.0,
+      1095.0,
+      203.0
+    ],
+    "method": "gating_pass_vote (S=0.88)",
+    "score": {
+      "C_spatial": 0.5118651073022282,
+      "avg_conf": 0.36324748374319665,
+      "S": 0.8751125910454249
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_05f0185e-a291-4e4c-a777-ffb2c46037c6.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_05f0185e-a291-4e4c-a777-ffb2c46037c6.png",
+    "instruction": "adjust light rotation",
+    "bbox_xywh": [
+      390.0,
+      183.0,
+      304.0,
+      248.0
+    ],
+    "method": "gating_pass_vote (S=1.16)",
+    "score": {
+      "C_spatial": 0.7539120252007442,
+      "avg_conf": 0.4092920168652087,
+      "S": 1.1632040420659528
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_aae370cb-9618-497e-8877-1a862725d28e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_aae370cb-9618-497e-8877-1a862725d28e.png",
+    "instruction": "click the colour 2 button",
+    "bbox_xywh": [
+      225.0,
+      139.0,
+      41.0,
+      69.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.47667455489519384,
+      "avg_conf": 0.44832455453695136,
+      "S": 0.9249991094321453
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_f317f992-32e1-4470-ab0b-31910a70bcd4.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_f317f992-32e1-4470-ab0b-31910a70bcd4.png",
+    "instruction": "add the title",
+    "bbox_xywh": [
+      561.0,
+      308.0,
+      1093.0,
+      289.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.5780831959052274,
+      "avg_conf": 0.3757589703744497,
+      "S": 0.9538421662796771
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_776b1aa0-a892-4461-b03a-88253e628426.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_776b1aa0-a892-4461-b03a-88253e628426.png",
+    "instruction": "refresh the page",
+    "bbox_xywh": [
+      18.0,
+      15.0,
+      44.0,
+      39.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.46190809619100015,
+      "avg_conf": 0.4255587707385739,
+      "S": 0.887466866929574
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_580035fc-f55e-4817-b0c5-b741fb034cd0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_580035fc-f55e-4817-b0c5-b741fb034cd0.png",
+    "instruction": "click the button to play previous track",
+    "bbox_xywh": [
+      441.0,
+      458.0,
+      32.0,
+      51.0
+    ],
+    "method": "gating_pass_vote (S=0.98)",
+    "score": {
+      "C_spatial": 0.4571001056252709,
+      "avg_conf": 0.525723733301095,
+      "S": 0.9828238389263659
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_ac6779f8-a188-4633-bfcc-ab05ada6848c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_ac6779f8-a188-4633-bfcc-ab05ada6848c.png",
+    "instruction": "pin to taskbar",
+    "bbox_xywh": [
+      872.0,
+      40.0,
+      37.0,
+      32.0
+    ],
+    "method": "gating_pass_vote (S=0.80)",
+    "score": {
+      "C_spatial": 0.2840031835045601,
+      "avg_conf": 0.5204399113774876,
+      "S": 0.8044430948820477
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_3b590e58-aab0-42c4-9b74-7d1a6b7f26fe.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_3b590e58-aab0-42c4-9b74-7d1a6b7f26fe.png",
+    "instruction": "enter the wegameapps folder",
+    "bbox_xywh": [
+      17.0,
+      52.0,
+      483.0,
+      36.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.6120188679915165,
+      "avg_conf": 0.4400781291606524,
+      "S": 1.052096997152169
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_4ba904da-bd51-42ea-a96f-c5681c630058.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_4ba904da-bd51-42ea-a96f-c5681c630058.png",
+    "instruction": "check hourly weather",
+    "bbox_xywh": [
+      232.0,
+      417.0,
+      88.0,
+      42.0
+    ],
+    "method": "gating_pass_vote (S=1.14)",
+    "score": {
+      "C_spatial": 0.6247247482392118,
+      "avg_conf": 0.518418778087871,
+      "S": 1.1431435263270826
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_4cb20510-1be3-4ef8-ac47-2b49f4463555.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_4cb20510-1be3-4ef8-ac47-2b49f4463555.png",
+    "instruction": "open the menu of windows",
+    "bbox_xywh": [
+      0.0,
+      498.0,
+      48.0,
+      42.0
+    ],
+    "method": "gating_pass_vote (S=0.88)",
+    "score": {
+      "C_spatial": 0.4338019828868561,
+      "avg_conf": 0.4489969585493257,
+      "S": 0.8827989414361819
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_f9867d85-5680-44ac-9bea-23acf5c9cc71.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_f9867d85-5680-44ac-9bea-23acf5c9cc71.png",
+    "instruction": "open the recycle bin",
+    "bbox_xywh": [
+      0.0,
+      0.0,
+      79.0,
+      84.0
+    ],
+    "method": "gating_pass_vote (S=1.20)",
+    "score": {
+      "C_spatial": 0.7721433293953199,
+      "avg_conf": 0.42501000668432726,
+      "S": 1.1971533360796471
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_155fc26b-cddb-4a03-b636-322a45c054e6.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_155fc26b-cddb-4a03-b636-322a45c054e6.png",
+    "instruction": "open settings",
+    "bbox_xywh": [
+      912.0,
+      8.0,
+      43.0,
+      43.0
+    ],
+    "method": "gating_pass_vote (S=0.81)",
+    "score": {
+      "C_spatial": 0.359534449831175,
+      "avg_conf": 0.45156042814859304,
+      "S": 0.811094877979768
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_942d98d0-92d0-49ab-bc98-49a700c1822b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_942d98d0-92d0-49ab-bc98-49a700c1822b.png",
+    "instruction": "check weather on tuesday",
+    "bbox_xywh": [
+      552.0,
+      37.0,
+      158.0,
+      116.0
+    ],
+    "method": "gating_pass_vote (S=1.02)",
+    "score": {
+      "C_spatial": 0.5961493386160326,
+      "avg_conf": 0.42330295021686476,
+      "S": 1.0194522888328974
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_aa124117-8877-4805-9c69-0ce80e1afc71.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_aa124117-8877-4805-9c69-0ce80e1afc71.png",
+    "instruction": "open the playlists",
+    "bbox_xywh": [
+      0.0,
+      247.0,
+      318.0,
+      46.0
+    ],
+    "method": "gating_pass_vote (S=0.70)",
+    "score": {
+      "C_spatial": 0.2973568550130367,
+      "avg_conf": 0.4022551563576157,
+      "S": 0.6996120113706524
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_e650b1a7-a1e4-4cb4-a2f0-a50f04ce9925.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_e650b1a7-a1e4-4cb4-a2f0-a50f04ce9925.png",
+    "instruction": "click the search bar",
+    "bbox_xywh": [
+      0.0,
+      498.0,
+      348.0,
+      42.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.48073391477073846,
+      "avg_conf": 0.4129523191270777,
+      "S": 0.8936862338978162
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_88dde48f-6594-4f17-b117-3529b2bde02e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_88dde48f-6594-4f17-b117-3529b2bde02e.png",
+    "instruction": "back to previous folder",
+    "bbox_xywh": [
+      7.0,
+      203.0,
+      28.0,
+      39.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.47)",
+    "score": {
+      "C_spatial": 0.06833108551469062,
+      "avg_conf": 0.4023772625129373,
+      "S": 0.47070834802762795
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_5b1e5fe2-e063-463f-ab56-2b09d17b88a5.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_5b1e5fe2-e063-463f-ab56-2b09d17b88a5.png",
+    "instruction": "open Samsung Printer Center",
+    "bbox_xywh": [
+      154.0,
+      352.0,
+      100.0,
+      99.0
+    ],
+    "method": "gating_pass_vote (S=1.09)",
+    "score": {
+      "C_spatial": 0.6238663258065823,
+      "avg_conf": 0.4611958805579675,
+      "S": 1.0850622063645499
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_8ed762cb-06dd-493f-b770-7e02298433f8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_8ed762cb-06dd-493f-b770-7e02298433f8.png",
+    "instruction": "turn on the mixed reality",
+    "bbox_xywh": [
+      732.0,
+      29.0,
+      55.0,
+      37.0
+    ],
+    "method": "gating_pass_vote (S=0.77)",
+    "score": {
+      "C_spatial": 0.31130524850647984,
+      "avg_conf": 0.46107573421675496,
+      "S": 0.7723809827232349
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_56d9172e-1780-4fb7-8377-f9987b87508c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_56d9172e-1780-4fb7-8377-f9987b87508c.png",
+    "instruction": "delete the downloaded file",
+    "bbox_xywh": [
+      894.0,
+      126.0,
+      43.0,
+      52.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.3746978091634955,
+      "avg_conf": 0.5142850637987268,
+      "S": 0.8889828729622223
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_5165f0b8-ea19-448e-bcfc-66de25666bb9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_5165f0b8-ea19-448e-bcfc-66de25666bb9.png",
+    "instruction": "open the menu",
+    "bbox_xywh": [
+      0.0,
+      26.0,
+      64.0,
+      65.0
+    ],
+    "method": "gating_pass_vote (S=0.87)",
+    "score": {
+      "C_spatial": 0.46952585712211964,
+      "avg_conf": 0.4010194521503529,
+      "S": 0.8705453092724725
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_ecf34119-ce66-4699-a169-60e5279a650f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_ecf34119-ce66-4699-a169-60e5279a650f.png",
+    "instruction": "switch to english",
+    "bbox_xywh": [
+      660.0,
+      401.0,
+      299.0,
+      64.0
+    ],
+    "method": "gating_pass_vote (S=0.90)",
+    "score": {
+      "C_spatial": 0.42306040914744286,
+      "avg_conf": 0.4728753241625899,
+      "S": 0.8959357333100328
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_445877f4-ba58-468b-97b6-e770b1a9f02a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_445877f4-ba58-468b-97b6-e770b1a9f02a.png",
+    "instruction": "open the file",
+    "bbox_xywh": [
+      77.0,
+      0.0,
+      282.0,
+      28.0
+    ],
+    "method": "gating_pass_vote (S=0.86)",
+    "score": {
+      "C_spatial": 0.41531534217309396,
+      "avg_conf": 0.44371011773549984,
+      "S": 0.8590254599085938
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_92e1062b-0d4a-4e14-8b25-b79e4b6c9b55.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_92e1062b-0d4a-4e14-8b25-b79e4b6c9b55.png",
+    "instruction": "search for settings",
+    "bbox_xywh": [
+      392.0,
+      50.0,
+      341.0,
+      36.0
+    ],
+    "method": "gating_pass_vote (S=1.19)",
+    "score": {
+      "C_spatial": 0.7377567658570372,
+      "avg_conf": 0.44906626714650827,
+      "S": 1.1868230330035454
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_09e2a811-2e5f-4cfc-9d6c-97acda34edf7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_09e2a811-2e5f-4cfc-9d6c-97acda34edf7.png",
+    "instruction": "gradient option",
+    "bbox_xywh": [
+      747.0,
+      302.0,
+      173.0,
+      26.0
+    ],
+    "method": "gating_pass_vote (S=0.64)",
+    "score": {
+      "C_spatial": 0.1748250703340391,
+      "avg_conf": 0.46038515093415266,
+      "S": 0.6352102212681918
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_c7974702-d944-412f-83b2-61f92cf3c68c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_c7974702-d944-412f-83b2-61f92cf3c68c.png",
+    "instruction": "share the file",
+    "bbox_xywh": [
+      872.0,
+      12.0,
+      88.0,
+      31.0
+    ],
+    "method": "gating_pass_vote (S=0.90)",
+    "score": {
+      "C_spatial": 0.4375103471257931,
+      "avg_conf": 0.4595044629999164,
+      "S": 0.8970148101257095
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_04d51f86-b324-4eb6-82f5-c8cd6cb3e79c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_04d51f86-b324-4eb6-82f5-c8cd6cb3e79c.png",
+    "instruction": "chech visibility",
+    "bbox_xywh": [
+      568.0,
+      256.0,
+      82.0,
+      51.0
+    ],
+    "method": "gating_pass_vote (S=0.72)",
+    "score": {
+      "C_spatial": 0.24886679873215314,
+      "avg_conf": 0.46707303627634145,
+      "S": 0.7159398350084946
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_3a625c5d-db8a-41fb-b533-16a7c8a4f345.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_3a625c5d-db8a-41fb-b533-16a7c8a4f345.png",
+    "instruction": "refresh the page",
+    "bbox_xywh": [
+      887.0,
+      20.0,
+      37.0,
+      36.0
+    ],
+    "method": "gating_pass_vote (S=0.78)",
+    "score": {
+      "C_spatial": 0.29322571924698587,
+      "avg_conf": 0.482718657175739,
+      "S": 0.7759443764227248
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_17904586-d58c-4f1d-8c1e-6a6697353b14.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_17904586-d58c-4f1d-8c1e-6a6697353b14.png",
+    "instruction": "sign in",
+    "bbox_xywh": [
+      792.0,
+      13.0,
+      156.0,
+      65.0
+    ],
+    "method": "gating_pass_vote (S=1.10)",
+    "score": {
+      "C_spatial": 0.6182988284182952,
+      "avg_conf": 0.4840985042821647,
+      "S": 1.10239733270046
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_25eca08c-57eb-45b0-8c0b-79ccec8400ff.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_25eca08c-57eb-45b0-8c0b-79ccec8400ff.png",
+    "instruction": "minimize the window.",
+    "bbox_xywh": [
+      901.0,
+      0.0,
+      33.0,
+      22.0
+    ],
+    "method": "gating_pass_vote (S=0.96)",
+    "score": {
+      "C_spatial": 0.40373199062070503,
+      "avg_conf": 0.5594879149023532,
+      "S": 0.9632199055230581
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_cefd90d7-4af2-4370-b71e-8d4d5954c21e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_cefd90d7-4af2-4370-b71e-8d4d5954c21e.png",
+    "instruction": "number 5",
+    "bbox_xywh": [
+      620.0,
+      458.0,
+      82.0,
+      54.0
+    ],
+    "method": "gating_pass_vote (S=0.87)",
+    "score": {
+      "C_spatial": 0.3632997439478303,
+      "avg_conf": 0.5032309689718213,
+      "S": 0.8665307129196516
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_8fc42b3c-c8bc-4866-b787-aed98a86d614.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_8fc42b3c-c8bc-4866-b787-aed98a86d614.png",
+    "instruction": "view sound settings.",
+    "bbox_xywh": [
+      183.0,
+      24.0,
+      316.0,
+      44.0
+    ],
+    "method": "gating_pass_vote (S=0.76)",
+    "score": {
+      "C_spatial": 0.3649442547483831,
+      "avg_conf": 0.3982450653543367,
+      "S": 0.7631893201027198
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_a2b172fe-7e11-4795-8424-c18d5b65a009.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_a2b172fe-7e11-4795-8424-c18d5b65a009.png",
+    "instruction": "get help",
+    "bbox_xywh": [
+      503.0,
+      149.0,
+      97.0,
+      37.0
+    ],
+    "method": "gating_pass_vote (S=1.01)",
+    "score": {
+      "C_spatial": 0.5198452176421892,
+      "avg_conf": 0.4890243164035823,
+      "S": 1.0088695340457714
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_07faaa86-6e6b-457b-9a51-9b30edff21da.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_07faaa86-6e6b-457b-9a51-9b30edff21da.png",
+    "instruction": "share the current page",
+    "bbox_xywh": [
+      916.0,
+      455.0,
+      44.0,
+      41.0
+    ],
+    "method": "gating_pass_vote (S=0.88)",
+    "score": {
+      "C_spatial": 0.34565662517423934,
+      "avg_conf": 0.5334304555181159,
+      "S": 0.8790870806923552
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_ec8508be-641d-492a-bccc-a8279ae5bf9b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_ec8508be-641d-492a-bccc-a8279ae5bf9b.png",
+    "instruction": "check the shape option",
+    "bbox_xywh": [
+      78.0,
+      29.0,
+      47.0,
+      91.0
+    ],
+    "method": "gating_pass_vote (S=0.84)",
+    "score": {
+      "C_spatial": 0.40383575574870756,
+      "avg_conf": 0.43262944448126434,
+      "S": 0.836465200229972
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_733fbb76-a188-4804-a2c6-788acf844d7c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_733fbb76-a188-4804-a2c6-788acf844d7c.png",
+    "instruction": "back to previous page",
+    "bbox_xywh": [
+      105.0,
+      47.0,
+      42.0,
+      33.0
+    ],
+    "method": "gating_pass_vote (S=1.06)",
+    "score": {
+      "C_spatial": 0.5123017597244732,
+      "avg_conf": 0.5449456230343752,
+      "S": 1.0572473827588484
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_02a8e358-8282-498b-b82e-c0f2b1b8d26a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_02a8e358-8282-498b-b82e-c0f2b1b8d26a.png",
+    "instruction": "search for files on disk e:",
+    "bbox_xywh": [
+      614.0,
+      45.0,
+      345.0,
+      33.0
+    ],
+    "method": "gating_pass_vote (S=0.84)",
+    "score": {
+      "C_spatial": 0.4196466964985843,
+      "avg_conf": 0.4204837710044958,
+      "S": 0.8401304675030801
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_6f580940-6536-452e-9310-f9ebb87879eb.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_6f580940-6536-452e-9310-f9ebb87879eb.png",
+    "instruction": "edit with paint 3d",
+    "bbox_xywh": [
+      613.0,
+      52.0,
+      73.0,
+      86.0
+    ],
+    "method": "gating_pass_vote (S=0.83)",
+    "score": {
+      "C_spatial": 0.3865284786645989,
+      "avg_conf": 0.4472392984870389,
+      "S": 0.8337677771516379
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_8c0c6fa3-39d8-4633-aeb1-6544036c85bf.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_8c0c6fa3-39d8-4633-aeb1-6544036c85bf.png",
+    "instruction": "adjust the volume",
+    "bbox_xywh": [
+      913.0,
+      504.0,
+      30.0,
+      36.0
+    ],
+    "method": "gating_pass_vote (S=1.06)",
+    "score": {
+      "C_spatial": 0.48806519356026873,
+      "avg_conf": 0.5706648488460956,
+      "S": 1.0587300424063644
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_ecde084e-e461-4c7c-9ddc-bccabc874747.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_ecde084e-e461-4c7c-9ddc-bccabc874747.png",
+    "instruction": "learn more",
+    "bbox_xywh": [
+      30.0,
+      399.0,
+      108.0,
+      37.0
+    ],
+    "method": "gating_pass_vote (S=1.14)",
+    "score": {
+      "C_spatial": 0.6675356684558446,
+      "avg_conf": 0.4700420157888908,
+      "S": 1.1375776842447354
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_140cfa7d-6933-4591-ae0d-a1eadda2d7b5.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_140cfa7d-6933-4591-ae0d-a1eadda2d7b5.png",
+    "instruction": "open videos folder",
+    "bbox_xywh": [
+      703.0,
+      51.0,
+      160.0,
+      73.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.5677474339155244,
+      "avg_conf": 0.46502116047772607,
+      "S": 1.0327685943932505
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_5a8a71e4-4c80-4b17-b724-a6b6d48a339f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_5a8a71e4-4c80-4b17-b724-a6b6d48a339f.png",
+    "instruction": "check weather forecast",
+    "bbox_xywh": [
+      610.0,
+      499.0,
+      123.0,
+      41.0
+    ],
+    "method": "gating_pass_vote (S=1.09)",
+    "score": {
+      "C_spatial": 0.5667460560531551,
+      "avg_conf": 0.5196776357087711,
+      "S": 1.0864236917619263
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_986f4ae9-9dd8-4c5c-b3d8-fb3fb5557d17.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_986f4ae9-9dd8-4c5c-b3d8-fb3fb5557d17.png",
+    "instruction": "multiplicate",
+    "bbox_xywh": [
+      145.0,
+      13.0,
+      81.0,
+      56.0
+    ],
+    "method": "gating_pass_vote (S=0.75)",
+    "score": {
+      "C_spatial": 0.2985705285558759,
+      "avg_conf": 0.4551843176893716,
+      "S": 0.7537548462452475
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_6dfaf0c7-a3e5-4e71-8431-5eeb9fb8e493.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_6dfaf0c7-a3e5-4e71-8431-5eeb9fb8e493.png",
+    "instruction": "see more information",
+    "bbox_xywh": [
+      527.0,
+      243.0,
+      362.0,
+      36.0
+    ],
+    "method": "gating_pass_vote (S=0.83)",
+    "score": {
+      "C_spatial": 0.37670775041228255,
+      "avg_conf": 0.4568549498248124,
+      "S": 0.8335627002370949
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_89fc8216-3292-418c-864f-edcce3c34dc5.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_89fc8216-3292-418c-864f-edcce3c34dc5.png",
+    "instruction": "adjust volume in the music player",
+    "bbox_xywh": [
+      790.0,
+      444.0,
+      42.0,
+      39.0
+    ],
+    "method": "gating_pass_vote (S=0.74)",
+    "score": {
+      "C_spatial": 0.2202096008514371,
+      "avg_conf": 0.5243555731158671,
+      "S": 0.7445651739673043
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_c00e575a-fa2d-47c7-83cc-9f4e99f15720.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_c00e575a-fa2d-47c7-83cc-9f4e99f15720.png",
+    "instruction": "restart the computer",
+    "bbox_xywh": [
+      0.0,
+      459.0,
+      260.0,
+      41.0
+    ],
+    "method": "gating_pass_vote (S=0.76)",
+    "score": {
+      "C_spatial": 0.3877668909764171,
+      "avg_conf": 0.3772323341720675,
+      "S": 0.7649992251484845
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_b2579d6f-b494-47e3-872a-5e42a43f251a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_b2579d6f-b494-47e3-872a-5e42a43f251a.png",
+    "instruction": "adjust screen size",
+    "bbox_xywh": [
+      782.0,
+      394.0,
+      146.0,
+      30.0
+    ],
+    "method": "gating_pass_vote (S=0.88)",
+    "score": {
+      "C_spatial": 0.43299571666809034,
+      "avg_conf": 0.4427608786051464,
+      "S": 0.8757565952732367
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_79eaf625-93f5-42a4-977e-71aba5418ff4.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_79eaf625-93f5-42a4-977e-71aba5418ff4.png",
+    "instruction": "go to the desktop",
+    "bbox_xywh": [
+      11.0,
+      120.0,
+      145.0,
+      22.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.56)",
+    "score": {
+      "C_spatial": 0.2032013779097896,
+      "avg_conf": 0.35890794625797723,
+      "S": 0.5621093241677668
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_1f3eb0eb-2ab2-4e48-b278-de334846ee0d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_1f3eb0eb-2ab2-4e48-b278-de334846ee0d.png",
+    "instruction": "choose the pig",
+    "bbox_xywh": [
+      406.0,
+      81.0,
+      351.0,
+      291.0
+    ],
+    "method": "gating_pass_vote (S=1.51)",
+    "score": {
+      "C_spatial": 0.9545017620548724,
+      "avg_conf": 0.5529671380915587,
+      "S": 1.507468900146431
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_6a8d5384-ca12-4ae2-b14c-4c9dc08d4896.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_6a8d5384-ca12-4ae2-b14c-4c9dc08d4896.png",
+    "instruction": "input a url",
+    "bbox_xywh": [
+      97.0,
+      33.0,
+      1551.0,
+      35.0
+    ],
+    "method": "gating_pass_vote (S=0.71)",
+    "score": {
+      "C_spatial": 0.37709212029128575,
+      "avg_conf": 0.3327595304324278,
+      "S": 0.7098516507237136
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_c0996a5a-3af1-487b-9060-7b1a6779e42f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_c0996a5a-3af1-487b-9060-7b1a6779e42f.png",
+    "instruction": "go to the homepage",
+    "bbox_xywh": [
+      59.0,
+      92.0,
+      321.0,
+      42.0
+    ],
+    "method": "gating_pass_vote (S=0.80)",
+    "score": {
+      "C_spatial": 0.3723302070404532,
+      "avg_conf": 0.42435176129068686,
+      "S": 0.7966819683311401
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_e18b4420-34da-4d60-889e-924a76fb5094.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_e18b4420-34da-4d60-889e-924a76fb5094.png",
+    "instruction": "open the favourites",
+    "bbox_xywh": [
+      840.0,
+      11.0,
+      42.0,
+      37.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.41562396924847744,
+      "avg_conf": 0.5161826396506881,
+      "S": 0.9318066088991656
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_4c43fbd2-d84e-4bb4-8169-7a748530c1af.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_4c43fbd2-d84e-4bb4-8169-7a748530c1af.png",
+    "instruction": "choose wechat",
+    "bbox_xywh": [
+      56.0,
+      393.0,
+      438.0,
+      117.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.6267895947219015,
+      "avg_conf": 0.42610244732015945,
+      "S": 1.0528920420420609
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_7e37689a-0657-4856-8adf-72a21ee640c9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_7e37689a-0657-4856-8adf-72a21ee640c9.png",
+    "instruction": "check windows keyboard shortcuts",
+    "bbox_xywh": [
+      251.0,
+      163.0,
+      227.0,
+      250.0
+    ],
+    "method": "gating_pass_vote (S=1.09)",
+    "score": {
+      "C_spatial": 0.669501902311661,
+      "avg_conf": 0.4247215955654667,
+      "S": 1.0942234978771277
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_bb73a431-c05e-47a8-bd27-8c7cbc2f7f23.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_bb73a431-c05e-47a8-bd27-8c7cbc2f7f23.png",
+    "instruction": "view the file sorting method",
+    "bbox_xywh": [
+      116.0,
+      22.0,
+      226.0,
+      28.0
+    ],
+    "method": "gating_pass_vote (S=0.85)",
+    "score": {
+      "C_spatial": 0.4362140315123519,
+      "avg_conf": 0.4127456552115467,
+      "S": 0.8489596867238987
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_b4d4f0c2-5f8e-409e-ac20-b1a2c7d6f440.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_b4d4f0c2-5f8e-409e-ac20-b1a2c7d6f440.png",
+    "instruction": "open Microsoft edge",
+    "bbox_xywh": [
+      2.0,
+      100.0,
+      78.0,
+      92.0
+    ],
+    "method": "gating_pass_vote (S=0.96)",
+    "score": {
+      "C_spatial": 0.5601343203836818,
+      "avg_conf": 0.3966996509524195,
+      "S": 0.9568339713361014
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_5da8f8cd-8ba2-490a-86e0-5c82421a9bee.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_5da8f8cd-8ba2-490a-86e0-5c82421a9bee.png",
+    "instruction": "click to open the file",
+    "bbox_xywh": [
+      322.0,
+      67.0,
+      279.0,
+      26.0
+    ],
+    "method": "gating_pass_vote (S=0.71)",
+    "score": {
+      "C_spatial": 0.30055550976654943,
+      "avg_conf": 0.4103283360640642,
+      "S": 0.7108838458306137
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_2d42ba96-b43d-4f3f-81c1-80c8c107ca1c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_2d42ba96-b43d-4f3f-81c1-80c8c107ca1c.png",
+    "instruction": "search for files",
+    "bbox_xywh": [
+      8.0,
+      33.0,
+      289.0,
+      34.0
+    ],
+    "method": "gating_pass_vote (S=0.96)",
+    "score": {
+      "C_spatial": 0.568562561119513,
+      "avg_conf": 0.38956586317908887,
+      "S": 0.9581284242986019
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_4392332d-683f-4746-bbb2-e9287d9cdae0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_4392332d-683f-4746-bbb2-e9287d9cdae0.png",
+    "instruction": "set the second photo as wallpaper",
+    "bbox_xywh": [
+      308.0,
+      203.0,
+      81.0,
+      84.0
+    ],
+    "method": "gating_pass_vote (S=1.43)",
+    "score": {
+      "C_spatial": 0.8780164609479193,
+      "avg_conf": 0.5505154898688331,
+      "S": 1.4285319508167524
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_977de16a-870e-48f3-8a38-ec9e1efb9f77.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_977de16a-870e-48f3-8a38-ec9e1efb9f77.png",
+    "instruction": "add a language",
+    "bbox_xywh": [
+      555.0,
+      238.0,
+      161.0,
+      50.0
+    ],
+    "method": "gating_pass_vote (S=1.10)",
+    "score": {
+      "C_spatial": 0.5794124559716234,
+      "avg_conf": 0.5252838782146365,
+      "S": 1.10469633418626
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_16d04f01-66a7-45df-a189-66c29fa935d7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_16d04f01-66a7-45df-a189-66c29fa935d7.png",
+    "instruction": "open files",
+    "bbox_xywh": [
+      321.0,
+      482.0,
+      154.0,
+      37.0
+    ],
+    "method": "gating_pass_vote (S=1.27)",
+    "score": {
+      "C_spatial": 0.7097125090301096,
+      "avg_conf": 0.5564256707864792,
+      "S": 1.266138179816589
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_d077a08e-e927-4daa-aaf1-2f2385eefa04.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_d077a08e-e927-4daa-aaf1-2f2385eefa04.png",
+    "instruction": "play the \"spider solitaire\"",
+    "bbox_xywh": [
+      227.0,
+      188.0,
+      188.0,
+      235.0
+    ],
+    "method": "gating_pass_vote (S=1.22)",
+    "score": {
+      "C_spatial": 0.8009729540995669,
+      "avg_conf": 0.4228644883668934,
+      "S": 1.2238374424664604
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_01c641cb-aa78-4bae-80ea-dda820dd00eb.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_01c641cb-aa78-4bae-80ea-dda820dd00eb.png",
+    "instruction": "view paste option",
+    "bbox_xywh": [
+      109.0,
+      144.0,
+      51.0,
+      73.0
+    ],
+    "method": "gating_pass_vote (S=0.76)",
+    "score": {
+      "C_spatial": 0.35279402891894035,
+      "avg_conf": 0.40895590053892117,
+      "S": 0.7617499294578616
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_9c3204c7-8a02-406a-8dee-5b363887258c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_9c3204c7-8a02-406a-8dee-5b363887258c.png",
+    "instruction": "back to the previous page",
+    "bbox_xywh": [
+      0.0,
+      21.0,
+      50.0,
+      39.0
+    ],
+    "method": "gating_pass_vote (S=0.83)",
+    "score": {
+      "C_spatial": 0.41965207371495855,
+      "avg_conf": 0.4063011712277146,
+      "S": 0.8259532449426732
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_471e7c2d-8c16-4626-9b8e-7e0fd79e3a32.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_471e7c2d-8c16-4626-9b8e-7e0fd79e3a32.png",
+    "instruction": "click to play the next track",
+    "bbox_xywh": [
+      181.0,
+      448.0,
+      31.0,
+      52.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.5402607094380368,
+      "avg_conf": 0.5342453909181017,
+      "S": 1.0745061003561385
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_f92a83db-cb5b-4295-af83-3606639056be.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_f92a83db-cb5b-4295-af83-3606639056be.png",
+    "instruction": "review option",
+    "bbox_xywh": [
+      273.0,
+      26.0,
+      67.0,
+      28.0
+    ],
+    "method": "gating_pass_vote (S=0.98)",
+    "score": {
+      "C_spatial": 0.5437155174429471,
+      "avg_conf": 0.4355775983489976,
+      "S": 0.9792931157919447
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_daa34642-1973-424e-a752-3b309fa6512b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_daa34642-1973-424e-a752-3b309fa6512b.png",
+    "instruction": "check for two unread messages",
+    "bbox_xywh": [
+      907.0,
+      499.0,
+      50.0,
+      41.0
+    ],
+    "method": "gating_pass_vote (S=0.84)",
+    "score": {
+      "C_spatial": 0.3135098363317395,
+      "avg_conf": 0.5285033077381527,
+      "S": 0.8420131440698921
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_58d89b93-10e2-41fe-8b6d-3532fd3bb832.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_58d89b93-10e2-41fe-8b6d-3532fd3bb832.png",
+    "instruction": "view windows settings",
+    "bbox_xywh": [
+      0.0,
+      407.0,
+      50.0,
+      45.0
+    ],
+    "method": "gating_pass_vote (S=1.12)",
+    "score": {
+      "C_spatial": 0.6197998960098186,
+      "avg_conf": 0.49790271554953575,
+      "S": 1.1177026115593542
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_79377abe-731c-4d3b-ab04-b332c4054b81.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_79377abe-731c-4d3b-ab04-b332c4054b81.png",
+    "instruction": "dismiss the account protection",
+    "bbox_xywh": [
+      412.0,
+      326.0,
+      72.0,
+      45.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.5494054524215094,
+      "avg_conf": 0.5222419808506422,
+      "S": 1.0716474332721515
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_9d04d927-2a44-4e0d-b752-57abf0a0522f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_9d04d927-2a44-4e0d-b752-57abf0a0522f.png",
+    "instruction": "back to the previous page",
+    "bbox_xywh": [
+      2.0,
+      23.0,
+      45.0,
+      42.0
+    ],
+    "method": "gating_pass_vote (S=0.77)",
+    "score": {
+      "C_spatial": 0.3760113907719713,
+      "avg_conf": 0.3926333964491067,
+      "S": 0.768644787221078
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_c8b036c3-da02-490e-a09b-0a42b8d9f344.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_c8b036c3-da02-490e-a09b-0a42b8d9f344.png",
+    "instruction": "personal account options",
+    "bbox_xywh": [
+      0.0,
+      391.0,
+      47.0,
+      42.0
+    ],
+    "method": "gating_pass_vote (S=0.86)",
+    "score": {
+      "C_spatial": 0.4112989619921651,
+      "avg_conf": 0.4493262848673758,
+      "S": 0.8606252468595409
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_3f7ea28c-0425-4837-a540-dc5bb23449b8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_3f7ea28c-0425-4837-a540-dc5bb23449b8.png",
+    "instruction": "design option",
+    "bbox_xywh": [
+      48.0,
+      25.0,
+      58.0,
+      29.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.5754973207903393,
+      "avg_conf": 0.4582921280563368,
+      "S": 1.0337894488466761
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
+    "instruction": "open paint 3d",
+    "bbox_xywh": [
+      52.0,
+      79.0,
+      247.0,
+      32.0
+    ],
+    "method": "gating_pass_vote (S=0.86)",
+    "score": {
+      "C_spatial": 0.4658525706723714,
+      "avg_conf": 0.39269615712223194,
+      "S": 0.8585487277946033
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
+    "instruction": "open microsoft edge",
+    "bbox_xywh": [
+      322.0,
+      154.0,
+      96.0,
+      96.0
+    ],
+    "method": "gating_pass_vote (S=1.36)",
+    "score": {
+      "C_spatial": 0.8674870207324361,
+      "avg_conf": 0.4878918463280151,
+      "S": 1.3553788670604512
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
+    "instruction": "turn off the computer",
+    "bbox_xywh": [
+      1.0,
+      593.0,
+      39.0,
+      41.0
+    ],
+    "method": "gating_pass_vote (S=0.78)",
+    "score": {
+      "C_spatial": 0.3350296193068294,
+      "avg_conf": 0.4472537998654377,
+      "S": 0.7822834191722671
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "instruction": "switch to home",
+    "bbox_xywh": [
+      4.0,
+      54.0,
+      298.0,
+      37.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.4986097183759555,
+      "avg_conf": 0.41736483211402725,
+      "S": 0.9159745504899828
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "instruction": "click the \"back to previous page\" button",
+    "bbox_xywh": [
+      4.0,
+      3.0,
+      41.0,
+      30.0
+    ],
+    "method": "gating_pass_vote (S=0.91)",
+    "score": {
+      "C_spatial": 0.42067662593951644,
+      "avg_conf": 0.48817827279314163,
+      "S": 0.9088548987326581
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "instruction": "open fax option",
+    "bbox_xywh": [
+      319.0,
+      277.0,
+      241.0,
+      48.0
+    ],
+    "method": "gating_pass_vote (S=0.77)",
+    "score": {
+      "C_spatial": 0.29804147048554935,
+      "avg_conf": 0.4747140997412326,
+      "S": 0.7727555702267819
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "instruction": "need some help",
+    "bbox_xywh": [
+      925.0,
+      370.0,
+      131.0,
+      23.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.39075845787570396,
+      "avg_conf": 0.5303126432726177,
+      "S": 0.9210711011483217
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
+    "instruction": "check email and account",
+    "bbox_xywh": [
+      12.0,
+      201.0,
+      337.0,
+      50.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.55)",
+    "score": {
+      "C_spatial": 0.18927433686010134,
+      "avg_conf": 0.3565678935226089,
+      "S": 0.5458422303827103
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
+    "instruction": "switch to documents",
+    "bbox_xywh": [
+      112.0,
+      2.0,
+      84.0,
+      42.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.5373161732771615,
+      "avg_conf": 0.3974602022710739,
+      "S": 0.9347763755482354
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
+    "instruction": "view the game for me",
+    "bbox_xywh": [
+      370.0,
+      509.0,
+      132.0,
+      34.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.46908642427321684,
+      "avg_conf": 0.45646021158003985,
+      "S": 0.9255466358532567
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "instruction": "use pencil tool",
+    "bbox_xywh": [
+      149.0,
+      62.0,
+      24.0,
+      31.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.4543807994969019,
+      "avg_conf": 0.4686526197569654,
+      "S": 0.9230334192538674
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "instruction": "click to choose shapes",
+    "bbox_xywh": [
+      283.0,
+      60.0,
+      42.0,
+      67.0
+    ],
+    "method": "gating_pass_vote (S=0.97)",
+    "score": {
+      "C_spatial": 0.5469566461689415,
+      "avg_conf": 0.42760386501839864,
+      "S": 0.9745605111873401
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "instruction": "select a new size",
+    "bbox_xywh": [
+      368.0,
+      59.0,
+      42.0,
+      69.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.6028306229208337,
+      "avg_conf": 0.4502861795601253,
+      "S": 1.053116802480959
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "instruction": "use the select tool",
+    "bbox_xywh": [
+      63.0,
+      58.0,
+      43.0,
+      70.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.49543978725661,
+      "avg_conf": 0.42753209024333927,
+      "S": 0.9229718774999492
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_3b7dab65-2cc4-4545-be95-93d4d2576b47.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_3b7dab65-2cc4-4545-be95-93d4d2576b47.png",
+    "instruction": "view the setting of protection of pc",
+    "bbox_xywh": [
+      615.0,
+      229.0,
+      221.0,
+      219.0
+    ],
+    "method": "gating_pass_vote (S=0.86)",
+    "score": {
+      "C_spatial": 0.4251667368994224,
+      "avg_conf": 0.433813609373339,
+      "S": 0.8589803462727614
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_3b7dab65-2cc4-4545-be95-93d4d2576b47.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_3b7dab65-2cc4-4545-be95-93d4d2576b47.png",
+    "instruction": "view the get organized tips",
+    "bbox_xywh": [
+      1099.0,
+      520.0,
+      204.0,
+      227.0
+    ],
+    "method": "gating_pass_vote (S=1.11)",
+    "score": {
+      "C_spatial": 0.6698716892169576,
+      "avg_conf": 0.43793384363168486,
+      "S": 1.1078055328486425
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_44159aab-93c3-4ef6-8841-67a11225ca3f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_44159aab-93c3-4ef6-8841-67a11225ca3f.png",
+    "instruction": "log in using google account",
+    "bbox_xywh": [
+      6.0,
+      157.0,
+      429.0,
+      57.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.53)",
+    "score": {
+      "C_spatial": 0.17942354716070458,
+      "avg_conf": 0.35011165761121144,
+      "S": 0.529535204771916
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_44159aab-93c3-4ef6-8841-67a11225ca3f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_44159aab-93c3-4ef6-8841-67a11225ca3f.png",
+    "instruction": "check advanced setup",
+    "bbox_xywh": [
+      9.0,
+      396.0,
+      435.0,
+      47.0
+    ],
+    "method": "gating_pass_vote (S=0.75)",
+    "score": {
+      "C_spatial": 0.3138338247111849,
+      "avg_conf": 0.43854359369092943,
+      "S": 0.7523774184021144
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
+    "instruction": "check the detail of uv index",
+    "bbox_xywh": [
+      185.0,
+      432.0,
+      186.0,
+      52.0
+    ],
+    "method": "gating_pass_vote (S=0.77)",
+    "score": {
+      "C_spatial": 0.3829433178840695,
+      "avg_conf": 0.38686780362368955,
+      "S": 0.769811121507759
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
+    "instruction": "see full forecast",
+    "bbox_xywh": [
+      624.0,
+      263.0,
+      129.0,
+      28.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.4426313639109298,
+      "avg_conf": 0.44970482175325127,
+      "S": 0.892336185664181
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
+    "instruction": "the internet icon",
+    "bbox_xywh": [
+      0.0,
+      181.0,
+      47.0,
+      50.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.5199682939568456,
+      "avg_conf": 0.5261881067769792,
+      "S": 1.0461564007338249
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_efc1c0f0-366b-47a0-8e3f-0d197023a2bb.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_efc1c0f0-366b-47a0-8e3f-0d197023a2bb.png",
+    "instruction": "play the Klondike game",
+    "bbox_xywh": [
+      9.0,
+      232.0,
+      318.0,
+      48.0
+    ],
+    "method": "gating_pass_vote (S=0.79)",
+    "score": {
+      "C_spatial": 0.4220041410353993,
+      "avg_conf": 0.37121126515903624,
+      "S": 0.7932154061944355
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_efc1c0f0-366b-47a0-8e3f-0d197023a2bb.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_efc1c0f0-366b-47a0-8e3f-0d197023a2bb.png",
+    "instruction": "sign in",
+    "bbox_xywh": [
+      972.0,
+      32.0,
+      164.0,
+      68.0
+    ],
+    "method": "gating_pass_vote (S=0.94)",
+    "score": {
+      "C_spatial": 0.5006230152730545,
+      "avg_conf": 0.4414112093164211,
+      "S": 0.9420342245894756
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_f2244f33-a9c9-44e7-bacb-3e51f72d619e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_f2244f33-a9c9-44e7-bacb-3e51f72d619e.png",
+    "instruction": "choose standard mode",
+    "bbox_xywh": [
+      2.0,
+      120.0,
+      247.0,
+      35.0
+    ],
+    "method": "gating_pass_vote (S=0.75)",
+    "score": {
+      "C_spatial": 0.3925842727444275,
+      "avg_conf": 0.35367527209163485,
+      "S": 0.7462595448360623
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_f2244f33-a9c9-44e7-bacb-3e51f72d619e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_f2244f33-a9c9-44e7-bacb-3e51f72d619e.png",
+    "instruction": "adjust the volume",
+    "bbox_xywh": [
+      6.0,
+      397.0,
+      249.0,
+      39.0
+    ],
+    "method": "gating_pass_vote (S=0.70)",
+    "score": {
+      "C_spatial": 0.27325321690038823,
+      "avg_conf": 0.4294529838972566,
+      "S": 0.7027062007976448
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_639ab093-46ed-4332-9229-125647aad9da.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_639ab093-46ed-4332-9229-125647aad9da.png",
+    "instruction": "add a new one",
+    "bbox_xywh": [
+      2.0,
+      2.0,
+      30.0,
+      30.0
+    ],
+    "method": "gating_pass_vote (S=0.90)",
+    "score": {
+      "C_spatial": 0.5157923943300412,
+      "avg_conf": 0.3870037123243059,
+      "S": 0.9027961066543471
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_639ab093-46ed-4332-9229-125647aad9da.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_639ab093-46ed-4332-9229-125647aad9da.png",
+    "instruction": "insert an image",
+    "bbox_xywh": [
+      211.0,
+      274.0,
+      40.0,
+      36.0
+    ],
+    "method": "gating_pass_vote (S=0.97)",
+    "score": {
+      "C_spatial": 0.4639273359278603,
+      "avg_conf": 0.5049029261552258,
+      "S": 0.9688302620830861
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
+    "instruction": "view the timer",
+    "bbox_xywh": [
+      5.0,
+      78.0,
+      272.0,
+      38.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.59)",
+    "score": {
+      "C_spatial": 0.20245058273364572,
+      "avg_conf": 0.3886559554532831,
+      "S": 0.5911065381869288
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
+    "instruction": "click get start",
+    "bbox_xywh": [
+      560.0,
+      555.0,
+      120.0,
+      30.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.40544212694276904,
+      "avg_conf": 0.5279358943655649,
+      "S": 0.9333780213083339
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
+    "instruction": "view world clock",
+    "bbox_xywh": [
+      4.0,
+      199.0,
+      272.0,
+      35.0
+    ],
+    "method": "gating_pass_vote (S=0.91)",
+    "score": {
+      "C_spatial": 0.4736336042517117,
+      "avg_conf": 0.4365128385180939,
+      "S": 0.9101464427698056
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "instruction": "insert 3d shapes item",
+    "bbox_xywh": [
+      338.0,
+      29.0,
+      71.0,
+      54.0
+    ],
+    "method": "gating_pass_vote (S=1.11)",
+    "score": {
+      "C_spatial": 0.6397039516540047,
+      "avg_conf": 0.4735454807175922,
+      "S": 1.113249432371597
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "instruction": "undo",
+    "bbox_xywh": [
+      949.0,
+      29.0,
+      59.0,
+      53.0
+    ],
+    "method": "gating_pass_vote (S=1.16)",
+    "score": {
+      "C_spatial": 0.6095023442647383,
+      "avg_conf": 0.5466264883092287,
+      "S": 1.156128832573967
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "instruction": "click \"select all\"",
+    "bbox_xywh": [
+      962.0,
+      235.0,
+      98.0,
+      63.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.5243581793147472,
+      "avg_conf": 0.472492295016494,
+      "S": 0.9968504743312412
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "instruction": "rotate left",
+    "bbox_xywh": [
+      962.0,
+      544.0,
+      39.0,
+      44.0
+    ],
+    "method": "gating_pass_vote (S=0.76)",
+    "score": {
+      "C_spatial": 0.25938523957209325,
+      "avg_conf": 0.4986994930303706,
+      "S": 0.7580847326024638
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_7b437f7a-8819-467b-b5a6-96e8588f15a2.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_7b437f7a-8819-467b-b5a6-96e8588f15a2.png",
+    "instruction": "check the updates",
+    "bbox_xywh": [
+      3.0,
+      845.0,
+      289.0,
+      66.0
+    ],
+    "method": "gating_pass_vote (S=0.75)",
+    "score": {
+      "C_spatial": 0.3010487243265341,
+      "avg_conf": 0.4490603127254714,
+      "S": 0.7501090370520056
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "windows",
+    "img_filename": "pc_7b437f7a-8819-467b-b5a6-96e8588f15a2.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_7b437f7a-8819-467b-b5a6-96e8588f15a2.png",
+    "instruction": "view in youtube",
+    "bbox_xywh": [
+      515.0,
+      864.0,
+      66.0,
+      56.0
+    ],
+    "method": "gating_pass_vote (S=1.21)",
+    "score": {
+      "C_spatial": 0.6849188963716691,
+      "avg_conf": 0.5227532808018001,
+      "S": 1.2076721771734693
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_56c33426-0532-47dd-bf74-2a560c5a63f0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_56c33426-0532-47dd-bf74-2a560c5a63f0.png",
+    "instruction": "empty recycle bin",
+    "bbox_xywh": [
+      2.0,
+      57.0,
+      63.0,
+      71.0
+    ],
+    "method": "gating_pass_vote (S=0.73)",
+    "score": {
+      "C_spatial": 0.34921739040366784,
+      "avg_conf": 0.38225457633904797,
+      "S": 0.7314719667427159
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_56c33426-0532-47dd-bf74-2a560c5a63f0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_56c33426-0532-47dd-bf74-2a560c5a63f0.png",
+    "instruction": "restore all items",
+    "bbox_xywh": [
+      138.0,
+      59.0,
+      49.0,
+      69.0
+    ],
+    "method": "gating_pass_vote (S=0.71)",
+    "score": {
+      "C_spatial": 0.3241090518155452,
+      "avg_conf": 0.3886450683056854,
+      "S": 0.7127541201212306
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_1f6ac92f-9273-4758-a571-d0c831bb1dba.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_1f6ac92f-9273-4758-a571-d0c831bb1dba.png",
+    "instruction": "check microphone permissions",
+    "bbox_xywh": [
+      4.0,
+      450.0,
+      309.0,
+      34.0
+    ],
+    "method": "gating_pass_vote (S=0.74)",
+    "score": {
+      "C_spatial": 0.3515176622170929,
+      "avg_conf": 0.39240002063349977,
+      "S": 0.7439176828505927
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_1f6ac92f-9273-4758-a571-d0c831bb1dba.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_1f6ac92f-9273-4758-a571-d0c831bb1dba.png",
+    "instruction": "give feedback",
+    "bbox_xywh": [
+      924.0,
+      292.0,
+      155.0,
+      55.0
+    ],
+    "method": "gating_pass_vote (S=1.02)",
+    "score": {
+      "C_spatial": 0.5385261543975444,
+      "avg_conf": 0.4802459165496071,
+      "S": 1.0187720709471515
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_85012b9e-3058-4501-a9c7-6415d31c7699.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_85012b9e-3058-4501-a9c7-6415d31c7699.png",
+    "instruction": "check the properties",
+    "bbox_xywh": [
+      347.0,
+      396.0,
+      193.0,
+      30.0
+    ],
+    "method": "gating_pass_vote (S=1.16)",
+    "score": {
+      "C_spatial": 0.6060460352189361,
+      "avg_conf": 0.5569331580934934,
+      "S": 1.1629791933124296
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_85012b9e-3058-4501-a9c7-6415d31c7699.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_85012b9e-3058-4501-a9c7-6415d31c7699.png",
+    "instruction": "change adapter options",
+    "bbox_xywh": [
+      331.0,
+      593.0,
+      434.0,
+      56.0
+    ],
+    "method": "gating_pass_vote (S=0.87)",
+    "score": {
+      "C_spatial": 0.45196808119043347,
+      "avg_conf": 0.4211551787353349,
+      "S": 0.8731232599257683
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_5df0bc8e-3005-4a32-b824-0318d6a05bdd.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_5df0bc8e-3005-4a32-b824-0318d6a05bdd.png",
+    "instruction": "report a problem",
+    "bbox_xywh": [
+      346.0,
+      268.0,
+      127.0,
+      130.0
+    ],
+    "method": "gating_pass_vote (S=1.15)",
+    "score": {
+      "C_spatial": 0.6693835944466164,
+      "avg_conf": 0.4854691012909661,
+      "S": 1.1548526957375826
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_5df0bc8e-3005-4a32-b824-0318d6a05bdd.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_5df0bc8e-3005-4a32-b824-0318d6a05bdd.png",
+    "instruction": "switch to feedback",
+    "bbox_xywh": [
+      2.0,
+      161.0,
+      314.0,
+      36.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.5804504950724595,
+      "avg_conf": 0.4735689278331422,
+      "S": 1.0540194229056017
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_731487b7-f192-464c-8fc7-95af0962861f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_731487b7-f192-464c-8fc7-95af0962861f.png",
+    "instruction": "check microphone",
+    "bbox_xywh": [
+      23.0,
+      96.0,
+      334.0,
+      54.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.51)",
+    "score": {
+      "C_spatial": 0.16262364279130434,
+      "avg_conf": 0.34386860251958684,
+      "S": 0.5064922453108912
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "windows",
+    "img_filename": "pc_731487b7-f192-464c-8fc7-95af0962861f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_731487b7-f192-464c-8fc7-95af0962861f.png",
+    "instruction": "switch to sounds",
+    "bbox_xywh": [
+      125.0,
+      40.0,
+      41.0,
+      17.0
+    ],
+    "method": "gating_pass_vote (S=0.78)",
+    "score": {
+      "C_spatial": 0.3801537700657748,
+      "avg_conf": 0.4019045871923107,
+      "S": 0.7820583572580855
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "instruction": "check my apple id",
+    "bbox_xywh": [
+      1025.0,
+      141.0,
+      104.0,
+      127.0
+    ],
+    "method": "gating_pass_vote (S=1.04)",
+    "score": {
+      "C_spatial": 0.5671066106673722,
+      "avg_conf": 0.47316863716731944,
+      "S": 1.0402752478346917
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "instruction": "view the language & region settings",
+    "bbox_xywh": [
+      1018.0,
+      368.0,
+      121.0,
+      147.0
+    ],
+    "method": "gating_pass_vote (S=1.01)",
+    "score": {
+      "C_spatial": 0.5613488116660401,
+      "avg_conf": 0.4452809500369014,
+      "S": 1.0066297617029414
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "instruction": "open time machine",
+    "bbox_xywh": [
+      859.0,
+      952.0,
+      113.0,
+      153.0
+    ],
+    "method": "gating_pass_vote (S=0.79)",
+    "score": {
+      "C_spatial": 0.3685477820563144,
+      "avg_conf": 0.42482097714597244,
+      "S": 0.7933687592022869
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "instruction": "check desplay settings",
+    "bbox_xywh": [
+      41.0,
+      954.0,
+      110.0,
+      128.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.4696671661838695,
+      "avg_conf": 0.4174700520450217,
+      "S": 0.8871372182288912
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "instruction": "software update",
+    "bbox_xywh": [
+      39.0,
+      761.0,
+      111.0,
+      164.0
+    ],
+    "method": "gating_pass_vote (S=0.82)",
+    "score": {
+      "C_spatial": 0.44828927806979546,
+      "avg_conf": 0.36757117593632005,
+      "S": 0.8158604540061155
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+    "instruction": "switch to desktop settings",
+    "bbox_xywh": [
+      492.0,
+      141.0,
+      148.0,
+      43.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.462647058855927,
+      "avg_conf": 0.4278685309006524,
+      "S": 0.8905155897565794
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+    "instruction": "show screen saver after",
+    "bbox_xywh": [
+      347.0,
+      209.0,
+      350.0,
+      41.0
+    ],
+    "method": "gating_pass_vote (S=1.06)",
+    "score": {
+      "C_spatial": 0.5457189647176703,
+      "avg_conf": 0.5149444729367998,
+      "S": 1.0606634376544701
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+    "instruction": "choose the ken burns as screen saver",
+    "bbox_xywh": [
+      99.0,
+      425.0,
+      178.0,
+      147.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.6031843288700793,
+      "avg_conf": 0.45048990396028055,
+      "S": 1.0536742328303599
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "instruction": "switch to dark mode",
+    "bbox_xywh": [
+      672.0,
+      145.0,
+      142.0,
+      134.0
+    ],
+    "method": "gating_pass_vote (S=1.11)",
+    "score": {
+      "C_spatial": 0.6476070683516102,
+      "avg_conf": 0.45878026447202813,
+      "S": 1.1063873328236382
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "instruction": "choose highlight color",
+    "bbox_xywh": [
+      499.0,
+      396.0,
+      304.0,
+      40.0
+    ],
+    "method": "gating_pass_vote (S=1.23)",
+    "score": {
+      "C_spatial": 0.7334257005312422,
+      "avg_conf": 0.4955071914379835,
+      "S": 1.2289328919692257
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "instruction": "select default web browser",
+    "bbox_xywh": [
+      500.0,
+      891.0,
+      307.0,
+      46.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.47102455175513125,
+      "avg_conf": 0.4634532701421714,
+      "S": 0.9344778218973027
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "instruction": "jump to the spot that's clicked",
+    "bbox_xywh": [
+      502.0,
+      794.0,
+      423.0,
+      41.0
+    ],
+    "method": "gating_pass_vote (S=0.80)",
+    "score": {
+      "C_spatial": 0.309170372836037,
+      "avg_conf": 0.4931965299177047,
+      "S": 0.8023669027537417
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "instruction": "switch to apps",
+    "bbox_xywh": [
+      681.0,
+      243.0,
+      113.0,
+      45.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.5125844352040353,
+      "avg_conf": 0.4412440339287701,
+      "S": 0.9538284691328054
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "instruction": "add a new preferred language",
+    "bbox_xywh": [
+      78.0,
+      845.0,
+      53.0,
+      42.0
+    ],
+    "method": "gating_pass_vote (S=0.77)",
+    "score": {
+      "C_spatial": 0.3053110860205261,
+      "avg_conf": 0.46530680141450464,
+      "S": 0.7706178874350307
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "instruction": "translation languages setting",
+    "bbox_xywh": [
+      335.0,
+      982.0,
+      338.0,
+      43.0
+    ],
+    "method": "gating_pass_vote (S=0.84)",
+    "score": {
+      "C_spatial": 0.408704719962698,
+      "avg_conf": 0.43216355056689715,
+      "S": 0.8408682705295951
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "instruction": "advanced setting",
+    "bbox_xywh": [
+      1048.0,
+      982.0,
+      185.0,
+      44.0
+    ],
+    "method": "gating_pass_vote (S=1.04)",
+    "score": {
+      "C_spatial": 0.5400526185571285,
+      "avg_conf": 0.4972478562080526,
+      "S": 1.037300474765181
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
+    "instruction": "check the battery",
+    "bbox_xywh": [
+      635.0,
+      13.0,
+      78.0,
+      51.0
+    ],
+    "method": "gating_pass_vote (S=1.11)",
+    "score": {
+      "C_spatial": 0.6404664714972869,
+      "avg_conf": 0.4672623284911168,
+      "S": 1.1077287999884038
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
+    "instruction": "open siri",
+    "bbox_xywh": [
+      987.0,
+      13.0,
+      60.0,
+      48.0
+    ],
+    "method": "gating_pass_vote (S=1.11)",
+    "score": {
+      "C_spatial": 0.6509700136677253,
+      "avg_conf": 0.4547368887288986,
+      "S": 1.105706902396624
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
+    "instruction": "open mind2web folder",
+    "bbox_xywh": [
+      526.0,
+      274.0,
+      144.0,
+      163.0
+    ],
+    "method": "gating_pass_vote (S=1.13)",
+    "score": {
+      "C_spatial": 0.6543226692453422,
+      "avg_conf": 0.4745548904883772,
+      "S": 1.1288775597337195
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "instruction": "switch on do not disturb mode",
+    "bbox_xywh": [
+      969.0,
+      105.0,
+      272.0,
+      128.0
+    ],
+    "method": "gating_pass_vote (S=0.76)",
+    "score": {
+      "C_spatial": 0.3277785623821335,
+      "avg_conf": 0.4307523342987243,
+      "S": 0.7585308966808577
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "instruction": "adjust keyboard brightness",
+    "bbox_xywh": [
+      969.0,
+      250.0,
+      129.0,
+      126.0
+    ],
+    "method": "gating_pass_vote (S=1.07)",
+    "score": {
+      "C_spatial": 0.6033163605636812,
+      "avg_conf": 0.4645541185697691,
+      "S": 1.0678704791334503
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "instruction": "go to music app",
+    "bbox_xywh": [
+      683.0,
+      683.0,
+      558.0,
+      125.0
+    ],
+    "method": "gating_pass_vote (S=1.10)",
+    "score": {
+      "C_spatial": 0.6256035340410554,
+      "avg_conf": 0.47858633979018617,
+      "S": 1.1041898738312415
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "instruction": "check bluetooth",
+    "bbox_xywh": [
+      701.0,
+      211.0,
+      189.0,
+      63.0
+    ],
+    "method": "gating_pass_vote (S=1.06)",
+    "score": {
+      "C_spatial": 0.5809465914990255,
+      "avg_conf": 0.48069340385682413,
+      "S": 1.0616399953558497
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
+    "instruction": "view files from airdrop",
+    "bbox_xywh": [
+      20.0,
+      150.0,
+      217.0,
+      47.0
+    ],
+    "method": "gating_pass_vote (S=1.13)",
+    "score": {
+      "C_spatial": 0.6893851702583726,
+      "avg_conf": 0.4358499367604335,
+      "S": 1.1252351070188062
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
+    "instruction": "view downloads files",
+    "bbox_xywh": [
+      19.0,
+      376.0,
+      219.0,
+      44.0
+    ],
+    "method": "gating_pass_vote (S=0.79)",
+    "score": {
+      "C_spatial": 0.418453260137011,
+      "avg_conf": 0.36891959097080507,
+      "S": 0.7873728511078161
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
+    "instruction": "open synapse folder",
+    "bbox_xywh": [
+      542.0,
+      390.0,
+      133.0,
+      171.0
+    ],
+    "method": "gating_pass_vote (S=1.12)",
+    "score": {
+      "C_spatial": 0.6522908083592746,
+      "avg_conf": 0.46517130793071215,
+      "S": 1.1174621162899867
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "instruction": "zoom out",
+    "bbox_xywh": [
+      1800.0,
+      1558.0,
+      44.0,
+      52.0
+    ],
+    "method": "gating_pass_vote (S=0.94)",
+    "score": {
+      "C_spatial": 0.35092880050309627,
+      "avg_conf": 0.5912716341907024,
+      "S": 0.9422004346937987
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "instruction": "zoom in",
+    "bbox_xywh": [
+      1846.0,
+      1556.0,
+      45.0,
+      55.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.42263739764400865,
+      "avg_conf": 0.6047493408718718,
+      "S": 1.0273867385158804
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "instruction": "switch to device",
+    "bbox_xywh": [
+      198.0,
+      104.0,
+      187.0,
+      45.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.4449489924435111,
+      "avg_conf": 0.4401531686749033,
+      "S": 0.8851021611184144
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "instruction": "share my location",
+    "bbox_xywh": [
+      33.0,
+      1563.0,
+      283.0,
+      56.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.5121144248650474,
+      "avg_conf": 0.43472398837427356,
+      "S": 0.946838413239321
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_dde13919-4c5b-49a1-8c8a-7d03f363c7ac.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_dde13919-4c5b-49a1-8c8a-7d03f363c7ac.png",
+    "instruction": "check the date and time",
+    "bbox_xywh": [
+      837.0,
+      2.0,
+      277.0,
+      57.0
+    ],
+    "method": "gating_pass_vote (S=1.25)",
+    "score": {
+      "C_spatial": 0.7697827360221482,
+      "avg_conf": 0.47698698786286525,
+      "S": 1.2467697238850135
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_dde13919-4c5b-49a1-8c8a-7d03f363c7ac.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_dde13919-4c5b-49a1-8c8a-7d03f363c7ac.png",
+    "instruction": "connect wifi",
+    "bbox_xywh": [
+      509.0,
+      1.0,
+      67.0,
+      64.0
+    ],
+    "method": "gating_pass_vote (S=1.10)",
+    "score": {
+      "C_spatial": 0.6545653746408231,
+      "avg_conf": 0.44332850008131514,
+      "S": 1.0978938747221383
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_e2bd639a-f297-48fd-bee0-3b7044b0ad57.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_e2bd639a-f297-48fd-bee0-3b7044b0ad57.png",
+    "instruction": "drag the slider to adjust volume",
+    "bbox_xywh": [
+      26.0,
+      453.0,
+      556.0,
+      126.0
+    ],
+    "method": "gating_pass_vote (S=0.87)",
+    "score": {
+      "C_spatial": 0.454057480265821,
+      "avg_conf": 0.4179890320211411,
+      "S": 0.8720465122869621
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_e2bd639a-f297-48fd-bee0-3b7044b0ad57.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_e2bd639a-f297-48fd-bee0-3b7044b0ad57.png",
+    "instruction": "use the screen mirroring",
+    "bbox_xywh": [
+      457.0,
+      165.0,
+      125.0,
+      127.0
+    ],
+    "method": "gating_pass_vote (S=1.40)",
+    "score": {
+      "C_spatial": 0.8952440079302849,
+      "avg_conf": 0.5047667583575008,
+      "S": 1.4000107662877856
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_7ba3945d-3975-45f3-9145-71805a9723de.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_7ba3945d-3975-45f3-9145-71805a9723de.png",
+    "instruction": "turn off airdrop",
+    "bbox_xywh": [
+      958.0,
+      98.0,
+      82.0,
+      56.0
+    ],
+    "method": "gating_pass_vote (S=0.88)",
+    "score": {
+      "C_spatial": 0.4346645572081979,
+      "avg_conf": 0.4494620365059008,
+      "S": 0.8841265937140987
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_7ba3945d-3975-45f3-9145-71805a9723de.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_7ba3945d-3975-45f3-9145-71805a9723de.png",
+    "instruction": "set as contacts only",
+    "bbox_xywh": [
+      471.0,
+      176.0,
+      594.0,
+      69.0
+    ],
+    "method": "gating_pass_vote (S=1.04)",
+    "score": {
+      "C_spatial": 0.5849066772124587,
+      "avg_conf": 0.45619176074249185,
+      "S": 1.0410984379549506
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
+    "instruction": "open work mode ",
+    "bbox_xywh": [
+      470.0,
+      351.0,
+      594.0,
+      66.0
+    ],
+    "method": "gating_pass_vote (S=0.68)",
+    "score": {
+      "C_spatial": 0.2596367546601773,
+      "avg_conf": 0.42252588257652235,
+      "S": 0.6821626372366997
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
+    "instruction": "check focus preferences",
+    "bbox_xywh": [
+      469.0,
+      494.0,
+      597.0,
+      62.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.5018345333157236,
+      "avg_conf": 0.4178411015142548,
+      "S": 0.9196756348299784
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
+    "instruction": "select input method",
+    "bbox_xywh": [
+      328.0,
+      1.0,
+      75.0,
+      66.0
+    ],
+    "method": "gating_pass_vote (S=1.02)",
+    "score": {
+      "C_spatial": 0.5364219229521302,
+      "avg_conf": 0.48278414948459125,
+      "S": 1.0192060724367216
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_be3ea55b-e1f3-478a-8982-a05f37cc910f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_be3ea55b-e1f3-478a-8982-a05f37cc910f.png",
+    "instruction": "back to previous page",
+    "bbox_xywh": [
+      181.0,
+      20.0,
+      67.0,
+      63.0
+    ],
+    "method": "gating_pass_vote (S=0.82)",
+    "score": {
+      "C_spatial": 0.38002576261550514,
+      "avg_conf": 0.4375030369996727,
+      "S": 0.8175287996151779
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_be3ea55b-e1f3-478a-8982-a05f37cc910f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_be3ea55b-e1f3-478a-8982-a05f37cc910f.png",
+    "instruction": "question about bluetooth",
+    "bbox_xywh": [
+      1245.0,
+      801.0,
+      70.0,
+      63.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.42574716285865355,
+      "avg_conf": 0.5264286378729142,
+      "S": 0.9521758007315677
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
+    "instruction": "share this guide to someone",
+    "bbox_xywh": [
+      646.0,
+      3.0,
+      68.0,
+      75.0
+    ],
+    "method": "gating_pass_vote (S=0.77)",
+    "score": {
+      "C_spatial": 0.31567752034240015,
+      "avg_conf": 0.45252516192415376,
+      "S": 0.768202682266554
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
+    "instruction": "search in macos user guide",
+    "bbox_xywh": [
+      720.0,
+      3.0,
+      56.0,
+      79.0
+    ],
+    "method": "gating_pass_vote (S=0.87)",
+    "score": {
+      "C_spatial": 0.40088648433123686,
+      "avg_conf": 0.4691950335111941,
+      "S": 0.870081517842431
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
+    "instruction": "open bluetooth preferences for me",
+    "bbox_xywh": [
+      14.0,
+      539.0,
+      475.0,
+      68.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.6248627301784431,
+      "avg_conf": 0.41011495364024725,
+      "S": 1.0349776838186904
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_015a0262-924c-4ced-9f4d-23d07f94a657.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_015a0262-924c-4ced-9f4d-23d07f94a657.png",
+    "instruction": "hidden all shortcut",
+    "bbox_xywh": [
+      179.0,
+      169.0,
+      596.0,
+      78.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.5841890457057398,
+      "avg_conf": 0.44557183804770795,
+      "S": 1.0297608837534478
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_015a0262-924c-4ced-9f4d-23d07f94a657.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_015a0262-924c-4ced-9f4d-23d07f94a657.png",
+    "instruction": "open wechat",
+    "bbox_xywh": [
+      180.0,
+      3.0,
+      92.0,
+      69.0
+    ],
+    "method": "gating_pass_vote (S=1.04)",
+    "score": {
+      "C_spatial": 0.5951699418755745,
+      "avg_conf": 0.4494501291860091,
+      "S": 1.0446200710615836
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+    "instruction": "turn wifi off",
+    "bbox_xywh": [
+      995.0,
+      254.0,
+      222.0,
+      44.0
+    ],
+    "method": "gating_pass_vote (S=0.90)",
+    "score": {
+      "C_spatial": 0.46089856810284074,
+      "avg_conf": 0.4422382584652934,
+      "S": 0.9031368265681341
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+    "instruction": "add a device",
+    "bbox_xywh": [
+      37.0,
+      1092.0,
+      51.0,
+      47.0
+    ],
+    "method": "gating_pass_vote (S=0.99)",
+    "score": {
+      "C_spatial": 0.46845973695127474,
+      "avg_conf": 0.5195414865997335,
+      "S": 0.9880012235510083
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+    "instruction": "remove a network connected device",
+    "bbox_xywh": [
+      88.0,
+      1091.0,
+      53.0,
+      51.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.56)",
+    "score": {
+      "C_spatial": 0.08888463776634212,
+      "avg_conf": 0.46925122435706,
+      "S": 0.5581358621234022
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_afcc8160-1ef9-4413-8d5e-b3aa88b2a879.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_afcc8160-1ef9-4413-8d5e-b3aa88b2a879.png",
+    "instruction": "select the interface in the bar",
+    "bbox_xywh": [
+      531.0,
+      569.0,
+      516.0,
+      41.0
+    ],
+    "method": "gating_pass_vote (S=1.11)",
+    "score": {
+      "C_spatial": 0.6559580047633897,
+      "avg_conf": 0.45703682814033053,
+      "S": 1.1129948329037203
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_afcc8160-1ef9-4413-8d5e-b3aa88b2a879.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_afcc8160-1ef9-4413-8d5e-b3aa88b2a879.png",
+    "instruction": "create the new service",
+    "bbox_xywh": [
+      905.0,
+      711.0,
+      147.0,
+      48.0
+    ],
+    "method": "gating_pass_vote (S=1.04)",
+    "score": {
+      "C_spatial": 0.5293689712499179,
+      "avg_conf": 0.5092712783324864,
+      "S": 1.0386402495824043
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_cc362e8f-6ef3-4273-9dfb-baeab56ad760.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_cc362e8f-6ef3-4273-9dfb-baeab56ad760.png",
+    "instruction": "turn on low power mode",
+    "bbox_xywh": [
+      351.0,
+      457.0,
+      698.0,
+      99.0
+    ],
+    "method": "gating_pass_vote (S=1.11)",
+    "score": {
+      "C_spatial": 0.5423212848199309,
+      "avg_conf": 0.5658576012542051,
+      "S": 1.108178886074136
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_cc362e8f-6ef3-4273-9dfb-baeab56ad760.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_cc362e8f-6ef3-4273-9dfb-baeab56ad760.png",
+    "instruction": "check battery usage history",
+    "bbox_xywh": [
+      2.0,
+      532.0,
+      302.0,
+      71.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.59)",
+    "score": {
+      "C_spatial": 0.2448747147273532,
+      "avg_conf": 0.3407495600967992,
+      "S": 0.5856242748241524
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_f344a1f6-cbf8-4115-9c9b-a9dfd00fbfe7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_f344a1f6-cbf8-4115-9c9b-a9dfd00fbfe7.png",
+    "instruction": "show emoji & symbols",
+    "bbox_xywh": [
+      444.0,
+      184.0,
+      437.0,
+      56.0
+    ],
+    "method": "gating_pass_vote (S=0.88)",
+    "score": {
+      "C_spatial": 0.48004464686928294,
+      "avg_conf": 0.40271431604665825,
+      "S": 0.8827589629159411
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_f344a1f6-cbf8-4115-9c9b-a9dfd00fbfe7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_f344a1f6-cbf8-4115-9c9b-a9dfd00fbfe7.png",
+    "instruction": "open keyboard preferences",
+    "bbox_xywh": [
+      445.0,
+      360.0,
+      437.0,
+      61.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.5276461425919302,
+      "avg_conf": 0.3984237692598845,
+      "S": 0.9260699118518148
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_cddf10f9-43a9-4cce-9b1b-df4aaf216f6d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_cddf10f9-43a9-4cce-9b1b-df4aaf216f6d.png",
+    "instruction": "add a new account",
+    "bbox_xywh": [
+      36.0,
+      916.0,
+      56.0,
+      45.0
+    ],
+    "method": "gating_pass_vote (S=0.74)",
+    "score": {
+      "C_spatial": 0.27820002562362195,
+      "avg_conf": 0.4653683489621034,
+      "S": 0.7435683745857253
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_cddf10f9-43a9-4cce-9b1b-df4aaf216f6d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_cddf10f9-43a9-4cce-9b1b-df4aaf216f6d.png",
+    "instruction": "search for account",
+    "bbox_xywh": [
+      985.0,
+      22.0,
+      323.0,
+      58.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.531444993065033,
+      "avg_conf": 0.39052027957638435,
+      "S": 0.9219652726414174
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_63f20c0b-0abc-4cd5-a3cb-2ea0cb2ba3c8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_63f20c0b-0abc-4cd5-a3cb-2ea0cb2ba3c8.png",
+    "instruction": "cancel the calculator",
+    "bbox_xywh": [
+      179.0,
+      455.0,
+      979.0,
+      42.0
+    ],
+    "method": "gating_pass_vote (S=0.85)",
+    "score": {
+      "C_spatial": 0.3593219391390757,
+      "avg_conf": 0.48878880906443734,
+      "S": 0.8481107482035131
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_63f20c0b-0abc-4cd5-a3cb-2ea0cb2ba3c8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_63f20c0b-0abc-4cd5-a3cb-2ea0cb2ba3c8.png",
+    "instruction": "switch to privacy",
+    "bbox_xywh": [
+      707.0,
+      245.0,
+      146.0,
+      46.0
+    ],
+    "method": "gating_pass_vote (S=1.01)",
+    "score": {
+      "C_spatial": 0.5451699208491333,
+      "avg_conf": 0.4648896228740159,
+      "S": 1.0100595437231492
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_514bf9d5-ca63-4d33-94cb-dc1b11994199.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_514bf9d5-ca63-4d33-94cb-dc1b11994199.png",
+    "instruction": "switch to alerts mode",
+    "bbox_xywh": [
+      1024.0,
+      444.0,
+      212.0,
+      186.0
+    ],
+    "method": "gating_pass_vote (S=0.97)",
+    "score": {
+      "C_spatial": 0.5310317973668528,
+      "avg_conf": 0.44179526182241213,
+      "S": 0.9728270591892649
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_514bf9d5-ca63-4d33-94cb-dc1b11994199.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_514bf9d5-ca63-4d33-94cb-dc1b11994199.png",
+    "instruction": "disable \"allow notifications\" setting",
+    "bbox_xywh": [
+      585.0,
+      329.0,
+      96.0,
+      65.0
+    ],
+    "method": "gating_pass_vote (S=1.09)",
+    "score": {
+      "C_spatial": 0.5861032806904145,
+      "avg_conf": 0.5072282397440834,
+      "S": 1.0933315204344978
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_ed2173e7-c929-4f52-9777-db36a36e0c3e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_ed2173e7-c929-4f52-9777-db36a36e0c3e.png",
+    "instruction": "switch on do not disturb mode",
+    "bbox_xywh": [
+      529.0,
+      267.0,
+      91.0,
+      72.0
+    ],
+    "method": "gating_pass_vote (S=1.01)",
+    "score": {
+      "C_spatial": 0.520465994036841,
+      "avg_conf": 0.49183500826041143,
+      "S": 1.0123010022972525
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_b93bf9fd-afa5-40c0-b103-48f235f3ffe0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_b93bf9fd-afa5-40c0-b103-48f235f3ffe0.png",
+    "instruction": "change user's password",
+    "bbox_xywh": [
+      965.0,
+      226.0,
+      283.0,
+      47.0
+    ],
+    "method": "gating_pass_vote (S=1.10)",
+    "score": {
+      "C_spatial": 0.6399820162299542,
+      "avg_conf": 0.46414601496285945,
+      "S": 1.1041280311928137
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_b93bf9fd-afa5-40c0-b103-48f235f3ffe0.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_b93bf9fd-afa5-40c0-b103-48f235f3ffe0.png",
+    "instruction": "unlock to make changes",
+    "bbox_xywh": [
+      25.0,
+      887.0,
+      95.0,
+      92.0
+    ],
+    "method": "gating_pass_vote (S=1.08)",
+    "score": {
+      "C_spatial": 0.5565269012820495,
+      "avg_conf": 0.5217955178716074,
+      "S": 1.078322419153657
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_6ca110ef-dfac-49fe-a9eb-4ba4f621cbdc.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_6ca110ef-dfac-49fe-a9eb-4ba4f621cbdc.png",
+    "instruction": "check app limits",
+    "bbox_xywh": [
+      1.0,
+      766.0,
+      396.0,
+      67.0
+    ],
+    "method": "gating_pass_vote (S=0.72)",
+    "score": {
+      "C_spatial": 0.33494142605880783,
+      "avg_conf": 0.38021126314749065,
+      "S": 0.7151526892062985
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_6ca110ef-dfac-49fe-a9eb-4ba4f621cbdc.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_6ca110ef-dfac-49fe-a9eb-4ba4f621cbdc.png",
+    "instruction": "view the always allowed apps",
+    "bbox_xywh": [
+      1.0,
+      896.0,
+      395.0,
+      62.0
+    ],
+    "method": "gating_pass_vote (S=0.81)",
+    "score": {
+      "C_spatial": 0.4157533377945155,
+      "avg_conf": 0.39890294957671396,
+      "S": 0.8146562873712295
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_cb3fc7f0-9ed8-4692-8610-0f32b929a5a3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_cb3fc7f0-9ed8-4692-8610-0f32b929a5a3.png",
+    "instruction": "turn on \"user apple watch to unlock\"",
+    "bbox_xywh": [
+      203.0,
+      400.0,
+      689.0,
+      56.0
+    ],
+    "method": "gating_pass_vote (S=1.15)",
+    "score": {
+      "C_spatial": 0.5895000808039644,
+      "avg_conf": 0.5650048817784705,
+      "S": 1.1545049625824348
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_cb3fc7f0-9ed8-4692-8610-0f32b929a5a3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_cb3fc7f0-9ed8-4692-8610-0f32b929a5a3.png",
+    "instruction": "view firewall",
+    "bbox_xywh": [
+      675.0,
+      154.0,
+      139.0,
+      46.0
+    ],
+    "method": "gating_pass_vote (S=0.97)",
+    "score": {
+      "C_spatial": 0.53483472275193,
+      "avg_conf": 0.4302869495760479,
+      "S": 0.9651216723279779
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_8c34d9b6-4f21-4cfa-a277-8a4fe45c9ef7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_8c34d9b6-4f21-4cfa-a277-8a4fe45c9ef7.png",
+    "instruction": "switch to time zone settings",
+    "bbox_xywh": [
+      672.0,
+      149.0,
+      183.0,
+      50.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.5867748729346027,
+      "avg_conf": 0.44247597667050154,
+      "S": 1.0292508496051043
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_35c339d2-810d-4bbe-93db-0c1db024638f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_35c339d2-810d-4bbe-93db-0c1db024638f.png",
+    "instruction": "open pycharm",
+    "bbox_xywh": [
+      1827.0,
+      99.0,
+      251.0,
+      236.0
+    ],
+    "method": "gating_pass_vote (S=1.15)",
+    "score": {
+      "C_spatial": 0.7070453308404352,
+      "avg_conf": 0.4390388384705958,
+      "S": 1.146084169311031
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_35c339d2-810d-4bbe-93db-0c1db024638f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_35c339d2-810d-4bbe-93db-0c1db024638f.png",
+    "instruction": "open anaconda",
+    "bbox_xywh": [
+      473.0,
+      701.0,
+      299.0,
+      286.0
+    ],
+    "method": "gating_pass_vote (S=1.16)",
+    "score": {
+      "C_spatial": 0.739438642432536,
+      "avg_conf": 0.41676730739429424,
+      "S": 1.1562059498268302
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_75eae2f4-193e-4365-a5f1-b9b5340d02ff.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_75eae2f4-193e-4365-a5f1-b9b5340d02ff.png",
+    "instruction": "delete this email",
+    "bbox_xywh": [
+      1284.0,
+      0.0,
+      90.0,
+      106.0
+    ],
+    "method": "gating_pass_vote (S=0.79)",
+    "score": {
+      "C_spatial": 0.3440212942537833,
+      "avg_conf": 0.44923747842090167,
+      "S": 0.7932587726746849
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_75eae2f4-193e-4365-a5f1-b9b5340d02ff.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_75eae2f4-193e-4365-a5f1-b9b5340d02ff.png",
+    "instruction": "forward email",
+    "bbox_xywh": [
+      1667.0,
+      0.0,
+      82.0,
+      103.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.5455110867109902,
+      "avg_conf": 0.4825962837493325,
+      "S": 1.0281073704603227
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_1e16b18c-5d91-4155-9e49-4ad5d9453fc7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_1e16b18c-5d91-4155-9e49-4ad5d9453fc7.png",
+    "instruction": "search in emails",
+    "bbox_xywh": [
+      872.0,
+      0.0,
+      98.0,
+      106.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.417495214763175,
+      "avg_conf": 0.47495686092426337,
+      "S": 0.8924520756874383
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_1e16b18c-5d91-4155-9e49-4ad5d9453fc7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_1e16b18c-5d91-4155-9e49-4ad5d9453fc7.png",
+    "instruction": "view attachment",
+    "bbox_xywh": [
+      561.0,
+      693.0,
+      90.0,
+      52.0
+    ],
+    "method": "gating_pass_vote (S=0.60)",
+    "score": {
+      "C_spatial": 0.140737937640888,
+      "avg_conf": 0.4604868862919806,
+      "S": 0.6012248239328686
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
+    "instruction": "add images",
+    "bbox_xywh": [
+      1013.0,
+      19.0,
+      100.0,
+      72.0
+    ],
+    "method": "gating_pass_vote (S=0.98)",
+    "score": {
+      "C_spatial": 0.5276959518258275,
+      "avg_conf": 0.45684763323027944,
+      "S": 0.984543585056107
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
+    "instruction": "add a recipient",
+    "bbox_xywh": [
+      1025.0,
+      106.0,
+      78.0,
+      56.0
+    ],
+    "method": "gating_pass_vote (S=1.12)",
+    "score": {
+      "C_spatial": 0.569248466666221,
+      "avg_conf": 0.5522915978478463,
+      "S": 1.1215400645140674
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
+    "instruction": "adjust font size",
+    "bbox_xywh": [
+      808.0,
+      19.0,
+      84.0,
+      72.0
+    ],
+    "method": "gating_pass_vote (S=1.13)",
+    "score": {
+      "C_spatial": 0.6226586038053068,
+      "avg_conf": 0.5031494495389975,
+      "S": 1.1258080533443042
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_5392df82-37d6-41f3-838d-2afa1062dcc8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_5392df82-37d6-41f3-838d-2afa1062dcc8.png",
+    "instruction": "check junk emails",
+    "bbox_xywh": [
+      2.0,
+      917.0,
+      374.0,
+      63.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.5078339266725408,
+      "avg_conf": 0.44305351590174946,
+      "S": 0.9508874425742903
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_5392df82-37d6-41f3-838d-2afa1062dcc8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_5392df82-37d6-41f3-838d-2afa1062dcc8.png",
+    "instruction": "open the first email from researchgate",
+    "bbox_xywh": [
+      376.0,
+      103.0,
+      563.0,
+      157.0
+    ],
+    "method": "gating_pass_vote (S=0.88)",
+    "score": {
+      "C_spatial": 0.5497650838194807,
+      "avg_conf": 0.32845767097816836,
+      "S": 0.8782227547976491
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_fe30b885-865a-442e-a8f5-0e9924f256fd.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_fe30b885-865a-442e-a8f5-0e9924f256fd.png",
+    "instruction": "open the image in memo",
+    "bbox_xywh": [
+      42.0,
+      567.0,
+      1183.0,
+      736.0
+    ],
+    "method": "gating_pass_vote (S=0.85)",
+    "score": {
+      "C_spatial": 0.43135383247916137,
+      "avg_conf": 0.41370651736716657,
+      "S": 0.8450603498463279
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_fe30b885-865a-442e-a8f5-0e9924f256fd.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_fe30b885-865a-442e-a8f5-0e9924f256fd.png",
+    "instruction": "lock the memo",
+    "bbox_xywh": [
+      918.0,
+      9.0,
+      95.0,
+      81.0
+    ],
+    "method": "gating_pass_vote (S=0.70)",
+    "score": {
+      "C_spatial": 0.26931763135120707,
+      "avg_conf": 0.4309602595558888,
+      "S": 0.7002778909070959
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_9237faf6-9f95-4157-9d0b-aafa67f7b675.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_9237faf6-9f95-4157-9d0b-aafa67f7b675.png",
+    "instruction": "share throught airdrop",
+    "bbox_xywh": [
+      1103.0,
+      87.0,
+      230.0,
+      58.0
+    ],
+    "method": "gating_pass_vote (S=0.78)",
+    "score": {
+      "C_spatial": 0.3057352927239971,
+      "avg_conf": 0.47330268160584793,
+      "S": 0.779037974329845
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_1d6fb8dc-8ba5-4c0d-a532-188e5d579686.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_1d6fb8dc-8ba5-4c0d-a532-188e5d579686.png",
+    "instruction": "search in app store",
+    "bbox_xywh": [
+      18.0,
+      104.0,
+      405.0,
+      57.0
+    ],
+    "method": "gating_pass_vote (S=0.91)",
+    "score": {
+      "C_spatial": 0.5049621443221091,
+      "avg_conf": 0.40886823160904173,
+      "S": 0.9138303759311508
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_1d6fb8dc-8ba5-4c0d-a532-188e5d579686.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_1d6fb8dc-8ba5-4c0d-a532-188e5d579686.png",
+    "instruction": "next page",
+    "bbox_xywh": [
+      1917.0,
+      877.0,
+      79.0,
+      143.0
+    ],
+    "method": "gating_pass_vote (S=1.06)",
+    "score": {
+      "C_spatial": 0.5509401668923842,
+      "avg_conf": 0.5056714200002821,
+      "S": 1.0566115868926662
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_6d0b3e39-872b-48ec-b894-0490106eb629.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_6d0b3e39-872b-48ec-b894-0490106eb629.png",
+    "instruction": "share this page",
+    "bbox_xywh": [
+      1880.0,
+      10.0,
+      81.0,
+      84.0
+    ],
+    "method": "gating_pass_vote (S=0.93)",
+    "score": {
+      "C_spatial": 0.409761001930926,
+      "avg_conf": 0.5179912753050493,
+      "S": 0.9277522772359753
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_6d0b3e39-872b-48ec-b894-0490106eb629.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_6d0b3e39-872b-48ec-b894-0490106eb629.png",
+    "instruction": "back to previous page",
+    "bbox_xywh": [
+      172.0,
+      15.0,
+      70.0,
+      75.0
+    ],
+    "method": "gating_pass_vote (S=1.11)",
+    "score": {
+      "C_spatial": 0.5697204763498381,
+      "avg_conf": 0.5378600156808419,
+      "S": 1.10758049203068
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_8be15b4a-65cc-4e89-94a2-3b6b571f41e2.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_8be15b4a-65cc-4e89-94a2-3b6b571f41e2.png",
+    "instruction": "get the bear markdown notes app",
+    "bbox_xywh": [
+      1054.0,
+      211.0,
+      156.0,
+      81.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.45572473151667153,
+      "avg_conf": 0.49219530133051537,
+      "S": 0.9479200328471868
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_8be15b4a-65cc-4e89-94a2-3b6b571f41e2.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_8be15b4a-65cc-4e89-94a2-3b6b571f41e2.png",
+    "instruction": "view the pixelmator app",
+    "bbox_xywh": [
+      517.0,
+      323.0,
+      699.0,
+      143.0
+    ],
+    "method": "gating_pass_vote (S=1.06)",
+    "score": {
+      "C_spatial": 0.6254286678983015,
+      "avg_conf": 0.4318052992837996,
+      "S": 1.0572339671821012
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_4a9b8c51-5db6-4325-a6e0-8a0f9801e25d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_4a9b8c51-5db6-4325-a6e0-8a0f9801e25d.png",
+    "instruction": "open business categories",
+    "bbox_xywh": [
+      504.0,
+      250.0,
+      459.0,
+      96.0
+    ],
+    "method": "gating_pass_vote (S=0.87)",
+    "score": {
+      "C_spatial": 0.4583737188933646,
+      "avg_conf": 0.40836615359607387,
+      "S": 0.8667398724894384
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_4a9b8c51-5db6-4325-a6e0-8a0f9801e25d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_4a9b8c51-5db6-4325-a6e0-8a0f9801e25d.png",
+    "instruction": "download fantastical from icloud",
+    "bbox_xywh": [
+      1795.0,
+      1229.0,
+      102.0,
+      99.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.5073162200039794,
+      "avg_conf": 0.5211228963649257,
+      "S": 1.028439116368905
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_a2300b43-a1e0-4da9-aed4-3543b507d9a3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_a2300b43-a1e0-4da9-aed4-3543b507d9a3.png",
+    "instruction": "view the 2023 app store awards",
+    "bbox_xywh": [
+      518.0,
+      231.0,
+      685.0,
+      641.0
+    ],
+    "method": "gating_pass_vote (S=0.77)",
+    "score": {
+      "C_spatial": 0.3907078281613999,
+      "avg_conf": 0.37882172946680126,
+      "S": 0.7695295576282011
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_01625ab1-9757-4dc4-8da0-a9c946d3b76a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_01625ab1-9757-4dc4-8da0-a9c946d3b76a.png",
+    "instruction": "back to previous folder",
+    "bbox_xywh": [
+      355.0,
+      39.0,
+      60.0,
+      45.0
+    ],
+    "method": "gating_pass_vote (S=0.84)",
+    "score": {
+      "C_spatial": 0.3788293647595643,
+      "avg_conf": 0.4629902051112752,
+      "S": 0.8418195698708395
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_01625ab1-9757-4dc4-8da0-a9c946d3b76a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_01625ab1-9757-4dc4-8da0-a9c946d3b76a.png",
+    "instruction": "open d1_one",
+    "bbox_xywh": [
+      886.0,
+      175.0,
+      147.0,
+      209.0
+    ],
+    "method": "gating_pass_vote (S=1.05)",
+    "score": {
+      "C_spatial": 0.5816181241003271,
+      "avg_conf": 0.4668489519628451,
+      "S": 1.0484670760631722
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_09fff6da-5dd8-4288-a0e7-f503273c1908.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_09fff6da-5dd8-4288-a0e7-f503273c1908.png",
+    "instruction": "open the file",
+    "bbox_xywh": [
+      1411.0,
+      804.0,
+      152.0,
+      65.0
+    ],
+    "method": "gating_pass_vote (S=0.87)",
+    "score": {
+      "C_spatial": 0.40551931523193824,
+      "avg_conf": 0.4640047062570285,
+      "S": 0.8695240214889668
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_09fff6da-5dd8-4288-a0e7-f503273c1908.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_09fff6da-5dd8-4288-a0e7-f503273c1908.png",
+    "instruction": "create a new document",
+    "bbox_xywh": [
+      354.0,
+      809.0,
+      241.0,
+      49.0
+    ],
+    "method": "gating_pass_vote (S=0.99)",
+    "score": {
+      "C_spatial": 0.5398699280789911,
+      "avg_conf": 0.4468270688747305,
+      "S": 0.9866969969537216
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_f01bc231-56c4-4aba-9dd4-fd6271be0f8e.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_f01bc231-56c4-4aba-9dd4-fd6271be0f8e.png",
+    "instruction": "show the files in list",
+    "bbox_xywh": [
+      475.0,
+      248.0,
+      247.0,
+      48.0
+    ],
+    "method": "gating_pass_vote (S=0.81)",
+    "score": {
+      "C_spatial": 0.3957382236584922,
+      "avg_conf": 0.4143867593967798,
+      "S": 0.810124983055272
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_bf63137d-d442-4bb9-a145-e07cb48abb64.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_bf63137d-d442-4bb9-a145-e07cb48abb64.png",
+    "instruction": "open a blank document",
+    "bbox_xywh": [
+      307.0,
+      192.0,
+      226.0,
+      340.0
+    ],
+    "method": "gating_pass_vote (S=1.24)",
+    "score": {
+      "C_spatial": 0.806148502365722,
+      "avg_conf": 0.4331473454273938,
+      "S": 1.2392958477931157
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_bf63137d-d442-4bb9-a145-e07cb48abb64.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_bf63137d-d442-4bb9-a145-e07cb48abb64.png",
+    "instruction": "my account",
+    "bbox_xywh": [
+      29.0,
+      109.0,
+      118.0,
+      127.0
+    ],
+    "method": "gating_pass_vote (S=0.83)",
+    "score": {
+      "C_spatial": 0.3830010723240099,
+      "avg_conf": 0.44712731277674655,
+      "S": 0.8301283851007564
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_e73c6749-043f-4a24-8e56-6c829f78255d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_e73c6749-043f-4a24-8e56-6c829f78255d.png",
+    "instruction": "enlarge font size",
+    "bbox_xywh": [
+      513.0,
+      134.0,
+      63.0,
+      57.0
+    ],
+    "method": "gating_pass_vote (S=0.86)",
+    "score": {
+      "C_spatial": 0.3963069561345531,
+      "avg_conf": 0.4683545588988592,
+      "S": 0.8646615150334123
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_e73c6749-043f-4a24-8e56-6c829f78255d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_e73c6749-043f-4a24-8e56-6c829f78255d.png",
+    "instruction": "save file",
+    "bbox_xywh": [
+      438.0,
+      2.0,
+      61.0,
+      61.0
+    ],
+    "method": "gating_pass_vote (S=0.88)",
+    "score": {
+      "C_spatial": 0.4134367266202265,
+      "avg_conf": 0.470893075826073,
+      "S": 0.8843298024462996
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_8fc1a1fb-00b9-4fe6-8fd3-4784ab2274e8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_8fc1a1fb-00b9-4fe6-8fd3-4784ab2274e8.png",
+    "instruction": "add a new pen",
+    "bbox_xywh": [
+      645.0,
+      127.0,
+      94.0,
+      133.0
+    ],
+    "method": "gating_pass_vote (S=0.81)",
+    "score": {
+      "C_spatial": 0.40655332844886816,
+      "avg_conf": 0.40697389003712175,
+      "S": 0.8135272184859899
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_8fc1a1fb-00b9-4fe6-8fd3-4784ab2274e8.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_8fc1a1fb-00b9-4fe6-8fd3-4784ab2274e8.png",
+    "instruction": "choose the red pen",
+    "bbox_xywh": [
+      352.0,
+      133.0,
+      85.0,
+      111.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.46455696311453665,
+      "avg_conf": 0.452785817494044,
+      "S": 0.9173427806085807
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_0205fe68-a787-4651-8cfa-495802d6beb6.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_0205fe68-a787-4651-8cfa-495802d6beb6.png",
+    "instruction": "adjust orientation",
+    "bbox_xywh": [
+      221.0,
+      131.0,
+      126.0,
+      120.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.5436378576588261,
+      "avg_conf": 0.4096060279685837,
+      "S": 0.9532438856274098
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_0205fe68-a787-4651-8cfa-495802d6beb6.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_0205fe68-a787-4651-8cfa-495802d6beb6.png",
+    "instruction": "adjust the left indent",
+    "bbox_xywh": [
+      884.0,
+      175.0,
+      161.0,
+      44.0
+    ],
+    "method": "gating_pass_vote (S=0.78)",
+    "score": {
+      "C_spatial": 0.3426944746163376,
+      "avg_conf": 0.43526427846766835,
+      "S": 0.777958753084006
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_00b0c9f6-b24f-4bff-b492-12117b50e63b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_00b0c9f6-b24f-4bff-b492-12117b50e63b.png",
+    "instruction": "insert a shape",
+    "bbox_xywh": [
+      95.0,
+      256.0,
+      107.0,
+      114.0
+    ],
+    "method": "gating_pass_vote (S=0.67)",
+    "score": {
+      "C_spatial": 0.2776405929758458,
+      "avg_conf": 0.3968716605269214,
+      "S": 0.6745122535027672
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_00b0c9f6-b24f-4bff-b492-12117b50e63b.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_00b0c9f6-b24f-4bff-b492-12117b50e63b.png",
+    "instruction": "add a screenshot",
+    "bbox_xywh": [
+      580.0,
+      258.0,
+      123.0,
+      112.0
+    ],
+    "method": "gating_pass_vote (S=0.75)",
+    "score": {
+      "C_spatial": 0.3439245142424087,
+      "avg_conf": 0.403178053719624,
+      "S": 0.7471025679620327
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_3f805781-f2fe-45dc-8bc5-e62d12f1c359.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_3f805781-f2fe-45dc-8bc5-e62d12f1c359.png",
+    "instruction": "add a sunburst chart",
+    "bbox_xywh": [
+      879.0,
+      797.0,
+      212.0,
+      223.0
+    ],
+    "method": "gating_pass_vote (S=1.12)",
+    "score": {
+      "C_spatial": 0.6900219662239866,
+      "avg_conf": 0.42907979526314477,
+      "S": 1.1191017614871313
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_3f805781-f2fe-45dc-8bc5-e62d12f1c359.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_3f805781-f2fe-45dc-8bc5-e62d12f1c359.png",
+    "instruction": "turn on auto save",
+    "bbox_xywh": [
+      283.0,
+      0.0,
+      98.0,
+      61.0
+    ],
+    "method": "gating_pass_vote (S=0.80)",
+    "score": {
+      "C_spatial": 0.3733576352776073,
+      "avg_conf": 0.42229319744346255,
+      "S": 0.7956508327210698
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_41147eb1-3e27-4aa0-b9f9-71363b9be5c9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_41147eb1-3e27-4aa0-b9f9-71363b9be5c9.png",
+    "instruction": "switch to 20 size font",
+    "bbox_xywh": [
+      407.0,
+      771.0,
+      127.0,
+      41.0
+    ],
+    "method": "gating_pass_vote (S=0.85)",
+    "score": {
+      "C_spatial": 0.34374435743923193,
+      "avg_conf": 0.5074947972728071,
+      "S": 0.851239154712039
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_41147eb1-3e27-4aa0-b9f9-71363b9be5c9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_41147eb1-3e27-4aa0-b9f9-71363b9be5c9.png",
+    "instruction": "share the word file",
+    "bbox_xywh": [
+      1554.0,
+      66.0,
+      142.0,
+      57.0
+    ],
+    "method": "gating_pass_vote (S=1.14)",
+    "score": {
+      "C_spatial": 0.6491525753073001,
+      "avg_conf": 0.49461068337594516,
+      "S": 1.1437632586832454
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_c2ffa4d3-4cf7-4813-986d-d741f1260c4c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_c2ffa4d3-4cf7-4813-986d-d741f1260c4c.png",
+    "instruction": "choose ms pgothic for heading",
+    "bbox_xywh": [
+      205.0,
+      420.0,
+      812.0,
+      55.0
+    ],
+    "method": "gating_pass_vote (S=0.70)",
+    "score": {
+      "C_spatial": 0.3416916925288665,
+      "avg_conf": 0.3606205583344733,
+      "S": 0.7023122508633398
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_c2ffa4d3-4cf7-4813-986d-d741f1260c4c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_c2ffa4d3-4cf7-4813-986d-d741f1260c4c.png",
+    "instruction": "choose apple chancery",
+    "bbox_xywh": [
+      205.0,
+      1342.0,
+      814.0,
+      66.0
+    ],
+    "method": "gating_pass_vote (S=0.86)",
+    "score": {
+      "C_spatial": 0.41543835716008237,
+      "avg_conf": 0.4413750494739594,
+      "S": 0.8568134066340418
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_71e8f8bd-7ff0-4846-ada6-ce337a0f5ebc.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_71e8f8bd-7ff0-4846-ada6-ce337a0f5ebc.png",
+    "instruction": "switch to design",
+    "bbox_xywh": [
+      358.0,
+      65.0,
+      127.0,
+      61.0
+    ],
+    "method": "gating_pass_vote (S=0.86)",
+    "score": {
+      "C_spatial": 0.4299384549060171,
+      "avg_conf": 0.4256278812698174,
+      "S": 0.8555663361758346
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_9eebe928-6d8a-4de5-8212-039d0282b082.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_9eebe928-6d8a-4de5-8212-039d0282b082.png",
+    "instruction": "rotate title box",
+    "bbox_xywh": [
+      1316.0,
+      553.0,
+      69.0,
+      60.0
+    ],
+    "method": "gating_pass_vote (S=1.01)",
+    "score": {
+      "C_spatial": 0.4512367733778288,
+      "avg_conf": 0.5625497857599671,
+      "S": 1.013786559137796
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_b113f651-ec99-4a84-8c15-ff0fc1aee615.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_b113f651-ec99-4a84-8c15-ff0fc1aee615.png",
+    "instruction": "bullets and numbering settings",
+    "bbox_xywh": [
+      1197.0,
+      572.0,
+      901.0,
+      64.0
+    ],
+    "method": "gating_pass_vote (S=0.78)",
+    "score": {
+      "C_spatial": 0.38043229905960896,
+      "avg_conf": 0.39924125471573935,
+      "S": 0.7796735537753483
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_38236247-66f3-4ad3-aeb0-bc4783335a46.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_38236247-66f3-4ad3-aeb0-bc4783335a46.png",
+    "instruction": "sign up for free",
+    "bbox_xywh": [
+      393.0,
+      1087.0,
+      373.0,
+      61.0
+    ],
+    "method": "gating_pass_vote (S=1.26)",
+    "score": {
+      "C_spatial": 0.684418774002566,
+      "avg_conf": 0.5729959443642578,
+      "S": 1.2574147183668238
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_38236247-66f3-4ad3-aeb0-bc4783335a46.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_38236247-66f3-4ad3-aeb0-bc4783335a46.png",
+    "instruction": "sign in",
+    "bbox_xywh": [
+      393.0,
+      1173.0,
+      378.0,
+      61.0
+    ],
+    "method": "gating_pass_vote (S=0.81)",
+    "score": {
+      "C_spatial": 0.3369003089089385,
+      "avg_conf": 0.47521343269368116,
+      "S": 0.8121137416026196
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_18a939a5-8f77-4519-9c7a-d62b11e7b878.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_18a939a5-8f77-4519-9c7a-d62b11e7b878.png",
+    "instruction": "input the email address",
+    "bbox_xywh": [
+      185.0,
+      253.0,
+      783.0,
+      84.0
+    ],
+    "method": "gating_pass_vote (S=1.23)",
+    "score": {
+      "C_spatial": 0.7113380450835842,
+      "avg_conf": 0.517359157175592,
+      "S": 1.2286972022591762
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_ac718327-53b2-49c1-8707-d12220913fc1.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_ac718327-53b2-49c1-8707-d12220913fc1.png",
+    "instruction": "debug",
+    "bbox_xywh": [
+      1511.0,
+      55.0,
+      58.0,
+      58.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.36)",
+    "score": {
+      "C_spatial": 0.026880179682700484,
+      "avg_conf": 0.3379072651953588,
+      "S": 0.36478744487805925
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_45480159-6b1b-4528-9109-dab1905c62b7.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_45480159-6b1b-4528-9109-dab1905c62b7.png",
+    "instruction": "check file colors",
+    "bbox_xywh": [
+      520.0,
+      349.0,
+      184.0,
+      50.0
+    ],
+    "method": "gating_pass_vote (S=0.90)",
+    "score": {
+      "C_spatial": 0.4742720967829281,
+      "avg_conf": 0.42940910708696645,
+      "S": 0.9036812038698945
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_7656e3c5-00b1-4be7-9103-9890b837342f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_7656e3c5-00b1-4be7-9103-9890b837342f.png",
+    "instruction": "check python interpreter",
+    "bbox_xywh": [
+      0.0,
+      424.0,
+      467.0,
+      48.0
+    ],
+    "method": "gating_pass_vote (S=0.66)",
+    "score": {
+      "C_spatial": 0.2522706270797211,
+      "avg_conf": 0.4058205259657528,
+      "S": 0.6580911530454738
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_7656e3c5-00b1-4be7-9103-9890b837342f.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_7656e3c5-00b1-4be7-9103-9890b837342f.png",
+    "instruction": "view plugins",
+    "bbox_xywh": [
+      0.0,
+      282.0,
+      467.0,
+      45.0
+    ],
+    "method": "gating_pass_vote (S=0.74)",
+    "score": {
+      "C_spatial": 0.35771673753431965,
+      "avg_conf": 0.3850575223389688,
+      "S": 0.7427742598732885
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_8c77197f-8be9-485a-bf32-989a8a66fbae.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_8c77197f-8be9-485a-bf32-989a8a66fbae.png",
+    "instruction": "select python interpreter",
+    "bbox_xywh": [
+      748.0,
+      158.0,
+      957.0,
+      51.0
+    ],
+    "method": "gating_pass_vote (S=0.89)",
+    "score": {
+      "C_spatial": 0.461343065019506,
+      "avg_conf": 0.4321870692225239,
+      "S": 0.8935301342420299
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_8c77197f-8be9-485a-bf32-989a8a66fbae.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_8c77197f-8be9-485a-bf32-989a8a66fbae.png",
+    "instruction": "add a new package",
+    "bbox_xywh": [
+      509.0,
+      256.0,
+      50.0,
+      51.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.44303812619228605,
+      "avg_conf": 0.5547317260807819,
+      "S": 0.997769852273068
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_155db9b3-fe88-41cb-81d1-d51f37ba5970.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_155db9b3-fe88-41cb-81d1-d51f37ba5970.png",
+    "instruction": "cancel showing plots in tool windows",
+    "bbox_xywh": [
+      519.0,
+      139.0,
+      400.0,
+      68.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.48395599709895704,
+      "avg_conf": 0.5480937185414214,
+      "S": 1.0320497156403785
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_668258b4-f214-4a57-a500-d03aa94b0e65.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_668258b4-f214-4a57-a500-d03aa94b0e65.png",
+    "instruction": "pause the debugger",
+    "bbox_xywh": [
+      38.0,
+      1009.0,
+      60.0,
+      49.0
+    ],
+    "method": "gating_pass_vote (S=0.75)",
+    "score": {
+      "C_spatial": 0.2851528278397491,
+      "avg_conf": 0.46823041627273004,
+      "S": 0.7533832441124791
+    },
+    "correctness": "wrong"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_668258b4-f214-4a57-a500-d03aa94b0e65.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_668258b4-f214-4a57-a500-d03aa94b0e65.png",
+    "instruction": "minimize the debug panel",
+    "bbox_xywh": [
+      2192.0,
+      779.0,
+      66.0,
+      55.0
+    ],
+    "method": "gating_pass_vote (S=0.87)",
+    "score": {
+      "C_spatial": 0.3629305432128525,
+      "avg_conf": 0.5035753940851144,
+      "S": 0.8665059372979669
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_f656ce46-13af-4cd1-9126-f3c45a4e696c.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_f656ce46-13af-4cd1-9126-f3c45a4e696c.png",
+    "instruction": "select the gzip file format",
+    "bbox_xywh": [
+      78.0,
+      603.0,
+      1046.0,
+      36.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.59)",
+    "score": {
+      "C_spatial": 0.15634465408220052,
+      "avg_conf": 0.43373925698618465,
+      "S": 0.5900839110683852
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_e9abfe29-8665-47e1-ba30-f79a0089278a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_e9abfe29-8665-47e1-ba30-f79a0089278a.png",
+    "instruction": "hide menu icon",
+    "bbox_xywh": [
+      473.0,
+      190.0,
+      252.0,
+      52.0
+    ],
+    "method": "gating_pass_vote (S=1.18)",
+    "score": {
+      "C_spatial": 0.6150055473790429,
+      "avg_conf": 0.5671232527747571,
+      "S": 1.1821288001538
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_e9abfe29-8665-47e1-ba30-f79a0089278a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_e9abfe29-8665-47e1-ba30-f79a0089278a.png",
+    "instruction": "switch to display",
+    "bbox_xywh": [
+      685.0,
+      55.0,
+      111.0,
+      95.0
+    ],
+    "method": "gating_pass_vote (S=1.03)",
+    "score": {
+      "C_spatial": 0.6150574918505732,
+      "avg_conf": 0.4183886003446253,
+      "S": 1.0334460921951987
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_ec085abc-591d-4dcc-830c-defddc958f47.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_ec085abc-591d-4dcc-830c-defddc958f47.png",
+    "instruction": "buy betterdisplay pro",
+    "bbox_xywh": [
+      351.0,
+      571.0,
+      363.0,
+      44.0
+    ],
+    "method": "gating_pass_vote (S=0.98)",
+    "score": {
+      "C_spatial": 0.5508457242428578,
+      "avg_conf": 0.43024612204220203,
+      "S": 0.9810918462850599
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_c69e46cd-d2a9-4dbf-8d0a-4532b750a691.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_c69e46cd-d2a9-4dbf-8d0a-4532b750a691.png",
+    "instruction": "start record",
+    "bbox_xywh": [
+      185.0,
+      1132.0,
+      122.0,
+      112.0
+    ],
+    "method": "gating_pass_vote (S=1.16)",
+    "score": {
+      "C_spatial": 0.6321747371522258,
+      "avg_conf": 0.5267177381260824,
+      "S": 1.158892475278308
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_141ec1f5-ccf8-42f0-8b0b-8aba284ce81a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_141ec1f5-ccf8-42f0-8b0b-8aba284ce81a.png",
+    "instruction": "search in activity monitor",
+    "bbox_xywh": [
+      1381.0,
+      17.0,
+      86.0,
+      77.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.47749024967762294,
+      "avg_conf": 0.520370089298848,
+      "S": 0.9978603389764709
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_141ec1f5-ccf8-42f0-8b0b-8aba284ce81a.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_141ec1f5-ccf8-42f0-8b0b-8aba284ce81a.png",
+    "instruction": "check the google chrome app",
+    "bbox_xywh": [
+      1.0,
+      360.0,
+      1475.0,
+      51.0
+    ],
+    "method": "gating_pass_vote (S=0.64)",
+    "score": {
+      "C_spatial": 0.2620283548367706,
+      "avg_conf": 0.37442976948145024,
+      "S": 0.6364581243182208
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_857c0a8b-5f0f-4d6a-966f-789b594622c9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_857c0a8b-5f0f-4d6a-966f-789b594622c9.png",
+    "instruction": "terminate this process",
+    "bbox_xywh": [
+      555.0,
+      18.0,
+      79.0,
+      67.0
+    ],
+    "method": "gating_pass_vote (S=0.88)",
+    "score": {
+      "C_spatial": 0.4535403666245258,
+      "avg_conf": 0.4254579529792876,
+      "S": 0.8789983196038134
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_857c0a8b-5f0f-4d6a-966f-789b594622c9.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_857c0a8b-5f0f-4d6a-966f-789b594622c9.png",
+    "instruction": "detail information",
+    "bbox_xywh": [
+      640.0,
+      17.0,
+      70.0,
+      70.0
+    ],
+    "method": "gating_pass_vote (S=1.00)",
+    "score": {
+      "C_spatial": 0.5287516453737983,
+      "avg_conf": 0.4736351717692743,
+      "S": 1.0023868171430725
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_dc199113-7c34-4cc2-85cb-e9b552b87b05.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_dc199113-7c34-4cc2-85cb-e9b552b87b05.png",
+    "instruction": "add a shortcut",
+    "bbox_xywh": [
+      1024.0,
+      20.0,
+      70.0,
+      69.0
+    ],
+    "method": "gating_pass_vote (S=0.96)",
+    "score": {
+      "C_spatial": 0.44746249837738095,
+      "avg_conf": 0.5148327799846392,
+      "S": 0.9622952783620201
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_dc199113-7c34-4cc2-85cb-e9b552b87b05.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_dc199113-7c34-4cc2-85cb-e9b552b87b05.png",
+    "instruction": "open gallery",
+    "bbox_xywh": [
+      1.0,
+      100.0,
+      450.0,
+      64.0
+    ],
+    "method": "gating_pass_vote (S=0.96)",
+    "score": {
+      "C_spatial": 0.5360103870429407,
+      "avg_conf": 0.4283121370465963,
+      "S": 0.964322524089537
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_2c2b6cbd-39cf-4bd2-80aa-d953890c21e5.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_2c2b6cbd-39cf-4bd2-80aa-d953890c21e5.png",
+    "instruction": "switch to apps",
+    "bbox_xywh": [
+      1496.0,
+      204.0,
+      257.0,
+      44.0
+    ],
+    "method": "gating_pass_vote (S=0.76)",
+    "score": {
+      "C_spatial": 0.30847605550790996,
+      "avg_conf": 0.4489352917198017,
+      "S": 0.7574113472277116
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_2c2b6cbd-39cf-4bd2-80aa-d953890c21e5.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_2c2b6cbd-39cf-4bd2-80aa-d953890c21e5.png",
+    "instruction": "add a send message action",
+    "bbox_xywh": [
+      1254.0,
+      628.0,
+      491.0,
+      58.0
+    ],
+    "method": "gating_pass_vote (S=0.77)",
+    "score": {
+      "C_spatial": 0.3512566118752242,
+      "avg_conf": 0.41752371372538977,
+      "S": 0.768780325600614
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_64c386c3-9d87-4c91-b712-c1d9ab9216ae.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_64c386c3-9d87-4c91-b712-c1d9ab9216ae.png",
+    "instruction": "run the shortcut",
+    "bbox_xywh": [
+      1144.0,
+      16.0,
+      66.0,
+      71.0
+    ],
+    "method": "gating_pass_vote (S=1.02)",
+    "score": {
+      "C_spatial": 0.4922097704154461,
+      "avg_conf": 0.5239655199795614,
+      "S": 1.0161752903950076
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_64c386c3-9d87-4c91-b712-c1d9ab9216ae.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_64c386c3-9d87-4c91-b712-c1d9ab9216ae.png",
+    "instruction": "share the shortcut",
+    "bbox_xywh": [
+      1037.0,
+      13.0,
+      81.0,
+      79.0
+    ],
+    "method": "gating_pass_vote (S=0.88)",
+    "score": {
+      "C_spatial": 0.3752507188814875,
+      "avg_conf": 0.5007276914179212,
+      "S": 0.8759784102994086
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_b313a50d-ac5e-4189-beb9-3f5ceb67e536.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_b313a50d-ac5e-4189-beb9-3f5ceb67e536.png",
+    "instruction": "open paper named flamingo",
+    "bbox_xywh": [
+      501.0,
+      124.0,
+      212.0,
+      246.0
+    ],
+    "method": "gating_pass_vote (S=1.14)",
+    "score": {
+      "C_spatial": 0.674193637908561,
+      "avg_conf": 0.46637100231687834,
+      "S": 1.1405646402254392
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_b313a50d-ac5e-4189-beb9-3f5ceb67e536.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_b313a50d-ac5e-4189-beb9-3f5ceb67e536.png",
+    "instruction": "search in files",
+    "bbox_xywh": [
+      1426.0,
+      14.0,
+      80.0,
+      69.0
+    ],
+    "method": "gating_pass_vote (S=0.79)",
+    "score": {
+      "C_spatial": 0.31824715083501454,
+      "avg_conf": 0.4676136634637516,
+      "S": 0.7858608142987662
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "macos",
+    "img_filename": "pc_97ce9c11-f20b-4294-982a-f01241c81576.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_97ce9c11-f20b-4294-982a-f01241c81576.png",
+    "instruction": "enlarge the font",
+    "bbox_xywh": [
+      746.0,
+      19.0,
+      62.0,
+      65.0
+    ],
+    "method": "gating_pass_vote (S=1.06)",
+    "score": {
+      "C_spatial": 0.5674171035614063,
+      "avg_conf": 0.49270618542979827,
+      "S": 1.0601232889912047
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "macos",
+    "img_filename": "pc_97ce9c11-f20b-4294-982a-f01241c81576.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_97ce9c11-f20b-4294-982a-f01241c81576.png",
+    "instruction": "search in dictionary",
+    "bbox_xywh": [
+      836.0,
+      19.0,
+      523.0,
+      66.0
+    ],
+    "method": "gating_pass_vote (S=0.62)",
+    "score": {
+      "C_spatial": 0.24676929164928416,
+      "avg_conf": 0.3699030205185916,
+      "S": 0.6166723121678758
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "pc_1inyhi.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_1inyhi.png",
+    "instruction": "open vscode",
+    "bbox_xywh": [
+      12.0,
+      433.0,
+      67.0,
+      64.0
+    ],
+    "method": "gating_pass_vote (S=0.70)",
+    "score": {
+      "C_spatial": 0.3297773758716813,
+      "avg_conf": 0.36812482273344266,
+      "S": 0.6979021986051239
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "pc_8g2jf6.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_8g2jf6.png",
+    "instruction": "adjust font color",
+    "bbox_xywh": [
+      797.0,
+      128.0,
+      50.0,
+      37.0
+    ],
+    "method": "gating_pass_vote (S=0.95)",
+    "score": {
+      "C_spatial": 0.47130156197220735,
+      "avg_conf": 0.48169018606106,
+      "S": 0.9529917480332674
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "pc_b5q1tt.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_b5q1tt.png",
+    "instruction": "view battery usage of last 10 days",
+    "bbox_xywh": [
+      1547.0,
+      358.0,
+      442.0,
+      45.0
+    ],
+    "method": "gating_pass_vote (S=0.73)",
+    "score": {
+      "C_spatial": 0.33138274358691344,
+      "avg_conf": 0.4034079707925021,
+      "S": 0.7347907143794156
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "pc_drcjo3.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_drcjo3.png",
+    "instruction": "download microsoft word from cloud",
+    "bbox_xywh": [
+      2691.0,
+      1569.0,
+      81.0,
+      66.0
+    ],
+    "method": "gating_pass_vote (S=0.92)",
+    "score": {
+      "C_spatial": 0.4473749967824487,
+      "avg_conf": 0.47231869677438176,
+      "S": 0.9196936935568305
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "pc_dyxzuj.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_dyxzuj.png",
+    "instruction": "adjust mouse speed",
+    "bbox_xywh": [
+      1337.0,
+      275.0,
+      306.0,
+      48.0
+    ],
+    "method": "gaussian_crop_s4.5_refine (S=0.57)",
+    "score": {
+      "C_spatial": 0.16961504684906395,
+      "avg_conf": 0.4030166129735316,
+      "S": 0.5726316598225956
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "pc_dzpr8m.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_dzpr8m.png",
+    "instruction": "empty the trash",
+    "bbox_xywh": [
+      1475.0,
+      473.0,
+      96.0,
+      35.0
+    ],
+    "method": "gating_pass_vote (S=0.73)",
+    "score": {
+      "C_spatial": 0.24369802076848646,
+      "avg_conf": 0.48234911526807783,
+      "S": 0.7260471360365643
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "pc_f6eng1.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_f6eng1.png",
+    "instruction": "play dance pop station music",
+    "bbox_xywh": [
+      702.0,
+      857.0,
+      337.0,
+      335.0
+    ],
+    "method": "gating_pass_vote (S=1.35)",
+    "score": {
+      "C_spatial": 0.85397792998199,
+      "avg_conf": 0.4984814387155926,
+      "S": 1.3524593686975825
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "pc_gtda7d.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_gtda7d.png",
+    "instruction": "open google drive",
+    "bbox_xywh": [
+      2425.0,
+      403.0,
+      84.0,
+      79.0
+    ],
+    "method": "gating_pass_vote (S=0.74)",
+    "score": {
+      "C_spatial": 0.30453797303396424,
+      "avg_conf": 0.43240869502458057,
+      "S": 0.7369466680585448
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "pc_j6tmln.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_j6tmln.png",
+    "instruction": "install LXD app",
+    "bbox_xywh": [
+      906.0,
+      181.0,
+      109.0,
+      34.0
+    ],
+    "method": "gating_pass_vote (S=1.22)",
+    "score": {
+      "C_spatial": 0.6645139102864908,
+      "avg_conf": 0.5528306040087626,
+      "S": 1.2173445142952533
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "text",
+    "data_source": "shop",
+    "img_filename": "pc_js1st2.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_js1st2.png",
+    "instruction": "click to restart the computer",
+    "bbox_xywh": [
+      2279.0,
+      397.0,
+      267.0,
+      31.0
+    ],
+    "method": "gating_pass_vote (S=0.70)",
+    "score": {
+      "C_spatial": 0.2318117501701197,
+      "avg_conf": 0.47217726855171205,
+      "S": 0.7039890187218317
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "pc_krzgko.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_krzgko.png",
+    "instruction": "add current webpage to favourites",
+    "bbox_xywh": [
+      2262.0,
+      78.0,
+      30.0,
+      28.0
+    ],
+    "method": "gating_pass_vote (S=0.79)",
+    "score": {
+      "C_spatial": 0.2696364422015262,
+      "avg_conf": 0.5236134832605956,
+      "S": 0.7932499254621219
+    },
+    "correctness": "correct"
+  },
+  {
+    "split": "desktop",
+    "data_type": "icon",
+    "data_source": "shop",
+    "img_filename": "pc_nuyjna.png",
+    "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-v2/screenspotv2_image/pc_nuyjna.png",
+    "instruction": "Add a wired connection device",
+    "bbox_xywh": [
+      1554.0,
+      391.0,
+      48.0,
+      30.0
+    ],
+    "method": "gating_pass_vote (S=1.06)",
+    "score": {
+      "C_spatial": 0.44536363509367244,
+      "avg_conf": 0.6102123489528388,
+      "S": 1.0555759840465113
+    },
+    "correctness": "wrong"
+  }
+]

