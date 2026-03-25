@@ -1,7 +1,10 @@
 <div align="center">
 
 <h1>UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In<br>for GUI Grounding</h1>
-
+<!-- <h1 style="display: inline-flex; align-items: center; gap: 14px; margin-bottom: 12px;">
+    <img src="docs/static/images/logo.png" alt="UI-Zoomer logo" style="height: 56px; width: auto;">
+    <span>UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In<br>for GUI Grounding</span>
+  </h1> -->
 <p>
   Fei Tang<sup>1,*</sup>, Bofan Chen<sup>1,*</sup>, Zhengxi Lu<sup>1</sup>, Tongbo Chen<sup>1</sup><br>
   Songqin Nong<sup>2</sup>, Tao Jiang<sup>2</sup>, Wenhao Xu<sup>2</sup><br>
@@ -134,6 +137,15 @@ UI-Vision focuses on **fine-grained desktop grounding** across **Basic**, **Func
 
 On UI-Vision, the largest gains are observed in the **Spatial** category, indicating that adaptive zoom-in is particularly helpful when fine-grained spatial reasoning is required.
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=ZJU-REAL%2FUI-Zoomer&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=ZJU-REAL/UI-Zoomer&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=ZJU-REAL/UI-Zoomer&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=ZJU-REAL/UI-Zoomer&type=date&legend=top-left" />
+ </picture>
+</a>
 
 
 
@@ -151,3 +163,9 @@ To be added
 ## 📨 Contact Us
 If you have any questions, please contact us by email:
 3230105692@zju.edu.cn
+
+<a href="https://github.com/ZJU-REAL/UI-Zoomer/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ZJU-REAL/UI-Zoomer" />
+</a>
+
+(Made with [contrib.rocks](https://contrib.rocks).)
