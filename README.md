@@ -19,7 +19,7 @@
 
 
 <p align="center">
-<img src="docs/static/images/arxiv_logo.png" alt="arXiv" height="14"> <a href="">Arxiv</a> 
+<img src="docs/static/images/arxiv_logo.png" alt="arXiv" height="14"> <a href="https://arxiv.org/abs/2604.14113">Arxiv</a> 
 | 📑 <a href="https://zju-real.github.io/UI-Zoomer/">WebPage</a> 
 <br>
 </p>
@@ -152,7 +152,15 @@ On UI-Vision, the largest gains are observed in the **Spatial** category, indica
 If you find our work helpful, feel free to give us a cite.
 
 ```
-To be added
+@misc{tang2026uizoomeruncertaintydrivenadaptivezoomin,
+      title={UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding}, 
+      author={Fei Tang and Bofan Chen and Zhengxi Lu and Tongbo Chen and Songqin Nong and Tao Jiang and Wenhao Xu and Weiming Lu and Jun Xiao and Yueting Zhuang and Yongliang Shen},
+      year={2026},
+      eprint={2604.14113},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.14113}, 
+}
 
 ```
 
